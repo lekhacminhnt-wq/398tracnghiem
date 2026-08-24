@@ -1,6 +1,21 @@
-import { google } from "googleapis";
+import { google, sheets_v4 } from "googleapis";
 import { prisma } from "./db";
 import { getTopicsWithStatus, getUserExamProgress } from "./progress";
+
+const REGISTRATION_SHEET = "Đăng ký";
+const SUMMARY_SHEET = "Tổng hợp";
+const REGISTRATION_HEADER = ["Họ tên", "Email", "Cơ quan", "Số điện thoại", "Ngày đăng ký"];
+const SUMMARY_HEADER = [
+  "Họ tên",
+  "Email",
+  "Cơ quan",
+  "Số điện thoại",
+  "Số bài đã đạt",
+  "Tổng số bài",
+  "Đề sát hạch",
+  "Hoàn thành chương trình",
+  "Ngày đăng ký",
+];
 
 function isConfigured() {
   return Boolean(
@@ -22,6 +37,29 @@ function getClient() {
   return google.sheets({ version: "v4", auth });
 }
 
+// Tự tạo tab (và dòng tiêu đề) nếu chưa có — người dùng không cần chuẩn bị sẵn cấu trúc Sheet.
+async function ensureSheetTab(
+  sheets: sheets_v4.Sheets,
+  spreadsheetId: string,
+  title: string,
+  header: string[]
+) {
+  const meta = await sheets.spreadsheets.get({ spreadsheetId });
+  const exists = meta.data.sheets?.some((s) => s.properties?.title === title);
+  if (exists) return;
+
+  await sheets.spreadsheets.batchUpdate({
+    spreadsheetId,
+    requestBody: { requests: [{ addSheet: { properties: { title } } }] },
+  });
+  await sheets.spreadsheets.values.update({
+    spreadsheetId,
+    range: `${title}!A1`,
+    valueInputOption: "USER_ENTERED",
+    requestBody: { values: [header] },
+  });
+}
+
 // Đồng bộ bất đồng bộ, best-effort — không bao giờ được làm hỏng luồng chính của người dùng.
 export async function appendRegistration(user: {
   fullName: string;
@@ -33,20 +71,14 @@ export async function appendRegistration(user: {
   if (!isConfigured()) return;
   try {
     const sheets = getClient();
+    const spreadsheetId = process.env.GOOGLE_SHEET_ID!;
+    await ensureSheetTab(sheets, spreadsheetId, REGISTRATION_SHEET, REGISTRATION_HEADER);
     await sheets.spreadsheets.values.append({
-      spreadsheetId: process.env.GOOGLE_SHEET_ID,
-      range: "Đăng ký!A:E",
+      spreadsheetId,
+      range: `${REGISTRATION_SHEET}!A:E`,
       valueInputOption: "USER_ENTERED",
       requestBody: {
-        values: [
-          [
-            user.fullName,
-            user.email,
-            user.agency,
-            user.phone,
-            user.createdAt.toISOString(),
-          ],
-        ],
+        values: [[user.fullName, user.email, user.agency, user.phone, user.createdAt.toISOString()]],
       },
     });
   } catch (err) {
@@ -58,19 +90,7 @@ export async function syncFullSummary() {
   if (!isConfigured()) return;
   try {
     const users = await prisma.user.findMany({ orderBy: { createdAt: "asc" } });
-    const rows: (string | number)[][] = [
-      [
-        "Họ tên",
-        "Email",
-        "Cơ quan",
-        "Số điện thoại",
-        "Số bài đã đạt",
-        "Tổng số bài",
-        "Đề sát hạch",
-        "Hoàn thành chương trình",
-        "Ngày đăng ký",
-      ],
-    ];
+    const rows: (string | number)[][] = [SUMMARY_HEADER];
     for (const u of users) {
       const topics = await getTopicsWithStatus(u.id);
       const allLessons = topics.flatMap((t) => t.lessons);
@@ -96,9 +116,11 @@ export async function syncFullSummary() {
     }
 
     const sheets = getClient();
+    const spreadsheetId = process.env.GOOGLE_SHEET_ID!;
+    await ensureSheetTab(sheets, spreadsheetId, SUMMARY_SHEET, SUMMARY_HEADER);
     await sheets.spreadsheets.values.update({
-      spreadsheetId: process.env.GOOGLE_SHEET_ID,
-      range: "Tổng hợp!A1",
+      spreadsheetId,
+      range: `${SUMMARY_SHEET}!A1`,
       valueInputOption: "USER_ENTERED",
       requestBody: { values: rows },
     });
