@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+/* ---- Theme tokens: 2 bảng màu, chuyển đổi bằng [data-theme] trên <html> ---- */
+:root,
+[data-theme="do-vang"] {
+  --brand-primary: #c8102e;
+  --brand-primary-dark: #94081f;
+  --brand-primary-soft: #fdecef;
+  --brand-secondary: #ffcd00;
+  --brand-secondary-dark: #caa100;
+  --brand-bg: #fffdf7;
+  --brand-surface: #ffffff;
+  --brand-text: #241a06;
+  --brand-text-muted: #6b5f47;
+  --brand-border: #f0dfae;
+  --brand-ring: #ffcd00;
+}
+
+[data-theme="xanh-trang"] {
+  --brand-primary: #0b3d91;
+  --brand-primary-dark: #072a66;
+  --brand-primary-soft: #eaf1fb;
+  --brand-secondary: #2f6fed;
+  --brand-secondary-dark: #1d4fb8;
+  --brand-bg: #f5f8fc;
+  --brand-surface: #ffffff;
+  --brand-text: #10203d;
+  --brand-text-muted: #52657f;
+  --brand-border: #d8e3f3;
+  --brand-ring: #2f6fed;
+}
+
+@theme inline {
+  --color-brand-primary: var(--brand-primary);
+  --color-brand-primary-dark: var(--brand-primary-dark);
+  --color-brand-primary-soft: var(--brand-primary-soft);
+  --color-brand-secondary: var(--brand-secondary);
+  --color-brand-secondary-dark: var(--brand-secondary-dark);
+  --color-brand-bg: var(--brand-bg);
+  --color-brand-surface: var(--brand-surface);
+  --color-brand-text: var(--brand-text);
+  --color-brand-text-muted: var(--brand-text-muted);
+  --color-brand-border: var(--brand-border);
+  --color-brand-ring: var(--brand-ring);
+  --font-sans: var(--font-be-vietnam);
+}
+
+body {
+  background: var(--brand-bg);
+  color: var(--brand-text);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+/* Hoạ tiết ngôi sao nhỏ dùng trong header, thay cho biểu trưng chính thức */
+.star-accent {
+  color: var(--brand-secondary);
+}

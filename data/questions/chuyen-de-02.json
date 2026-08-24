@@ -1,0 +1,207 @@
+{
+  "topicId": 2,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Chuyển đổi số - khái niệm và lợi ích",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Cách hiểu nào sau đây về chuyển đổi số là đúng nhất?",
+          "options": {
+            "A": "Là việc mua sắm thật nhiều máy tính, thiết bị hiện đại cho cơ quan.",
+            "B": "Là chuyển toàn bộ tài liệu giấy thành file để lưu trong máy.",
+            "C": "Là thay đổi cách làm việc dựa trên dữ liệu và công nghệ, để hiệu quả hơn và phục vụ người dân tốt hơn.",
+            "D": "Là việc chỉ dành riêng cho bộ phận công nghệ thông tin."
+          },
+          "explanation": "Cốt lõi của chuyển đổi số là đổi mới cách làm việc, không phải mua sắm thiết bị hay đơn thuần số hóa giấy tờ.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.01,
+            "relMargin": 0.17
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu KHÔNG phải là một lợi ích trực tiếp của chuyển đổi số đối với công sở?",
+          "options": {
+            "A": "Giảm giấy tờ, tiết kiệm chi phí in ấn và lưu trữ.",
+            "B": "Rút ngắn thời gian xử lý công việc.",
+            "C": "Giúp cán bộ không cần học hỏi hay cập nhật kỹ năng gì thêm.",
+            "D": "Tăng tính minh bạch, phục vụ người dân tốt hơn."
+          },
+          "explanation": "Chuyển đổi số mang lại nhiều lợi ích, nhưng đòi hỏi cán bộ chủ động học hỏi, cập nhật kỹ năng số - không phải ngược lại.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 2.12,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nói chuyển đổi số giúp công việc “minh bạch hơn”?",
+          "options": {
+            "A": "Vì mọi tài liệu đều được công khai cho tất cả mọi người xem.",
+            "B": "Vì các thao tác trên hệ thống đều được ghi lại, có thể tra soát ai xử lý, ở khâu nào, trong bao lâu.",
+            "C": "Vì cán bộ không cần chịu trách nhiệm về công việc nữa.",
+            "D": "Vì mọi quyết định đều do hệ thống tự đưa ra."
+          },
+          "explanation": "Minh bạch đến từ việc hệ thống lưu vết quá trình xử lý, giúp rõ trách nhiệm - không phải công khai mọi tài liệu hay bỏ trách nhiệm con người. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.41,
+            "relMargin": 0.06
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp nói: “Chuyển đổi số chỉ làm khổ thêm, vì phải học cái mới, chứ chẳng lợi ích gì”. Theo Anh/Chị, cách phản hồi phù hợp nhất là:",
+          "options": {
+            "A": "Đồng ý hoàn toàn, vì cái cũ vẫn đang chạy tốt.",
+            "B": "Chia sẻ rằng tuy ban đầu phải làm quen, nhưng chuyển đổi số giúp giảm giấy tờ, rút ngắn quy trình và phục vụ dân tốt hơn - lợi ích lâu dài lớn hơn nhiều so với chút bỡ ngỡ ban đầu.",
+            "C": "Khuyên đồng nghiệp cứ làm theo cách cũ, mặc kệ hệ thống mới.",
+            "D": "Bảo đó là việc của lãnh đạo, mình không cần quan tâm."
+          },
+          "explanation": "Nên ghi nhận khó khăn ban đầu nhưng chỉ rõ lợi ích thiết thực và lâu dài của chuyển đổi số.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.51,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Cơ quan của chị B triển khai dịch vụ công trực tuyến. Một người dân lớn tuổi đến trụ sở, lúng túng chưa biết nộp hồ sơ online. Cách hành xử thể hiện đúng tinh thần và lợi ích của chuyển đổi số là:",
+          "options": {
+            "A": "Yêu cầu người dân về tự làm ở nhà, vì đã có hệ thống online.",
+            "B": "Nhận hồ sơ giấy như cũ cho nhanh, khỏi hướng dẫn.",
+            "C": "Kiên nhẫn hướng dẫn người dân từng bước nộp hồ sơ trực tuyến, để lần sau họ có thể tự làm tại nhà, không phải đi lại.",
+            "D": "Từ chối tiếp nhận vì không thuộc trách nhiệm của mình."
+          },
+          "explanation": "Lợi ích chuyển đổi số chỉ trọn vẹn khi cán bộ đồng hành, hướng dẫn người dân tiếp cận dịch vụ số, không bỏ ai lại phía sau.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.81,
+            "relMargin": 0.53
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Công nghệ số - các công nghệ cốt lõi hiện nay",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Điện toán đám mây” mang lại lợi ích nào sau đây cho công việc?",
+          "options": {
+            "A": "Giúp máy tính chạy nhanh hơn gấp nhiều lần.",
+            "B": "Cho phép lưu trữ và truy cập tài liệu từ nhiều nơi, nhiều thiết bị; nhiều người cùng làm trên một bản mới nhất; an toàn hơn khi máy gặp sự cố.",
+            "C": "Tự động viết toàn bộ báo cáo thay con người.",
+            "D": "Thay thế hoàn toàn nhu cầu kết nối Internet."
+          },
+          "explanation": "Đám mây như “tủ hồ sơ không biên giới” - truy cập mọi nơi, cộng tác chung, an toàn trước sự cố thiết bị.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.22,
+            "relMargin": 0.76
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“Dữ liệu lớn” (Big Data) hỗ trợ cơ quan nhà nước chủ yếu ở điểm nào?",
+          "options": {
+            "A": "Giúp lưu được nhiều file hơn trong máy tính.",
+            "B": "Tự động trả lời mọi câu hỏi của người dân.",
+            "C": "Tập hợp, phân tích các con số để nhìn ra thực trạng (thủ tục ách tắc, nhu cầu người dân...), từ đó ra quyết định dựa trên thực tế.",
+            "D": "Mã hóa dữ liệu để không ai đọc được."
+          },
+          "explanation": "Giá trị của Big Data là biến con số rời rạc thành hiểu biết, hỗ trợ ra quyết định dựa trên thực tế thay vì cảm tính.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.38,
+            "relMargin": 0.7
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Phát biểu nào đúng về vai trò của AI văn phòng trong công việc?",
+          "options": {
+            "A": "AI có thể thay con người chịu trách nhiệm về các quyết định.",
+            "B": "AI là công cụ hỗ trợ (soạn nháp, tóm tắt, gợi ý); kết quả cần được con người kiểm chứng, và con người giữ quyết định cuối cùng.",
+            "C": "AI luôn cho kết quả chính xác tuyệt đối, không cần kiểm tra.",
+            "D": "AI chỉ dùng được cho lãnh đạo, không dành cho cán bộ."
+          },
+          "explanation": "AI gánh phần việc thô, lặp lại; con người kiểm chứng kết quả và chịu trách nhiệm cuối cùng. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.49,
+            "relMargin": 0.11
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A muốn dùng một công cụ AI công cộng trên Internet để tóm tắt nhanh một báo cáo nội bộ chứa số liệu chưa công bố. Cách làm đúng là:",
+          "options": {
+            "A": "Cứ dán toàn bộ báo cáo vào để AI tóm tắt cho nhanh.",
+            "B": "Dán vào nhưng nhớ xóa lịch sử sau khi xong.",
+            "C": "Không đưa nội dung nội bộ, chưa công bố lên công cụ AI công cộng; chỉ dùng AI cho nội dung chung hoặc dùng công cụ được cơ quan cho phép.",
+            "D": "Nhờ người khác dán hộ để tránh trách nhiệm."
+          },
+          "explanation": "Tuyệt đối không đưa dữ liệu nội bộ, chưa công bố lên công cụ AI công cộng, kể cả khi đã xóa lịch sử.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.58,
+            "relMargin": 0.52
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Phòng của chị B thường xuyên gửi qua lại nhiều phiên bản của cùng một dự thảo qua email, dẫn đến nhầm lẫn bản mới - bản cũ. Công nghệ nào giúp giải quyết tình trạng này tốt nhất?",
+          "options": {
+            "A": "Dữ liệu lớn để phân tích các phiên bản.",
+            "B": "Điện toán đám mây - cả nhóm cùng làm trên một tài liệu chung, luôn là bản mới nhất, có lưu lịch sử chỉnh sửa.",
+            "C": "In tất cả các bản ra giấy để đối chiếu.",
+            "D": "Gửi thêm nhiều email hơn để nhắc nhau."
+          },
+          "explanation": "Lưu trữ và cộng tác trên đám mây giúp cả nhóm làm chung một bản duy nhất, tránh nhầm lẫn phiên bản.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.96,
+            "relMargin": 0.72
+          }
+        }
+      ]
+    }
+  ]
+}

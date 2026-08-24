@@ -1,0 +1,510 @@
+{
+  "topicId": 4,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Kết nối thiết bị và Internet an toàn mọi lúc, mọi nơi",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi nhìn thấy một danh sách Wi-Fi ở nơi công cộng, việc đầu tiên nên làm là gì?",
+          "options": {
+            "A": "Chọn ngay mạng có sóng khỏe nhất để kết nối cho nhanh.",
+            "B": "Kiểm tra kỹ tên mạng, ưu tiên mạng chính thức có mật khẩu; nếu thấy tên lạ gần giống thì hỏi lại người phụ trách.",
+            "C": "Chọn mạng nào không cần mật khẩu để khỏi mất công hỏi.",
+            "D": "Kết nối thử lần lượt từng mạng đến khi vào được Internet."
+          },
+          "explanation": "Kẻ gian thường lập mạng giả có tên gần giống mạng thật để đánh cắp thông tin; luôn xác thực tên mạng trước khi kết nối.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1,
+            "relMargin": 0.58
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao không nên đăng nhập email công vụ hay mở tài liệu nội bộ khi đang dùng Wi-Fi công cộng?",
+          "options": {
+            "A": "Vì tốc độ mạng công cộng thường rất chậm.",
+            "B": "Vì sẽ tốn nhiều dung lượng của nhà mạng.",
+            "C": "Vì dữ liệu có thể bị theo dõi, đánh cắp trên mạng công cộng không an toàn, gây lộ thông tin của cơ quan.",
+            "D": "Vì email công vụ không hoạt động được trên Wi-Fi công cộng."
+          },
+          "explanation": "Mạng công cộng tiềm ẩn nguy cơ bị nghe lén, tấn công “người trung gian”; không nên dùng cho dữ liệu nhạy cảm.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.54,
+            "relMargin": 0.15
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Chuẩn mã hóa nào nên được bật cho mạng Wi-Fi của cơ quan hoặc gia đình để tăng an toàn?",
+          "options": {
+            "A": "Để mạng mở, không đặt mật khẩu cho tiện kết nối.",
+            "B": "WPA2 hoặc WPA3, kèm mật khẩu mạnh, không dùng mật khẩu mặc định.",
+            "C": "Chỉ cần đổi tên mạng là đủ an toàn.",
+            "D": "Bật chế độ ẩn mạng là không cần mật khẩu nữa."
+          },
+          "explanation": "WPA2/WPA3 là chuẩn mã hóa phổ biến giúp bảo vệ đường truyền; mật khẩu mặc định của nhà sản xuất rất dễ bị dò. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.48,
+            "relMargin": 0.83
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị đang đi cơ sở, cần gửi gấp một báo cáo nhưng sóng 4G yếu, xung quanh chỉ có Wi-Fi công cộng không rõ nguồn gốc. Cách xử lý an toàn nhất là gì?",
+          "options": {
+            "A": "Kết nối tạm vào Wi-Fi công cộng để gửi cho kịp, xong rồi thoát ra ngay.",
+            "B": "Nhờ một người lạ ngồi cạnh cho dùng nhờ hotspot của họ.",
+            "C": "Bật điểm phát sóng (hotspot) trên điện thoại của mình, đặt mật khẩu, rồi cho laptop kết nối qua đó để gửi báo cáo.",
+            "D": "Tắt máy chờ về cơ quan có mạng an toàn rồi mới gửi, dù trễ hạn."
+          },
+          "explanation": "Hotspot từ chính điện thoại tạo ra kết nối do mình kiểm soát, an toàn hơn Wi-Fi lạ; vẫn kịp tiến độ mà không đánh đổi an toàn dữ liệu.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.01,
+            "relMargin": 0.4
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi truy cập một trang dịch vụ công để tra cứu, Anh/Chị thấy trang có biểu tượng ổ khóa và “https”. Nhận định nào đúng?",
+          "options": {
+            "A": "Có ổ khóa “https” nghĩa là trang chắc chắn an toàn và chính thống, cứ yên tâm nhập mọi thông tin.",
+            "B": "Ổ khóa “https” cho biết đường truyền được mã hóa, nhưng vẫn phải đọc kỹ địa chỉ trang để chắc chắn đây là trang chính thống, tránh trang giả mạo.",
+            "C": "Ổ khóa “https” không có ý nghĩa gì, có thể bỏ qua.",
+            "D": "Chỉ trang nào không có ổ khóa mới là trang của cơ quan nhà nước."
+          },
+          "explanation": "HTTPS chỉ bảo đảm dữ liệu được mã hóa trên đường truyền; kẻ gian vẫn có thể gắn HTTPS cho trang lừa đảo, nên cần kiểm tra kỹ tên miền.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.07,
+            "relMargin": 0.44
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Điện thoại thông minh: trợ thủ đắc lực cho công việc",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Tính năng nào sau đây KHÔNG có sẵn trên hầu hết điện thoại thông minh hiện đại?",
+          "options": {
+            "A": "Gửi và nhận email công vụ.",
+            "B": "Chỉnh sửa văn bản Word, Excel.",
+            "C": "Tham gia họp video trực tuyến.",
+            "D": "Soạn thảo văn bản bằng máy đánh chữ tích hợp sẵn trong máy."
+          },
+          "explanation": "Điện thoại thông minh làm được email, chỉnh sửa văn bản, họp trực tuyến; “máy đánh chữ tích hợp” là tính năng không có thật.",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.66,
+            "relMargin": 0.26
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Để tập trung trong một cuộc họp quan trọng mà không bị chuông và thông báo làm phiền, chức năng nhanh nhất nên bật là gì?",
+          "options": {
+            "A": "Tắt nguồn điện thoại cho đến khi họp xong.",
+            "B": "Bật chế độ “Không làm phiền” (Do Not Disturb).",
+            "C": "Giảm độ sáng màn hình xuống mức thấp nhất.",
+            "D": "Tháo thẻ SIM ra khỏi máy."
+          },
+          "explanation": "Chế độ “Không làm phiền” tạm ẩn chuông và thông báo mà vẫn giữ máy hoạt động bình thường, tiện hơn việc tắt nguồn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.22,
+            "relMargin": 0.38
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Trợ lý giọng nói trên điện thoại có thể hỗ trợ công việc như thế nào?",
+          "options": {
+            "A": "Bảo đảm 100% điện thoại không bao giờ bị tấn công.",
+            "B": "Đặt lịch, nhắc việc, gửi tin nhắn hoặc gọi điện theo lệnh nói khi đang bận tay.",
+            "C": "Tự động xử lý toàn bộ hồ sơ thay cho cán bộ mà không cần kiểm tra.",
+            "D": "Thay thế hoàn toàn vai trò phán đoán của con người."
+          },
+          "explanation": "Trợ lý giọng nói giúp thao tác rảnh tay (đặt lịch, nhắn tin, gọi điện); nó là công cụ hỗ trợ, không thay con người chịu trách nhiệm. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.94,
+            "relMargin": 0.27
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Cơ quan giao Anh/Chị số hóa một tập tài liệu nội bộ; điện thoại cá nhân của Anh/Chị đang bật tự động đồng bộ ảnh lên đám mây cá nhân. Cách làm đúng là gì?",
+          "options": {
+            "A": "Dùng điện thoại cá nhân chụp cho nhanh, ảnh tự đồng bộ lên đám mây cá nhân cũng không sao vì chỉ mình biết tài khoản.",
+            "B": "Chụp bằng điện thoại cá nhân rồi sẽ xóa dần khi có thời gian rảnh.",
+            "C": "Sử dụng thiết bị, tài khoản do cơ quan trang bị hoặc cho phép để chụp, quét và lưu trữ; không dùng thiết bị, tài khoản cá nhân với tài liệu nội bộ.",
+            "D": "Nhờ người ngoài cơ quan có máy quét tốt quét giúp."
+          },
+          "explanation": ". Thiết bị, tài khoản cá nhân thường gắn các dịch vụ tự động đồng bộ nằm ngoài kiểm soát của cơ quan, tiềm ẩn nguy cơ rò rỉ; tài liệu nội bộ phải được chụp, quét, lưu trữ bằng thiết bị và tài khoản được cơ quan trang bị hoặc cho phép.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.72,
+            "relMargin": 0.74
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận được một đường link mời cài một ứng dụng “hỗ trợ công việc” gửi qua tin nhắn, ứng dụng này không có trên kho chính thống. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Cài ngay vì ứng dụng được giới thiệu là hỗ trợ công việc.",
+            "B": "Cài thử rồi nếu thấy lạ thì gỡ ra sau.",
+            "C": "Không cài ứng dụng lạ ngoài kho chính thống; chỉ tải ứng dụng từ Google Play hoặc App Store để tránh phần mềm độc hại.",
+            "D": "Nhờ đồng nghiệp cài hộ lên máy mình để chia sẻ rủi ro."
+          },
+          "explanation": "Ứng dụng lạ cài qua link ngoài kho chính thống tiềm ẩn mã độc; chỉ nên cài từ kho ứng dụng chính thống để bảo vệ thiết bị và dữ liệu.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.52,
+            "relMargin": 0.73
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Tận dụng tối đa laptop và máy tính bảng trong công việc",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Tổ hợp phím Windows + P trên laptop Windows dùng để làm gì?",
+          "options": {
+            "A": "Mở bảng chọn chế độ trình chiếu (Duplicate/Extend màn hình).",
+            "B": "Tắt máy tính ngay lập tức.",
+            "C": "Chụp ảnh màn hình hiện tại.",
+            "D": "Mở cửa sổ cài đặt máy in."
+          },
+          "explanation": "Windows + P mở nhanh bảng chọn chế độ hiển thị ra màn hình ngoài/máy chiếu (Duplicate hoặc Extend).",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.33,
+            "relMargin": 0.62
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi kết nối laptop với máy chiếu trong phòng họp, chế độ Duplicate (nhân bản) màn hình có nghĩa là gì?",
+          "options": {
+            "A": "Chỉ hiển thị nội dung trên máy chiếu, màn hình laptop tắt hẳn.",
+            "B": "Hiển thị giống hệt nhau trên cả màn hình laptop và máy chiếu.",
+            "C": "Mở rộng, biến máy chiếu thành màn hình thứ hai để hiện thêm nội dung khác.",
+            "D": "Phóng to nội dung laptop gấp đôi trên máy chiếu."
+          },
+          "explanation": "Duplicate cho máy chiếu hiện y hệt màn hình laptop; còn Extend mới là mở rộng thành màn hình thứ hai.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.47,
+            "relMargin": 0.42
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Để chuyển nhanh qua lại giữa các cửa sổ đang mở trên laptop Windows, nên dùng tổ hợp phím nào?",
+          "options": {
+            "A": "Ctrl + S.",
+            "B": "Alt + Tab.",
+            "C": "Ctrl + P.",
+            "D": "Windows + L."
+          },
+          "explanation": "Alt + Tab giúp chuyển nhanh giữa các cửa sổ; rất hữu ích khi mở nhiều tài liệu cùng lúc. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.41,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị đang soạn dở một báo cáo trên laptop ở cơ quan và muốn tiếp tục xem, chỉnh trên máy tính bảng khi ra ngoài. Giải pháp thuận tiện và đúng quy định nhất là gì?",
+          "options": {
+            "A": "Gửi email file báo cáo đó cho chính mình rồi tải về máy tính bảng.",
+            "B": "Chép file vào USB cá nhân rồi cắm sang máy tính bảng.",
+            "C": "Lưu file vào kho lưu trữ đám mây được cơ quan cấp phép để tự đồng bộ và mở trên máy tính bảng.",
+            "D": "Chụp ảnh màn hình laptop rồi mang máy tính bảng ra xem ảnh."
+          },
+          "explanation": "Lưu trên kho đám mây được cơ quan cấp phép giúp đồng bộ liền mạch, đúng quy định; tránh USB cá nhân hay kênh ngoài dễ làm lộ, thất lạc dữ liệu.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.2,
+            "relMargin": 0.69
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chiếc laptop công vụ của Anh/Chị có lưu nhiều tài liệu của cơ quan. Cách bảo vệ dữ liệu phù hợp nhất là gì?",
+          "options": {
+            "A": "Không cần đặt mật khẩu cho nhanh, vì máy luôn để trên bàn làm việc.",
+            "B": "Đặt khóa máy bằng mật khẩu mạnh, bật tự động khóa màn hình; nếu lưu dữ liệu quan trọng thì hỏi bộ phận công nghệ thông tin về mã hóa ổ đĩa.",
+            "C": "Dán mật khẩu lên máy để khỏi quên.",
+            "D": "Sao chép toàn bộ tài liệu cơ quan sang tài khoản cá nhân để dự phòng."
+          },
+          "explanation": "Khóa máy bằng mật khẩu mạnh và mã hóa ổ đĩa giúp bảo vệ dữ liệu nếu máy thất lạc; tuyệt đối không đưa tài liệu cơ quan sang tài khoản cá nhân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.46,
+            "relMargin": 0.09
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Kết nối và sử dụng hiệu quả thiết bị ngoại vi (máy in, máy quét...)",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi muốn ghép nối chuột không dây Bluetooth với laptop, bước đầu tiên thường là gì?",
+          "options": {
+            "A": "Bật chế độ cho phép kết nối (pairing) trên chuột.",
+            "B": "Khởi động lại laptop.",
+            "C": "Đặt chuột sát vào bàn phím laptop.",
+            "D": "Tắt Wi-Fi của laptop để tránh nhiễu."
+          },
+          "explanation": "Phải bật chế độ ghép đôi (pairing) trên thiết bị trước, để máy tính dò tìm và kết nối được.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 2.12,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Sau khi chép xong dữ liệu vào USB, thao tác đúng trước khi rút USB ra là gì?",
+          "options": {
+            "A": "Rút ra ngay lập tức cho nhanh, không cần thao tác gì thêm.",
+            "B": "Nhấn “Safely Remove” (gỡ thiết bị an toàn) hoặc Eject rồi mới rút USB ra.",
+            "C": "Tắt nguồn máy tính rồi mới rút USB.",
+            "D": "Rút ra rồi cắm lại vài lần cho chắc."
+          },
+          "explanation": "Nhấn “Safely Remove” trước khi rút giúp tránh hỏng hoặc mất dữ liệu đột ngột trên USB.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.43,
+            "relMargin": 0.81
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Thiết bị nào sau đây KHÔNG dùng kết nối Bluetooth?",
+          "options": {
+            "A": "Máy in văn phòng kiểu cũ dùng cáp.",
+            "B": "Tai nghe không dây.",
+            "C": "Bàn phím không dây.",
+            "D": "Loa di động (loa Bluetooth)."
+          },
+          "explanation": "Máy in kiểu cũ dùng cáp nối có dây; tai nghe, bàn phím không dây và loa di động đều dùng Bluetooth. Phần tình huống công vụ",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.73,
+            "relMargin": 0.06
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần quét gấp một công văn giấy để gửi đi, nhưng máy quét của cơ quan đang hỏng. Giải pháp hiệu quả nhất là gì?",
+          "options": {
+            "A": "Dùng điện thoại chụp ảnh văn bản rồi dùng ứng dụng quét (scan) để xử lý thành tệp PDF gọn gàng.",
+            "B": "Đem văn bản đi photocopy ra nhiều bản để phát.",
+            "C": "Gõ lại toàn bộ nội dung văn bản trên máy tính.",
+            "D": "Chờ đến khi máy quét được sửa xong rồi mới gửi, dù trễ."
+          },
+          "explanation": "Điện thoại kèm ứng dụng quét có thể thay máy quét, cho ra tệp gần tương đương; giúp công việc không bị gián đoạn.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.25,
+            "relMargin": 0.73
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị vừa in một văn bản quan trọng tại máy in dùng chung của cơ quan. Cách làm đúng để tránh lộ lọt thông tin là gì?",
+          "options": {
+            "A": "Cứ để giấy ở khay máy in, lúc nào rảnh quay lại lấy cũng được.",
+            "B": "Nhờ người khác đi ngang qua lấy hộ rồi để lên bàn mình.",
+            "C": "Đứng chờ lấy bản in ngay tại máy, không để tài liệu quan trọng nằm lại ở khay máy in chung.",
+            "D": "In thêm vài bản dự phòng để ở khay cho tiện dùng sau."
+          },
+          "explanation": "Tài liệu để quên ở khay máy in chung dễ bị người khác nhìn thấy hoặc cầm nhầm; nên lấy ngay để tránh lộ lọt thông tin.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.26,
+            "relMargin": 0.41
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Quản lý dữ liệu và xử lý sự cố thiết bị số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Với một tài liệu đang làm việc (giáo trình, dự thảo, báo cáo), cách đặt tên file nào sau đây là phù hợp và dễ tìm lại nhất?",
+          "options": {
+            "A": "Tài liệu mới 1.docx",
+            "B": "Bản cuối cùng.docx",
+            "C": "2026-06-11\\_SoNoiVu\\_TaiLieuDaoTaoAI\\_v1.0.docx",
+            "D": "final-final-moi.docx"
+          },
+          "explanation": "Tài liệu làm việc nên đặt theo cấu trúc: ngày tháng \\_ mã cơ quan/dự án \\_ nội dung tóm tắt \\_ phiên bản; tên chung chung như “Tài liệu mới 1” rất khó tìm lại.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.25,
+            "relMargin": 0.6
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Một văn bản hành chính đã ban hành (tệp PDF quét hoặc ký số) nên được đặt tên theo cấu trúc nào?",
+          "options": {
+            "A": "Theo loại văn bản, số và ký hiệu, ngày ban hành, rồi trích yếu nội dung - ví dụ: NghiDinh\\_30-2020-ND-CP\\_05-03-2020\\_CongTacVanThu.pdf.",
+            "B": "Đặt tên ngẫu nhiên cho nhanh, ví dụ: vanban1.pdf.",
+            "C": "Chỉ cần ghi ngày tải về máy là đủ.",
+            "D": "Đặt tên càng dài, liệt kê càng nhiều thông tin càng tốt."
+          },
+          "explanation": "Văn bản đã ban hành nên đặt theo: loại văn bản \\_ số và ký hiệu \\_ ngày ban hành \\_ trích yếu, giúp tra cứu lại văn bản chính thức nhanh và chính xác.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.77,
+            "relMargin": 0.68
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Quy tắc sao lưu dữ liệu 3-2-1 được hiểu là gì?",
+          "options": {
+            "A": "3 ngày sao lưu 2 lần, 1 lần kiểm tra.",
+            "B": "3 bản sao dữ liệu, lưu trên 2 loại thiết bị khác nhau, 1 bản đặt ở nơi khác.",
+            "C": "3 thư mục, 2 ổ đĩa, 1 mật khẩu.",
+            "D": "3 tháng sao lưu một lần, dùng 2 USB và 1 ổ cứng."
+          },
+          "explanation": "3-2-1 nghĩa là 3 bản sao, trên 2 loại phương tiện khác nhau, trong đó 1 bản để ở nơi khác (off-site) để phòng rủi ro. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.89,
+            "relMargin": 0.81
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đang giữa cuộc họp trực tuyến thì máy tính của Anh/Chị đột ngột treo cứng. Bước đầu tiên nên thử là gì?",
+          "options": {
+            "A": "Rút nguồn điện ngay lập tức cho máy tắt hẳn.",
+            "B": "Bình tĩnh khởi động lại máy (nhấn giữ nút nguồn khoảng 10 giây nếu cần).",
+            "C": "Tháo rời phần cứng máy ra để kiểm tra.",
+            "D": "Đập nhẹ vào máy cho “chạy” lại."
+          },
+          "explanation": "Khởi động lại máy là bước xử lý đơn giản và hiệu quả nhất với phần lớn sự cố treo máy; rút nguồn hay tháo máy có thể gây hỏng dữ liệu, hư phần cứng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.23,
+            "relMargin": 0.29
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị nghi ngờ máy tính công vụ của mình bị nhiễm mã độc. Cách xử lý đúng đắn nhất là gì?",
+          "options": {
+            "A": "Cứ tiếp tục dùng bình thường, khi nào hỏng hẳn mới tính.",
+            "B": "Tự tải một phần mềm lạ trên mạng về để diệt mã độc.",
+            "C": "Lập tức ngắt kết nối mạng để cô lập, rồi báo ngay cho bộ phận công nghệ thông tin xử lý.",
+            "D": "Trả tiền chuộc ngay nếu bị mã độc khóa tệp, để lấy lại dữ liệu cho nhanh."
+          },
+          "explanation": "Khi nghi nhiễm mã độc, cần ngắt mạng để cô lập và báo bộ phận công nghệ thông tin; nếu bị khóa tệp đòi tiền chuộc thì khôi phục từ bản sao lưu, không trả tiền chuộc.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 2.14,
+            "relMargin": 0.22
+          }
+        }
+      ]
+    }
+  ]
+}

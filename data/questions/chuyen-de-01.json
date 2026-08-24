@@ -1,0 +1,813 @@
+{
+  "topicId": 1,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Khái niệm và tầm quan trọng của Chuyển đổi số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là điểm khác biệt cốt lõi giữa “chuyển đổi số” và “tin học hóa”?",
+          "options": {
+            "A": "Không khác nhau, đều là ứng dụng máy tính vào công việc.",
+            "B": "Chuyển đổi số chỉ dùng nhiều thiết bị công nghệ hơn tin học hóa.",
+            "C": "Chuyển đổi số thay đổi quy trình, mô hình làm việc dựa trên công nghệ số; còn tin học hóa chỉ làm nhanh hơn quy trình vốn có.",
+            "D": "Chuyển đổi số chỉ áp dụng cho doanh nghiệp tư nhân, không dùng cho cơ quan nhà nước."
+          },
+          "explanation": "Tin học hóa giữ nguyên quy trình cũ và làm nhanh hơn; chuyển đổi số thay đổi chính cách làm để tạo giá trị mới.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.69,
+            "relMargin": 0.59
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Ví dụ nào sau đây thể hiện rõ nhất bản chất của chuyển đổi số?",
+          "options": {
+            "A": "Quét một tập công văn giấy thành tệp PDF để lưu trữ.",
+            "B": "Trang bị thêm máy tính mới cho cán bộ trong phòng.",
+            "C": "Cổng dịch vụ công trực tuyến cho phép người dân nộp hồ sơ mọi lúc, mọi nơi mà không cần đến trực tiếp trụ sở.",
+            "D": "Gửi công văn qua email thay cho chuyển bản giấy."
+          },
+          "explanation": "Đáp án A là số hóa, B là trang bị thiết bị, D là tin học hóa; chỉ C thay đổi cả mô hình phục vụ người dân.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.52,
+            "relMargin": 0.27
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao chuyển đổi số được coi là việc của mỗi cán bộ, công chức, viên chức?",
+          "options": {
+            "A": "Vì mỗi người là một mắt xích của hệ thống dữ liệu dùng chung; thao tác đúng của từng người quyết định chất lượng của cả nền hành chính số.",
+            "B": "Vì đây là trào lưu, cơ quan nào cũng làm cho có phong trào.",
+            "C": "Vì chỉ nhằm tiết kiệm ngân sách in ấn tài liệu.",
+            "D": "Vì đó là việc riêng của bộ phận công nghệ thông tin."
+          },
+          "explanation": "Hệ thống dùng chung chỉ vận hành tốt khi từng người nhập đúng, cập nhật kịp thời và đúng quy trình. Phần tình huống công vụ",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.33,
+            "relMargin": 0.29
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A được giao soạn một báo cáo tổng hợp. Để cho nhanh, anh định dán toàn bộ danh sách thông tin cá nhân của công dân trong hồ sơ vào một công cụ AI công cộng trên Internet để nhờ tóm tắt. Theo Anh/Chị, cách làm này:",
+          "options": {
+            "A": "Hoàn toàn ổn, vì AI giúp làm nhanh hơn nên cứ tận dụng tối đa.",
+            "B": "Không nên, vì dữ liệu cá nhân và thông tin nội bộ có thể bị lưu lại ngoài tầm kiểm soát; chỉ nên dùng AI cho nội dung chung, không nhập thông tin mật hoặc dữ liệu công dân.",
+            "C": "Tùy ý, miễn là báo cáo hoàn thành đúng hạn.",
+            "D": "Nên làm, nhưng nhớ xóa lịch sử trò chuyện sau khi xong là an toàn."
+          },
+          "explanation": "Nguyên tắc an toàn thông tin: không đưa dữ liệu mật, nội bộ hoặc thông tin cá nhân của công dân lên công cụ AI công cộng, kể cả khi đã xóa lịch sử.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.06,
+            "relMargin": 0.6
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Cơ quan đã triển khai hệ thống quản lý văn bản điện tử, nhưng chị B vẫn quen in tài liệu ra giấy rồi trình ký tay như trước. Cách làm phù hợp với tinh thần chuyển đổi số là:",
+          "options": {
+            "A": "Cứ giữ thói quen cũ cho chắc, vì hệ thống mới có thể trục trặc.",
+            "B": "Chờ khi nào mọi người dùng thành thạo hết rồi mình mới bắt đầu dùng.",
+            "C": "Chủ động làm quen và xử lý văn bản trên hệ thống, mạnh dạn hỏi đồng nghiệp hoặc bộ phận hỗ trợ khi vướng, để dần thay đổi thói quen làm việc.",
+            "D": "Chỉ dùng hệ thống khi có lãnh đạo nhắc nhở trực tiếp."
+          },
+          "explanation": "Chuyển đổi số đòi hỏi thay đổi thói quen làm việc; chủ động dùng hệ thống mới và sẵn sàng học hỏi là cách hưởng ứng đúng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.86,
+            "relMargin": 0.67
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Các công nghệ số cốt lõi trong chuyển đổi số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Công nghệ nào sau đây không được xem là một trong các công nghệ số cốt lõi của chuyển đổi số?",
+          "options": {
+            "A": "Trí tuệ nhân tạo (AI).",
+            "B": "Chuỗi khối (Blockchain).",
+            "C": "Máy in 3D.",
+            "D": "Internet vạn vật (IoT)."
+          },
+          "explanation": "Máy in 3D là công nghệ chế tạo, không nằm trong nhóm công nghệ số cốt lõi (AI, IoT, Big Data, Cloud, Blockchain).",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1,
+            "relMargin": 0.42
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Internet vạn vật (IoT) được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Mạng lưới các thiết bị, cảm biến kết nối Internet để thu thập và trao đổi dữ liệu từ thực tế.",
+            "B": "Một dạng trí tuệ nhân tạo chuyên về mạng Internet.",
+            "C": "Dịch vụ lưu trữ dữ liệu trực tuyến trên đám mây.",
+            "D": "Một trang web kết nối mọi người trên toàn thế giới."
+          },
+          "explanation": "IoT là “các giác quan số” - cảm biến, thiết bị thu thập dữ liệu thời gian thực gửi về hệ thống.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.74,
+            "relMargin": 0.9
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Trong nhóm công nghệ số cốt lõi, điện toán đám mây (Cloud) giữ vai trò chính nào?",
+          "options": {
+            "A": "Phân tích dữ liệu và đưa ra dự báo, gợi ý thông minh.",
+            "B": "Cung cấp hạ tầng lưu trữ và sức mạnh tính toán linh hoạt, dùng đến đâu trả chi phí đến đó, làm nền tảng cho các công nghệ khác vận hành.",
+            "C": "Trực tiếp thu thập dữ liệu từ môi trường xung quanh qua các cảm biến.",
+            "D": "Ghi lại thông tin theo cách bảo đảm không thể tự ý sửa đổi."
+          },
+          "explanation": "Điện toán đám mây cung cấp hạ tầng lưu trữ và sức mạnh tính toán linh hoạt để các công nghệ khác vận hành trên đó - đây chính là vai trò mà hình ảnh liên tưởng trong bài giúp chúng ta dễ hình dung. Các vai trò còn lại lần lượt thuộc về trí tuệ nhân tạo (A), internet vạn vật (C) và chuỗi khối (D) Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 3.62,
+            "relMargin": 0.83
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Cơ quan của chị C dự định lắp cảm biến đo điện năng tại trụ sở để theo dõi mức tiêu thụ điện theo thời gian thực, từ đó tiết kiệm chi phí. Giải pháp này ứng dụng chủ yếu công nghệ nào?",
+          "options": {
+            "A": "Blockchain (chuỗi khối).",
+            "B": "Internet vạn vật (IoT), kết hợp dữ liệu lớn để phân tích.",
+            "C": "Điện toán đám mây đơn thuần.",
+            "D": "Không liên quan đến công nghệ số nào."
+          },
+          "explanation": "Cảm biến thu thập dữ liệu thực tế chính là IoT; số liệu thu được có thể đưa vào Big Data để phân tích, tối ưu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.26,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh D nghe nói AI rất mạnh, nên định để AI tự động ban hành luôn các quyết định hành chính thay mình cho nhanh. Theo Anh/Chị, quan điểm đúng là:",
+          "options": {
+            "A": "Hợp lý, vì AI thông minh hơn con người nên cứ giao toàn bộ cho AI.",
+            "B": "Không nên; AI chỉ là công cụ hỗ trợ (soạn nháp, tóm tắt, gợi ý), còn quyết định và trách nhiệm cuối cùng vẫn thuộc về cán bộ, công chức theo đúng thẩm quyền.",
+            "C": "Tùy ý, miễn là xong việc nhanh.",
+            "D": "Nên giao hết cho AI để khỏi chịu trách nhiệm."
+          },
+          "explanation": "Công nghệ là công cụ; con người vẫn giữ vai trò quyết định và chịu trách nhiệm theo quy định.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.42,
+            "relMargin": 0.42
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Chính phủ số, kinh tế số và xã hội số - ba trụ cột cốt lõi của Chuyển đổi số quốc gia",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo Luật Chuyển đổi số và Chiến lược quốc gia về chuyển đổi số, ba trụ cột cơ bản của chuyển đổi số là gì?",
+          "options": {
+            "A": "Phần cứng số, phần mềm số và dữ liệu số.",
+            "B": "Chính phủ số, kinh tế số và xã hội số.",
+            "C": "Trí tuệ nhân tạo, dữ liệu lớn và điện toán đám mây.",
+            "D": "Chính phủ số, doanh nghiệp số và công dân số."
+          },
+          "explanation": "Luật Chuyển đổi số số 148/2025/QH15 (hiệu lực 01/7/2026) và Chiến lược quốc gia về chuyển đổi số giai đoạn 2026-2030 (Quyết định số 1266/QĐ-TTg ngày 14/7/2026, thay thế Quyết định số 749/QĐ-TTg) xác định ba trụ cột: Chính phủ số, kinh tế số, xã hội số",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.5,
+            "relMargin": 0.73
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“Chính phủ số” được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Là việc trang bị thật nhiều máy tính cho các cơ quan nhà nước.",
+            "B": "Là bộ máy nhà nước vận hành trên môi trường số: cung cấp dịch vụ công trực tuyến, ra quyết định dựa trên dữ liệu, minh bạch và hiệu quả.",
+            "C": "Là một phần mềm do Chính phủ phát hành.",
+            "D": "Là việc chuyển toàn bộ tài liệu giấy thành file PDF."
+          },
+          "explanation": "Chính phủ số là sự thay đổi cách vận hành dựa trên dữ liệu và công nghệ, không chỉ là trang bị thiết bị hay số hóa tài liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.07,
+            "relMargin": 0.04
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Mục tiêu của trụ cột “xã hội số” là gì?",
+          "options": {
+            "A": "Buộc tất cả người dân phải dùng mạng xã hội.",
+            "B": "Chỉ phát triển công nghệ cho khu vực thành thị.",
+            "C": "Đưa công nghệ số vào đời sống người dân và thu hẹp khoảng cách số, không để ai bị bỏ lại phía sau.",
+            "D": "Thay thế hoàn toàn các giao dịch trực tiếp bằng giao dịch trực tuyến."
+          },
+          "explanation": "Xã hội số hướng tới phổ cập tiện ích số tới mọi người dân và thu hẹp khoảng cách số. Phần tình huống công vụ",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.42,
+            "relMargin": 0.5
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A cho rằng “kinh tế số là chuyện của doanh nghiệp, không liên quan gì đến công việc hành chính của tôi”. Quan điểm phù hợp hơn là:",
+          "options": {
+            "A": "Đúng hoàn toàn, cán bộ hành chính không đóng góp gì cho kinh tế số.",
+            "B": "Chưa đầy đủ; khi cơ quan nhà nước cải cách thủ tục, cấp phép nhanh gọn trên môi trường số, chính là đang tạo điều kiện cho kinh tế số phát triển.",
+            "C": "Đúng, vì ba trụ cột hoàn toàn tách rời nhau.",
+            "D": "Sai, vì kinh tế số mới là việc quan trọng nhất, còn lại không cần quan tâm."
+          },
+          "explanation": "Ba trụ cột liên kết với nhau; một Chính phủ số hiệu quả sẽ thúc đẩy kinh tế số phát triển.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.06,
+            "relMargin": 0.26
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trong các việc sau, việc nào của một công chức đóng góp trực tiếp nhất vào việc xây dựng trụ cột “Chính phủ số”?",
+          "options": {
+            "A": "Mua sắm thêm thiết bị văn phòng hiện đại.",
+            "B": "Số hóa quy trình nội bộ, xử lý văn bản trên hệ thống và cập nhật dữ liệu đầy đủ, chính xác lên cơ sở dữ liệu dùng chung.",
+            "C": "Khuyến khích đồng nghiệp mua sắm trực tuyến.",
+            "D": "Lập một trang mạng xã hội cá nhân để đăng tin công việc."
+          },
+          "explanation": "Chính phủ số được xây nên từ việc số hóa quy trình và dữ liệu chính xác trong chính công việc hằng ngày của cán bộ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.46,
+            "relMargin": 0.54
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Tư duy số và văn hóa số trong cơ quan nhà nước",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Phát biểu nào sau đây đúng về “tư duy số”?",
+          "options": {
+            "A": "Là cách nghĩ cởi mở, chủ động tìm giải pháp số để làm việc nhanh hơn, chính xác hơn; coi công nghệ là cơ hội chứ không phải trở ngại.",
+            "B": "Là khả năng sửa chữa máy tính và thiết bị công nghệ.",
+            "C": "Là việc chỉ dùng công nghệ khi được cấp trên yêu cầu.",
+            "D": "Là thay thế hoàn toàn con người bằng máy móc trong xử lý công việc."
+          },
+          "explanation": "Tư duy số là thái độ chủ động, cởi mở với công nghệ, không phải kỹ năng kỹ thuật hay sự thụ động chờ chỉ đạo.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.05,
+            "relMargin": 0.5
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là đặc điểm của “văn hóa số” trong một cơ quan?",
+          "options": {
+            "A": "Mỗi người giữ riêng thông tin của mình để bảo đảm an toàn.",
+            "B": "Hạn chế tối đa việc học hỏi để tập trung cho công việc.",
+            "C": "Chia sẻ tri thức, cộng tác trên hệ thống chung, minh bạch thông tin (không mật) và học tập thường xuyên.",
+            "D": "Chỉ họp trực tiếp, không dùng các nền tảng trực tuyến."
+          },
+          "explanation": "Văn hóa số đề cao chia sẻ, cộng tác, minh bạch và học tập suốt đời.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.25,
+            "relMargin": 0.6
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Trong việc xây dựng văn hóa số, vai trò “nêu gương” của lãnh đạo thể hiện rõ nhất ở hành động nào?",
+          "options": {
+            "A": "Yêu cầu cấp dưới dùng hệ thống số, còn mình vẫn xử lý bằng giấy.",
+            "B": "Trực tiếp dùng chữ ký số, phê duyệt và trao đổi công việc trên hệ thống chung để cả tập thể làm theo.",
+            "C": "Chỉ phát động phong trào trên văn bản.",
+            "D": "Giao toàn bộ việc chuyển đổi số cho bộ phận công nghệ thông tin."
+          },
+          "explanation": "Nêu gương là lãnh đạo trực tiếp sử dụng công cụ số, không chỉ hô hào hay giao khoán. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.79,
+            "relMargin": 0.05
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị B lớn tuổi, còn e ngại khi dùng hệ thống quản lý văn bản mới. Là đồng nghiệp có tư duy số và tinh thần văn hóa số, anh/chị nên làm gì?",
+          "options": {
+            "A": "Làm hộ luôn phần việc của chị B cho nhanh, để chị khỏi phải học.",
+            "B": "Để mặc chị tự xoay xở, ai cũng phải tự lo phần mình.",
+            "C": "Kiên nhẫn hướng dẫn chị từng thao tác, động viên chị thử làm, và sẵn sàng hỗ trợ khi chị cần.",
+            "D": "Báo cáo lãnh đạo rằng chị B không đủ năng lực làm việc."
+          },
+          "explanation": "Văn hóa số là cùng chia sẻ, hỗ trợ nhau cùng tiến bộ, không bỏ ai lại phía sau và cũng không làm thay.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.41,
+            "relMargin": 0.16
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Cơ quan anh A muốn hình thành thói quen làm việc số. Cách làm nào dưới đây thể hiện đúng tinh thần “không gian an toàn để thử”?",
+          "options": {
+            "A": "Bắt buộc toàn cơ quan đổi sang quy trình số ngay lập tức, ai làm sai sẽ bị kỷ luật.",
+            "B": "Cho một nhóm nhỏ thí điểm quy trình số trước, chấp nhận có sai sót nhỏ để rút kinh nghiệm rồi nhân rộng dần.",
+            "C": "Chờ tất cả mọi người thành thạo rồi mới bắt đầu triển khai.",
+            "D": "Chỉ triển khai trên giấy tờ, không thực hiện trên thực tế."
+          },
+          "explanation": "“Không gian an toàn để thử” là cho phép thí điểm phạm vi nhỏ, sai nhỏ - sửa nhanh - học nhanh, thay vì áp đặt cứng nhắc hoặc trì hoãn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.85,
+            "relMargin": 0.53
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Quản lý dữ liệu và ra quyết định dựa trên dữ liệu",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là bước đầu tiên khi muốn ra quyết định dựa trên dữ liệu?",
+          "options": {
+            "A": "Thu thập càng nhiều dữ liệu càng tốt, rồi tính sau.",
+            "B": "Xác định rõ câu hỏi hoặc vấn đề cần giải quyết, từ đó mới biết cần thu thập dữ liệu gì.",
+            "C": "Phân tích dữ liệu ngay bằng phần mềm.",
+            "D": "Đưa ra kết luận trước, rồi tìm số liệu minh họa cho kết luận đó."
+          },
+          "explanation": "Phải đặt đúng câu hỏi trước thì việc thu thập và phân tích dữ liệu mới đúng hướng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.14,
+            "relMargin": 0.19
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Sự khác nhau cơ bản giữa dữ liệu “định lượng” và dữ liệu “định tính” là gì?",
+          "options": {
+            "A": "Định lượng là dữ liệu mật, định tính là dữ liệu công khai.",
+            "B": "Định lượng là các con số đo đếm được (bao nhiêu); định tính là các ý kiến, phản ánh, nhận xét (vì sao).",
+            "C": "Định lượng do máy tạo ra, định tính do con người tạo ra.",
+            "D": "Hai loại này hoàn toàn giống nhau, chỉ khác tên gọi."
+          },
+          "explanation": "Định lượng trả lời “bao nhiêu”, định tính trả lời “vì sao”; kết hợp cả hai mới đầy đủ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.11,
+            "relMargin": 0.66
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi nhận được một báo cáo ghi “90% người dân hài lòng với dịch vụ công”, cán bộ có tư duy dữ liệu nên làm gì?",
+          "options": {
+            "A": "Tin ngay và sử dụng con số đó trong mọi báo cáo.",
+            "B": "Bỏ qua vì số liệu không bao giờ đáng tin.",
+            "C": "Hỏi về nguồn gốc và độ tin cậy: khảo sát bao nhiêu người, ở đâu, thời điểm nào, mẫu có đại diện không.",
+            "D": "Tự ý làm tròn thành 100% cho đẹp báo cáo."
+          },
+          "explanation": "Luôn kiểm chứng nguồn gốc, cỡ mẫu và tính đại diện của số liệu trước khi sử dụng. Phần tình huống công vụ",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.21,
+            "relMargin": 0.66
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Phòng của anh A thấy hồ sơ trễ hẹn tăng đột biến. Lãnh đạo hỏi nguyên nhân. Cách tham mưu thể hiện đúng tinh thần “ra quyết định dựa trên dữ liệu” là:",
+          "options": {
+            "A": "Trả lời ngay theo cảm nhận: “Chắc do anh em tiếp nhận làm chậm.”",
+            "B": "Thống kê số hồ sơ trễ theo từng khâu, phát hiện phần lớn dừng ở khâu thẩm định, rồi đề xuất giải pháp kèm số liệu chứng minh.",
+            "C": "Đề xuất kỷ luật toàn bộ nhân viên cho có động thái.",
+            "D": "Chờ tháng sau xem tình hình thế nào rồi mới báo cáo."
+          },
+          "explanation": "Dựa vào số liệu phân tích từng khâu để tìm đúng nguyên nhân và đề xuất giải pháp trúng vấn đề.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.72,
+            "relMargin": 0.78
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trong quá trình phân tích, chị B được giao khai thác cơ sở dữ liệu dân cư có chứa thông tin cá nhân của công dân. Chị nên ứng xử thế nào cho đúng quy định?",
+          "options": {
+            "A": "Sao chép dữ liệu về máy cá nhân để tiện làm thêm ở nhà.",
+            "B": "Chia sẻ một phần lên nhóm chat chung để đồng nghiệp cùng xem cho nhanh.",
+            "C": "Chỉ sử dụng trong phạm vi được phép, đúng mục đích và thẩm quyền; không tùy tiện sao chép, chia sẻ hay đưa ra ngoài.",
+            "D": "Đăng số liệu tổng hợp lên mạng xã hội để minh bạch với người dân."
+          },
+          "explanation": "Khai thác dữ liệu phải đi cùng trách nhiệm bảo mật: đúng thẩm quyền, đúng mục đích, không để lộ lọt dữ liệu cá nhân.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.34,
+            "relMargin": 0.63
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 6,
+      "lessonTitle": "An toàn thông tin và an ninh mạng trong môi trường số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là một mật khẩu mạnh và an toàn?",
+          "options": {
+            "A": "Đặt thật ngắn cho dễ nhớ, ví dụ “123456” hoặc “password”.",
+            "B": "Dùng tên hoặc ngày sinh của mình để khỏi quên.",
+            "C": "Kết hợp chữ hoa, chữ thường, số và ký tự đặc biệt; đủ dài (tối thiểu 8-12 ký tự) và không dùng chung cho nhiều tài khoản.",
+            "D": "Dùng một mật khẩu phức tạp duy nhất cho tất cả các tài khoản."
+          },
+          "explanation": "Mật khẩu mạnh cần đủ dài, phức tạp và độc nhất cho mỗi tài khoản; dùng chung một mật khẩu là rất rủi ro.",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.94,
+            "relMargin": 0.64
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Lợi ích chính của việc bật “xác thực hai yếu tố” (2FA) là gì?",
+          "options": {
+            "A": "Giúp đăng nhập nhanh hơn vì không cần nhập mật khẩu.",
+            "B": "Tạo thêm một lớp bảo vệ, để dù lộ mật khẩu thì kẻ xấu vẫn chưa thể đăng nhập vào tài khoản.",
+            "C": "Giúp mật khẩu không bao giờ bị lộ.",
+            "D": "Chỉ cần thiết khi tài khoản đã bị tấn công."
+          },
+          "explanation": "2FA là lớp bảo vệ thứ hai, ngăn kẻ xấu đăng nhập ngay cả khi đã có mật khẩu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.08,
+            "relMargin": 0.41
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc “đúng dữ liệu, đúng kênh” trong bảo mật công vụ nghĩa là gì?",
+          "options": {
+            "A": "Dữ liệu nào cũng có thể gửi qua email cá nhân cho tiện.",
+            "B": "Tài liệu nội bộ, tài liệu mật chỉ lưu trữ và chia sẻ trên hệ thống của cơ quan, không gửi qua kênh cá nhân hay sao chép tùy tiện ra thiết bị riêng.",
+            "C": "Chỉ cần mã hóa là có thể gửi tài liệu mật qua bất kỳ kênh nào.",
+            "D": "Dữ liệu công khai và dữ liệu mật được xử lý như nhau."
+          },
+          "explanation": "Mỗi loại dữ liệu phải đi đúng kênh phù hợp; tài liệu nội bộ, mật chỉ dùng hệ thống cơ quan. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.94,
+            "relMargin": 0.24
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A nhận được điện thoại từ một người tự xưng là cán bộ kỹ thuật của cơ quan, đề nghị anh đọc mã OTP vừa nhận được để “nâng cấp hệ thống”. Anh A nên làm gì?",
+          "options": {
+            "A": "Đọc mã OTP ngay, vì người gọi nói là cán bộ kỹ thuật.",
+            "B": "Đọc mã nhưng dặn người kia giữ bí mật.",
+            "C": "Tuyệt đối không cung cấp mã OTP, và chủ động liên hệ lại bộ phận kỹ thuật qua kênh chính thức để xác minh.",
+            "D": "Tắt máy rồi tự nâng cấp hệ thống theo ý mình."
+          },
+          "explanation": "Mã OTP là “chìa khóa” - không bao giờ cung cấp cho bất kỳ ai, kể cả người tự xưng là kỹ thuật hay cấp trên.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.61,
+            "relMargin": 0.13
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B lỡ bấm vào một liên kết lạ trong email, sau đó máy tính có dấu hiệu hoạt động bất thường. Cách xử lý đúng nhất là:",
+          "options": {
+            "A": "Im lặng, tự khắc phục để tránh bị lãnh đạo khiển trách.",
+            "B": "Tắt máy và coi như không có chuyện gì xảy ra.",
+            "C": "Báo ngay cho bộ phận công nghệ thông tin / phụ trách an toàn thông tin của đơn vị để kịp thời cách ly và xử lý.",
+            "D": "Tiếp tục làm việc bình thường, chờ xem máy có hỏng hẳn không."
+          },
+          "explanation": "Khi có sự cố, cần báo ngay cho bộ phận chuyên trách; giấu sự cố chỉ khiến hậu quả lan rộng hơn.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.94,
+            "relMargin": 0.43
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 7,
+      "lessonTitle": "Sử dụng công cụ số trong công việc của cán bộ, công chức, viên chức",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nên xuất văn bản sang định dạng PDF trước khi gửi đi hoặc phát hành?",
+          "options": {
+            "A": "Vì PDF luôn có dung lượng nhỏ hơn mọi định dạng khác.",
+            "B": "Để bảo đảm bên nhận mở ra không bị lỗi phông chữ hay xô lệch trình bày.",
+            "C": "Vì chỉ có PDF mới gửi được qua email.",
+            "D": "Vì PDF tự động sửa lỗi chính tả trong văn bản."
+          },
+          "explanation": "PDF giữ nguyên định dạng, tránh tình trạng lệch phông, xô bố cục khi mở trên máy khác.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.11,
+            "relMargin": 0.43
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Trong email, sự khác nhau giữa ô “Người nhận” (To) và ô “Đồng kính gửi” (Cc) là gì?",
+          "options": {
+            "A": "“Người nhận” là người cần trực tiếp xử lý; “đồng kính gửi” là người chỉ cần theo dõi, nắm thông tin.",
+            "B": "Hai ô hoàn toàn giống nhau, dùng ô nào cũng được.",
+            "C": "“Người nhận” để gửi file, “đồng kính gửi” để gửi chữ.",
+            "D": "“Đồng kính gửi” là người phải xử lý chính, “người nhận” chỉ theo dõi."
+          },
+          "explanation": "Dùng đúng To/Cc giúp phân định rõ ai xử lý, ai theo dõi, tránh làm loãng trách nhiệm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.35,
+            "relMargin": 0.5
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "“Chữ ký số” được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Là hình ảnh chữ ký tay được chụp lại và chèn vào văn bản.",
+            "B": "Là việc gõ tên mình ở cuối email.",
+            "C": "Là phương thức ký điện tử có giá trị pháp lý tương đương chữ ký tay, thực hiện theo quy trình của cơ quan.",
+            "D": "Là mật khẩu đăng nhập vào hệ thống văn bản."
+          },
+          "explanation": "Chữ ký số là phương thức ký điện tử thực hiện theo đúng quy trình của cơ quan; khi đáp ứng các điều kiện theo quy định của pháp luật và được sử dụng đúng thẩm quyền, đúng quy trình thì có giá trị pháp lý như chữ ký tay - không phải ảnh chụp chữ ký hay việc gõ tên. Phần tình huống công vụ",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.94,
+            "relMargin": 0.68
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A đang đi công tác xa thì có một văn bản gấp cần anh phê duyệt. Cách xử lý vừa nhanh vừa đúng quy định là:",
+          "options": {
+            "A": "Nhờ đồng nghiệp ký thay cho kịp tiến độ.",
+            "B": "Chờ về cơ quan rồi ký giấy như thường lệ, dù trễ hạn.",
+            "C": "Dùng chữ ký số để phê duyệt văn bản trên hệ thống ngay tại nơi công tác.",
+            "D": "Chụp ảnh chữ ký tay rồi dán vào văn bản gửi qua mạng xã hội."
+          },
+          "explanation": "Chữ ký số cho phép phê duyệt từ xa, hợp lệ về pháp lý, không cần về trụ sở ký giấy.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.72,
+            "relMargin": 0.43
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Phòng của chị B cần trao đổi nhanh về một dự thảo văn bản nội bộ. Cách làm phù hợp nhất là:",
+          "options": {
+            "A": "Gửi file dự thảo lên một nhóm chat cá nhân ngoài hệ thống cho tiện.",
+            "B": "Trao đổi trên nền tảng nhắn tin do cơ quan quản lý, lập nhóm theo đúng đầu việc; không đưa tài liệu nội bộ ra kênh bên ngoài.",
+            "C": "Đăng dự thảo lên trang mạng xã hội cá nhân để mọi người góp ý.",
+            "D": "Gửi qua email cá nhân của từng người cho nhanh."
+          },
+          "explanation": "Tài liệu nội bộ phải trao đổi trên nền tảng cơ quan quản lý, không đưa ra kênh cá nhân bên ngoài.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.53,
+            "relMargin": 0.91
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 8,
+      "lessonTitle": "Kỹ năng giao tiếp trực tuyến và tương tác với người dân trong thời đại số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Dấu chân số” trong giao tiếp trực tuyến được hiểu là gì?",
+          "options": {
+            "A": "Là biểu tượng cảm xúc ta để lại khi bình luận.",
+            "B": "Là dấu vết mà mọi phát ngôn, hành động của ta trên mạng để lại và khó xóa bỏ hoàn toàn.",
+            "C": "Là số lượt thích trên một bài đăng.",
+            "D": "Là mật khẩu đăng nhập mạng xã hội."
+          },
+          "explanation": "“Dấu chân số” là toàn bộ dấu vết ta để lại trên mạng; vì vậy cần ứng xử cẩn trọng, chuẩn mực.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.2,
+            "relMargin": 0.81
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Ba nguyên tắc cốt lõi khi tương tác với người dân trên môi trường số là gì?",
+          "options": {
+            "A": "Nhanh - nhiều - ngắn gọn.",
+            "B": "Vui vẻ - thân mật - cảm xúc.",
+            "C": "Chuẩn mực - kịp thời - minh bạch.",
+            "D": "Bí mật - chọn lọc - hạn chế trả lời."
+          },
+          "explanation": "Giao tiếp với người dân cần chuẩn mực về lời văn, kịp thời về thái độ và minh bạch về nội dung.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.45,
+            "relMargin": 0.85
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Văn bản nào quy định về ứng xử trên mạng xã hội, trong đó có quy tắc riêng cho cán bộ, công chức, viên chức?",
+          "options": {
+            "A": "Luật An toàn thực phẩm.",
+            "B": "Bộ Quy tắc ứng xử trên mạng xã hội (Quyết định 874/QĐ-BTTTT ngày 17/6/2021).",
+            "C": "Luật Đường bộ.",
+            "D": "Nghị định về tiền lương cán bộ, công chức."
+          },
+          "explanation": "Quyết định 874/QĐ-BTTTT năm 2021 ban hành Bộ Quy tắc ứng xử trên mạng xã hội, có điều riêng cho cán bộ, công chức, viên chức. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.81,
+            "relMargin": 0.53
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Một người dân nhắn tin trên trang của cơ quan, hỏi một thủ tục thuộc thẩm quyền của phòng khác. Là cán bộ tiếp nhận, anh/chị nên làm gì?",
+          "options": {
+            "A": "Trả lời đại theo suy đoán của mình cho người dân khỏi chờ.",
+            "B": "Lờ đi vì không thuộc việc của mình.",
+            "C": "Lịch sự hướng dẫn người dân đến đúng bộ phận, đúng người phụ trách để được giải đáp chính xác.",
+            "D": "Yêu cầu người dân tự tìm hiểu trên mạng."
+          },
+          "explanation": "Chỉ trả lời trong thẩm quyền; việc ngoài thẩm quyền thì hướng dẫn người dân đến đúng nơi, không trả lời theo suy đoán.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.56,
+            "relMargin": 0.35
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B thấy trên mạng xã hội có một bình luận chỉ trích gay gắt và đưa thông tin sai về cơ quan mình. Cách ứng xử phù hợp nhất là:",
+          "options": {
+            "A": "Lập tức tranh cãi tay đôi với người đó để bảo vệ cơ quan.",
+            "B": "Dùng tài khoản ẩn danh để phản bác lại cho hả giận.",
+            "C": "Bình tĩnh; nếu là hiểu lầm trong thẩm quyền thì phản hồi nhẹ nhàng dựa trên thông tin khách quan, nếu nghiêm trọng thì báo cáo lãnh đạo để cơ quan xử lý chính thống.",
+            "D": "Xóa hoặc chặn ngay mọi bình luận trái chiều."
+          },
+          "explanation": "Giữ bình tĩnh, phản hồi khách quan trong thẩm quyền hoặc báo cáo cơ quan xử lý, không tranh cãi tay đôi hay ứng xử cảm tính.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.67,
+            "relMargin": 0
+          }
+        }
+      ]
+    }
+  ]
+}

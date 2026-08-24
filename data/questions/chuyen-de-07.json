@@ -1,0 +1,441 @@
+{
+  "topicId": 7,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Bối cảnh và quy trình kiểm chứng thông tin số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đúng hay Sai: “Trong quy trình kiểm chứng, bước đầu tiên là kiểm tra độ uy tín của nguồn tin và tác giả.” (Đúng/Sai)",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "explanation": "Đúng. Kiểm nguồn là lớp lọc đầu tiên; nếu nguồn đã mập mờ thì mọi nội dung sau đó đều phải đặt một dấu hỏi.",
+          "correctLabel": "A",
+          "isTrueFalse": true,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi thấy một hình ảnh đáng ngờ kèm theo tin tức, cách làm phù hợp nhất là gì?",
+          "options": {
+            "A": "Dùng tìm kiếm ngược hình ảnh (Google Hình ảnh, TinEye) để truy nguồn gốc ảnh.",
+            "B": "Sao chép ảnh vào Word để xem thông tin.",
+            "C": "Gửi ảnh cho bạn bè hỏi cho nhanh.",
+            "D": "Chỉ phóng to ảnh lên để xem cho kỹ."
+          },
+          "explanation": "Tìm kiếm ngược cho biết ảnh xuất hiện lần đầu ở đâu, khi nào - giúp phát hiện ảnh cũ bị gán vào sự kiện mới hoặc ảnh đã chỉnh sửa.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Một tin được mô tả là “rất quan trọng, rất khẩn” nhưng không thấy bất kỳ báo chính thống nào đưa. Nên hiểu thế nào?",
+          "options": {
+            "A": "Vì khẩn nên cứ chia sẻ trước để mọi người kịp biết.",
+            "B": "Đây là một dấu hiệu nghi vấn; cần xác minh thêm ở nguồn chính thống trước khi tin.",
+            "C": "Tin lạ, ít nơi đăng thì càng độc quyền, càng đáng tin.",
+            "D": "Không cần quan tâm, cứ bỏ qua là xong."
+          },
+          "explanation": "Sự việc quan trọng và có thật thường được nhiều nguồn uy tín cùng phản ánh; sự im lặng của báo chính thống là tín hiệu cần thận trọng. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Trong nhóm Zalo của cơ quan xuất hiện tin nhắn “có chỉ thị khẩn XYZ - chia sẻ ngay”, kèm ảnh chụp một văn bản có dấu đỏ. Quý Anh/Chị nên làm gì đầu tiên?",
+          "options": {
+            "A": "Tin vào dấu mộc và chữ ký trên ảnh rồi chuyển tiếp ngay.",
+            "B": "Chưa vội chia sẻ; đối chiếu số hiệu, ngày tháng, cơ quan ban hành với văn bản gốc trên cổng thông tin chính thức.",
+            "C": "Chuyển tiếp cho thật nhiều người để cùng kiểm tra giúp.",
+            "D": "Đăng lại lên mạng xã hội cá nhân để hỏi ý kiến."
+          },
+          "explanation": "Ảnh văn bản rất dễ làm giả hoặc cắt ghép; xác minh ở nguồn phát hành chính thức là cách an toàn nhất, và tuyệt đối không lan truyền khi chưa kiểm chứng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi chuẩn bị một báo cáo tham mưu, Quý Anh/Chị tìm thấy một con số “rất hợp ý mình” trên một trang web lạ. Cách xử lý đúng là gì?",
+          "options": {
+            "A": "Đưa ngay số liệu vào báo cáo vì nó củng cố cho lập luận của mình.",
+            "B": "Đối chiếu lại với nguồn chính thống (cổng thống kê, cổng cơ quan có thẩm quyền); nếu không xác minh được thì không sử dụng.",
+            "C": "Trích dẫn nhưng ghi chung chung là “theo một số nguồn”.",
+            "D": "Hỏi trợ lý AI và tin hoàn toàn vào câu trả lời của AI."
+          },
+          "explanation": "Số liệu chưa rõ nguồn không được đưa vào văn bản công vụ; đây cũng là lúc dễ mắc thiên vị xác nhận - càng hợp ý càng phải kiểm tra kỹ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Kiểm chứng thông tin trên báo chính thống và thông tin hành chính - công vụ",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đúng hay Sai: “Khi nghe tin đồn về một chính sách mới, việc nên làm đầu tiên là kiểm tra ngay trên cổng thông tin chính thức của cơ quan nhà nước liên quan.” (Đúng/Sai)",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "explanation": "Đúng. Cổng thông tin chính thức là nơi công bố nguồn gốc; đối chiếu ở đó giúp loại bỏ tin đồn ngay từ đầu, trước khi lan truyền.",
+          "correctLabel": "A",
+          "isTrueFalse": true,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi nhận được một file ảnh công văn được cho là của cơ quan nhà nước, việc nên làm đầu tiên là gì?",
+          "options": {
+            "A": "Tin vào dấu mộc và chữ ký hiển thị trên ảnh.",
+            "B": "So sánh số hiệu, ngày tháng, cơ quan ban hành của văn bản với bản gốc trên cổng thông tin chính thức.",
+            "C": "Gửi ngay cho đồng nghiệp để mọi người cùng xem.",
+            "D": "Đăng tải lên mạng xã hội để xin ý kiến."
+          },
+          "explanation": "Ảnh chụp rất dễ bị cắt ghép; chỉ các thông tin định danh của văn bản (số hiệu, ngày, cơ quan) khi đối chiếu với bản gốc mới khẳng định được thật hay giả.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Dấu hiệu nào giúp nhận biết một trang báo điện tử chính thống, đáng tin cậy?",
+          "options": {
+            "A": "Tiêu đề càng giật gân, nhiều chữ in hoa thì càng đáng chú ý và đáng tin.",
+            "B": "Có tên miền “.vn” rõ ràng và phần chân trang ghi cơ quan chủ quản, số giấy phép, người chịu trách nhiệm.",
+            "C": "Có thật nhiều quảng cáo và tin nóng nhấp nháy.",
+            "D": "Tên trang gần giống một báo lớn nhưng có thêm đuôi lạ."
+          },
+          "explanation": "Cơ quan chủ quản và giấy phép là dấu hiệu định danh của một tờ báo chính thống; trang giả mạo thường bắt chước tên miền (đáp án D) để đánh lừa người đọc. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Khi chuẩn bị một báo cáo, Quý Anh/Chị cần dùng một con số thống kê và bắt gặp con số đó trong một bài báo. Cách làm đúng là gì?",
+          "options": {
+            "A": "Trích thẳng con số từ bài báo cho nhanh, ghi “theo báo chí”.",
+            "B": "Truy con số về tận nguồn gốc (niên giám / cổng thống kê chính thức hoặc văn bản gốc công bố), rồi mới đưa vào báo cáo.",
+            "C": "Làm tròn con số lại cho dễ nhớ rồi sử dụng.",
+            "D": "Hỏi một nhóm trên mạng xã hội xem con số đó có đúng không."
+          },
+          "explanation": "Bài báo chỉ là nguồn trung gian; số liệu đưa vào văn bản công vụ phải truy về nguồn gốc chính thức để bảo đảm chính xác và có thể đối chiếu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị nhận được một văn bản chuyển tiếp qua email với nội dung “gấp”, kèm bản chụp có dấu đỏ. Cách xác minh phù hợp nhất là gì?",
+          "options": {
+            "A": "Vì gấp nên xử lý và chuyển tiếp ngay cho các bộ phận liên quan.",
+            "B": "Đối chiếu số hiệu, ngày tháng, cơ quan ban hành với bản gốc trên cổng của cơ quan; còn nghi ngờ thì liên hệ trực tiếp cơ quan phát hành, chưa xử lý khi chưa xác minh.",
+            "C": "Tin tưởng vì email do một đồng nghiệp quen gửi đến.",
+            "D": "In ra, đóng dấu sao y rồi lưu hồ sơ cho đủ thủ tục."
+          },
+          "explanation": "Tính “gấp” thường là thủ thuật gây áp lực tâm lý của tin giả; đối chiếu với bản gốc và liên hệ trực tiếp cơ quan phát hành là cách an toàn, tránh hành động sai trên một văn bản chưa được xác minh.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Kiểm chứng thông tin trên mạng xã hội và video trực tuyến",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đúng hay Sai: “Một trang/tài khoản có dấu tick xanh xác minh thường đáng tin cậy hơn một tài khoản ẩn danh, mới lập, không rõ danh tính.” (Đúng/Sai)",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "explanation": "Đúng. Dấu xác minh và lượng theo dõi lớn là chỉ dấu của nguồn chính thức; tài khoản ẩn danh, mới lập, ít tương tác cần được nhìn với sự thận trọng.",
+          "correctLabel": "A",
+          "isTrueFalse": true,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi thấy một tin giật gân trên mạng xã hội mà chưa rõ thực hư, việc nên làm đầu tiên là gì?",
+          "options": {
+            "A": "Chia sẻ ngay để “cảnh báo” mọi người cho kịp thời.",
+            "B": "Tìm kiếm trên Google và báo chí chính thống xem có thông tin tương tự không.",
+            "C": "Tin theo kiểu “không có lửa làm sao có khói”.",
+            "D": "Hỏi nhanh một người bạn trên mạng cho chắc."
+          },
+          "explanation": "Đối chiếu ra ngoài mạng xã hội là bước bắt buộc; nếu một sự việc quan trọng mà không nguồn chính thống nào nhắc tới thì khả năng cao là tin sai.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đúng hay Sai: “Có thể dùng Google Hình ảnh hoặc TinEye để kiểm tra nguồn gốc một hình ảnh đáng ngờ.” (Đúng/Sai)",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "explanation": "Đúng. Tìm kiếm ngược hình ảnh cho biết ảnh xuất hiện lần đầu ở đâu, khi nào - giúp phát hiện ảnh cũ bị gán vào sự kiện mới hoặc ảnh đã chỉnh sửa. Phần tình huống công vụ",
+          "correctLabel": "A",
+          "isTrueFalse": true,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị nhận một cuộc gọi video, thấy đúng khuôn mặt và giọng nói của “lãnh đạo” yêu cầu chuyển gấp một khoản tiền cho đối tác. Cách xử lý đúng là gì?",
+          "options": {
+            "A": "Vì thấy đúng mặt, đúng giọng nên chuyển tiền ngay theo yêu cầu.",
+            "B": "Không chuyển ngay; ngắt máy và gọi lại vào số chính thức đã lưu của lãnh đạo để xác minh, vì có thể là video giả mạo (deepfake).",
+            "C": "Nhắn tin lại số vừa gọi để xác nhận rồi chuyển.",
+            "D": "Hỏi ý kiến đồng nghiệp bên cạnh rồi chuyển cho nhanh."
+          },
+          "explanation": "Deepfake có thể giả y hệt mặt và giọng; mọi yêu cầu chuyển tiền bất thường đều phải xác minh bằng cách gọi lại vào số chính thức đã lưu, tuyệt đối không hành động theo cuộc gọi đến.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị thấy một clip “hỗn loạn tại trụ sở một cơ quan” đang lan truyền trên mạng và định chia sẻ để cảnh báo. Nên làm gì trước?",
+          "options": {
+            "A": "Chia sẻ ngay vì clip nhìn rất thật và đang nóng.",
+            "B": "Kiểm chứng trước: tách khung hình / tìm kiếm ngược ảnh xem clip có cũ hay sai bối cảnh không, đối chiếu với báo chính thống; chưa chia sẻ khi chưa xác minh.",
+            "C": "Chỉ xem kỹ vài lần là đủ, không cần kiểm tra thêm.",
+            "D": "Gửi vào các nhóm để mọi người cùng phán đoán."
+          },
+          "explanation": "Video rất dễ bị cắt ghép hoặc lấy lại từ sự việc khác; tách khung hình và đối chiếu nguồn chính thống giúp tránh lan truyền một clip sai bối cảnh.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Nhận diện tin giả và sử dụng công cụ hỗ trợ",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu không phải là dấu hiệu thường gặp của một tin giả?",
+          "options": {
+            "A": "Tiêu đề giật gân, in hoa, nhiều dấu chấm than.",
+            "B": "Nguồn tin mập mờ, chỉ ghi “theo một nguồn tin”.",
+            "C": "Có đầy đủ thời gian, địa điểm, tên người, số liệu cụ thể và dẫn nguồn rõ ràng.",
+            "D": "Nội dung kích động cảm xúc và thúc giục “chia sẻ ngay”."
+          },
+          "explanation": "Thông tin minh bạch, đầy đủ chi tiết và có nguồn rõ ràng là đặc điểm của tin đáng tin; các phương án còn lại đều là dấu hiệu cảnh báo tin giả.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Cách làm nào sau đây không giúp kiểm chứng nguồn gốc và tính xác thực của một bức ảnh?",
+          "options": {
+            "A": "Tìm kiếm hình ảnh ngược (reverse image search) để xem ảnh từng xuất hiện ở đâu, khi nào.",
+            "B": "Đối chiếu hình ảnh với thông tin trên các kênh, nguồn chính thống.",
+            "C": "Dùng Google Dịch để dịch dòng chú thích trên ảnh.",
+            "D": "Tìm ảnh gốc bằng công cụ tìm kiếm ngược khác như TinEye."
+          },
+          "explanation": "Google Dịch là công cụ hữu ích để chuyển ngữ, nhưng chỉ dịch được phần chữ trên ảnh - không cho biết ảnh xuất hiện từ đâu, khi nào hay đã qua chỉnh sửa chưa. Ba cách còn lại hợp thành quy trình kiểm chứng hai bước: công cụ tìm kiếm ngược giúp sàng lọc ban đầu, đối chiếu với nguồn chính thống giúp kết luận chắc chắn.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Phát biểu nào sau đây đúng về vai trò của AI trong kiểm chứng thông tin?",
+          "options": {
+            "A": "AI luôn cho kết quả chính xác nên có thể tin hoàn toàn.",
+            "B": "AI có thể hỗ trợ gợi ý, nhưng người dùng phải tự kiểm chứng lại từ nguồn chính thống.",
+            "C": "Nên nhờ AI viết sẵn báo cáo kiểm chứng rồi gửi lãnh đạo.",
+            "D": "Không cần dùng AI, chỉ cần tự tìm hiểu là đủ."
+          },
+          "explanation": "AI là công cụ sàng lọc ban đầu hữu ích nhưng có thể sai; quyết định cuối cùng và việc đối chiếu nguồn chính thống vẫn thuộc về con người. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị nhận được một tin “sốc” về một chính sách mới: không ghi nguồn, nhiều lỗi chính tả, lại thúc giục “chia sẻ gấp”. Cách xử lý đúng là gì?",
+          "options": {
+            "A": "Vì là chính sách quan trọng nên chia sẻ ngay cho mọi người.",
+            "B": "Nhận diện đây là tin hội đủ nhiều dấu hiệu giả; kiểm tra trên cổng tingia.gov.vn và nguồn chính thống, chưa chia sẻ khi chưa xác minh.",
+            "C": "Chờ vài hôm xem có ai chia sẻ tiếp không rồi quyết định.",
+            "D": "Chuyển cho đồng nghiệp để họ tự đánh giá giúp."
+          },
+          "explanation": "Tin này có ít nhất ba dấu hiệu giả (không nguồn, lỗi chính tả, thúc giục chia sẻ); cần đối chiếu kênh chính thống trước, tuyệt đối không lan truyền khi chưa kiểm chứng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi cần kiểm chứng nhanh một thông tin trong công việc, Quý Anh/Chị định nhờ một trợ lý AI. Cách dùng AI đúng và an toàn là gì?",
+          "options": {
+            "A": "Dán toàn bộ văn bản nội bộ vào AI và tin hoàn toàn câu trả lời.",
+            "B": "Dùng AI để gợi ý điểm cần kiểm tra, sau đó đối chiếu lại với nguồn chính thống; không nhập dữ liệu nội bộ, mật vào công cụ AI công cộng.",
+            "C": "Hỏi AI rồi trích thẳng câu trả lời vào báo cáo cho nhanh.",
+            "D": "Tin AI hơn nguồn chính thống vì AI trả lời tức thì."
+          },
+          "explanation": "AI chỉ hỗ trợ sàng lọc và phải được kiểm chứng lại; đồng thời phải bảo vệ dữ liệu nội bộ, không đưa thông tin mật hay thông tin công dân lên công cụ công cộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Ví dụ thực tiễn và bài học kinh nghiệm",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đúng hay Sai: “Câu chuyện ‘Bác sĩ rút ống thở cứu sản phụ’ là một ví dụ điển hình về tin giả được lan truyền trong đại dịch.” (Đúng/Sai)",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "explanation": "Đúng. Đây là vụ tin giả nổi tiếng lan truyền giữa đợt dịch COVID-19 năm 2021, sau đó đã bị cơ quan chức năng bác bỏ.",
+          "correctLabel": "A",
+          "isTrueFalse": true,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Cơ quan nào dưới đây đã chính thức xác nhận câu chuyện trên là giả?",
+          "options": {
+            "A": "Cơ quan y tế (Bộ Y tế, Sở Y tế Thành phố Hồ Chí Minh).",
+            "B": "Đài truyền hình VTV.",
+            "C": "Trợ lý ảo ChatGPT.",
+            "D": "Tổ chức Y tế Thế giới (WHO)."
+          },
+          "explanation": "Chính cơ quan y tế có thẩm quyền đã khẳng định không có bác sĩ và ca bệnh như mô tả; đây là minh chứng cho việc luôn đối chiếu với nguồn chính thống.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đúng hay Sai: “Trong ví dụ trên, câu chuyện thiếu chi tiết cụ thể (tên bác sĩ, bệnh viện, thời gian) để người đọc kiểm chứng.” (Đúng/Sai)",
+          "options": {
+            "A": "Đúng",
+            "B": "Sai"
+          },
+          "explanation": "Đúng. Thiếu chi tiết kiểm chứng được là một trong những dấu hiệu rõ rệt của tin giả, bên cạnh nguồn vô danh và nội dung nặng cảm xúc. Phần tình huống công vụ",
+          "correctLabel": "A",
+          "isTrueFalse": true,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị thấy một câu chuyện rất cảm động (chưa rõ thực hư) và muốn chia sẻ để “lan tỏa điều tốt”. Nếu đó là tin giả, điều gì có thể xảy ra và nên xử lý thế nào?",
+          "options": {
+            "A": "Không sao cả, vì chia sẻ điều tốt thì không ai bắt lỗi.",
+            "B": "Có thể bị xử phạt vi phạm hành chính vì lan truyền tin sai; vì vậy cần kiểm chứng trước, chưa chia sẻ khi chưa xác minh.",
+            "C": "Cứ chia sẻ, nếu sai thì xóa đi là xong, không hậu quả gì.",
+            "D": "Nhờ AI xác nhận giúp rồi chia sẻ ngay cho nhanh."
+          },
+          "explanation": "Chia sẻ thông tin sai sự thật có thể bị phạt tiền (cá nhân thường 5-10 triệu đồng) và buộc gỡ bỏ; với cán bộ, công chức còn ảnh hưởng uy tín và kỷ luật công vụ, nên phải kiểm chứng trước.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Là cán bộ, Quý Anh/Chị lỡ chia sẻ một thông tin mà sau đó cơ quan chức năng xác định là tin giả. Cách ứng xử đúng là gì?",
+          "options": {
+            "A": "Im lặng để mọi người quên đi, không cần làm gì.",
+            "B": "Chủ động gỡ bỏ bài đã chia sẻ, đính chính lại cho mọi người, và rút kinh nghiệm kiểm chứng kỹ hơn.",
+            "C": "Đổ lỗi cho nguồn đăng ban đầu rồi tiếp tục như cũ.",
+            "D": "Tranh luận để bảo vệ thông tin đã chia sẻ."
+          },
+          "explanation": "Gỡ bỏ và đính chính kịp thời giúp hạn chế lan truyền tin sai và thể hiện trách nhiệm; che giấu hay tiếp tục lan truyền chỉ làm hậu quả nặng thêm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "explicit-letter",
+          "confidence": null
+        }
+      ]
+    }
+  ]
+}

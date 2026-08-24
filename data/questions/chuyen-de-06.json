@@ -1,0 +1,308 @@
+{
+  "topicId": 6,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Tìm kiếm thông tin chính xác và nhanh chóng",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Toán tử nào dưới đây giúp giới hạn kết quả tìm kiếm trong một website cụ thể?",
+          "options": {
+            "A": "site:",
+            "B": "filetype:",
+            "C": "-keyword",
+            "D": "“phrase”"
+          },
+          "explanation": "Toán tử site: giới hạn kết quả trong một tên miền cụ thể, ví dụ site:\\*.gov.vn để tìm trong các cổng cơ quan nhà nước.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi muốn tìm chính xác cụm từ “cải cách hành chính”, nên gõ thế nào?",
+          "options": {
+            "A": "Gõ cải cách hành chính (không có gì đặc biệt).",
+            "B": "Gõ “cải cách hành chính” (có dấu ngoặc kép).",
+            "C": "Gõ cải cách AND hành chính.",
+            "D": "Gõ cải cách OR hành chính."
+          },
+          "explanation": "Đặt cụm từ trong dấu ngoặc kép giúp công cụ tìm đúng chính xác cụm đó, thay vì tách rời từng từ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.23,
+            "relMargin": 0.9
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là cách lọc kết quả hiệu quả khi tìm tin tức trên Google?",
+          "options": {
+            "A": "Sử dụng tab “Tin tức” của Google để chỉ hiện các bài báo từ nguồn tin tức.",
+            "B": "Thêm filetype:pdf để tìm tin ở định dạng PDF.",
+            "C": "Sử dụng -site: để loại bỏ kết quả từ trang không mong muốn.",
+            "D": "Cả A và C đều đúng."
+          },
+          "explanation": "Có thể dùng thẻ “Tin tức” để chỉ lấy bài báo chí, và dùng dấu trừ trước site để loại bỏ trang không mong muốn; cả hai đều là cách lọc hiệu quả. Phần tình huống công vụ",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 2.24,
+            "relMargin": 0.43
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần tìm gấp một nghị định mới ban hành ở định dạng PDF để trích dẫn vào báo cáo. Cách tìm hiệu quả nhất là gì?",
+          "options": {
+            "A": "Gõ tên nghị định rồi đọc lần lượt hàng chục kết quả đầu tiên.",
+            "B": "Kết hợp tên nghị định trong ngoặc kép với site:vbpl.vn và filetype:pdf để tìm đúng văn bản gốc.",
+            "C": "Hỏi trên một nhóm mạng xã hội xem ai có file thì xin.",
+            "D": "Lấy bản tóm tắt nghị định trên một blog cá nhân cho nhanh."
+          },
+          "explanation": "Kết hợp ngoặc kép với site: (giới hạn cổng văn bản pháp luật) và filetype:pdf giúp tìm đúng văn bản gốc, chính thống và nhanh chóng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.75,
+            "relMargin": 0.83
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhờ ChatGPT tổng hợp nhanh số liệu cho một báo cáo. Cách xử lý đúng đắn nhất là gì?",
+          "options": {
+            "A": "Tin tưởng và đưa thẳng số liệu AI cung cấp vào báo cáo cho kịp thời gian.",
+            "B": "Dán cả tài liệu nội bộ vào ChatGPT để nó tổng hợp đầy đủ hơn.",
+            "C": "Coi kết quả của AI là gợi ý, rồi kiểm chứng lại từng số liệu từ nguồn chính thống trước khi dùng.",
+            "D": "Chỉ cần ghi “nguồn: ChatGPT” dưới số liệu là đủ tin cậy."
+          },
+          "explanation": "AI chỉ đóng vai trò gợi ý; mọi số liệu phải được kiểm chứng lại từ nguồn chính thống, và không đưa tài liệu nội bộ lên công cụ AI công cộng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.74,
+            "relMargin": 0.75
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Đánh giá độ tin cậy của nguồn thông tin",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi thấy trên mạng xã hội một bài viết có thông tin “sốc” về chính sách mới, việc đầu tiên nên làm là gì?",
+          "options": {
+            "A": "Chia sẻ ngay để cảnh báo mọi người.",
+            "B": "Kiểm tra xem nguồn đăng tin đó có đáng tin cậy không.",
+            "C": "Hỏi người quen xem có nghe tin này chưa.",
+            "D": "Bỏ qua, không cần quan tâm."
+          },
+          "explanation": "Việc đầu tiên là đánh giá nguồn đăng tin có đáng tin cậy không; không vội chia sẻ hay bỏ qua khi chưa kiểm chứng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.7,
+            "relMargin": 0.67
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Công cụ nào KHÔNG phù hợp để kiểm chứng độ xác thực của một bức ảnh?",
+          "options": {
+            "A": "Tìm kiếm hình ảnh ngược (reverse image search).",
+            "B": "Kiểm tra metadata (siêu dữ liệu) EXIF của ảnh.",
+            "C": "Dùng Google Dịch để dịch chú thích trên ảnh.",
+            "D": "Tìm kiếm ảnh gốc trên các trang xác minh (ví dụ: TinEye.com)."
+          },
+          "explanation": "Google Dịch chỉ dịch chữ, không giúp xác thực nguồn gốc ảnh; tìm ảnh ngược, kiểm tra metadata và tra trên trang xác minh mới là cách phù hợp.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.77,
+            "relMargin": 0.2
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Phát biểu nào sau đây đúng về vai trò của AI trong kiểm chứng thông tin?",
+          "options": {
+            "A": "AI luôn đưa ra kết quả kiểm chứng chính xác nên có thể tin hoàn toàn.",
+            "B": "AI có thể hỗ trợ gợi ý thông tin, nhưng người dùng phải tự kiểm chứng lại từ nguồn chính thống.",
+            "C": "Nên nhờ AI viết sẵn báo cáo kiểm chứng rồi gửi lãnh đạo.",
+            "D": "Không cần dùng AI, chỉ cần tự mình tìm hiểu là đủ."
+          },
+          "explanation": "AI chỉ hỗ trợ gợi ý; người dùng phải tự kiểm chứng lại từ nguồn chính thống và là người quyết định cuối cùng. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.4,
+            "relMargin": 0.86
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận được một file ảnh chụp công văn được cho là của một cơ quan nhà nước, có dấu mộc và chữ ký. Việc nên làm đầu tiên là gì?",
+          "options": {
+            "A": "Tin ngay vì đã có dấu mộc và chữ ký trên ảnh.",
+            "B": "Đối chiếu số hiệu, ngày tháng, tên cơ quan của văn bản với bản gốc trên cổng thông tin chính thức.",
+            "C": "Chuyển tiếp ngay cho đồng nghiệp để cùng xử lý.",
+            "D": "Đăng lên mạng xã hội hỏi xem có ai biết không."
+          },
+          "explanation": "Con dấu, chữ ký trên ảnh có thể bị làm giả; phải đối chiếu số hiệu, ngày tháng, tên cơ quan với văn bản gốc trên cổng thông tin chính thức.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 3.58,
+            "relMargin": 0.54
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một tin “chấn động” về chính sách mới chỉ xuất hiện trên một trang mạng lạ, trong khi các báo lớn và cổng thông tin cơ quan đều không đưa. Anh/Chị nên đánh giá thế nào?",
+          "options": {
+            "A": "Tin đó chắc là “tin độc quyền”, nên tin và chia sẻ sớm.",
+            "B": "Đây là dấu hiệu đáng nghi; cần đối chiếu nguồn chính thống và không lan truyền khi chưa xác thực.",
+            "C": "Cứ chia sẻ kèm dòng “chưa kiểm chứng” cho an toàn.",
+            "D": "Trang nào đăng trước thì trang đó đúng."
+          },
+          "explanation": "Một tin quan trọng mà chỉ một trang lạ đưa, các nguồn lớn im lặng, là dấu hiệu đáng nghi; phải đối chiếu nguồn chính thống và không lan truyền khi chưa xác thực, kể cả khi ghi chú “chưa kiểm chứng”.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 3.25,
+            "relMargin": 0.71
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Tổ chức, lưu trữ và quản lý thông tin cá nhân",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Anh/Chị cần tìm nhanh một tệp tài liệu trên máy tính nhưng chỉ nhớ được một cụm từ xuất hiện bên trong nội dung tệp. Cách hiệu quả nhất là gì?",
+          "options": {
+            "A": "Mở từng thư mục và dò tìm thủ công cho đến khi thấy.",
+            "B": "Dùng chức năng Tìm kiếm của hệ điều hành, nhập cụm từ đó và chọn tìm trong nội dung tệp.",
+            "C": "Cố nhớ lại tên tệp, sắp xếp thư mục theo ngày rồi tìm thủ công.",
+            "D": "Không nhớ tên thì tạo lại tệp mới cho nhanh."
+          },
+          "explanation": "Chức năng Tìm kiếm của hệ điều hành cho phép tìm theo nội dung bên trong tệp, giúp tìm ra nhanh dù không nhớ tên tệp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.21,
+            "relMargin": 0.63
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là biện pháp bảo vệ dữ liệu nên làm?",
+          "options": {
+            "A": "Sao lưu định kỳ dữ liệu quan trọng vào ổ cứng rời hoặc hệ thống lưu trữ được phép.",
+            "B": "Gửi tất cả tài liệu công vụ vào email cá nhân để lưu cho chắc.",
+            "C": "Đặt mật khẩu khó đoán cho tệp chứa dữ liệu nhạy cảm.",
+            "D": "Cả A và C."
+          },
+          "explanation": "Sao lưu định kỳ vào nơi được phép và đặt mật khẩu mạnh cho tệp nhạy cảm đều là biện pháp đúng; gửi tài liệu công vụ vào email cá nhân thì không an toàn.",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.83,
+            "relMargin": 0.29
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Phát biểu nào đúng về việc dùng AI trong quản lý, phân tích dữ liệu?",
+          "options": {
+            "A": "AI có thể tự động làm mọi thứ; người dùng không cần hiểu gì về dữ liệu vẫn được.",
+            "B": "AI chỉ đóng vai trò hỗ trợ; kết quả từ AI cần được người dùng kiểm tra và kết hợp với kiến thức nghiệp vụ.",
+            "C": "Không nên dùng AI vì chắc chắn sẽ làm lộ mọi dữ liệu.",
+            "D": "Cứ đưa toàn bộ dữ liệu thô cho AI, AI sẽ tự tìm ra quy luật tốt hơn con người."
+          },
+          "explanation": "AI chỉ hỗ trợ; người dùng phải kiểm tra kết quả và kết hợp với nghiệp vụ, đồng thời lưu ý không đưa dữ liệu nội bộ lên công cụ công cộng. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.18,
+            "relMargin": 0.76
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Tên tệp nào sau đây là phù hợp nhất để dễ tra cứu và phối hợp trong cơ quan?",
+          "options": {
+            "A": "Document1.docx",
+            "B": "BaoCaoCuoiCung.docx",
+            "C": "2026-03-12\\_GiamSat\\_GiaoDuc\\_v2.docx",
+            "D": "ban-moi-moi-final.docx"
+          },
+          "explanation": "Tên tệp có ngày tháng, nội dung tóm tắt và số phiên bản giúp nhận biết ngay tài liệu của ngày nào, nội dung gì, bản nào mới nhất; các cách đặt tên còn lại đều mơ hồ.",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị sắp chuyển sang vị trí công tác khác và cần bàn giao toàn bộ hồ sơ công việc. Cách làm giúp người tiếp nhận sử dụng được ngay là gì?",
+          "options": {
+            "A": "Để nguyên tài liệu rải rác trong email cá nhân và USB, khi nào người mới hỏi thì chỉ.",
+            "B": "Gom tất cả vào một thư mục duy nhất đặt tên “Tài liệu”, không phân loại.",
+            "C": "Bàn giao trên hệ thống tập trung của cơ quan, theo cây thư mục và quy ước đặt tên thống nhất, kèm phân quyền phù hợp.",
+            "D": "Xóa bớt cho gọn rồi chỉ giữ lại vài tệp mình thấy quan trọng."
+          },
+          "explanation": "Bàn giao trên hệ thống tập trung, theo cây thư mục và quy ước đặt tên thống nhất, kèm phân quyền, giúp người tiếp nhận tra cứu và làm việc được ngay; lưu rải rác hay gom lộn xộn đều gây gián đoạn.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 3.13,
+            "relMargin": 0.63
+          }
+        }
+      ]
+    }
+  ]
+}

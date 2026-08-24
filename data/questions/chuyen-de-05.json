@@ -1,0 +1,510 @@
+{
+  "topicId": 5,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Kỹ năng sử dụng phần mềm văn phòng hiệu quả, an toàn",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Phần mềm nào sau đây chủ yếu được dùng để soạn thảo văn bản?",
+          "options": {
+            "A": "Microsoft Word",
+            "B": "Microsoft Excel",
+            "C": "Google Chrome",
+            "D": "Zoom"
+          },
+          "explanation": "Microsoft Word là phần mềm chuyên dùng để soạn thảo văn bản; Excel dùng cho bảng tính, Chrome là trình duyệt, Zoom dùng để họp trực tuyến.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.06,
+            "relMargin": 0
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Lợi ích nổi bật của việc dùng ứng dụng văn phòng trên nền tảng đám mây là gì?",
+          "options": {
+            "A": "Tự động tăng dung lượng file không giới hạn.",
+            "B": "Cho phép nhiều người cùng chỉnh sửa một tài liệu trong thời gian thực.",
+            "C": "Giúp máy tính không cần kết nối Internet vẫn cập nhật dữ liệu.",
+            "D": "Ngăn chặn hoàn toàn virus máy tính."
+          },
+          "explanation": "Ưu điểm lớn của làm việc trên đám mây là nhiều người cùng chỉnh sửa một tài liệu theo thời gian thực, tránh trùng lặp phiên bản.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.69,
+            "relMargin": 0.89
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Trí tuệ nhân tạo (AI) có thể hỗ trợ gì cho công việc văn phòng?",
+          "options": {
+            "A": "Tự động gửi tài liệu mật cho tất cả mọi người để cùng đọc.",
+            "B": "Tự động chơi game giải trí trong giờ làm việc.",
+            "C": "Thay thế hoàn toàn con người, tự ra quyết định cuối cùng.",
+            "D": "Gợi ý nội dung và tự động tóm tắt khi soạn thảo văn bản."
+          },
+          "explanation": "AI hỗ trợ gợi ý nội dung, tóm tắt, phân tích số liệu; nó là công cụ hỗ trợ, không thay con người ra quyết định cuối cùng. Phần tình huống công vụ",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.9,
+            "relMargin": 0.25
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Khi gửi một tài liệu nội bộ quan trọng qua email, việc nào sau đây nên làm để tăng cường bảo mật?",
+          "options": {
+            "A": "Đặt mật khẩu cho file hoặc nén file có mật khẩu trước khi gửi (và gửi mật khẩu bằng kênh khác).",
+            "B": "Gửi tài liệu qua mạng xã hội công khai để tiện truy cập.",
+            "C": "Đính kèm tài liệu vào email rồi đăng công khai lên diễn đàn.",
+            "D": "Sử dụng máy tính nơi công cộng để gửi cho nhanh."
+          },
+          "explanation": "Đặt mật khẩu cho file và gửi mật khẩu bằng kênh khác giúp bảo vệ tài liệu nếu email bị lộ; các cách còn lại đều làm tăng nguy cơ mất an toàn thông tin.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.32,
+            "relMargin": 0.81
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị muốn dùng ChatGPT để tóm tắt nhanh một báo cáo nội bộ có đóng dấu “Mật” của cơ quan. Việc này có phù hợp không?",
+          "options": {
+            "A": "Hoàn toàn phù hợp, vì AI là công cụ nên tận dụng tối đa cho nhanh.",
+            "B": "Không phù hợp, vì đưa thông tin mật cho công cụ AI công cộng có thể làm lộ dữ liệu nhạy cảm.",
+            "C": "Phù hợp, miễn là xóa lịch sử trò chuyện sau khi dùng xong.",
+            "D": "Phù hợp, nếu chỉ dán một nửa nội dung báo cáo."
+          },
+          "explanation": "Tuyệt đối không đưa tài liệu mật, dữ liệu nội bộ lên công cụ AI công cộng; đây là vi phạm bảo mật và có thể làm lộ thông tin nhạy cảm, kể cả khi đã xóa lịch sử hay chỉ dán một phần.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 2.74,
+            "relMargin": 0.61
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Sử dụng dịch vụ công trực tuyến hiệu quả, an toàn",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Phát biểu nào sau đây KHÔNG đúng về ứng dụng định danh điện tử VNeID?",
+          "options": {
+            "A": "VNeID do Bộ Công an phát triển, cho phép xác thực danh tính điện tử trên điện thoại thông minh.",
+            "B": "Tài khoản VNeID mức 2 có thể dùng để đăng nhập Cổng Dịch vụ công Quốc gia, thay cho tài khoản do từng cơ quan cấp riêng lẻ.",
+            "C": "VNeID tích hợp nhiều thông tin cá nhân quan trọng, vì vậy cần đặt mật khẩu mạnh và không chia sẻ mã QR cho người khác.",
+            "D": "Mọi chức năng của VNeID đều tự động an toàn, người dùng không cần lo việc bảo mật tài khoản."
+          },
+          "explanation": "VNeID an toàn đến đâu còn phụ thuộc cách người dùng bảo vệ; vẫn phải đặt mật khẩu mạnh, không chia sẻ mã QR, mã OTP. Nói “không cần lo bảo mật” là sai.",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.39,
+            "relMargin": 0.19
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi sử dụng VNeID, người dùng cần lưu ý điều gì để đảm bảo an toàn?",
+          "options": {
+            "A": "Đặt mã PIN hoặc bật đăng nhập bằng vân tay/khuôn mặt cho ứng dụng VNeID trên điện thoại.",
+            "B": "Không chụp màn hình hay gửi cho ai mã QR định danh VNeID của mình.",
+            "C": "Nếu có người mượn điện thoại “xem nhờ VNeID”, sau đó nên đổi mật khẩu VNeID.",
+            "D": "Tất cả các lưu ý trên."
+          },
+          "explanation": "Cả ba lưu ý đều cần thiết để bảo vệ tài khoản định danh điện tử khỏi bị lợi dụng.",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.71,
+            "relMargin": 0.18
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Sau khi nộp hồ sơ trực tuyến trên Cổng Dịch vụ công, người dùng theo dõi tiến độ xử lý bằng cách nào?",
+          "options": {
+            "A": "Gọi điện trực tiếp đến tổng đài để hỏi từng ngày.",
+            "B": "Dùng mã số hồ sơ hoặc vào mục “Hồ sơ của tôi” để xem trạng thái; hệ thống cũng báo qua tin nhắn, email.",
+            "C": "Đến trực tiếp cơ quan để hỏi vì trên mạng không xem được.",
+            "D": "Chờ đến hẹn rồi đến nhận, không cần theo dõi."
+          },
+          "explanation": "Mỗi hồ sơ có mã số tra cứu; người dùng xem trạng thái qua mã hoặc mục “Hồ sơ của tôi”, và nhận thông báo tự động qua tin nhắn/email. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 3.1,
+            "relMargin": 0.93
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Một người gọi điện tự xưng là cán bộ cơ quan nhà nước, nói rằng hồ sơ dịch vụ công của Anh/Chị “đang bị treo” và yêu cầu đọc mã OTP vừa gửi đến điện thoại để “hoàn tất”. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Đọc ngay mã OTP để hồ sơ được xử lý cho kịp.",
+            "B": "Không cung cấp mã OTP; cơ quan nhà nước không bao giờ yêu cầu đọc OTP qua điện thoại - đây là dấu hiệu lừa đảo.",
+            "C": "Đọc một nửa mã OTP cho an toàn.",
+            "D": "Cung cấp mã và đổi mật khẩu sau đó."
+          },
+          "explanation": "Cơ quan nhà nước, ngân hàng không bao giờ yêu cầu cung cấp mã OTP qua điện thoại; tuyệt đối không đọc mã, đây là chiêu lừa đảo phổ biến.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 3.36,
+            "relMargin": 0.76
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị hướng dẫn một người dân lớn tuổi cài ứng dụng VNeID trên điện thoại. Cách làm đúng là gì?",
+          "options": {
+            "A": "Gửi cho họ một đường link cài đặt nhanh tìm được trên mạng xã hội.",
+            "B": "Hướng dẫn họ tải VNeID từ kho ứng dụng chính thức (App Store/CH Play) của nhà sản xuất điện thoại.",
+            "C": "Cài hộ bằng một file APK gửi qua Zalo cho tiện.",
+            "D": "Bảo họ nhờ một người lạ trên mạng cài giúp từ xa."
+          },
+          "explanation": "Chỉ tải VNeID từ kho ứng dụng chính thức để tránh ứng dụng giả mạo, mã độc; không cài từ link lạ hay file gửi qua mạng xã hội.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.5,
+            "relMargin": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Học tập trực tuyến chủ động, hiệu quả, an toàn",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Để học trực tuyến hiệu quả, Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Đặt lịch học cố định hàng tuần và nghiêm túc tuân thủ kế hoạch đó.",
+            "B": "Bỏ qua các bài kiểm tra và diễn đàn thảo luận để tiết kiệm thời gian.",
+            "C": "Mở nhiều tab và làm việc khác trong lúc xem video bài giảng.",
+            "D": "Không cần xem tài liệu đính kèm vì video là đủ."
+          },
+          "explanation": "Học online đòi hỏi tính tự giác; đặt lịch cố định và tuân thủ giúp duy trì thói quen, tránh bỏ dở. Làm việc riêng hay bỏ qua bài kiểm tra đều làm giảm hiệu quả.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.74,
+            "relMargin": 0.22
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“Microlearning” (học theo bài ngắn) được hiểu là gì?",
+          "options": {
+            "A": "Học liên tục nhiều giờ liền cho hết một khóa trong một buổi.",
+            "B": "Chia nội dung thành các bài học ngắn (khoảng 5-10 phút), mỗi bài tập trung một kiến thức cụ thể.",
+            "C": "Chỉ học bằng cách đọc tài liệu, không xem video.",
+            "D": "Học mà không cần đặt mục tiêu hay kế hoạch."
+          },
+          "explanation": "Microlearning chia nội dung thành các bài ngắn 5-10 phút, mỗi bài một kiến thức trọng tâm, giúp dễ học, dễ nhớ và phù hợp người bận rộn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.97,
+            "relMargin": 0.97
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi học trực tuyến, đâu là cách làm đúng để bảo đảm an toàn và tôn trọng bản quyền?",
+          "options": {
+            "A": "Đăng tải tài liệu nội bộ của cơ quan lên mạng để bạn học cùng tải về.",
+            "B": "Tải bất kỳ tài liệu nào tìm được trên mạng để dùng, không cần quan tâm nguồn.",
+            "C": "Chọn nền tảng, nguồn học chính thống; không chia sẻ tài liệu mật; dùng tài liệu hợp pháp và ghi rõ nguồn.",
+            "D": "Chia sẻ công khai mã lớp học nội bộ cho mọi người vào cho vui."
+          },
+          "explanation": "Cần học từ nguồn chính thống, không phát tán tài liệu nội bộ mật, dùng tài liệu hợp pháp và ghi rõ nguồn; các cách còn lại đều vi phạm bảo mật hoặc bản quyền. Phần tình huống công vụ",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.13,
+            "relMargin": 0.66
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận được tin nhắn mời tham gia “khóa học kỹ năng số miễn phí, cấp chứng chỉ ngay”, kèm một đường link lạ yêu cầu nhập thông tin cá nhân và tải một file cài đặt. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Bấm vào link và làm theo ngay vì khóa học miễn phí lại có chứng chỉ.",
+            "B": "Cảnh giác, không bấm link lạ; chỉ học qua các nền tảng chính thống như app Bình dân học vụ số quốc gia hoặc nền tảng được cơ quan giới thiệu.",
+            "C": "Tải file cài đặt về dùng thử, nếu thấy lạ thì gỡ ra.",
+            "D": "Chuyển link cho đồng nghiệp cùng đăng ký cho đông."
+          },
+          "explanation": "“Khóa học miễn phí, cấp chứng chỉ ngay” qua link lạ là dấu hiệu giả mạo, có thể chứa mã độc hoặc lừa lấy thông tin; chỉ nên học qua nền tảng chính thống.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.76,
+            "relMargin": 0.08
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị đăng ký một khóa học trên app nhưng hay bỏ dở giữa chừng vì bận. Cách khắc phục hiệu quả nhất là gì?",
+          "options": {
+            "A": "Chờ khi nào thật rảnh rỗi nhiều ngày liền rồi học một mạch cho xong.",
+            "B": "Đặt mục tiêu nhỏ và lịch học cố định (ví dụ mỗi ngày một bài microlearning 10 phút), bật nhắc lịch để duy trì.",
+            "C": "Bỏ luôn khóa học vì không có thời gian.",
+            "D": "Mở khóa học cho chạy nền trong lúc làm việc khác để tính là đã học."
+          },
+          "explanation": "Chia nhỏ mục tiêu, đặt lịch cố định và học từng bài ngắn mỗi ngày giúp duy trì đều đặn, phù hợp người bận rộn; để chạy nền hay chờ rảnh nhiều ngày đều không hiệu quả.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.61,
+            "relMargin": 0.67
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Giao tiếp số hiệu quả, an toàn",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Kênh nào sau đây phù hợp nhất để gửi một thông báo chính thức kèm tài liệu tới toàn thể cơ quan?",
+          "options": {
+            "A": "Gửi email từ địa chỉ công vụ kèm file tài liệu.",
+            "B": "Đăng lên trang Facebook cá nhân và gắn thẻ mọi người.",
+            "C": "Nhắn nội dung chính vào nhóm chat Zalo của cơ quan.",
+            "D": "Gọi điện thoại cho từng người để đọc nội dung thông báo."
+          },
+          "explanation": "Email công vụ là kênh chính thức, dễ đính kèm tài liệu và lưu vết, phù hợp cho thông báo chính thức tới toàn cơ quan.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.51,
+            "relMargin": 0.56
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nội dung nào KHÔNG nên trao đổi qua nhóm chat công cộng, không bảo mật?",
+          "options": {
+            "A": "Lịch hẹn đi cà phê cuối tuần với đồng nghiệp trong nhóm.",
+            "B": "Thông báo họp mặt nhân dịp kỷ niệm.",
+            "C": "Số liệu dự thảo ngân sách cơ quan chưa được công bố.",
+            "D": "Lời nhắc nộp báo cáo tuần."
+          },
+          "explanation": "Số liệu dự thảo chưa công bố là thông tin nhạy cảm, phải trao đổi qua kênh chính thống, bảo mật của cơ quan; không đưa lên nhóm chat công cộng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.89,
+            "relMargin": 0.5
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là cách ứng xử đúng khi trao đổi công việc qua ứng dụng chat?",
+          "options": {
+            "A": "Trả lời cấp trên chỉ bằng một biểu tượng cảm xúc cho nhanh.",
+            "B": "Nhắn ngắn gọn, lịch sự, phản hồi rõ ràng; khi việc phức tạp thì chuyển sang email hoặc họp.",
+            "C": "Gửi dồn dập nhiều tin “??” khi chưa thấy trả lời ngay.",
+            "D": "Nhắn việc công vào đêm khuya cho kịp, bất kể giờ giấc."
+          },
+          "explanation": "Trên chat công việc vẫn cần ngắn gọn, lịch sự, phản hồi rõ ràng; việc phức tạp nên chuyển kênh phù hợp và tránh làm phiền ngoài giờ. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.63,
+            "relMargin": 0.7
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận được tin nhắn từ một tài khoản tự xưng là lãnh đạo cơ quan, yêu cầu chuyển gấp một khoản tiền hoặc mua thẻ điện thoại giúp, kèm lời dặn “không nói với ai”. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Làm theo ngay vì là lãnh đạo yêu cầu và có vẻ gấp.",
+            "B": "Bình tĩnh, không chuyển tiền; xác minh lại trực tiếp với lãnh đạo qua một kênh khác - đây là dấu hiệu lừa đảo mạo danh.",
+            "C": "Chuyển một phần tiền trước cho an toàn rồi hỏi sau.",
+            "D": "Nhắn lại hỏi số tài khoản rồi chuyển luôn cho nhanh."
+          },
+          "explanation": "Yêu cầu chuyển tiền/mua thẻ gấp kèm dặn giữ kín là chiêu lừa đảo mạo danh phổ biến; phải xác minh trực tiếp qua kênh khác trước khi làm bất cứ điều gì.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 2.53,
+            "relMargin": 0.33
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Sáng nay Anh/Chị cần lấy ý kiến gấp của cả nhóm về một dự thảo báo cáo nội bộ. Cách chọn kênh hợp lý nhất là gì?",
+          "options": {
+            "A": "Gửi email rồi ngồi chờ, ai rảnh thì trả lời, không cần để ý thời gian.",
+            "B": "Dùng nhóm chat nội bộ để nhắc nhanh và hẹn thời điểm phản hồi; nếu dự thảo có nội dung nhạy cảm thì trao đổi qua kênh chính thống, bảo mật của cơ quan.",
+            "C": "Đăng dự thảo lên một nhóm mạng xã hội công cộng cho nhiều người góp ý.",
+            "D": "Gọi điện lần lượt cho từng người để đọc toàn bộ dự thảo."
+          },
+          "explanation": "Việc gấp, ngắn nên dùng nhóm chat nội bộ để nhắc nhanh và hẹn thời điểm phản hồi; nội dung nhạy cảm phải đi qua kênh chính thống, bảo mật, không đưa lên mạng xã hội công cộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 3.57,
+            "relMargin": 0.65
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Giải trí số văn minh, lành mạnh",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Nền tảng trực tuyến nào sau đây KHÔNG phải là mạng xã hội?",
+          "options": {
+            "A": "Facebook.",
+            "B": "TikTok.",
+            "C": "Instagram.",
+            "D": "Microsoft Teams."
+          },
+          "explanation": "Microsoft Teams là nền tảng làm việc, họp trực tuyến và cộng tác, không phải mạng xã hội như Facebook, TikTok, Instagram.",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.41,
+            "relMargin": 0.29
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Thuật toán đề xuất (recommendation) trên các ứng dụng như YouTube, TikTok có tác dụng gì?",
+          "options": {
+            "A": "Gợi ý nội dung, video phù hợp với sở thích và thói quen xem của người dùng.",
+            "B": "Tự động xóa những video người dùng đã xem để tiết kiệm dung lượng.",
+            "C": "Đăng tải video mới của người dùng lên trang chủ.",
+            "D": "Tự động ngừng phát sau 30 phút để bảo vệ sức khỏe."
+          },
+          "explanation": "Thuật toán đề xuất phân tích thói quen người dùng để gợi ý nội dung họ có khả năng thích - tiện lợi nhưng cũng dễ gây “cuốn” xem quá mức.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.86,
+            "relMargin": 0.79
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là dấu hiệu cho thấy Anh/Chị có thể đang giải trí trực tuyến quá đà và cần điều chỉnh?",
+          "options": {
+            "A": "Dành hầu hết thời gian rảnh để lướt mạng, cảm thấy giảm tập trung vào công việc.",
+            "B": "Mỗi ngày chỉ vào mạng xã hội khoảng 15-20 phút để cập nhật tin tức.",
+            "C": "Xem một vài video giải trí vào cuối tuần để thư giãn.",
+            "D": "Nghe nhạc nhẹ khi tập thể dục buổi sáng."
+          },
+          "explanation": "Dành hầu hết thời gian rảnh để lướt mạng và giảm tập trung vào công việc là dấu hiệu lạm dụng, cần đặt lại giới hạn thời gian; các trường hợp còn lại đều ở mức chừng mực. Phần tình huống công vụ",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.96,
+            "relMargin": 0.91
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị Hoa là công chức trẻ, sau giờ làm thường livestream chơi game để giao lưu với bạn bè. Gần đây có vài bình luận tiêu cực kiểu “công chức mà ham chơi game” khiến chị áp lực. Cách xử lý phù hợp nhất là gì?",
+          "options": {
+            "A": "Bỏ hẳn sở thích vì sợ ảnh hưởng hình ảnh.",
+            "B": "Tiếp tục giải trí lành mạnh ngoài giờ, giữ phát ngôn chuẩn mực, quản lý bình luận và hướng nội dung theo hướng tích cực.",
+            "C": "Tranh cãi gay gắt với những người bình luận tiêu cực.",
+            "D": "Livestream cả trong giờ làm việc để chứng tỏ mình thoải mái."
+          },
+          "explanation": "Giải trí là quyền chính đáng nếu thực hiện ngoài giờ và lành mạnh; chị Hoa nên giữ chuẩn mực, quản lý bình luận và hướng nội dung tích cực, không cần bỏ sở thích cũng không tranh cãi hay chơi trong giờ làm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 3.16,
+            "relMargin": 0.63
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trên mạng xã hội xuất hiện một trò trắc nghiệm vui “bạn là nhân vật nào trong phim”, nhưng khi tham gia thì ứng dụng đòi quyền truy cập vào toàn bộ hồ sơ cá nhân của Anh/Chị. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Cho phép truy cập ngay vì chỉ là trò chơi cho vui.",
+            "B": "Không tham gia, vì đây có thể là chiêu thu thập dữ liệu cá nhân.",
+            "C": "Cho phép truy cập một phần rồi xem sao.",
+            "D": "Chia sẻ trò chơi cho bạn bè cùng tham gia cho vui."
+          },
+          "explanation": "Các trò trắc nghiệm đòi quyền truy cập hồ sơ cá nhân thường nhằm thu thập dữ liệu người dùng; nên từ chối tham gia để bảo vệ thông tin cá nhân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.67,
+            "relMargin": 0.55
+          }
+        }
+      ]
+    }
+  ]
+}

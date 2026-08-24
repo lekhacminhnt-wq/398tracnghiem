@@ -1,0 +1,914 @@
+{
+  "topicId": 3,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "AI là gì? Tổng quan về trí tuệ nhân tạo",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khẳng định nào sau đây ĐÚNG về Trí tuệ nhân tạo (AI)?",
+          "options": {
+            "A": "AI là chương trình không cần dữ liệu mà vẫn luôn đưa ra quyết định chính xác.",
+            "B": "AI là công nghệ giúp máy tính thực hiện những nhiệm vụ thường cần đến trí tuệ con người, bằng cách học hỏi từ dữ liệu.",
+            "C": "AI tổng quát (thông minh linh hoạt như con người) đã được dùng rộng rãi hiện nay.",
+            "D": "Mọi chương trình máy tính đều được xem là một dạng AI."
+          },
+          "explanation": "AI mô phỏng một phần trí tuệ con người và học từ dữ liệu; AI tổng quát chưa tồn tại, và không phải phần mềm nào cũng là AI.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.01,
+            "relMargin": 0.14
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Loại AI nào đang được sử dụng phổ biến trong thực tế hiện nay?",
+          "options": {
+            "A": "AI tổng quát (General AI) - thông minh linh hoạt như con người.",
+            "B": "AI hẹp (Narrow AI) - giỏi từng việc cụ thể như trả lời câu hỏi, ghi biên bản, phân loại văn bản.",
+            "C": "AI siêu trí tuệ, vượt xa con người.",
+            "D": "Chưa có loại AI nào được dùng trong thực tế."
+          },
+          "explanation": "Mọi công cụ AI hiện nay đều là AI hẹp; AI tổng quát vẫn đang là hướng nghiên cứu tương lai.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.67,
+            "relMargin": 0.25
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là điểm khác biệt cốt lõi giữa AI và phần mềm truyền thống?",
+          "options": {
+            "A": "AI luôn đúng, còn phần mềm thì hay sai.",
+            "B": "AI không cần con người lập trình hay giám sát.",
+            "C": "AI có thể tự học từ dữ liệu để cải thiện theo thời gian, còn phần mềm truyền thống chỉ chạy theo các lệnh cố định cài sẵn.",
+            "D": "AI chỉ làm được việc đơn giản, phần mềm làm được việc phức tạp."
+          },
+          "explanation": "Khả năng tự học từ dữ liệu là điểm khác biệt căn bản; AI vẫn cần con người giám sát và có thể sai. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.64,
+            "relMargin": 0.44
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị A dùng một công cụ AI để tóm tắt một báo cáo dài và thấy bản tóm tắt rất nhanh, gọn. Cách sử dụng đúng đắn nhất là:",
+          "options": {
+            "A": "Tin tưởng hoàn toàn và dùng ngay bản tóm tắt của AI mà không đọc lại.",
+            "B": "Dùng bản tóm tắt của AI làm cơ sở, nhưng đọc và kiểm chứng lại nội dung trước khi sử dụng chính thức, vì AI vẫn có thể sai.",
+            "C": "Không bao giờ dùng AI vì nó không đáng tin.",
+            "D": "Giao hẳn cho AI quyết định nội dung báo cáo trình lãnh đạo."
+          },
+          "explanation": "AI là công cụ hỗ trợ; con người phải kiểm chứng lại kết quả và chịu trách nhiệm cuối cùng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.63,
+            "relMargin": 0.76
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh B định dùng một công cụ AI công cộng trên mạng để soạn nhanh một văn bản, trong đó có thông tin cá nhân của công dân. Anh nên làm gì?",
+          "options": {
+            "A": "Cứ nhập đầy đủ thông tin vào để AI soạn cho chính xác.",
+            "B": "Nhập vào nhưng đổi tên công dân thành tên giả.",
+            "C": "Không nhập thông tin cá nhân của công dân hay dữ liệu nội bộ vào công cụ AI công cộng; chỉ dùng AI cho phần nội dung chung.",
+            "D": "Nhập vào rồi xóa lịch sử trò chuyện là an toàn."
+          },
+          "explanation": "Tuyệt đối không đưa thông tin cá nhân, dữ liệu nội bộ lên công cụ AI công cộng, kể cả khi đã xóa lịch sử.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.3,
+            "relMargin": 0.46
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Các công nghệ cốt lõi của AI",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Công nghệ AI nào cho phép máy tính “tự học” từ dữ liệu thay vì chạy theo các lệnh lập trình cố định?",
+          "options": {
+            "A": "Xử lý ngôn ngữ tự nhiên (NLP).",
+            "B": "Lập trình hướng đối tượng.",
+            "C": "Máy học (Machine Learning).",
+            "D": "Phân tích hệ thống."
+          },
+          "explanation": "Máy học là “động cơ” giúp AI tự rút ra quy luật từ dữ liệu mẫu, thay vì lập trình sẵn từng trường hợp.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1,
+            "relMargin": 0.11
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao các công cụ AI hiện nay nhận dạng giọng nói, hình ảnh ngày càng chính xác?",
+          "options": {
+            "A": "Vì AI được huấn luyện trên lượng dữ liệu rất lớn, tự rút ra quy luật để nhận dạng ngày càng tốt hơn.",
+            "B": "Vì máy tính tự nhiên hiểu được như con người, không cần dữ liệu.",
+            "C": "Vì AI sao chép nguyên trí não con người.",
+            "D": "Vì nhà sản xuất cài sẵn mọi câu trả lời."
+          },
+          "explanation": "Sức mạnh của AI hiện đại đến từ việc học trên dữ liệu lớn; càng nhiều dữ liệu chất lượng, khả năng nhận dạng càng chính xác.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.68,
+            "relMargin": 0.89
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Công nghệ nào giúp máy tính “hiểu, phân tích và tạo ra ngôn ngữ” của con người (như tóm tắt văn bản, nhận lệnh bằng giọng nói)?",
+          "options": {
+            "A": "Thị giác máy tính (Computer Vision).",
+            "B": "Xử lý ngôn ngữ tự nhiên (NLP).",
+            "C": "Robot thông minh (Robotics).",
+            "D": "Hệ chuyên gia (Expert System)."
+          },
+          "explanation": "NLP là công nghệ giúp máy hiểu và tạo ngôn ngữ tự nhiên của con người. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2,
+            "relMargin": 0.59
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A dùng một công cụ AI để tổng hợp báo cáo, và AI đưa ra một số liệu thống kê nghe rất hợp lý. Cách làm đúng nhất trước khi đưa số liệu đó vào báo cáo chính thức là:",
+          "options": {
+            "A": "Dùng ngay, vì AI trả lời rất trôi chảy và tự tin.",
+            "B": "Kiểm chứng lại số liệu đó từ nguồn chính thống, vì AI có thể “bịa” ra thông tin nghe hợp lý nhưng sai sự thật.",
+            "C": "Dùng số liệu đó nhưng không ghi nguồn.",
+            "D": "Tin tưởng vì AI không bao giờ sai."
+          },
+          "explanation": "AI có thể tạo ra thông tin sai một cách trôi chảy; mọi số liệu phải được kiểm chứng từ nguồn chính thống trước khi sử dụng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.83,
+            "relMargin": 0.45
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Hiểu về “giới hạn của AI” giúp ích gì cho cán bộ khi dùng AI trong tham mưu?",
+          "options": {
+            "A": "Để biết rằng có thể giao toàn bộ việc tham mưu cho AI.",
+            "B": "Để ngừng sử dụng AI hoàn toàn vì nó không đáng tin.",
+            "C": "Để dùng AI đúng vai trò trợ lý hỗ trợ (soạn nháp, gợi ý), luôn kiểm chứng kết quả và giữ quyền quyết định ở con người, tránh phụ thuộc sai.",
+            "D": "Để khoe rằng mình hiểu biết về công nghệ."
+          },
+          "explanation": "Hiểu giới hạn của AI giúp dùng nó đúng vai trò công cụ, kiểm chứng kết quả và không phụ thuộc mù quáng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.85,
+            "relMargin": 0.59
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Quy trình phát triển một ứng dụng AI",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Trong quy trình phát triển một ứng dụng AI, bước nào cần thực hiện ĐẦU TIÊN?",
+          "options": {
+            "A": "Thu thập dữ liệu để huấn luyện mô hình.",
+            "B": "Xác định rõ vấn đề/nhiệm vụ cần giải quyết bằng AI.",
+            "C": "Triển khai tích hợp mô hình vào hệ thống đang vận hành.",
+            "D": "Huấn luyện mô hình trên dữ liệu lớn."
+          },
+          "explanation": "Phải xác định đúng bài toán trước; bài toán rõ ràng thì các bước sau mới đúng hướng và dễ đánh giá.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.71,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Điều nào sau đây ĐÚNG về vai trò của dữ liệu trong phát triển AI?",
+          "options": {
+            "A": "Dữ liệu ít hay nhiều không quan trọng, chủ yếu là chọn mô hình thật thông minh.",
+            "B": "Dữ liệu càng chất lượng, đầy đủ thì mô hình AI học càng tốt và kết quả càng chính xác (“đầu vào là rác thì đầu ra cũng là rác”).",
+            "C": "Có thể bỏ qua bước làm sạch dữ liệu nếu mô hình đủ mạnh.",
+            "D": "Sau khi huấn luyện xong thì không cần thu thập thêm dữ liệu mới nữa."
+          },
+          "explanation": "Khoảng 80% thành công của dự án AI nằm ở dữ liệu chất lượng, đầy đủ và đã được làm sạch.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.8,
+            "relMargin": 0.01
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao cần giám sát và cập nhật mô hình AI sau khi đã triển khai?",
+          "options": {
+            "A": "Để kịp thời phát hiện, sửa các trường hợp AI làm sai và cập nhật khi nghiệp vụ, quy định thay đổi, giúp hệ thống luôn chính xác.",
+            "B": "Vì mô hình AI sẽ tự hỏng sau một thời gian dù không có gì thay đổi.",
+            "C": "Để bảo đảm AI không tự học thêm điều gì mà người quản lý không biết.",
+            "D": "Không cần giám sát, vì AI đạt độ chính xác cao thì sẽ luôn đúng mãi."
+          },
+          "explanation": "AI “không phải cài xong là xong”; cần theo dõi, cập nhật liên tục khi thực tế thay đổi và luôn có con người kiểm soát. Phần tình huống công vụ",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.76,
+            "relMargin": 0.41
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đơn vị của anh A muốn xây dựng một trợ lý ảo trả lời câu hỏi thủ tục cho người dân. Theo quy trình, việc anh A (cán bộ nghiệp vụ) đóng góp giá trị nhất là gì?",
+          "options": {
+            "A": "Tự mình lập trình mô hình AI.",
+            "B": "Chỉ ra đúng nhu cầu thực tế và cung cấp bộ câu hỏi - câu trả lời chuẩn, đầy đủ để làm dữ liệu huấn luyện.",
+            "C": "Quyết định chọn loại mạng nơ-ron và tham số kỹ thuật.",
+            "D": "Tự mua máy chủ GPU để cài đặt."
+          },
+          "explanation": "Cán bộ nghiệp vụ đóng vai trò ở khâu xác định bài toán và cung cấp dữ liệu chuẩn - phần kỹ thuật do nhóm chuyên môn đảm nhận.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.07,
+            "relMargin": 0.34
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi chuẩn bị dữ liệu để huấn luyện một ứng dụng AI cho cơ quan, cách làm nào ĐÚNG về an toàn dữ liệu?",
+          "options": {
+            "A": "Đưa toàn bộ hồ sơ chứa thông tin cá nhân của người dân lên một dịch vụ AI bên ngoài cho nhanh.",
+            "B": "Chỉ sử dụng dữ liệu trong phạm vi được phép, đúng mục đích; không đưa dữ liệu mật, dữ liệu cá nhân ra ngoài phạm vi cho phép.",
+            "C": "Dùng mọi dữ liệu sẵn có, miễn là mô hình chính xác hơn.",
+            "D": "Sao chép dữ liệu nội bộ về máy cá nhân để xử lý cho tiện."
+          },
+          "explanation": "Dữ liệu vừa phải chất lượng, vừa phải an toàn; tuyệt đối không để lộ lọt dữ liệu mật, dữ liệu cá nhân ra ngoài phạm vi cho phép.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.32,
+            "relMargin": 0.61
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "AI - động lực của Chuyển đổi số quốc gia",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo nghiên cứu của Google (công bố cuối năm 2024), AI có thể mang lại lợi ích kinh tế khoảng bao nhiêu cho Việt Nam vào năm 2030 nếu được ứng dụng rộng rãi?",
+          "options": {
+            "A": "Khoảng 1% GDP (\\~6 tỷ USD).",
+            "B": "Khoảng 5% GDP (\\~40 tỷ USD).",
+            "C": "Khoảng 12% GDP (\\~79 tỷ USD).",
+            "D": "Không đáng kể, dưới 0,5% GDP."
+          },
+          "explanation": "Google ước tính AI có thể mang lại khoảng 79,3 tỷ USD - tương đương gần 12% GDP của Việt Nam vào năm 2030.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.3,
+            "relMargin": 0.69
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao AI được coi là “động lực” của chuyển đổi số, chứ không chỉ là số hóa thông thường?",
+          "options": {
+            "A": "Vì AI giúp quét và lưu trữ tài liệu giấy nhanh hơn.",
+            "B": "Vì AI giúp tự động hóa thông minh, dự báo, khuyến nghị dựa trên dữ liệu, và tạo ra dịch vụ công thông minh phục vụ người dân tốt hơn.",
+            "C": "Vì AI thay thế hoàn toàn con người trong mọi khâu.",
+            "D": "Vì AI chỉ dùng để trang trí cho hệ thống thêm hiện đại."
+          },
+          "explanation": "AI tái thiết quy trình và tạo giá trị mới, khác với số hóa đơn thuần là chuyển giấy sang dạng số.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.47,
+            "relMargin": 0.2
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Nội dung nào sau đây KHÔNG nằm trong định hướng Chiến lược quốc gia về AI đến 2030 của Việt Nam?",
+          "options": {
+            "A": "Đào tạo và thu hút nguồn nhân lực chất lượng cao về AI.",
+            "B": "Xây dựng các trung tâm dữ liệu lớn, hình thành các bộ dữ liệu mở.",
+            "C": "Cấm hoàn toàn việc sử dụng AI trong các dịch vụ công vì rủi ro cao.",
+            "D": "Đưa Việt Nam vào nhóm 4 nước dẫn đầu khu vực ASEAN về AI."
+          },
+          "explanation": "Chiến lược hướng tới thúc đẩy phát triển và ứng dụng AI, không hề cấm dùng AI trong dịch vụ công. Phần tình huống công vụ",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.17,
+            "relMargin": 0.85
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A cho rằng: “Chiến lược AI quốc gia là việc tầm vĩ mô của lãnh đạo, không liên quan đến cán bộ như tôi”. Quan điểm phù hợp hơn là:",
+          "options": {
+            "A": "Đúng, vì cán bộ bình thường không thể đóng góp gì cho chiến lược lớn.",
+            "B": "Chưa đúng; năng lực AI của cả quốc gia được cộng lại từ năng lực của từng cán bộ, nên mỗi người biết ứng dụng AI vào công việc đều góp phần thực hiện chiến lược.",
+            "C": "Đúng, vì chiến lược chỉ nằm trên giấy tờ.",
+            "D": "Đúng, AI là việc của riêng bộ phận công nghệ thông tin."
+          },
+          "explanation": "Chủ trương lớn được hiện thực hóa bởi từng cán bộ; mỗi người ứng dụng AI vào việc của mình là một đóng góp cụ thể.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.82,
+            "relMargin": 0.26
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Hưởng ứng định hướng ứng dụng AI, chị B muốn bắt đầu đưa AI vào công việc. Cách bắt đầu hợp lý và an toàn nhất là:",
+          "options": {
+            "A": "Đưa ngay toàn bộ hồ sơ công dân lên một công cụ AI công cộng để xử lý cho nhanh.",
+            "B": "Chọn một việc lặp lại trong phạm vi cho phép để thử nghiệm AI ở quy mô nhỏ, kiểm chứng kết quả, và không nhập dữ liệu mật hay thông tin cá nhân của dân.",
+            "C": "Chờ đến khi có chỉ đạo bắt buộc mới bắt đầu tìm hiểu.",
+            "D": "Giao hết phần việc chuyên môn của mình cho AI quyết định."
+          },
+          "explanation": "Nên bắt đầu từ việc nhỏ, thử nghiệm an toàn, kiểm chứng kết quả và tuyệt đối giữ nguyên tắc an toàn dữ liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.85,
+            "relMargin": 0.62
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Trợ lý ảo, chatbot phục vụ người dân",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Chatbot” được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Một loại robot hình người đặt tại bộ phận một cửa.",
+            "B": "Một phần mềm AI có thể trò chuyện với con người bằng ngôn ngữ tự nhiên (gõ chữ hoặc giọng nói) để trả lời câu hỏi tự động.",
+            "C": "Một trang web tra cứu thủ tục hành chính.",
+            "D": "Một ứng dụng gọi điện video với cán bộ."
+          },
+          "explanation": "Chatbot là phần mềm AI đối thoại bằng ngôn ngữ tự nhiên, trả lời dựa trên dữ liệu đã được huấn luyện.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.57,
+            "relMargin": 0.87
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Lợi ích nổi bật nhất của chatbot khi hỗ trợ người dân trong dịch vụ công là gì?",
+          "options": {
+            "A": "Chatbot xử lý được mọi trường hợp phức tạp, đòi hỏi cảm xúc như con người.",
+            "B": "Chatbot phục vụ 24/7, trả lời nhanh số lượng lớn câu hỏi lặp lại, tiết kiệm thời gian cho cả người dân và cán bộ.",
+            "C": "Chatbot tự động ban hành các quyết định hành chính thay cán bộ.",
+            "D": "Chatbot không bao giờ sai, luôn chính xác 100%."
+          },
+          "explanation": "Thế mạnh của chatbot là phục vụ liên tục, đồng thời cho số đông, với thông tin nhất quán.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.42,
+            "relMargin": 0.06
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi triển khai chatbot trong cơ quan nhà nước, yếu tố nào sau đây cần được bảo đảm?",
+          "options": {
+            "A": "Chatbot phải thay thế hoàn toàn nhân viên để tiết kiệm chi phí.",
+            "B": "Thường xuyên cập nhật dữ liệu cho chatbot, và có kênh để người dân gặp cán bộ thật khi chatbot không giải quyết được.",
+            "C": "Không cho người dân biết mình đang nói chuyện với chatbot.",
+            "D": "Chỉ cho chatbot hoạt động trong giờ hành chính."
+          },
+          "explanation": "Chatbot cần được cập nhật liên tục và luôn có phương án chuyển sang con người; nên minh bạch để người dân biết đang dùng chatbot. Phần tình huống công vụ",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.86,
+            "relMargin": 0.39
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Một người dân hỏi chatbot một tình huống phức tạp, nhạy cảm; chatbot trả lời mấy lần vẫn chưa đúng ý. Hệ thống nên được thiết kế thế nào cho phù hợp?",
+          "options": {
+            "A": "Bắt người dân tiếp tục hỏi lại chatbot cho đến khi ra kết quả.",
+            "B": "Cho phép chuyển ngay sang cán bộ thật để hỗ trợ, tránh để người dân mắc kẹt với chatbot.",
+            "C": "Tự động đóng cửa sổ chat để người dân tự xoay xở.",
+            "D": "Để chatbot đưa ra một câu trả lời bất kỳ cho xong."
+          },
+          "explanation": "Cần có cơ chế chuyển tuyến sang con người khi chatbot không đáp ứng được, bảo đảm trải nghiệm không bị gián đoạn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.02,
+            "relMargin": 0.8
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Cơ quan của chị B chuẩn bị xây dựng chatbot trả lời thủ tục cho người dân. Theo bài học, khâu quan trọng nhất mà cán bộ nghiệp vụ cần đóng góp là gì?",
+          "options": {
+            "A": "Chọn màu sắc, giao diện cho cửa sổ chat.",
+            "B": "Xây dựng kho câu hỏi - câu trả lời chuẩn, vừa chính xác về pháp lý vừa dễ hiểu, thân thiện với người dân.",
+            "C": "Quyết định dùng loại máy chủ nào để chạy chatbot.",
+            "D": "Tự viết mã lập trình cho chatbot."
+          },
+          "explanation": "Chất lượng chatbot phụ thuộc vào kho dữ liệu hỏi - đáp chuẩn do cán bộ nghiệp vụ xây dựng; phần kỹ thuật do nhóm chuyên môn lo.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.09,
+            "relMargin": 0.63
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 6,
+      "lessonTitle": "Ứng dụng AI trong xử lý văn bản và nghiệp vụ nội bộ",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Công nghệ OCR kết hợp AI giúp ích gì cho việc xử lý công văn giấy tờ trong cơ quan?",
+          "options": {
+            "A": "Chuyển tài liệu giấy thành văn bản số và tự động phân loại, chuyển công văn đến đúng bộ phận phụ trách.",
+            "B": "Ép buộc tất cả công văn phải ở dạng giấy, không cho dùng bản số.",
+            "C": "Xóa bỏ hoàn toàn vai trò của bộ phận văn thư vì AI tự làm hết mọi việc.",
+            "D": "Chỉ dùng để in văn bản ra giấy cho đẹp hơn."
+          },
+          "explanation": "OCR biến văn bản giấy thành chữ số, AI đọc hiểu để phân loại và chuyển đúng nơi; cán bộ văn thư chỉ xử lý các trường hợp khó.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.27,
+            "relMargin": 0.56
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "AI có thể hỗ trợ việc kiểm tra, rà soát văn bản bằng cách nào?",
+          "options": {
+            "A": "Đọc hiểu nội dung và trực tiếp quyết định ban hành hay không ban hành văn bản.",
+            "B": "Tự động phát hiện các đoạn trùng lặp hoặc mâu thuẫn, cảnh báo điểm thiếu nhất quán, giúp cán bộ không bỏ sót điểm cần chú ý.",
+            "C": "Thay thế hoàn toàn cán bộ chuyên môn trong việc rà soát.",
+            "D": "Tự viết ra các quy định mới mà không cần ý kiến con người."
+          },
+          "explanation": "AI giúp phát hiện trùng lặp, mâu thuẫn, thiếu nhất quán để gợi ý; quyết định cuối cùng vẫn thuộc về cán bộ chuyên môn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.37,
+            "relMargin": 0.67
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Tinh thần “AI làm nhanh, người làm chuẩn” trong xử lý văn bản nội bộ nghĩa là gì?",
+          "options": {
+            "A": "Giao toàn bộ việc cho AI để con người khỏi phải làm.",
+            "B": "AI đảm nhận phần việc lặp lại, tẻ nhạt; con người giữ vai trò kiểm soát, kiểm chứng và quyết định cuối cùng.",
+            "C": "Con người làm tất cả, không cần dùng AI.",
+            "D": "AI và con người không liên quan đến nhau."
+          },
+          "explanation": "AI tăng tốc phần việc thô; con người bảo đảm tính chính xác và chịu trách nhiệm về kết quả. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.69,
+            "relMargin": 0.49
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A dùng AI tóm tắt một báo cáo dài để trình lãnh đạo. Cách làm đúng nhất là:",
+          "options": {
+            "A": "Gửi thẳng bản tóm tắt của AI cho lãnh đạo mà không đọc lại.",
+            "B": "Dùng bản tóm tắt của AI làm cơ sở, nhưng đọc lại và đối chiếu với bản gốc ở các điểm quan trọng trước khi sử dụng, vì AI có thể hiểu sai hoặc bỏ sót.",
+            "C": "Tin tưởng tuyệt đối vì AI tóm tắt luôn chính xác.",
+            "D": "Không bao giờ dùng AI để tóm tắt vì không đáng tin."
+          },
+          "explanation": "Bản tóm tắt của AI là bước khởi đầu; cần kiểm chứng lại với bản gốc trước khi dùng chính thức.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.94,
+            "relMargin": 0.47
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B muốn nhờ một công cụ AI công cộng rà lỗi cho một văn bản nội bộ chưa được phép công bố. Theo “quy tắc ba không”, chị nên:",
+          "options": {
+            "A": "Cứ dán toàn bộ văn bản nội bộ vào để AI rà cho nhanh.",
+            "B": "Dán vào nhưng nhớ xóa lịch sử sau khi xong.",
+            "C": "Không đưa tài liệu nội bộ chưa được phép lên công cụ AI công cộng; chỉ dùng AI cho nội dung đã công khai hoặc dùng công cụ được cơ quan cho phép.",
+            "D": "Nhờ người khác dán hộ để tránh trách nhiệm."
+          },
+          "explanation": "Quy tắc ba không: không đưa tài liệu mật, nội bộ chưa được phép lên công cụ AI công cộng, kể cả khi đã xóa lịch sử.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.96,
+            "relMargin": 0.61
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 7,
+      "lessonTitle": "Phân tích dữ liệu bằng AI hỗ trợ ra quyết định",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "AI có thể giúp cơ quan nắm bắt mối quan tâm của người dân ở quy mô lớn bằng cách nào?",
+          "options": {
+            "A": "Thay con người đi gặp gỡ và tự ghi nhận mọi ý kiến, không cần cán bộ tham gia.",
+            "B": "Phân tích hàng loạt phản ánh, bài viết công khai để thống kê các chủ đề người dân quan tâm và thái độ chung (ủng hộ/băn khoăn) về các chủ đề đó.",
+            "C": "Bắt buộc mỗi người dân nộp ý kiến qua một biểu mẫu thống nhất.",
+            "D": "Chỉ lấy ý kiến từ một nhóm nhỏ, bỏ qua mọi dữ liệu công khai."
+          },
+          "explanation": "AI gom nhóm chủ đề và phân tích thái độ từ lượng lớn dữ liệu công khai, giúp nhận diện vấn đề “nóng” cần ưu tiên.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.12,
+            "relMargin": 0.11
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“Phòng thí nghiệm chính sách ảo” đề cập đến việc gì?",
+          "options": {
+            "A": "Dùng AI mô phỏng, dự báo trước tác động của một phương án để người ra quyết định tham khảo các kịch bản.",
+            "B": "Một phòng thí nghiệm hóa học do robot AI quản lý.",
+            "C": "Nơi AI tự động thông qua hoặc bác bỏ một phương án mà không cần con người.",
+            "D": "Một phần mềm soạn thảo văn bản chính sách tự động."
+          },
+          "explanation": "Đây là cách dùng AI và dữ liệu để giả lập kịch bản tác động trước khi quyết định, chỉ mang tính tham khảo.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.36,
+            "relMargin": 0.88
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Ba câu hỏi cần nhớ khi làm việc với dữ liệu cùng AI là gì?",
+          "options": {
+            "A": "Ai làm? Bao giờ xong? Tốn bao nhiêu tiền?",
+            "B": "Số liệu từ đâu? Số liệu nói lên điều gì? Vậy ta nên làm gì?",
+            "C": "Máy nào? Phần mềm nào? Mạng nào?",
+            "D": "Đúng hay sai? Nhanh hay chậm? Đắt hay rẻ?"
+          },
+          "explanation": "Ba câu hỏi “Số liệu từ đâu - Số liệu nói lên điều gì - Vậy ta nên làm gì” giúp biến số liệu thành thông tin rõ ràng, có thể hành động. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.46,
+            "relMargin": 0.82
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "AI phân tích số liệu và cho thấy hai hiện tượng thường “đi cùng nhau”. Cách hiểu đúng là:",
+          "options": {
+            "A": "Chắc chắn hiện tượng này là nguyên nhân gây ra hiện tượng kia.",
+            "B": "Hai hiện tượng đi cùng nhau không có nghĩa cái này là nguyên nhân của cái kia; cần con người kiểm chứng nguyên nhân thật sự trước khi kết luận.",
+            "C": "Cứ ra quyết định ngay dựa trên mối liên hệ đó.",
+            "D": "Bỏ qua hoàn toàn vì AI luôn sai."
+          },
+          "explanation": "“Đi cùng nhau” chỉ là gợi ý; AI nêu điểm cần chú ý, còn xác định nguyên nhân là việc của con người.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.38,
+            "relMargin": 0.73
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Lãnh đạo giao chị B dùng AI phân tích dữ liệu để tham mưu một phương án. Cách làm đúng tinh thần “dữ liệu soi đường, con người cầm lái” là:",
+          "options": {
+            "A": "Lấy thẳng kết luận AI đưa ra làm quyết định cuối cùng, khỏi cân nhắc.",
+            "B": "Dùng phân tích của AI làm một kênh bằng chứng, đối chiếu nhiều nguồn, rồi con người cân nhắc các yếu tố và chịu trách nhiệm về quyết định.",
+            "C": "Bỏ qua dữ liệu, chỉ quyết theo cảm tính cho nhanh.",
+            "D": "Đưa toàn bộ dữ liệu mật của cơ quan lên công cụ AI công cộng để phân tích."
+          },
+          "explanation": "AI hỗ trợ thông tin; con người đối chiếu, cân nhắc và quyết định, đồng thời giữ nguyên tắc an toàn dữ liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.24,
+            "relMargin": 0.59
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 8,
+      "lessonTitle": "AI trong lĩnh vực công - lợi ích và thách thức",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu KHÔNG phải là một lợi ích của AI đối với dịch vụ công?",
+          "options": {
+            "A": "Tự động hóa giúp xử lý khối lượng công việc lớn nhanh hơn, giảm thời gian chờ cho người dân.",
+            "B": "Giúp ra quyết định dựa trên phân tích dữ liệu khách quan hơn là cảm tính.",
+            "C": "Bảo đảm 100% không bao giờ có sai sót hay bất công, nên không cần con người giám sát nữa.",
+            "D": "Cá nhân hóa dịch vụ (giáo dục, y tế) phù hợp với nhu cầu của từng người dân."
+          },
+          "explanation": "AI vẫn có thể sai và thiên lệch, nên luôn cần con người giám sát; AI không bảo đảm tuyệt đối không sai sót.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 2.09,
+            "relMargin": 0.89
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là một thách thức quan trọng khi triển khai AI trong cơ quan nhà nước?",
+          "options": {
+            "A": "Chi phí ban đầu cao, đòi hỏi hạ tầng công nghệ và dữ liệu được đầu tư đồng bộ.",
+            "B": "AI tự đề ra được mọi chính sách, nên vai trò của con người trở nên không cần thiết.",
+            "C": "AI hoàn toàn miễn phí và dễ triển khai, áp dụng ngay không cần đào tạo hay quy định.",
+            "D": "Không có nguy cơ gì về dữ liệu vì AI không dùng dữ liệu cá nhân."
+          },
+          "explanation": "Hạ tầng và chi phí là một trong các thách thức lớn; giải pháp là làm từng bước và tận dụng dịch vụ đám mây, đối tác.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.75,
+            "relMargin": 0.63
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "“Sự thiên lệch” (bias) của AI trong lĩnh vực công nên được hiểu như thế nào?",
+          "options": {
+            "A": "AI luôn khách quan tuyệt đối nên không bao giờ thiên lệch.",
+            "B": "Nếu dữ liệu huấn luyện đã thiên lệch thì kết quả của AI có thể thiếu công bằng, nên cần con người kiểm soát.",
+            "C": "Thiên lệch chỉ xảy ra do lỗi của người dùng, không liên quan đến dữ liệu.",
+            "D": "Thiên lệch là điều không thể nhận biết và không thể khắc phục."
+          },
+          "explanation": "AI học từ dữ liệu; dữ liệu thiên lệch dẫn tới kết quả thiếu công bằng, do đó cần con người kiểm soát để bảo đảm khách quan. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 2.55,
+            "relMargin": 0.61
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Cơ quan của anh A muốn triển khai một hệ thống AI có sử dụng dữ liệu cá nhân của người dân. Cách làm đúng đắn nhất là:",
+          "options": {
+            "A": "Thu thập càng nhiều dữ liệu càng tốt để AI chạy chính xác, không cần báo cho người dân.",
+            "B": "Chỉ thu thập dữ liệu thật sự cần thiết, bảo mật và minh bạch với người dân, tuân thủ quy định pháp luật về bảo vệ dữ liệu cá nhân.",
+            "C": "Dùng mọi dữ liệu sẵn có mà không cần quan tâm đến quyền riêng tư.",
+            "D": "Công khai toàn bộ dữ liệu cá nhân để bảo đảm minh bạch."
+          },
+          "explanation": "Nguyên tắc là bảo vệ riêng tư từ khâu thiết kế: thu thập tối thiểu, bảo mật, minh bạch và tuân thủ Luật Bảo vệ dữ liệu cá nhân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.67,
+            "relMargin": 0.58
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một cán bộ lo lắng: “AI sẽ khiến nhiều người mất việc”. Cách nhìn cân bằng và phù hợp nhất là:",
+          "options": {
+            "A": "Đúng hoàn toàn, nên phản đối việc đưa AI vào cơ quan.",
+            "B": "AI có thể thay đổi một số công việc, nhưng nếu có kế hoạch đào tạo lại kỹ năng và bố trí phù hợp, con người sẽ chuyển sang những việc giá trị hơn mà AI không làm được.",
+            "C": "Không cần quan tâm, cứ để tự nhiên muốn ra sao thì ra.",
+            "D": "AI sẽ thay thế hoàn toàn con người, nên không cần đào tạo gì thêm."
+          },
+          "explanation": "Thách thức về nhân lực có thể giải quyết bằng đào tạo lại và bố trí công việc phù hợp; con người tập trung vào việc cần tư duy, đồng cảm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.84,
+            "relMargin": 0.48
+          }
+        }
+      ]
+    },
+    {
+      "lessonOrder": 9,
+      "lessonTitle": "Quy trình sử dụng AI an toàn - Nguyên tắc “Dữ liệu nào, công cụ đó”",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“AI tạo sinh” (Generative AI) như ChatGPT, Gemini có đặc điểm gì?",
+          "options": {
+            "A": "Chỉ tra cứu và sao chép y nguyên thông tin có sẵn trên mạng.",
+            "B": "Có khả năng tạo ra nội dung mới (văn bản, hình ảnh...) và trò chuyện bằng ngôn ngữ tự nhiên dựa trên dữ liệu đã học.",
+            "C": "Là một phần mềm kế toán chuyên dụng.",
+            "D": "Chỉ hoạt động được khi người dùng biết lập trình."
+          },
+          "explanation": "AI tạo sinh tạo nội dung mới và đối thoại bằng ngôn ngữ tự nhiên; người dùng không cần biết lập trình.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 1.64,
+            "relMargin": 0
+          }
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Một câu lệnh (prompt) tốt thường gồm ba phần nào?",
+          "options": {
+            "A": "Tên người dùng - ngày tháng - chữ ký.",
+            "B": "Giao vai trò - nêu rõ nhiệm vụ - giới hạn phong cách, độ dài.",
+            "C": "Lời chào - lời cảm ơn - lời chúc.",
+            "D": "Mật khẩu - tài khoản - đường link."
+          },
+          "explanation": "Công thức “vai trò - nhiệm vụ - phong cách” giúp AI hiểu rõ yêu cầu và cho kết quả sát ý hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 1.67,
+            "relMargin": 1
+          }
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc “Dữ liệu nào, công cụ đó” khi sử dụng AI trong công vụ nghĩa là gì?",
+          "options": {
+            "A": "Dữ liệu nào cũng có thể nhập vào bất kỳ công cụ AI nào cho tiện.",
+            "B": "Tùy tính chất dữ liệu mà chọn nơi xử lý phù hợp: thông tin công khai có thể dùng AI công cộng, còn dữ liệu mật, nội bộ, thông tin cá nhân thì chỉ xử lý trên công cụ được cơ quan cho phép.",
+            "C": "Chỉ dùng một công cụ AI duy nhất cho mọi loại dữ liệu.",
+            "D": "Công cụ nào miễn phí thì nhập dữ liệu nào cũng được."
+          },
+          "explanation": "Nguyên tắc này yêu cầu phân loại dữ liệu trước khi chọn công cụ; dữ liệu nhạy cảm tuyệt đối không đưa lên AI công cộng. Phần tình huống công vụ",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.57,
+            "relMargin": 0.04
+          }
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị A cần nhờ một công cụ AI công cộng giúp diễn đạt lại một văn bản có chứa tên và số căn cước của một công dân. Cách làm đúng nhất là:",
+          "options": {
+            "A": "Nhập nguyên văn cả tên và số căn cước để AI xử lý cho chính xác.",
+            "B": "Ẩn danh trước khi nhập - bỏ hoặc thay tên thật bằng “Ông A”, che số căn cước - rồi mới nhờ AI hỗ trợ phần diễn đạt.",
+            "C": "Nhập đầy đủ nhưng xóa lịch sử trò chuyện sau khi xong là an toàn.",
+            "D": "Nhờ người khác nhập hộ để tránh trách nhiệm."
+          },
+          "explanation": "Cần ẩn danh, loại bỏ thông tin nhận dạng của người dân trước khi dùng công cụ AI công cộng; không nhập dữ liệu cá nhân nguyên gốc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "manually-verified",
+          "confidence": {
+            "top": 0.63,
+            "relMargin": 0.02
+          }
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trước khi nhập một nội dung vào công cụ AI công cộng, câu hỏi quan trọng nhất mà cán bộ nên tự đặt ra là gì?",
+          "options": {
+            "A": "“Công cụ này có giao diện đẹp không?”",
+            "B": "“Thông tin này đã công khai chưa, có chứa bí mật hay thông tin cá nhân của ai không?” - nếu có thì dừng lại hoặc chỉ dùng công cụ được cơ quan cho phép.",
+            "C": "“Công cụ này có nhiều người dùng không?”",
+            "D": "“Mình có thể dùng xong trước giờ nghỉ trưa không?”"
+          },
+          "explanation": "Luôn rà soát tính chất dữ liệu trước khi nhập; dữ liệu mật, nội bộ, cá nhân không được đưa lên công cụ AI công cộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "inferred-from-explanation",
+          "confidence": {
+            "top": 0.65,
+            "relMargin": 0.45
+          }
+        }
+      ]
+    }
+  ]
+}

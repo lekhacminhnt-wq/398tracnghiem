@@ -1,0 +1,97 @@
+// Prisma schema — website thi trắc nghiệm "Bình dân học vụ số" (Nghị quyết 398)
+
+generator client {
+  provider = "prisma-client"
+  output   = "../lib/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id            String          @id @default(cuid())
+  fullName      String
+  email         String          @unique
+  agency        String
+  phone         String
+  createdAt     DateTime        @default(now())
+  lessonAttempts LessonAttempt[]
+  examAttempts   ExamAttempt[]
+}
+
+model Topic {
+  id          Int      @id
+  order       Int      @unique
+  title       String
+  lessonCount Int
+  lessons     Lesson[]
+}
+
+model Lesson {
+  id       String   @id @default(cuid())
+  topicId  Int
+  topic    Topic    @relation(fields: [topicId], references: [id])
+  order    Int
+  title    String
+  status   String   // "READY" | "PENDING"
+  questions Question[]
+  attempts LessonAttempt[]
+
+  @@unique([topicId, order])
+}
+
+model Question {
+  id          String   @id @default(cuid())
+  lessonId    String?
+  lesson      Lesson?  @relation(fields: [lessonId], references: [id])
+  examSetId   String?  // "demo" | "official" — for final-exam question pool
+  order       Int
+  type        String   // "KNOWLEDGE" | "SITUATION"
+  text        String
+  explanation String
+  isTrueFalse Boolean  @default(false)
+  source      String   // "explicit-letter" | "manually-verified" | "inferred-from-explanation"
+  options     Option[]
+}
+
+model Option {
+  id         String   @id @default(cuid())
+  questionId String
+  question   Question @relation(fields: [questionId], references: [id])
+  label      String   // A | B | C | D
+  text       String
+  isCorrect  Boolean  @default(false)
+}
+
+model LessonAttempt {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  lessonId  String
+  lesson    Lesson   @relation(fields: [lessonId], references: [id])
+  score     Int
+  total     Int
+  passed    Boolean
+  answers   Json
+  createdAt DateTime @default(now())
+
+  @@index([userId, lessonId])
+}
+
+model ExamAttempt {
+  id            String    @id @default(cuid())
+  userId        String
+  user          User      @relation(fields: [userId], references: [id])
+  examSetId     String    // "demo" | "official"
+  questionOrder Json?     // snapshot thứ tự câu hỏi/đáp án đã trộn, dùng để hiển thị nhất quán khi tải lại trang
+  score         Int?
+  total         Int?
+  passed        Boolean?
+  answers       Json?
+  startedAt     DateTime  @default(now())
+  submittedAt   DateTime?
+  createdAt     DateTime  @default(now())
+
+  @@index([userId])
+}

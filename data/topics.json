@@ -1,0 +1,952 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Kiến thức, kỹ năng cơ bản về chuyển đổi số",
+      "lessonCount": 8
+    },
+    {
+      "id": 2,
+      "title": "Kiến thức công nghệ số cơ bản",
+      "lessonCount": 2
+    },
+    {
+      "id": 3,
+      "title": "Kiến thức, kỹ năng số về AI",
+      "lessonCount": 9
+    },
+    {
+      "id": 4,
+      "title": "Sử dụng thiết bị số",
+      "lessonCount": 5
+    },
+    {
+      "id": 5,
+      "title": "Các phần mềm, ứng dụng phổ biến",
+      "lessonCount": 5
+    },
+    {
+      "id": 6,
+      "title": "Kỹ năng tìm kiếm, kiểm chứng và quản lý thông tin số",
+      "lessonCount": 3
+    },
+    {
+      "id": 7,
+      "title": "Kiểm chứng và xác thực dữ liệu, thông tin và nội dung số",
+      "lessonCount": 5
+    },
+    {
+      "id": 8,
+      "title": "Quản lý dữ liệu, thông tin và nội dung số",
+      "lessonCount": 6
+    },
+    {
+      "id": 9,
+      "title": "Tương tác thông qua công nghệ số",
+      "lessonCount": 6
+    },
+    {
+      "id": 10,
+      "title": "Kỹ năng số",
+      "lessonCount": 5
+    },
+    {
+      "id": 11,
+      "title": "Thực thi quyền và nghĩa vụ của công dân trên không gian số",
+      "lessonCount": 5
+    },
+    {
+      "id": 12,
+      "title": "Hợp tác thông qua sử dụng công nghệ số",
+      "lessonCount": 5
+    },
+    {
+      "id": 13,
+      "title": "Hợp tác thông qua sử dụng công nghệ số (kỹ năng tổng hợp)",
+      "lessonCount": 5
+    },
+    {
+      "id": 14,
+      "title": "Quản lý danh tính số",
+      "lessonCount": 6
+    },
+    {
+      "id": 15,
+      "title": "Kết hợp và tái tạo nội dung số",
+      "lessonCount": 5
+    },
+    {
+      "id": 16,
+      "title": "Kỹ năng tích hợp và sáng tạo nội dung số",
+      "lessonCount": 5
+    },
+    {
+      "id": 17,
+      "title": "Tuân thủ quy định về bản quyền, giấy phép",
+      "lessonCount": 5
+    },
+    {
+      "id": 18,
+      "title": "Lập trình cơ bản",
+      "lessonCount": 5
+    },
+    {
+      "id": 19,
+      "title": "Bảo vệ thiết bị cá nhân",
+      "lessonCount": 6
+    },
+    {
+      "id": 20,
+      "title": "Bảo vệ dữ liệu cá nhân và quyền riêng tư",
+      "lessonCount": 5
+    },
+    {
+      "id": 21,
+      "title": "Bảo vệ sức khỏe thể chất, tinh thần khi sử dụng công nghệ số",
+      "lessonCount": 5
+    },
+    {
+      "id": 22,
+      "title": "Bảo vệ môi trường trong chuyển đổi số xanh",
+      "lessonCount": 5
+    },
+    {
+      "id": 23,
+      "title": "Giải quyết các vấn đề kỹ thuật",
+      "lessonCount": 5
+    },
+    {
+      "id": 24,
+      "title": "Xác định nhu cầu, lựa chọn giải pháp công nghệ",
+      "lessonCount": 5
+    },
+    {
+      "id": 25,
+      "title": "Sử dụng sáng tạo công nghệ số",
+      "lessonCount": 5
+    },
+    {
+      "id": 26,
+      "title": "Xác định khoảng cách về năng lực số",
+      "lessonCount": 5
+    }
+  ],
+  "lessons": [
+    {
+      "topicId": 1,
+      "order": 1,
+      "title": "Khái niệm và tầm quan trọng của Chuyển đổi số",
+      "status": "READY"
+    },
+    {
+      "topicId": 1,
+      "order": 2,
+      "title": "Các công nghệ số cốt lõi trong chuyển đổi số",
+      "status": "READY"
+    },
+    {
+      "topicId": 1,
+      "order": 3,
+      "title": "Chính phủ số, kinh tế số và xã hội số - ba trụ cột cốt lõi của Chuyển đổi số quốc gia",
+      "status": "READY"
+    },
+    {
+      "topicId": 1,
+      "order": 4,
+      "title": "Tư duy số và văn hóa số trong cơ quan nhà nước",
+      "status": "READY"
+    },
+    {
+      "topicId": 1,
+      "order": 5,
+      "title": "Quản lý dữ liệu và ra quyết định dựa trên dữ liệu",
+      "status": "READY"
+    },
+    {
+      "topicId": 1,
+      "order": 6,
+      "title": "An toàn thông tin và an ninh mạng trong môi trường số",
+      "status": "READY"
+    },
+    {
+      "topicId": 1,
+      "order": 7,
+      "title": "Sử dụng công cụ số trong công việc của cán bộ, công chức, viên chức",
+      "status": "READY"
+    },
+    {
+      "topicId": 1,
+      "order": 8,
+      "title": "Kỹ năng giao tiếp trực tuyến và tương tác với người dân trong thời đại số",
+      "status": "READY"
+    },
+    {
+      "topicId": 2,
+      "order": 1,
+      "title": "Chuyển đổi số - khái niệm và lợi ích",
+      "status": "READY"
+    },
+    {
+      "topicId": 2,
+      "order": 2,
+      "title": "Công nghệ số - các công nghệ cốt lõi hiện nay",
+      "status": "READY"
+    },
+    {
+      "topicId": 3,
+      "order": 1,
+      "title": "AI là gì? Tổng quan về trí tuệ nhân tạo",
+      "status": "READY"
+    },
+    {
+      "topicId": 3,
+      "order": 2,
+      "title": "Các công nghệ cốt lõi của AI",
+      "status": "READY"
+    },
+    {
+      "topicId": 3,
+      "order": 3,
+      "title": "Quy trình phát triển một ứng dụng AI",
+      "status": "READY"
+    },
+    {
+      "topicId": 3,
+      "order": 4,
+      "title": "AI - động lực của Chuyển đổi số quốc gia",
+      "status": "READY"
+    },
+    {
+      "topicId": 3,
+      "order": 5,
+      "title": "Trợ lý ảo, chatbot phục vụ người dân",
+      "status": "READY"
+    },
+    {
+      "topicId": 3,
+      "order": 6,
+      "title": "Ứng dụng AI trong xử lý văn bản và nghiệp vụ nội bộ",
+      "status": "READY"
+    },
+    {
+      "topicId": 3,
+      "order": 7,
+      "title": "Phân tích dữ liệu bằng AI hỗ trợ ra quyết định",
+      "status": "READY"
+    },
+    {
+      "topicId": 3,
+      "order": 8,
+      "title": "AI trong lĩnh vực công - lợi ích và thách thức",
+      "status": "READY"
+    },
+    {
+      "topicId": 3,
+      "order": 9,
+      "title": "Quy trình sử dụng AI an toàn - Nguyên tắc “Dữ liệu nào, công cụ đó”",
+      "status": "READY"
+    },
+    {
+      "topicId": 4,
+      "order": 1,
+      "title": "Kết nối thiết bị và Internet an toàn mọi lúc, mọi nơi",
+      "status": "READY"
+    },
+    {
+      "topicId": 4,
+      "order": 2,
+      "title": "Điện thoại thông minh: trợ thủ đắc lực cho công việc",
+      "status": "READY"
+    },
+    {
+      "topicId": 4,
+      "order": 3,
+      "title": "Tận dụng tối đa laptop và máy tính bảng trong công việc",
+      "status": "READY"
+    },
+    {
+      "topicId": 4,
+      "order": 4,
+      "title": "Kết nối và sử dụng hiệu quả thiết bị ngoại vi (máy in, máy quét...)",
+      "status": "READY"
+    },
+    {
+      "topicId": 4,
+      "order": 5,
+      "title": "Quản lý dữ liệu và xử lý sự cố thiết bị số",
+      "status": "READY"
+    },
+    {
+      "topicId": 5,
+      "order": 1,
+      "title": "Kỹ năng sử dụng phần mềm văn phòng hiệu quả, an toàn",
+      "status": "READY"
+    },
+    {
+      "topicId": 5,
+      "order": 2,
+      "title": "Sử dụng dịch vụ công trực tuyến hiệu quả, an toàn",
+      "status": "READY"
+    },
+    {
+      "topicId": 5,
+      "order": 3,
+      "title": "Học tập trực tuyến chủ động, hiệu quả, an toàn",
+      "status": "READY"
+    },
+    {
+      "topicId": 5,
+      "order": 4,
+      "title": "Giao tiếp số hiệu quả, an toàn",
+      "status": "READY"
+    },
+    {
+      "topicId": 5,
+      "order": 5,
+      "title": "Giải trí số văn minh, lành mạnh",
+      "status": "READY"
+    },
+    {
+      "topicId": 6,
+      "order": 1,
+      "title": "Tìm kiếm thông tin chính xác và nhanh chóng",
+      "status": "READY"
+    },
+    {
+      "topicId": 6,
+      "order": 2,
+      "title": "Đánh giá độ tin cậy của nguồn thông tin",
+      "status": "READY"
+    },
+    {
+      "topicId": 6,
+      "order": 3,
+      "title": "Tổ chức, lưu trữ và quản lý thông tin cá nhân",
+      "status": "READY"
+    },
+    {
+      "topicId": 7,
+      "order": 1,
+      "title": "Bối cảnh và quy trình kiểm chứng thông tin số",
+      "status": "READY"
+    },
+    {
+      "topicId": 7,
+      "order": 2,
+      "title": "Kiểm chứng thông tin trên báo chính thống và thông tin hành chính - công vụ",
+      "status": "READY"
+    },
+    {
+      "topicId": 7,
+      "order": 3,
+      "title": "Kiểm chứng thông tin trên mạng xã hội và video trực tuyến",
+      "status": "READY"
+    },
+    {
+      "topicId": 7,
+      "order": 4,
+      "title": "Nhận diện tin giả và sử dụng công cụ hỗ trợ",
+      "status": "READY"
+    },
+    {
+      "topicId": 7,
+      "order": 5,
+      "title": "Ví dụ thực tiễn và bài học kinh nghiệm",
+      "status": "READY"
+    },
+    {
+      "topicId": 8,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 8,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 8,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 8,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 8,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 8,
+      "order": 6,
+      "title": "Bài 6",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 9,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 9,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 9,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 9,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 9,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 9,
+      "order": 6,
+      "title": "Bài 6",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 10,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 10,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 10,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 10,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 10,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 11,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 11,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 11,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 11,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 11,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 12,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 12,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 12,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 12,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 12,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 13,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 13,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 13,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 13,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 13,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 14,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 14,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 14,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 14,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 14,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 14,
+      "order": 6,
+      "title": "Bài 6",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 15,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 15,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 15,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 15,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 15,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 16,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 16,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 16,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 16,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 16,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 17,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 17,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 17,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 17,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 17,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 18,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 18,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 18,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 18,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 18,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 19,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 19,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 19,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 19,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 19,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 19,
+      "order": 6,
+      "title": "Bài 6",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 20,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 20,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 20,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 20,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 20,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 21,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 21,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 21,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 21,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 21,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 22,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 22,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 22,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 22,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 22,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 23,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 23,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 23,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 23,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 23,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 24,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 24,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 24,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 24,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 24,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 25,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 25,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 25,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 25,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 25,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 26,
+      "order": 1,
+      "title": "Bài 1",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 26,
+      "order": 2,
+      "title": "Bài 2",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 26,
+      "order": 3,
+      "title": "Bài 3",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 26,
+      "order": 4,
+      "title": "Bài 4",
+      "status": "PENDING"
+    },
+    {
+      "topicId": 26,
+      "order": 5,
+      "title": "Bài 5",
+      "status": "PENDING"
+    }
+  ]
+}

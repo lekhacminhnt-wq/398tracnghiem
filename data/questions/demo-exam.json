@@ -1,0 +1,339 @@
+{
+  "examSetId": "demo",
+  "questions": [
+    {
+      "topicId": 1,
+      "lessonOrder": 1,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Đâu là điểm khác biệt cốt lõi giữa “chuyển đổi số” và “tin học hóa”?",
+      "options": {
+        "A": "Không khác nhau, đều là ứng dụng máy tính vào công việc.",
+        "B": "Chuyển đổi số chỉ dùng nhiều thiết bị công nghệ hơn tin học hóa.",
+        "C": "Chuyển đổi số thay đổi quy trình, mô hình làm việc dựa trên công nghệ số; còn tin học hóa chỉ làm nhanh hơn quy trình vốn có.",
+        "D": "Chuyển đổi số chỉ áp dụng cho doanh nghiệp tư nhân, không dùng cho cơ quan nhà nước."
+      },
+      "explanation": "Tin học hóa giữ nguyên quy trình cũ và làm nhanh hơn; chuyển đổi số thay đổi chính cách làm để tạo giá trị mới.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 1,
+      "lessonOrder": 5,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Đâu là bước đầu tiên khi muốn ra quyết định dựa trên dữ liệu?",
+      "options": {
+        "A": "Thu thập càng nhiều dữ liệu càng tốt, rồi tính sau.",
+        "B": "Xác định rõ câu hỏi hoặc vấn đề cần giải quyết, từ đó mới biết cần thu thập dữ liệu gì.",
+        "C": "Phân tích dữ liệu ngay bằng phần mềm.",
+        "D": "Đưa ra kết luận trước, rồi tìm số liệu minh họa cho kết luận đó."
+      },
+      "explanation": "Phải đặt đúng câu hỏi trước thì việc thu thập và phân tích dữ liệu mới đúng hướng.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "manually-verified"
+    },
+    {
+      "topicId": 1,
+      "lessonOrder": 8,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "“Dấu chân số” trong giao tiếp trực tuyến được hiểu là gì?",
+      "options": {
+        "A": "Là biểu tượng cảm xúc ta để lại khi bình luận.",
+        "B": "Là dấu vết mà mọi phát ngôn, hành động của ta trên mạng để lại và khó xóa bỏ hoàn toàn.",
+        "C": "Là số lượt thích trên một bài đăng.",
+        "D": "Là mật khẩu đăng nhập mạng xã hội."
+      },
+      "explanation": "“Dấu chân số” là toàn bộ dấu vết ta để lại trên mạng; vì vậy cần ứng xử cẩn trọng, chuẩn mực.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 2,
+      "lessonOrder": 1,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Cách hiểu nào sau đây về chuyển đổi số là đúng nhất?",
+      "options": {
+        "A": "Là việc mua sắm thật nhiều máy tính, thiết bị hiện đại cho cơ quan.",
+        "B": "Là chuyển toàn bộ tài liệu giấy thành file để lưu trong máy.",
+        "C": "Là thay đổi cách làm việc dựa trên dữ liệu và công nghệ, để hiệu quả hơn và phục vụ người dân tốt hơn.",
+        "D": "Là việc chỉ dành riêng cho bộ phận công nghệ thông tin."
+      },
+      "explanation": "Cốt lõi của chuyển đổi số là đổi mới cách làm việc, không phải mua sắm thiết bị hay đơn thuần số hóa giấy tờ.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "manually-verified"
+    },
+    {
+      "topicId": 2,
+      "lessonOrder": 2,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "“Điện toán đám mây” mang lại lợi ích nào sau đây cho công việc?",
+      "options": {
+        "A": "Giúp máy tính chạy nhanh hơn gấp nhiều lần.",
+        "B": "Cho phép lưu trữ và truy cập tài liệu từ nhiều nơi, nhiều thiết bị; nhiều người cùng làm trên một bản mới nhất; an toàn hơn khi máy gặp sự cố.",
+        "C": "Tự động viết toàn bộ báo cáo thay con người.",
+        "D": "Thay thế hoàn toàn nhu cầu kết nối Internet."
+      },
+      "explanation": "Đám mây như “tủ hồ sơ không biên giới” - truy cập mọi nơi, cộng tác chung, an toàn trước sự cố thiết bị.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 3,
+      "lessonOrder": 1,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Khẳng định nào sau đây ĐÚNG về Trí tuệ nhân tạo (AI)?",
+      "options": {
+        "A": "AI là chương trình không cần dữ liệu mà vẫn luôn đưa ra quyết định chính xác.",
+        "B": "AI là công nghệ giúp máy tính thực hiện những nhiệm vụ thường cần đến trí tuệ con người, bằng cách học hỏi từ dữ liệu.",
+        "C": "AI tổng quát (thông minh linh hoạt như con người) đã được dùng rộng rãi hiện nay.",
+        "D": "Mọi chương trình máy tính đều được xem là một dạng AI."
+      },
+      "explanation": "AI mô phỏng một phần trí tuệ con người và học từ dữ liệu; AI tổng quát chưa tồn tại, và không phải phần mềm nào cũng là AI.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "manually-verified"
+    },
+    {
+      "topicId": 3,
+      "lessonOrder": 5,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "“Chatbot” được hiểu đúng nhất là gì?",
+      "options": {
+        "A": "Một loại robot hình người đặt tại bộ phận một cửa.",
+        "B": "Một phần mềm AI có thể trò chuyện với con người bằng ngôn ngữ tự nhiên (gõ chữ hoặc giọng nói) để trả lời câu hỏi tự động.",
+        "C": "Một trang web tra cứu thủ tục hành chính.",
+        "D": "Một ứng dụng gọi điện video với cán bộ."
+      },
+      "explanation": "Chatbot là phần mềm AI đối thoại bằng ngôn ngữ tự nhiên, trả lời dựa trên dữ liệu đã được huấn luyện.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 3,
+      "lessonOrder": 9,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "“AI tạo sinh” (Generative AI) như ChatGPT, Gemini có đặc điểm gì?",
+      "options": {
+        "A": "Chỉ tra cứu và sao chép y nguyên thông tin có sẵn trên mạng.",
+        "B": "Có khả năng tạo ra nội dung mới (văn bản, hình ảnh...) và trò chuyện bằng ngôn ngữ tự nhiên dựa trên dữ liệu đã học.",
+        "C": "Là một phần mềm kế toán chuyên dụng.",
+        "D": "Chỉ hoạt động được khi người dùng biết lập trình."
+      },
+      "explanation": "AI tạo sinh tạo nội dung mới và đối thoại bằng ngôn ngữ tự nhiên; người dùng không cần biết lập trình.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "manually-verified"
+    },
+    {
+      "topicId": 4,
+      "lessonOrder": 1,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Khi nhìn thấy một danh sách Wi-Fi ở nơi công cộng, việc đầu tiên nên làm là gì?",
+      "options": {
+        "A": "Chọn ngay mạng có sóng khỏe nhất để kết nối cho nhanh.",
+        "B": "Kiểm tra kỹ tên mạng, ưu tiên mạng chính thức có mật khẩu; nếu thấy tên lạ gần giống thì hỏi lại người phụ trách.",
+        "C": "Chọn mạng nào không cần mật khẩu để khỏi mất công hỏi.",
+        "D": "Kết nối thử lần lượt từng mạng đến khi vào được Internet."
+      },
+      "explanation": "Kẻ gian thường lập mạng giả có tên gần giống mạng thật để đánh cắp thông tin; luôn xác thực tên mạng trước khi kết nối.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 4,
+      "lessonOrder": 3,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Tổ hợp phím Windows + P trên laptop Windows dùng để làm gì?",
+      "options": {
+        "A": "Mở bảng chọn chế độ trình chiếu (Duplicate/Extend màn hình).",
+        "B": "Tắt máy tính ngay lập tức.",
+        "C": "Chụp ảnh màn hình hiện tại.",
+        "D": "Mở cửa sổ cài đặt máy in."
+      },
+      "explanation": "Windows + P mở nhanh bảng chọn chế độ hiển thị ra màn hình ngoài/máy chiếu (Duplicate hoặc Extend).",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 4,
+      "lessonOrder": 5,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Với một tài liệu đang làm việc (giáo trình, dự thảo, báo cáo), cách đặt tên file nào sau đây là phù hợp và dễ tìm lại nhất?",
+      "options": {
+        "A": "Tài liệu mới 1.docx",
+        "B": "Bản cuối cùng.docx",
+        "C": "2026-06-11\\_SoNoiVu\\_TaiLieuDaoTaoAI\\_v1.0.docx",
+        "D": "final-final-moi.docx"
+      },
+      "explanation": "Tài liệu làm việc nên đặt theo cấu trúc: ngày tháng \\_ mã cơ quan/dự án \\_ nội dung tóm tắt \\_ phiên bản; tên chung chung như “Tài liệu mới 1” rất khó tìm lại.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 5,
+      "lessonOrder": 1,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Phần mềm nào sau đây chủ yếu được dùng để soạn thảo văn bản?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Microsoft Excel",
+        "C": "Google Chrome",
+        "D": "Zoom"
+      },
+      "explanation": "Microsoft Word là phần mềm chuyên dùng để soạn thảo văn bản; Excel dùng cho bảng tính, Chrome là trình duyệt, Zoom dùng để họp trực tuyến.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "manually-verified"
+    },
+    {
+      "topicId": 5,
+      "lessonOrder": 3,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Để học trực tuyến hiệu quả, Anh/Chị nên làm gì?",
+      "options": {
+        "A": "Đặt lịch học cố định hàng tuần và nghiêm túc tuân thủ kế hoạch đó.",
+        "B": "Bỏ qua các bài kiểm tra và diễn đàn thảo luận để tiết kiệm thời gian.",
+        "C": "Mở nhiều tab và làm việc khác trong lúc xem video bài giảng.",
+        "D": "Không cần xem tài liệu đính kèm vì video là đủ."
+      },
+      "explanation": "Học online đòi hỏi tính tự giác; đặt lịch cố định và tuân thủ giúp duy trì thói quen, tránh bỏ dở. Làm việc riêng hay bỏ qua bài kiểm tra đều làm giảm hiệu quả.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "manually-verified"
+    },
+    {
+      "topicId": 5,
+      "lessonOrder": 5,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Nền tảng trực tuyến nào sau đây KHÔNG phải là mạng xã hội?",
+      "options": {
+        "A": "Facebook.",
+        "B": "TikTok.",
+        "C": "Instagram.",
+        "D": "Microsoft Teams."
+      },
+      "explanation": "Microsoft Teams là nền tảng làm việc, họp trực tuyến và cộng tác, không phải mạng xã hội như Facebook, TikTok, Instagram.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "manually-verified"
+    },
+    {
+      "topicId": 6,
+      "lessonOrder": 1,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Toán tử nào dưới đây giúp giới hạn kết quả tìm kiếm trong một website cụ thể?",
+      "options": {
+        "A": "site:",
+        "B": "filetype:",
+        "C": "-keyword",
+        "D": "“phrase”"
+      },
+      "explanation": "Toán tử site: giới hạn kết quả trong một tên miền cụ thể, ví dụ site:\\*.gov.vn để tìm trong các cổng cơ quan nhà nước.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 6,
+      "lessonOrder": 2,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Khi thấy trên mạng xã hội một bài viết có thông tin “sốc” về chính sách mới, việc đầu tiên nên làm là gì?",
+      "options": {
+        "A": "Chia sẻ ngay để cảnh báo mọi người.",
+        "B": "Kiểm tra xem nguồn đăng tin đó có đáng tin cậy không.",
+        "C": "Hỏi người quen xem có nghe tin này chưa.",
+        "D": "Bỏ qua, không cần quan tâm."
+      },
+      "explanation": "Việc đầu tiên là đánh giá nguồn đăng tin có đáng tin cậy không; không vội chia sẻ hay bỏ qua khi chưa kiểm chứng.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 6,
+      "lessonOrder": 3,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Anh/Chị cần tìm nhanh một tệp tài liệu trên máy tính nhưng chỉ nhớ được một cụm từ xuất hiện bên trong nội dung tệp. Cách hiệu quả nhất là gì?",
+      "options": {
+        "A": "Mở từng thư mục và dò tìm thủ công cho đến khi thấy.",
+        "B": "Dùng chức năng Tìm kiếm của hệ điều hành, nhập cụm từ đó và chọn tìm trong nội dung tệp.",
+        "C": "Cố nhớ lại tên tệp, sắp xếp thư mục theo ngày rồi tìm thủ công.",
+        "D": "Không nhớ tên thì tạo lại tệp mới cho nhanh."
+      },
+      "explanation": "Chức năng Tìm kiếm của hệ điều hành cho phép tìm theo nội dung bên trong tệp, giúp tìm ra nhanh dù không nhớ tên tệp.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 7,
+      "lessonOrder": 1,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Đúng hay Sai: “Trong quy trình kiểm chứng, bước đầu tiên là kiểm tra độ uy tín của nguồn tin và tác giả.” (Đúng/Sai)",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "explanation": "Đúng. Kiểm nguồn là lớp lọc đầu tiên; nếu nguồn đã mập mờ thì mọi nội dung sau đó đều phải đặt một dấu hỏi.",
+      "correctLabel": "A",
+      "isTrueFalse": true,
+      "source": "inferred-from-explanation"
+    },
+    {
+      "topicId": 7,
+      "lessonOrder": 3,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Đúng hay Sai: “Một trang/tài khoản có dấu tick xanh xác minh thường đáng tin cậy hơn một tài khoản ẩn danh, mới lập, không rõ danh tính.” (Đúng/Sai)",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "explanation": "Đúng. Dấu xác minh và lượng theo dõi lớn là chỉ dấu của nguồn chính thức; tài khoản ẩn danh, mới lập, ít tương tác cần được nhìn với sự thận trọng.",
+      "correctLabel": "A",
+      "isTrueFalse": true,
+      "source": "manually-verified"
+    },
+    {
+      "topicId": 7,
+      "lessonOrder": 5,
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Đúng hay Sai: “Câu chuyện ‘Bác sĩ rút ống thở cứu sản phụ’ là một ví dụ điển hình về tin giả được lan truyền trong đại dịch.” (Đúng/Sai)",
+      "options": {
+        "A": "Đúng",
+        "B": "Sai"
+      },
+      "explanation": "Đúng. Đây là vụ tin giả nổi tiếng lan truyền giữa đợt dịch COVID-19 năm 2021, sau đó đã bị cơ quan chức năng bác bỏ.",
+      "correctLabel": "A",
+      "isTrueFalse": true,
+      "source": "inferred-from-explanation"
+    }
+  ]
+}
