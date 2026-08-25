@@ -102,8 +102,7 @@ export default async function DeSatHachPage() {
         </form>
       ) : (
         <div className="rounded-xl border border-dashed border-brand-border bg-brand-bg p-4 text-sm text-brand-text-muted">
-          🔒 Chưa mở — hoàn thành toàn bộ Chuyên đề {finalTopic?.id ?? 26} để mở đề sát hạch
-          {finalTopic ? ` (hiện đã đạt ${finalTopic.passedCount}/${finalTopic.lessonCount} bài)` : ""}.
+          🔒 Chưa mở — hoàn thành toàn bộ Chuyên đề {finalTopic?.id ?? 26} để mở đề sát hạch.
           {!session && (
             <>
               {" "}

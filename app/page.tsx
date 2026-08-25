@@ -73,8 +73,7 @@ export default async function Home() {
                 Đề sát hạch cuối chương trình
               </div>
               <div className="text-sm text-brand-text-muted">
-                Hoàn thành toàn bộ Chuyên đề {finalTopic?.id ?? 26} để mở đề sát hạch
-                {finalTopic ? ` (hiện đã đạt ${finalTopic.passedCount}/${finalTopic.lessonCount} bài)` : ""}.
+                Hoàn thành toàn bộ Chuyên đề {finalTopic?.id ?? 26} để mở đề sát hạch.
               </div>
             </div>
           </div>
