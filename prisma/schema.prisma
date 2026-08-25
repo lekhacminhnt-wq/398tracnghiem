@@ -51,7 +51,7 @@ model Question {
   text        String
   explanation String
   isTrueFalse Boolean  @default(false)
-  source      String   // "explicit-letter" | "manually-verified" | "inferred-from-explanation"
+  source      String   // "explicit-letter" | "manually-verified" | "bold-verified" | "inferred-from-explanation"
   options     Option[]
 }
 

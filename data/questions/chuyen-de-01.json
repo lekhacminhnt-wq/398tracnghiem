@@ -521,13 +521,9 @@
             "D": "Dùng một mật khẩu phức tạp duy nhất cho tất cả các tài khoản."
           },
           "explanation": "Mật khẩu mạnh cần đủ dài, phức tạp và độc nhất cho mỗi tài khoản; dùng chung một mật khẩu là rất rủi ro.",
-          "correctLabel": "D",
+          "correctLabel": "C",
           "isTrueFalse": false,
-          "source": "inferred-from-explanation",
-          "confidence": {
-            "top": 1.94,
-            "relMargin": 0.64
-          }
+          "source": "bold-verified"
         },
         {
           "order": 2,
@@ -622,13 +618,9 @@
             "D": "Vì PDF tự động sửa lỗi chính tả trong văn bản."
           },
           "explanation": "PDF giữ nguyên định dạng, tránh tình trạng lệch phông, xô bố cục khi mở trên máy khác.",
-          "correctLabel": "A",
+          "correctLabel": "B",
           "isTrueFalse": false,
-          "source": "inferred-from-explanation",
-          "confidence": {
-            "top": 1.11,
-            "relMargin": 0.43
-          }
+          "source": "bold-verified"
         },
         {
           "order": 2,
@@ -641,13 +633,9 @@
             "D": "“Đồng kính gửi” là người phải xử lý chính, “người nhận” chỉ theo dõi."
           },
           "explanation": "Dùng đúng To/Cc giúp phân định rõ ai xử lý, ai theo dõi, tránh làm loãng trách nhiệm.",
-          "correctLabel": "B",
+          "correctLabel": "A",
           "isTrueFalse": false,
-          "source": "inferred-from-explanation",
-          "confidence": {
-            "top": 0.35,
-            "relMargin": 0.5
-          }
+          "source": "bold-verified"
         },
         {
           "order": 3,
@@ -780,13 +768,9 @@
             "D": "Yêu cầu người dân tự tìm hiểu trên mạng."
           },
           "explanation": "Chỉ trả lời trong thẩm quyền; việc ngoài thẩm quyền thì hướng dẫn người dân đến đúng nơi, không trả lời theo suy đoán.",
-          "correctLabel": "A",
+          "correctLabel": "C",
           "isTrueFalse": false,
-          "source": "inferred-from-explanation",
-          "confidence": {
-            "top": 1.56,
-            "relMargin": 0.35
-          }
+          "source": "bold-verified"
         },
         {
           "order": 5,

@@ -237,13 +237,9 @@
             "D": "Phóng to nội dung laptop gấp đôi trên máy chiếu."
           },
           "explanation": "Duplicate cho máy chiếu hiện y hệt màn hình laptop; còn Extend mới là mở rộng thành màn hình thứ hai.",
-          "correctLabel": "C",
+          "correctLabel": "B",
           "isTrueFalse": false,
-          "source": "inferred-from-explanation",
-          "confidence": {
-            "top": 1.47,
-            "relMargin": 0.42
-          }
+          "source": "bold-verified"
         },
         {
           "order": 3,
@@ -420,13 +416,9 @@
             "D": "final-final-moi.docx"
           },
           "explanation": "Tài liệu làm việc nên đặt theo cấu trúc: ngày tháng \\_ mã cơ quan/dự án \\_ nội dung tóm tắt \\_ phiên bản; tên chung chung như “Tài liệu mới 1” rất khó tìm lại.",
-          "correctLabel": "A",
+          "correctLabel": "C",
           "isTrueFalse": false,
-          "source": "inferred-from-explanation",
-          "confidence": {
-            "top": 1.25,
-            "relMargin": 0.6
-          }
+          "source": "bold-verified"
         },
         {
           "order": 2,

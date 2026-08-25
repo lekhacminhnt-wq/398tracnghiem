@@ -275,13 +275,9 @@
             "D": "ban-moi-moi-final.docx"
           },
           "explanation": "Tên tệp có ngày tháng, nội dung tóm tắt và số phiên bản giúp nhận biết ngay tài liệu của ngày nào, nội dung gì, bản nào mới nhất; các cách đặt tên còn lại đều mơ hồ.",
-          "correctLabel": "D",
+          "correctLabel": "C",
           "isTrueFalse": false,
-          "source": "inferred-from-explanation",
-          "confidence": {
-            "top": 1,
-            "relMargin": 1
-          }
+          "source": "bold-verified"
         },
         {
           "order": 5,

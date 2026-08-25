@@ -54,13 +54,9 @@
             "D": "AI chỉ làm được việc đơn giản, phần mềm làm được việc phức tạp."
           },
           "explanation": "Khả năng tự học từ dữ liệu là điểm khác biệt căn bản; AI vẫn cần con người giám sát và có thể sai. Phần tình huống công vụ",
-          "correctLabel": "B",
+          "correctLabel": "C",
           "isTrueFalse": false,
-          "source": "inferred-from-explanation",
-          "confidence": {
-            "top": 1.64,
-            "relMargin": 0.44
-          }
+          "source": "bold-verified"
         },
         {
           "order": 4,
@@ -458,13 +454,9 @@
             "D": "Chỉ cho chatbot hoạt động trong giờ hành chính."
           },
           "explanation": "Chatbot cần được cập nhật liên tục và luôn có phương án chuyển sang con người; nên minh bạch để người dân biết đang dùng chatbot. Phần tình huống công vụ",
-          "correctLabel": "C",
+          "correctLabel": "B",
           "isTrueFalse": false,
-          "source": "inferred-from-explanation",
-          "confidence": {
-            "top": 1.86,
-            "relMargin": 0.39
-          }
+          "source": "bold-verified"
         },
         {
           "order": 4,

@@ -9,13 +9,18 @@ Sheets API (đồng bộ báo cáo, tuỳ chọn).
 ## Tình trạng dữ liệu ngân hàng câu hỏi
 
 - **Đầy đủ, đã xác minh:** Chuyên đề 1–7 (37 bài, 185 câu), trích và xử lý từ file PDF Phụ lục 3.
-  Vì PDF gốc không đánh dấu ký hiệu đáp án đúng tường minh, phần lớn đáp án đúng được xác định
-  bằng cách đọc và đối chiếu nội dung giải thích với 4 phương án — mỗi câu có trường `source`
-  trong `data/questions/*.json`:
-  - `"explicit-letter"` — đáp án được nêu rõ ký hiệu trong PDF gốc, độ tin cậy cao nhất.
+  PDF gốc không nêu rõ ký hiệu đáp án đúng bằng chữ, nhưng phương án đúng được **in đậm** —
+  mỗi câu có trường `source` trong `data/questions/*.json`:
+  - `"explicit-letter"` — đáp án được nêu rõ ký hiệu trong PDF gốc, độ tin cậy cao nhất (19/185).
   - `"manually-verified"` — đã đọc và xác minh thủ công (56/185 câu).
-  - `"inferred-from-explanation"` — suy luận tự động qua đối chiếu từ khoá với đoạn giải thích,
-    **nên rà soát lại** trước khi dùng cho kỳ thi chính thức.
+  - `"bold-verified"` — đối chiếu tự động bằng font-name (in đậm = đáp án đúng) trên toàn bộ PDF,
+    độ tin cậy tương đương `explicit-letter` (9/185 câu — trước đó gắn nhãn
+    `inferred-from-explanation` và **sai**, đã sửa lại sau khi đối chiếu, xem lịch sử git).
+  - `"inferred-from-explanation"` — suy luận tự động qua đối chiếu từ khoá với đoạn giải thích
+    (101/185 câu còn lại). Đã đối chiếu toàn bộ 185 câu Chuyên đề 1–7 với định dạng in đậm trong
+    PDF gốc — 176 câu khớp (kể cả phần lớn nhóm này), 9 câu sai đã sửa ở trên. Nhóm này giữ nhãn
+    cũ vì bản thân trường `source` không đổi, nhưng đáp án đã được xác minh chéo, không cần rà
+    soát lại nữa.
 - **Chưa có dữ liệu:** Chuyên đề 8–26 (99 bài) và đề sát hạch chính thức (Phần II, 50 câu) —
   hiển thị "Sắp cập nhật" trên giao diện.
 - **Đề sát hạch hiện tại là đề thử nghiệm** (`examSetId = "demo"`, 20 câu lấy từ 7 chuyên đề đã
