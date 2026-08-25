@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* ---- Theme tokens: 2 bảng màu, chuyển đổi bằng [data-theme] trên <html> ---- */
+/* ---- Theme tokens: 4 bảng màu, chuyển đổi bằng [data-theme] trên <html> ---- */
 :root,
 [data-theme="do-vang"] {
   --brand-primary: #da251d;
@@ -14,8 +14,7 @@
   --brand-text-muted: #6b5f47;
   --brand-border: #f0dfae;
   --brand-ring: #ffcd00;
-  --brand-stripe-light: var(--brand-surface);
-  --brand-stripe-dark: color-mix(in srgb, var(--brand-surface) 68%, var(--brand-border) 32%);
+  --brand-stripe-dark: #fbdfc9;
 }
 
 [data-theme="xanh-trang"] {
@@ -30,8 +29,39 @@
   --brand-text-muted: #52657f;
   --brand-border: #d8e3f3;
   --brand-ring: #2f6fed;
-  --brand-stripe-light: var(--brand-surface);
-  --brand-stripe-dark: color-mix(in srgb, var(--brand-surface) 68%, var(--brand-border) 32%);
+  --brand-stripe-dark: #d7e6fa;
+}
+
+/* Tím Huế — tím hoàng gia trầm, điểm nhấn ánh vàng, tinh tế kiểu macOS */
+[data-theme="tim-hue"] {
+  --brand-primary: #7a5299;
+  --brand-primary-dark: #593a72;
+  --brand-primary-soft: #f3ecf9;
+  --brand-secondary: #c9a227;
+  --brand-secondary-dark: #a3821c;
+  --brand-bg: #faf7fc;
+  --brand-surface: #ffffff;
+  --brand-text: #2b1f3d;
+  --brand-text-muted: #6d5f82;
+  --brand-border: #e7dcf2;
+  --brand-ring: #9a6fc4;
+  --brand-stripe-dark: #e6d6f2;
+}
+
+/* Ngọc phỉ thúy — xanh ngọc bích trầm, điểm nhấn ánh vàng đồng, sang trọng */
+[data-theme="ngoc-phi-thuy"] {
+  --brand-primary: #1f7a63;
+  --brand-primary-dark: #145643;
+  --brand-primary-soft: #e7f5f0;
+  --brand-secondary: #b8943a;
+  --brand-secondary-dark: #937128;
+  --brand-bg: #f6fbf9;
+  --brand-surface: #ffffff;
+  --brand-text: #142620;
+  --brand-text-muted: #4f6b62;
+  --brand-border: #d7ece4;
+  --brand-ring: #2ea88a;
+  --brand-stripe-dark: #c7e9dc;
 }
 
 @theme inline {
@@ -46,7 +76,7 @@
   --color-brand-text-muted: var(--brand-text-muted);
   --color-brand-border: var(--brand-border);
   --color-brand-ring: var(--brand-ring);
-  --color-brand-stripe-light: var(--brand-stripe-light);
+  --color-brand-stripe-light: var(--brand-surface);
   --color-brand-stripe-dark: var(--brand-stripe-dark);
   --font-sans: var(--font-be-vietnam);
 }

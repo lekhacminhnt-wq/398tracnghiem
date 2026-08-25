@@ -19,8 +19,9 @@ export const metadata: Metadata = {
 
 const THEME_INIT = `
 try {
+  var valid = ['do-vang', 'xanh-trang', 'tim-hue', 'ngoc-phi-thuy'];
   var t = localStorage.getItem('theme');
-  document.documentElement.setAttribute('data-theme', t === 'xanh-trang' ? 'xanh-trang' : 'do-vang');
+  document.documentElement.setAttribute('data-theme', valid.indexOf(t) !== -1 ? t : 'do-vang');
 } catch (e) {}
 `;
 
