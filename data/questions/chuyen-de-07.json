@@ -48,7 +48,7 @@
             "C": "Tin lạ, ít nơi đăng thì càng độc quyền, càng đáng tin.",
             "D": "Không cần quan tâm, cứ bỏ qua là xong."
           },
-          "explanation": "Sự việc quan trọng và có thật thường được nhiều nguồn uy tín cùng phản ánh; sự im lặng của báo chính thống là tín hiệu cần thận trọng. Phần tình huống công vụ",
+          "explanation": "Sự việc quan trọng và có thật thường được nhiều nguồn uy tín cùng phản ánh; sự im lặng của báo chính thống là tín hiệu cần thận trọng.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "explicit-letter",
@@ -135,7 +135,7 @@
             "C": "Có thật nhiều quảng cáo và tin nóng nhấp nháy.",
             "D": "Tên trang gần giống một báo lớn nhưng có thêm đuôi lạ."
           },
-          "explanation": "Cơ quan chủ quản và giấy phép là dấu hiệu định danh của một tờ báo chính thống; trang giả mạo thường bắt chước tên miền (đáp án D) để đánh lừa người đọc. Phần tình huống công vụ",
+          "explanation": "Cơ quan chủ quản và giấy phép là dấu hiệu định danh của một tờ báo chính thống; trang giả mạo thường bắt chước tên miền (đáp án D) để đánh lừa người đọc.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "explicit-letter",
@@ -220,7 +220,7 @@
             "A": "Đúng",
             "B": "Sai"
           },
-          "explanation": "Đúng. Tìm kiếm ngược hình ảnh cho biết ảnh xuất hiện lần đầu ở đâu, khi nào - giúp phát hiện ảnh cũ bị gán vào sự kiện mới hoặc ảnh đã chỉnh sửa. Phần tình huống công vụ",
+          "explanation": "Đúng. Tìm kiếm ngược hình ảnh cho biết ảnh xuất hiện lần đầu ở đâu, khi nào - giúp phát hiện ảnh cũ bị gán vào sự kiện mới hoặc ảnh đã chỉnh sửa.",
           "correctLabel": "A",
           "isTrueFalse": true,
           "source": "inferred-from-explanation",
@@ -309,7 +309,7 @@
             "C": "Nên nhờ AI viết sẵn báo cáo kiểm chứng rồi gửi lãnh đạo.",
             "D": "Không cần dùng AI, chỉ cần tự tìm hiểu là đủ."
           },
-          "explanation": "AI là công cụ sàng lọc ban đầu hữu ích nhưng có thể sai; quyết định cuối cùng và việc đối chiếu nguồn chính thống vẫn thuộc về con người. Phần tình huống công vụ",
+          "explanation": "AI là công cụ sàng lọc ban đầu hữu ích nhưng có thể sai; quyết định cuối cùng và việc đối chiếu nguồn chính thống vẫn thuộc về con người.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "explicit-letter",
@@ -394,7 +394,7 @@
             "A": "Đúng",
             "B": "Sai"
           },
-          "explanation": "Đúng. Thiếu chi tiết kiểm chứng được là một trong những dấu hiệu rõ rệt của tin giả, bên cạnh nguồn vô danh và nội dung nặng cảm xúc. Phần tình huống công vụ",
+          "explanation": "Đúng. Thiếu chi tiết kiểm chứng được là một trong những dấu hiệu rõ rệt của tin giả, bên cạnh nguồn vô danh và nội dung nặng cảm xúc.",
           "correctLabel": "A",
           "isTrueFalse": true,
           "source": "inferred-from-explanation",

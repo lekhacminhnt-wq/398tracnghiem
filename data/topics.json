@@ -357,596 +357,596 @@
     {
       "topicId": 8,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Khái niệm dữ liệu số và tầm quan trọng của quản lý dữ liệu",
+      "status": "READY"
     },
     {
       "topicId": 8,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Thu thập và tổ chức dữ liệu hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 8,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Tra cứu, chia sẻ và bảo toàn dữ liệu",
+      "status": "READY"
     },
     {
       "topicId": 8,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Bảo vệ dữ liệu cá nhân và an toàn thông tin",
+      "status": "READY"
     },
     {
       "topicId": 8,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Công cụ số hiện đại hỗ trợ quản lý dữ liệu",
+      "status": "READY"
     },
     {
       "topicId": 8,
       "order": 6,
-      "title": "Bài 6",
-      "status": "PENDING"
+      "title": "Phân loại, sao lưu và phục hồi tài liệu điện tử theo độ mật",
+      "status": "READY"
     },
     {
       "topicId": 9,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Giao tiếp qua email chuyên nghiệp",
+      "status": "READY"
     },
     {
       "topicId": 9,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Tham gia họp trực tuyến hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 9,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Trao đổi qua ứng dụng nhắn tin hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 9,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Giao tiếp trên mạng xã hội an toàn, văn minh",
+      "status": "READY"
     },
     {
       "topicId": 9,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Tham gia nền tảng học trực tuyến hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 9,
       "order": 6,
-      "title": "Bài 6",
-      "status": "PENDING"
+      "title": "Sử dụng dịch vụ công trực tuyến",
+      "status": "READY"
     },
     {
       "topicId": 10,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Sử dụng thiết bị số an toàn và hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 10,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Phần mềm ứng dụng thiết yếu cho công việc",
+      "status": "READY"
     },
     {
       "topicId": 10,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Tìm kiếm và sàng lọc thông tin hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 10,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Kiểm chứng thông tin trước khi đưa vào hồ sơ, báo cáo",
+      "status": "READY"
     },
     {
       "topicId": 10,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Quản lý dữ liệu số khoa học và hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 11,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Khái quát chung về quyền và nghĩa vụ công dân trên không gian số",
+      "status": "READY"
     },
     {
       "topicId": 11,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Các quyền cơ bản của công dân trên không gian số",
+      "status": "READY"
     },
     {
       "topicId": 11,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Các nghĩa vụ cơ bản của công dân trên không gian số",
+      "status": "READY"
     },
     {
       "topicId": 11,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Sử dụng công cụ số để thực thi quyền và nghĩa vụ",
+      "status": "READY"
     },
     {
       "topicId": 11,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Học tập suốt đời và nâng cao kỹ năng số (Bình dân học vụ số)",
+      "status": "READY"
     },
     {
       "topicId": 12,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Tổng quan hợp tác số và tư duy đổi mới",
+      "status": "READY"
     },
     {
       "topicId": 12,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Các công cụ và kênh giao tiếp số trong công việc",
+      "status": "READY"
     },
     {
       "topicId": 12,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Tổ chức cuộc họp trực tuyến hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 12,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Chia sẻ và cùng soạn thảo tài liệu trực tuyến an toàn",
+      "status": "READY"
     },
     {
       "topicId": 12,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Văn hóa và kỹ năng hợp tác số an toàn, hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 13,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Sử dụng hiệu quả thiết bị số, phần mềm và xử lý sự cố kỹ thuật",
+      "status": "READY"
     },
     {
       "topicId": 13,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Khai thác thông tin và phân tích dữ liệu số",
+      "status": "READY"
     },
     {
       "topicId": 13,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Giao tiếp số văn minh, hợp tác hiệu quả",
+      "status": "READY"
     },
     {
       "topicId": 13,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Sáng tạo nội dung số phục vụ công việc",
+      "status": "READY"
     },
     {
       "topicId": 13,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "An toàn thông tin và bảo mật trong môi trường số",
+      "status": "READY"
     },
     {
       "topicId": 14,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Khái niệm danh tính số và tầm quan trọng",
+      "status": "READY"
     },
     {
       "topicId": 14,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Bảo vệ thông tin cá nhân và mật khẩu",
+      "status": "READY"
     },
     {
       "topicId": 14,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Xác thực đa yếu tố (MFA) - “chìa khóa vàng” bảo vệ tài khoản",
+      "status": "READY"
     },
     {
       "topicId": 14,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "VNeID, eKYC và chữ ký số - công cụ định danh điện tử hiện đại",
+      "status": "READY"
     },
     {
       "topicId": 14,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Lừa đảo danh tính số: nhận diện và phòng tránh",
+      "status": "READY"
     },
     {
       "topicId": 14,
       "order": 6,
-      "title": "Bài 6",
-      "status": "PENDING"
+      "title": "Phòng thủ số chủ động: Nhận diện Phishing có chủ đích và Deepfake",
+      "status": "READY"
     },
     {
       "topicId": 15,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Kết hợp và tái tạo nội dung số: khái niệm và lợi ích",
+      "status": "READY"
     },
     {
       "topicId": 15,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Soạn thảo văn bản thông minh nhờ công nghệ số",
+      "status": "READY"
     },
     {
       "topicId": 15,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Chỉnh sửa hình ảnh, tăng tính trực quan cho nội dung",
+      "status": "READY"
     },
     {
       "topicId": 15,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Video và âm thanh: ghi lại và tái sử dụng nội dung đa phương tiện",
+      "status": "READY"
     },
     {
       "topicId": 15,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Tích hợp nội dung đa dạng và tuân thủ bảo mật, đạo đức",
+      "status": "READY"
     },
     {
       "topicId": 16,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Poster xấu hóa đẹp trong 5 phút: bí quyết Canva",
+      "status": "READY"
     },
     {
       "topicId": 16,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Slides khô khan? Để PowerPoint lo!",
+      "status": "READY"
     },
     {
       "topicId": 16,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Chưa biết viết gì? Hỏi ngay ChatGPT!",
+      "status": "READY"
     },
     {
       "topicId": 16,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Không biết vẽ? Đã có AI hình ảnh!",
+      "status": "READY"
     },
     {
       "topicId": 16,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Làm video không cần quay - AI lo tất!",
+      "status": "READY"
     },
     {
       "topicId": 17,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Bản quyền là gì và vì sao cần tuân thủ?",
+      "status": "READY"
     },
     {
       "topicId": 17,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Quy định pháp luật về quyền tác giả - những điều cán bộ cần biết",
+      "status": "READY"
     },
     {
       "topicId": 17,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Giấy phép sử dụng nội dung số và cách tìm nguồn “sạch”",
+      "status": "READY"
     },
     {
       "topicId": 17,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Kỹ năng trích dẫn tài liệu và sử dụng nội dung hợp pháp",
+      "status": "READY"
     },
     {
       "topicId": 17,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Sử dụng nội dung do AI tạo ra một cách an toàn và đúng luật",
+      "status": "READY"
     },
     {
       "topicId": 18,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Hiểu về lập trình trong công việc của cơ quan nhà nước",
+      "status": "READY"
     },
     {
       "topicId": 18,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Tư duy lập trình - Cách hướng dẫn máy tính giải quyết công việc",
+      "status": "READY"
     },
     {
       "topicId": 18,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Trí tuệ nhân tạo và xu hướng lập trình cùng AI",
+      "status": "READY"
     },
     {
       "topicId": 18,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Tự tạo công cụ số hỗ trợ công việc với sự trợ giúp của AI",
+      "status": "READY"
     },
     {
       "topicId": 18,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Lập trình an toàn, trách nhiệm và lộ trình phát triển kỹ năng số",
+      "status": "READY"
     },
     {
       "topicId": 19,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Tổng quan và tầm quan trọng của bảo vệ thiết bị cá nhân",
+      "status": "READY"
     },
     {
       "topicId": 19,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Cập nhật phần mềm và sử dụng phần mềm bảo mật",
+      "status": "READY"
     },
     {
       "topicId": 19,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Bảo mật truy cập và an toàn thiết bị (mật khẩu, 2FA và bảo vệ vật lý)",
+      "status": "READY"
     },
     {
       "topicId": 19,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Kết nối trực tuyến an toàn và nhận diện nguy cơ (Wi-Fi, VPN, web và lừa đảo)",
+      "status": "READY"
     },
     {
       "topicId": 19,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Sao lưu dữ liệu và sẵn sàng ứng phó sự cố",
+      "status": "READY"
     },
     {
       "topicId": 19,
       "order": 6,
-      "title": "Bài 6",
-      "status": "PENDING"
+      "title": "Ứng phó sự cố an ninh mạng nâng cao và xử lý khủng hoảng lộ lọt thông tin",
+      "status": "READY"
     },
     {
       "topicId": 20,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Dữ liệu cá nhân: tài sản số quý giá cần bảo vệ",
+      "status": "READY"
     },
     {
       "topicId": 20,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Đừng để lộ đời tư trên mạng: sử dụng Internet an toàn",
+      "status": "READY"
     },
     {
       "topicId": 20,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Khóa chặt dữ liệu: an toàn từ ứng dụng đến thiết bị",
+      "status": "READY"
     },
     {
       "topicId": 20,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Quà tặng ảo, họa thật: nhận diện lừa đảo qua mạng",
+      "status": "READY"
     },
     {
       "topicId": 20,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Bảo mật dữ liệu công vụ: từ quy định đến trí tuệ nhân tạo",
+      "status": "READY"
     },
     {
       "topicId": 21,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Rủi ro sức khỏe thể chất khi dùng công nghệ số",
+      "status": "READY"
     },
     {
       "topicId": 21,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Rủi ro sức khỏe tinh thần khi dùng công nghệ số",
+      "status": "READY"
     },
     {
       "topicId": 21,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Tư thế làm việc khoa học và bảo vệ thị lực khi sử dụng thiết bị số",
+      "status": "READY"
     },
     {
       "topicId": 21,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Nghỉ ngơi và vận động hợp lý khi làm việc với công nghệ",
+      "status": "READY"
     },
     {
       "topicId": 21,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Quản lý thời gian và cân bằng cuộc sống số",
+      "status": "READY"
     },
     {
       "topicId": 22,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Chuyển đổi số xanh: Xu hướng tất yếu trong phát triển bền vững",
+      "status": "READY"
     },
     {
       "topicId": 22,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Mặt trái của công nghệ số: Tác động tiêu cực tới môi trường",
+      "status": "READY"
     },
     {
       "topicId": 22,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Thực hành “sống số xanh”: Biện pháp giảm thiểu tác động",
+      "status": "READY"
     },
     {
       "topicId": 22,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "IoT và dữ liệu lớn trong quản lý môi trường",
+      "status": "READY"
     },
     {
       "topicId": 22,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Trí tuệ nhân tạo và dữ liệu mở trong bảo vệ môi trường",
+      "status": "READY"
     },
     {
       "topicId": 23,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Quy trình xử lý sự cố kỹ thuật cơ bản",
+      "status": "READY"
     },
     {
       "topicId": 23,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Xử lý sự cố thiết bị số thường gặp",
+      "status": "READY"
     },
     {
       "topicId": 23,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Xử lý sự cố phần mềm và ứng dụng",
+      "status": "READY"
     },
     {
       "topicId": 23,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Khắc phục sự cố kết nối Internet",
+      "status": "READY"
     },
     {
       "topicId": 23,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Xử lý sự cố máy in văn phòng",
+      "status": "READY"
     },
     {
       "topicId": 24,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Khái niệm và tầm quan trọng của việc xác định nhu cầu công nghệ",
+      "status": "READY"
     },
     {
       "topicId": 24,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Phương pháp xác định nhu cầu (Bước 1: Đánh giá hiện trạng)",
+      "status": "READY"
     },
     {
       "topicId": 24,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Phương pháp xác định nhu cầu (Bước 2: Thu thập yêu cầu từ các bên liên quan)",
+      "status": "READY"
     },
     {
       "topicId": 24,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Phương pháp xác định nhu cầu (Bước 3: Xác định mục tiêu cụ thể)",
+      "status": "READY"
     },
     {
       "topicId": 24,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Phương pháp xác định nhu cầu (Bước 4: Ưu tiên nhu cầu công nghệ)",
+      "status": "READY"
     },
     {
       "topicId": 25,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Khái niệm và tầm quan trọng của sáng tạo trong ứng dụng công nghệ số",
+      "status": "READY"
     },
     {
       "topicId": 25,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Phương pháp rèn luyện tư duy sáng tạo và khai thác công nghệ mới",
+      "status": "READY"
     },
     {
       "topicId": 25,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Ứng dụng sáng tạo công nghệ số trong công tác truyền thông",
+      "status": "READY"
     },
     {
       "topicId": 25,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "Ứng dụng sáng tạo công nghệ số trong quản lý và điều hành công việc hành chính",
+      "status": "READY"
     },
     {
       "topicId": 25,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Các công cụ số hỗ trợ sáng tạo và xây dựng văn hóa đổi mới",
+      "status": "READY"
     },
     {
       "topicId": 26,
       "order": 1,
-      "title": "Bài 1",
-      "status": "PENDING"
+      "title": "Chuyển đổi số trong cơ quan nhà nước: tầm nhìn và đánh giá năng lực số",
+      "status": "READY"
     },
     {
       "topicId": 26,
       "order": 2,
-      "title": "Bài 2",
-      "status": "PENDING"
+      "title": "Kỹ năng số cơ bản trong công việc hành chính công",
+      "status": "READY"
     },
     {
       "topicId": 26,
       "order": 3,
-      "title": "Bài 3",
-      "status": "PENDING"
+      "title": "Ứng dụng hiệu quả trí tuệ nhân tạo (AI) trong công việc của cán bộ, công chức, viên chức",
+      "status": "READY"
     },
     {
       "topicId": 26,
       "order": 4,
-      "title": "Bài 4",
-      "status": "PENDING"
+      "title": "An toàn thông tin và bảo vệ dữ liệu trong môi trường số",
+      "status": "READY"
     },
     {
       "topicId": 26,
       "order": 5,
-      "title": "Bài 5",
-      "status": "PENDING"
+      "title": "Giao tiếp số và khai thác dữ liệu phục vụ hoạt động của cơ quan nhà nước",
+      "status": "READY"
     }
   ]
 }

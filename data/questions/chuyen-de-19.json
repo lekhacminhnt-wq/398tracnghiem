@@ -1,0 +1,491 @@
+{
+  "topicId": 19,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Tổng quan và tầm quan trọng của bảo vệ thiết bị cá nhân",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Việc bảo vệ thiết bị cá nhân có quan trọng với những người không làm trong lĩnh vực công nghệ thông tin hay không?",
+          "options": {
+            "A": "Không quan trọng, chỉ nhân viên công nghệ thông tin mới cần quan tâm.",
+            "B": "Quan trọng, vì bất kỳ ai sử dụng thiết bị số cũng đối mặt nguy cơ mất an toàn thông tin.",
+            "C": "Chỉ quan trọng với người hay đi công tác.",
+            "D": "Không, nếu thiết bị chỉ dùng cho mục đích giải trí."
+          },
+          "explanation": "Mọi người dùng thiết bị số đều có nguy cơ mất an toàn thông tin, không riêng người làm công nghệ; càng xử lý dữ liệu công vụ thì càng phải cẩn trọng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là bốn nguyên tắc cốt lõi để tự bảo vệ thiết bị cá nhân được nêu trong bài?",
+          "options": {
+            "A": "Mua máy mới - cấu hình mạnh - dung lượng lớn - pin khỏe.",
+            "B": "Khóa - cập nhật - cảnh giác - sao lưu.",
+            "C": "Tắt mạng - giấu máy - đổi máy thường xuyên - không dùng cho công việc.",
+            "D": "Cài thật nhiều ứng dụng bảo mật cùng lúc."
+          },
+          "explanation": "Bốn nguyên tắc nền tảng, dễ làm ngay là: khóa màn hình, cập nhật phần mềm, cảnh giác với lừa đảo, và sao lưu dữ liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Mối đe dọa nào sau đây KHÔNG thuộc bốn nhóm rủi ro phổ biến được đề cập trong bài?",
+          "options": {
+            "A": "Mã độc tống tiền có thể khóa dữ liệu.",
+            "B": "Mất thiết bị dẫn đến lộ dữ liệu.",
+            "C": "Hỏng hóc phần cứng do tai nạn bất ngờ.",
+            "D": "Lừa đảo qua email với đường dẫn giả mạo."
+          },
+          "explanation": "Bài tập trung vào bốn nhóm: phần mềm độc hại, truy cập trái phép, lừa đảo trực tuyến và mất mát thiết bị; hỏng hóc phần cứng do tai nạn không nằm trong nhóm này.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị thường dùng laptop cá nhân để xử lý văn bản và lưu một số hồ sơ công việc. Để giảm rủi ro mất an toàn thông tin ngay từ hôm nay, việc nên ưu tiên làm đầu tiên là gì?",
+          "options": {
+            "A": "Chờ đến khi cơ quan trang bị máy mới rồi mới quan tâm bảo mật.",
+            "B": "Đặt mật khẩu đăng nhập, bật khóa màn hình tự động, cập nhật phần mềm và sao lưu dữ liệu quan trọng.",
+            "C": "Gỡ hết ứng dụng để máy chạy nhẹ hơn.",
+            "D": "Chỉ dùng laptop khi ở cơ quan, về nhà thì cất đi."
+          },
+          "explanation": "Áp dụng ngay bốn nguyên tắc nền tảng (khóa - cập nhật - cảnh giác - sao lưu) là cách hiệu quả và ít tốn kém nhất để bảo vệ thiết bị và dữ liệu công việc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần tổng hợp nhanh một báo cáo và định nhờ một công cụ AI công cộng hỗ trợ. Trong báo cáo có một số thông tin cá nhân của công dân. Cách xử lý đúng đắn nhất là gì?",
+          "options": {
+            "A": "Dán toàn bộ nội dung, kể cả thông tin công dân, vào công cụ AI cho nhanh.",
+            "B": "Chỉ cần ghi “có dùng AI” ở cuối báo cáo là đủ.",
+            "C": "Tuyệt đối không nhập thông tin cá nhân của công dân và dữ liệu nội bộ lên công cụ AI công cộng; chỉ dùng AI cho phần nội dung chung, không nhạy cảm.",
+            "D": "Tắt mạng rồi mới dán dữ liệu vào cho an toàn."
+          },
+          "explanation": "Dữ liệu cá nhân của công dân và thông tin nội bộ không được đưa lên công cụ AI công cộng vì có thể bị lưu lại ngoài tầm kiểm soát; chỉ nên dùng AI hỗ trợ với nội dung chung, không nhạy cảm.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Cập nhật phần mềm và sử dụng phần mềm bảo mật",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Cập nhật phần mềm lên phiên bản mới nhất giúp ích gì cho bảo mật thiết bị?",
+          "options": {
+            "A": "Giúp máy chạy nhanh hơn đáng kể.",
+            "B": "Vá các lỗ hổng bảo mật, ngăn ngừa nguy cơ bị tấn công.",
+            "C": "Tiết kiệm pin cho thiết bị.",
+            "D": "Không có tác dụng đáng kể nào."
+          },
+          "explanation": "Bản cập nhật chủ yếu để bịt kín các lỗ hổng bảo mật mà kẻ xấu có thể khai thác; đây là lý do quan trọng nhất để cập nhật kịp thời.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Tại sao một số người dùng thường trì hoãn việc cập nhật phần mềm?",
+          "options": {
+            "A": "Vì sợ mất dữ liệu khi cập nhật.",
+            "B": "Vì cho rằng cập nhật gây phiền hà, mất thời gian nên hay bỏ qua.",
+            "C": "Vì thiết bị đã tự động cập nhật nên không cần bận tâm.",
+            "D": "Vì nghĩ rằng phiên bản cũ an toàn và ổn định hơn phiên bản mới."
+          },
+          "explanation": "Tâm lý ngại gián đoạn, thấy phiền hà khiến nhiều người bấm “để sau” và quên cập nhật - đó chính là khe hở để rủi ro len vào.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Nhận định nào sau đây về việc dùng phần mềm là ĐÚNG?",
+          "options": {
+            "A": "Cài phần mềm diệt mã độc rồi thì không cần cập nhật hệ điều hành nữa.",
+            "B": "Phần mềm máy tính được pháp luật bảo hộ quyền tác giả; dùng phần mềm không bản quyền vừa tạo rủi ro an ninh, vừa vi phạm pháp luật.",
+            "C": "Phần mềm lậu và phần mềm có bản quyền an toàn như nhau, chỉ khác nhau ở chi phí.",
+            "D": "Cài phần mềm diệt mã độc thì thiết bị an toàn tuyệt đối, không còn rủi ro nào."
+          },
+          "explanation": "Phần mềm là tài sản trí tuệ được bảo hộ; sử dụng phần mềm không bản quyền vừa tiềm ẩn mã độc, vừa là hành vi vi phạm pháp luật về sở hữu trí tuệ (Nghị định 341/2025/NĐ-CP). Diệt mã độc cũng không thay thế việc cập nhật hệ điều hành, ứng dụng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần cài một phần mềm để phục vụ công việc. Cách làm nào an toàn và đúng quy định nhất?",
+          "options": {
+            "A": "Tải bản đã bẻ khóa trên một diễn đàn chia sẻ để khỏi tốn phí.",
+            "B": "Bấm vào đường link tải phần mềm do một người lạ gửi qua email.",
+            "C": "Tải từ kho ứng dụng chính thức hoặc trang uy tín của nhà cung cấp, ưu tiên phần mềm có bản quyền hoặc mã nguồn mở hợp pháp, và kiểm tra kỹ quyền truy cập trước khi cài.",
+            "D": "Tải từ bất kỳ website nào tìm được cho nhanh."
+          },
+          "explanation": "Chỉ cài đặt từ nguồn chính thống, ưu tiên phần mềm có bản quyền hoặc mã nguồn mở hợp pháp, và rà soát quyền truy cập là cách vừa an toàn vừa đúng pháp luật; với máy do cơ quan quản lý, việc cài đặt thực hiện theo hướng dẫn của bộ phận chuyên trách; phần mềm lậu, bẻ khóa tiềm ẩn cả rủi ro an ninh lẫn rủi ro pháp lý.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Máy tính cá nhân của Anh/Chị liên tục hiện thông báo cập nhật hệ điều hành, nhưng vì sợ gián đoạn công việc nên Anh/Chị cứ hoãn lại nhiều ngày. Cách xử lý hợp lý nhất là gì?",
+          "options": {
+            "A": "Tắt hẳn tính năng cập nhật để khỏi bị làm phiền.",
+            "B": "Bật cập nhật tự động và hẹn lịch cài đặt vào ngoài giờ làm việc để vừa an toàn, vừa không gián đoạn.",
+            "C": "Chỉ cập nhật khi máy đã có dấu hiệu bị nhiễm mã độc.",
+            "D": "Chờ đồng nghiệp cập nhật trước, nếu máy họ không lỗi thì mình mới làm."
+          },
+          "explanation": "Bật cập nhật tự động và hẹn giờ ngoài giờ làm việc giúp thiết bị luôn được vá lỗ hổng kịp thời mà không ảnh hưởng đến công việc; trì hoãn hoặc tắt cập nhật đều làm tăng rủi ro.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Bảo mật truy cập và an toàn thiết bị (mật khẩu, 2FA và bảo vệ vật lý)",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Thực hành nào dưới đây giúp mật khẩu an toàn hơn?",
+          "options": {
+            "A": "Đặt mật khẩu ngắn cho dễ nhớ, ví dụ tên mình kèm năm sinh.",
+            "B": "Dùng cùng một mật khẩu phức tạp cho mọi tài khoản để đỡ quên.",
+            "C": "Sử dụng cụm mật khẩu dài, độc nhất cho mỗi tài khoản; có thể dùng trình quản lý mật khẩu.",
+            "D": "Thường xuyên chia sẻ mật khẩu cho đồng nghiệp tin cậy để họ hỗ trợ khi cần."
+          },
+          "explanation": "Mật khẩu nên dài, khó đoán và độc nhất cho từng tài khoản; trình quản lý mật khẩu giúp tạo và lưu giữ an toàn. Dùng chung mật khẩu hay chia sẻ cho người khác đều làm tăng rủi ro.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi nào nên kích hoạt xác thực hai yếu tố (2FA) cho tài khoản?",
+          "options": {
+            "A": "Chỉ khi tài khoản có dấu hiệu bị xâm nhập.",
+            "B": "Khi mật khẩu của mình quá ngắn hoặc yếu.",
+            "C": "Ngay sau khi tạo tài khoản hoặc càng sớm càng tốt, trên mọi dịch vụ có hỗ trợ.",
+            "D": "Không cần thiết nếu đã đặt mật khẩu rất mạnh."
+          },
+          "explanation": "Nên bật 2FA càng sớm càng tốt cho mọi dịch vụ hỗ trợ; đây là lớp khóa thứ hai bảo vệ tài khoản ngay cả khi mật khẩu bị lộ, không phải đợi đến khi có sự cố.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Việc nào sau đây KHÔNG nên làm để bảo vệ thiết bị về mặt vật lý?",
+          "options": {
+            "A": "Luôn khóa màn hình máy tính khi rời chỗ, kể cả chỉ vài phút.",
+            "B": "Mang thiết bị theo người hoặc cất vào nơi có khóa khi phải rời chỗ.",
+            "C": "Để laptop, điện thoại trên bàn nơi công cộng khi đi ra ngoài một lát.",
+            "D": "Bật chức năng “Tìm thiết bị của tôi” trên điện thoại và máy tính."
+          },
+          "explanation": "Để thiết bị ngoài tầm mắt nơi công cộng là rủi ro lớn; các phương án còn lại đều là thói quen tốt giúp bảo vệ thiết bị và dữ liệu.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận được một cuộc gọi tự xưng là bộ phận kỹ thuật của cơ quan, yêu cầu đọc mã OTP vừa gửi đến điện thoại để “xác minh tài khoản gấp”. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Đọc ngay mã OTP cho họ vì là người của cơ quan.",
+            "B": "Tuyệt đối không cung cấp mã OTP; chủ động gọi lại cho bộ phận công nghệ thông tin qua số chính thức để kiểm chứng.",
+            "C": "Nhắn mã OTP qua tin nhắn cho chắc chắn, không đọc qua điện thoại.",
+            "D": "Cung cấp mã nhưng dặn họ không được dùng vào việc khác."
+          },
+          "explanation": "Mã OTP là yếu tố xác thực bí mật, không cung cấp cho bất kỳ ai kể cả người tự xưng là cán bộ kỹ thuật; luôn xác minh lại qua kênh chính thống trước khi làm theo yêu cầu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị phát hiện điện thoại làm việc bị thất lạc, trong máy có đăng nhập email công việc và hệ thống quản lý văn bản. Việc nên làm đầu tiên là gì?",
+          "options": {
+            "A": "Chờ vài hôm xem có ai nhặt được trả lại không rồi mới xử lý.",
+            "B": "Lập tức định vị, khóa hoặc xóa dữ liệu từ xa, đổi mật khẩu các tài khoản quan trọng và báo ngay cho bộ phận công nghệ thông tin.",
+            "C": "Chỉ cần gọi vào số máy đó xem có ai bắt máy không.",
+            "D": "Không làm gì vì điện thoại đã có mật khẩu màn hình rồi."
+          },
+          "explanation": "Khi mất thiết bị chứa dữ liệu công việc, cần hành động ngay theo thứ tự: định vị và khóa/xóa từ xa, đổi mật khẩu các tài khoản đã đăng nhập, và báo bộ phận công nghệ thông tin; mật khẩu màn hình là cần thiết nhưng chưa đủ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Kết nối trực tuyến an toàn và nhận diện nguy cơ (Wi-Fi, VPN, web và lừa đảo)",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi thấy biểu tượng ổ khóa (HTTPS) trên trình duyệt web, nhận định nào đúng?",
+          "options": {
+            "A": "Trang web đã an toàn 100%, có thể yên tâm nhập mọi thông tin.",
+            "B": "Kết nối tới trang đã được mã hóa, nhưng vẫn phải kiểm tra kỹ địa chỉ vì ổ khóa không bảo đảm trang đó không giả mạo.",
+            "C": "Ổ khóa chỉ là trang trí, không có ý nghĩa gì về bảo mật.",
+            "D": "Có ổ khóa nghĩa là trang đó chắc chắn của cơ quan nhà nước."
+          },
+          "explanation": "Ổ khóa/HTTPS cho biết đường truyền được mã hóa, nhưng trang lừa đảo cũng có thể có ổ khóa; vì vậy luôn phải kiểm tra kỹ địa chỉ trang web trước khi nhập thông tin.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là dấu hiệu giúp nhận biết một đường dẫn (địa chỉ web) có thể là giả mạo?",
+          "options": {
+            "A": "Đường dẫn bắt đầu bằng “https”.",
+            "B": "Tên miền gần giống tên thật nhưng sai một chi tiết: thay chữ bằng số trông na ná, thêm/bớt ký tự, hoặc đổi phần đuôi.",
+            "C": "Đường dẫn có biểu tượng ổ khóa.",
+            "D": "Đường dẫn ngắn gọn, dễ đọc."
+          },
+          "explanation": "Kẻ gian thường tạo tên miền gần giống tên thật, chỉ khác một chi tiết nhỏ; phát hiện những sai khác này là cách quan trọng để tránh trang giả mạo.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi trình duyệt hiện cảnh báo “kết nối không an toàn” hoặc “chứng chỉ không hợp lệ” lúc Anh/Chị định đăng nhập, nên làm gì?",
+          "options": {
+            "A": "Bấm “tiếp tục” để vào cho nhanh vì đang vội.",
+            "B": "Dừng lại, không bỏ qua cảnh báo; thử tải lại trang hoặc báo bộ phận kỹ thuật kiểm tra.",
+            "C": "Tắt phần mềm diệt mã độc đi rồi thử lại.",
+            "D": "Nhập thông tin thật nhanh rồi thoát ra ngay."
+          },
+          "explanation": "Cảnh báo chứng chỉ có thể là dấu hiệu dữ liệu đang bị chặn đọc; tuyệt đối không bỏ qua mà cần dừng lại và xác minh trước khi nhập thông tin.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận được một email tự xưng là từ cơ quan, nội dung thúc giục “đăng nhập gấp để cập nhật tài khoản” kèm một đường dẫn. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Bấm ngay vào đường dẫn trong email và đăng nhập cho kịp.",
+            "B": "Không bấm đường dẫn; tự mở trình duyệt gõ địa chỉ chính thức để kiểm tra, hoặc xác minh lại với bộ phận công nghệ thông tin.",
+            "C": "Trả lời email hỏi lại người gửi xem có đúng không rồi mới bấm.",
+            "D": "Chuyển tiếp email cho đồng nghiệp nhờ bấm thử xem có an toàn không."
+          },
+          "explanation": "Email thúc giục kèm đường dẫn là dấu hiệu lừa đảo điển hình; không bấm trực tiếp mà tự gõ địa chỉ chính thức hoặc xác minh qua bộ phận công nghệ thông tin. Trả lời email hay nhờ người khác bấm thử đều không an toàn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị tìm thấy một chiếc USB trong phòng họp, không rõ của ai. Cách xử lý đúng nhất là gì?",
+          "options": {
+            "A": "Cắm ngay vào máy tính để xem bên trong có gì, biết đâu tìm được chủ nhân.",
+            "B": "Không tự cắm vào máy; bàn giao cho bộ phận công nghệ thông tin hoặc người phụ trách để kiểm tra an toàn.",
+            "C": "Cắm vào máy nhưng không mở file nào thì sẽ an toàn.",
+            "D": "Mang về nhà cắm thử vào máy cá nhân cho đỡ ảnh hưởng máy cơ quan."
+          },
+          "explanation": "USB không rõ nguồn gốc có thể chứa mã độc, chỉ cần cắm vào máy đã có thể gây hại; cần bàn giao cho bộ phận kỹ thuật kiểm tra, tuyệt đối không tự cắm vào bất kỳ máy nào.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Sao lưu dữ liệu và sẵn sàng ứng phó sự cố",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi sao lưu dữ liệu cá nhân, nên ưu tiên sao lưu loại dữ liệu nào trước?",
+          "options": {
+            "A": "Các file phần mềm cài đặt có thể tải lại dễ dàng từ Internet.",
+            "B": "Những tài liệu công việc mà nếu mất sẽ không thể làm lại được, như hồ sơ đang xử lý, văn bản dự thảo.",
+            "C": "Các file tạm, file rác trong máy để giải phóng dung lượng.",
+            "D": "Mọi file đều quan trọng như nhau, không cần phân biệt thứ tự."
+          },
+          "explanation": "Nên ưu tiên sao lưu trước những dữ liệu quan trọng, khó hoặc không thể làm lại; các file có thể tải lại được thì không cần ưu tiên.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là một sai lầm khiến việc sao lưu trở nên kém hiệu quả?",
+          "options": {
+            "A": "Bật chế độ sao lưu tự động theo lịch định kỳ.",
+            "B": "Giữ một bản trên ổ cứng rời và một bản trên đám mây.",
+            "C": "Để ổ cứng sao lưu ngay cạnh máy chính trong cùng một túi xách.",
+            "D": "Đặt mật khẩu cho ổ cứng sao lưu."
+          },
+          "explanation": "Để bản sao lưu cùng chỗ với máy chính khiến khi mất hoặc hỏng thì mất cả hai; các phương án còn lại đều là cách làm đúng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao cần định kỳ thử khôi phục một tệp từ bản sao lưu?",
+          "options": {
+            "A": "Để làm cho bản sao lưu chạy nhanh hơn.",
+            "B": "Để chắc chắn bản sao lưu còn dùng được, tránh đến lúc cần mới phát hiện bản sao đã lỗi.",
+            "C": "Để xóa bớt dữ liệu cũ trong bản sao lưu.",
+            "D": "Vì pháp luật bắt buộc phải kiểm tra hằng ngày."
+          },
+          "explanation": "Thử khôi phục định kỳ giúp phát hiện sớm nếu bản sao lưu bị lỗi hoặc thiết bị hỏng; nếu đợi đến lúc sự cố mới kiểm tra thì có thể đã quá muộn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Máy tính của Anh/Chị có dấu hiệu nhiễm mã độc (chạy chậm bất thường, hiện cửa sổ lạ). Theo đúng quy trình, bước đầu tiên nên làm là gì?",
+          "options": {
+            "A": "Tự lên mạng tải một phần mềm diệt mã độc lạ về cài ngay.",
+            "B": "Ngắt kết nối mạng ngay để cô lập máy, không thao tác hoảng loạn, rồi báo bộ phận công nghệ thông tin.",
+            "C": "Xóa ngay tất cả file nghi ngờ để loại bỏ mã độc cho nhanh.",
+            "D": "Tiếp tục dùng máy bình thường, chờ xem có nặng thêm không."
+          },
+          "explanation": "Việc đầu tiên là ngắt mạng để cô lập, tránh lây lan và lộ dữ liệu; sau đó không thao tác vội vàng mà báo bộ phận công nghệ thông tin xử lý đúng cách. Tự tải phần mềm lạ hay xóa file vội có thể làm tình hình tệ hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Máy của Anh/Chị bị mã độc tống tiền (ransomware) khóa toàn bộ file và yêu cầu tiền chuộc. Cách xử lý đúng nhất là gì?",
+          "options": {
+            "A": "Chuyển tiền chuộc theo yêu cầu để nhanh chóng lấy lại dữ liệu.",
+            "B": "Không trả tiền chuộc; ngắt mạng, báo bộ phận công nghệ thông tin, rồi khôi phục dữ liệu từ bản sao lưu sạch.",
+            "C": "Thương lượng để trả một phần tiền chuộc cho đỡ thiệt hại.",
+            "D": "Chờ ít hôm xem kẻ tấn công có tự mở khóa không."
+          },
+          "explanation": "Tuyệt đối không trả tiền chuộc vì không bảo đảm lấy lại được dữ liệu và còn tiếp tay cho kẻ xấu; giải pháp an toàn là báo bộ phận kỹ thuật và khôi phục từ bản sao lưu đã chuẩn bị trước. Đây chính là lý do việc sao lưu định kỳ lại quan trọng đến vậy.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 6,
+      "lessonTitle": "Ứng phó sự cố an ninh mạng nâng cao và xử lý khủng hoảng lộ lọt thông tin",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Dấu hiệu nào cho thấy một sự cố đã vượt ngưỡng cá nhân, cần báo cáo và phối hợp xử lý?",
+          "options": {
+            "A": "Máy tính cá nhân chạy hơi chậm vào cuối ngày làm việc.",
+            "B": "Nhiều thiết bị cùng bị ảnh hưởng, dữ liệu quan trọng bị mã hóa, hoặc nghi thông tin nội bộ, dữ liệu công dân bị lộ.",
+            "C": "Một phần mềm thông báo có bản cập nhật mới.",
+            "D": "Quên mật khẩu đăng nhập một tài khoản cá nhân."
+          },
+          "explanation": "Khi sự cố ảnh hưởng nhiều thiết bị, làm mất toàn vẹn dữ liệu quan trọng hoặc nghi lộ lọt thông tin, đó là sự cố vượt ngưỡng cá nhân, phải báo cáo và phối hợp xử lý ngay.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi phát hiện một sự cố an ninh mạng nghiêm trọng tại cơ quan, nguyên tắc đầu tiên là gì?",
+          "options": {
+            "A": "Tự mình tìm cách khắc phục cho đến khi xong rồi mới báo.",
+            "B": "Không tự ý xử lý một mình, không che giấu; báo ngay cho bộ phận công nghệ thông tin hoặc đầu mối an ninh mạng của cơ quan.",
+            "C": "Giữ kín để tránh ảnh hưởng đến uy tín cá nhân.",
+            "D": "Đăng lên mạng xã hội để cảnh báo mọi người cùng biết."
+          },
+          "explanation": "Với sự cố nghiêm trọng, cần báo cáo kịp thời và phối hợp, tuyệt đối không tự ý xử lý hay che giấu; báo chậm có thể khiến thiệt hại lan rộng. Pháp luật về an ninh mạng quy định chủ quản hệ thống thông tin phải báo cáo sự cố tới cơ quan chuyên trách của Bộ Công an; ở cấp cá nhân, mỗi người có nghĩa vụ kịp thời cung cấp thông tin cho lực lượng chức năng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi cô lập một thiết bị nghi bị tấn công để phục vụ điều tra, cần lưu ý điều gì?",
+          "options": {
+            "A": "Xóa ngay toàn bộ dữ liệu trên máy cho an toàn.",
+            "B": "Ngắt thiết bị khỏi mạng nhưng giữ nguyên hiện trường, không xóa dấu vết vì đó là chứng cứ cần cho điều tra.",
+            "C": "Định dạng (format) lại ổ cứng trước khi bàn giao cho bộ phận kỹ thuật.",
+            "D": "Tắt máy và cất đi, không cần báo ai."
+          },
+          "explanation": "Cần ngắt mạng để ngăn lây lan nhưng giữ nguyên hiện trường, không xóa dấu vết; các dấu vết này là chứng cứ quan trọng để bộ phận chuyên trách điều tra nguyên nhân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị vô tình phát hiện một tệp dữ liệu chứa thông tin cá nhân của người dân đã bị lộ ra ngoài. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Tự tải tệp đó về để kiểm tra mức độ rồi mới quyết định có báo không.",
+            "B": "Báo cáo ngay theo đúng cấp cho cơ quan; không tự phát tán hay chia sẻ thông tin về sự cố khi chưa được phép.",
+            "C": "Đăng cảnh báo lên mạng xã hội để người dân biết mà phòng tránh.",
+            "D": "Chuyển tệp cho đồng nghiệp xem cùng cho khách quan."
+          },
+          "explanation": "Lộ lọt dữ liệu công dân là sự cố nhạy cảm, phải báo cáo ngay theo đúng cấp để cơ quan kịp đánh giá và hạn chế hậu quả; tự tải về, chia sẻ hay đăng công khai đều có thể làm lộ thêm và vi phạm quy định.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Sự cố an ninh mạng của cơ quan bị lan ra báo chí, mạng xã hội. Một phóng viên liên hệ hỏi Anh/Chị về vụ việc. Cách ứng xử đúng nhất là gì?",
+          "options": {
+            "A": "Trả lời ngay theo hiểu biết của mình để thông tin được nhanh chóng.",
+            "B": "Không tự ý phát ngôn; hướng dẫn liên hệ người được giao nhiệm vụ phát ngôn và bộ phận truyền thông của cơ quan.",
+            "C": "Từ chối toàn bộ và nói rằng cơ quan không có sự cố gì.",
+            "D": "Đăng bài giải thích trên trang cá nhân để trấn an dư luận."
+          },
+          "explanation": "Việc phát ngôn về sự cố phải đúng thẩm quyền; cán bộ không tự ý trả lời báo chí mà chuyển đến đầu mối phát ngôn chính thức, trên tinh thần không che giấu nhưng bảo đảm thông tin chính xác, thống nhất.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "topicId": 17,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Bản quyền là gì và vì sao cần tuân thủ?",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Bản quyền (quyền tác giả) được hình thành vào thời điểm nào?",
+          "options": {
+            "A": "Khi tác giả đăng ký tác phẩm với Cục Bản quyền tác giả.",
+            "B": "Ngay khi tác phẩm được sáng tạo ra và được thể hiện dưới một hình thức vật chất nhất định.",
+            "C": "Chỉ sau khi tác phẩm được xuất bản công khai.",
+            "D": "Chỉ khi tác giả nộp phí bảo hộ hằng năm."
+          },
+          "explanation": "Theo Luật Sở hữu trí tuệ, quyền tác giả phát sinh tự động từ khi tác phẩm được định hình, không bắt buộc phải đăng ký mới được bảo hộ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Hai nhóm quyền cốt lõi trong quyền tác giả là gì?",
+          "options": {
+            "A": "Quyền sử dụng và quyền cho thuê.",
+            "B": "Quyền nhân thân và quyền tài sản.",
+            "C": "Quyền công bố và quyền giữ bí mật.",
+            "D": "Quyền cá nhân và quyền tập thể."
+          },
+          "explanation": "Theo Điều 18 Luật Sở hữu trí tuệ, quyền tác giả gồm quyền nhân thân (gắn với danh dự, tên tuổi) và quyền tài sản (lợi ích vật chất, có thể chuyển giao).",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Việc tuân thủ bản quyền quan trọng đối với cán bộ, công chức, viên chức vì:",
+          "options": {
+            "A": "Giúp tôn trọng pháp luật, tránh vi phạm, giữ uy tín và sự liêm chính cho cá nhân và cơ quan.",
+            "B": "Giúp sử dụng thoải mái mọi tài liệu tìm thấy trên mạng.",
+            "C": "Để không phải trích dẫn nguồn khi viết báo cáo.",
+            "D": "Vì chỉ cơ quan nhà nước mới chịu sự điều chỉnh của luật bản quyền."
+          },
+          "explanation": "Tôn trọng bản quyền vừa là tuân thủ pháp luật, vừa thể hiện sự liêm chính, chuyên nghiệp và giữ uy tín cho cá nhân, cơ quan.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A cho rằng: “Tài liệu này tôi dùng cho báo cáo của cơ quan, không phải để kinh doanh, nên không cần quan tâm đến bản quyền”. Nhận định này:",
+          "options": {
+            "A": "Đúng, vì mục đích công vụ thì được miễn trừ hoàn toàn.",
+            "B": "Sai, vì sử dụng tác phẩm có bản quyền khi chưa được phép, kể cả cho mục đích công vụ, vẫn có thể là hành vi vi phạm pháp luật.",
+            "C": "Đúng, vì chỉ khi bán tài liệu mới phải lo về bản quyền.",
+            "D": "Sai, nhưng chỉ sai khi tài liệu đó của nước ngoài."
+          },
+          "explanation": "Dùng tác phẩm có bản quyền khi chưa được phép, dù cho mục đích công vụ và không nhằm kinh doanh, vẫn có thể vi phạm pháp luật; cần xin phép và ghi nguồn theo quy định (trừ một số trường hợp ngoại lệ luật cho phép, sẽ học ở Bài 2).",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B tải một bức ảnh đẹp trên mạng về, tự ý cắt cúp, ghép thêm chi tiết và bỏ tên tác giả gốc, rồi dùng trong sản phẩm truyền thông của cơ quan. Việc làm này có khả năng xâm phạm quyền nào của tác giả?",
+          "options": {
+            "A": "Chỉ xâm phạm quyền tài sản.",
+            "B": "Xâm phạm cả quyền nhân thân (bỏ tên tác giả, sửa làm sai lệch tác phẩm) lẫn quyền tài sản (dùng khi chưa được phép).",
+            "C": "Không xâm phạm quyền nào vì đã chỉnh sửa khác bản gốc.",
+            "D": "Chỉ xâm phạm nếu tác giả phát hiện và khiếu nại."
+          },
+          "explanation": "Bỏ tên tác giả và tự ý sửa làm sai lệch tác phẩm là xâm phạm quyền nhân thân; sử dụng khi chưa được phép là xâm phạm quyền tài sản - vi phạm xảy ra ngay cả khi chưa bị khiếu nại.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Quy định pháp luật về quyền tác giả - những điều cán bộ cần biết",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi trích dẫn hợp lý một đoạn tác phẩm của người khác để đưa vào báo cáo, điều kiện bắt buộc luôn phải thực hiện là gì?",
+          "options": {
+            "A": "Phải trả một khoản tiền bản quyền cho tác giả.",
+            "B": "Phải thông tin rõ về tên tác giả và nguồn gốc, xuất xứ của tác phẩm.",
+            "C": "Phải xin phép bằng văn bản trong mọi trường hợp.",
+            "D": "Phải đăng ký với cơ quan quản lý nhà nước."
+          },
+          "explanation": "Các trường hợp dùng không phải xin phép, không trả tiền theo Điều 25 vẫn bắt buộc phải ghi tên tác giả và nguồn gốc, xuất xứ tác phẩm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Trường hợp nào sau đây thường phải xin phép và trả tiền bản quyền?",
+          "options": {
+            "A": "Trích một đoạn ngắn có ghi nguồn để bình luận trong tài liệu của mình.",
+            "B": "Sử dụng trọn vẹn một bản nhạc làm nền cho video tuyên truyền phát hành rộng rãi.",
+            "C": "Tự sao chép một bản tài liệu để cá nhân nghiên cứu, không nhằm thương mại.",
+            "D": "Trích dẫn hợp lý để minh họa trong một bài giảng không nhằm thương mại."
+          },
+          "explanation": "Dùng trọn vẹn tác phẩm hoặc vượt quá phạm vi trích dẫn, minh họa thông thường thì phải xin phép và thường phải trả tiền bản quyền.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Theo quy định mới có hiệu lực từ đầu năm 2026, hành vi vi phạm hành chính về quyền tác giả có thể bị phạt tiền tối đa bao nhiêu?",
+          "options": {
+            "A": "Tối đa 50 triệu đồng với cá nhân, 100 triệu đồng với tổ chức.",
+            "B": "Tối đa 250 triệu đồng với cá nhân, 500 triệu đồng với tổ chức.",
+            "C": "Chỉ bị nhắc nhở, không phạt tiền.",
+            "D": "Tối đa 1 tỷ đồng với mọi trường hợp."
+          },
+          "explanation": "Theo Nghị định 341/2025/NĐ-CP (hiệu lực 15/02/2026), mức phạt tiền tối đa với cá nhân là 250 triệu đồng, với tổ chức là 500 triệu đồng; ngoài ra còn xử lý dân sự, hình sự tùy mức độ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị A muốn dùng một bức ảnh tải trên mạng cho ấn phẩm của cơ quan. Cách xử lý đúng và an toàn nhất là:",
+          "options": {
+            "A": "Cứ dùng vì ảnh trên mạng là của chung, ai cũng dùng được.",
+            "B": "Kiểm tra nguồn gốc và quyền sử dụng; ưu tiên ảnh miễn phí bản quyền hoặc đã được cấp phép; nếu không rõ thì không dùng và tìm nguồn thay thế hợp pháp.",
+            "C": "Dùng ảnh rồi xóa tên tác giả để không ai biết nguồn.",
+            "D": "Dùng ảnh nhưng thu nhỏ lại để tránh vi phạm."
+          },
+          "explanation": "Khi chưa chắc về quyền sử dụng, nguyên tắc an toàn là kiểm tra nguồn gốc, ưu tiên tư liệu miễn phí bản quyền hoặc đã cấp phép; không rõ thì không dùng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh B trích một đoạn dài từ một bài nghiên cứu vào tài liệu tập huấn nội bộ, nhưng bỏ tên tác giả và không ghi nguồn vì “chỉ dùng nội bộ”. Nhận định nào đúng?",
+          "options": {
+            "A": "Không sao, vì tài liệu chỉ lưu hành nội bộ.",
+            "B": "Không đúng, vì kể cả khi được phép trích dẫn, vẫn bắt buộc phải ghi tên tác giả và nguồn gốc; bỏ nguồn có thể xâm phạm quyền tác giả.",
+            "C": "Không sao, vì đã chỉnh sửa lại câu chữ cho khác đi.",
+            "D": "Chỉ cần ghi nguồn nếu tài liệu được công bố ra bên ngoài."
+          },
+          "explanation": "Ngay cả với trích dẫn hợp lý, việc ghi tên tác giả và nguồn gốc là bắt buộc; lưu hành nội bộ không miễn trừ nghĩa vụ này.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Giấy phép sử dụng nội dung số và cách tìm nguồn “sạch”",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Giấy phép sử dụng” của một nội dung số cho ta biết điều gì?",
+          "options": {
+            "A": "Giá tiền bắt buộc phải trả cho mọi tác phẩm.",
+            "B": "Tác giả cho phép người khác dùng tác phẩm vào việc gì và với điều kiện ra sao (có được sửa, có phải ghi tên tác giả không).",
+            "C": "Tên của trang web đang lưu trữ tác phẩm.",
+            "D": "Dung lượng của tệp tin."
+          },
+          "explanation": "Giấy phép sử dụng thể hiện phạm vi và điều kiện mà tác giả cho phép người khác sử dụng tác phẩm của mình.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Bốn yếu tố tạo nên các giấy phép Creative Commons là gì?",
+          "options": {
+            "A": "BY, SA, NC, ND - tức ghi công, chia sẻ tương tự, phi thương mại, không chỉnh sửa.",
+            "B": "PDF, JPG, MP3, MP4.",
+            "C": "Chỉ có một yếu tố duy nhất là trả phí.",
+            "D": "Tên, tuổi, địa chỉ, số điện thoại của tác giả."
+          },
+          "explanation": "Bốn yếu tố BY (ghi công), SA (chia sẻ tương tự), NC (phi thương mại), ND (không chỉnh sửa) kết hợp thành sáu loại giấy phép CC.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Với phần lớn các giấy phép Creative Commons (trừ công cụ CC0), điều kiện quan trọng thường bị quên là gì?",
+          "options": {
+            "A": "Phải trả tiền bản quyền.",
+            "B": "Phải ghi rõ tên tác giả gốc khi sử dụng.",
+            "C": "Phải xin phép bằng văn bản.",
+            "D": "Phải đăng ký với cơ quan nhà nước."
+          },
+          "explanation": "Mọi giấy phép CC đều có yếu tố BY (ghi công); trừ CC0, đều yêu cầu ghi tên tác giả gốc - đây là điều kiện hay bị bỏ sót nhất.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A tải một bức ảnh trên một kho ảnh miễn phí để làm slide cho cơ quan. Cách làm đúng và an toàn là:",
+          "options": {
+            "A": "Cứ dùng bất kỳ, vì mọi thứ trên mạng đều miễn phí.",
+            "B": "Kiểm tra điều kiện sử dụng của bức ảnh đó; tuy phần lớn ảnh cho dùng tự do, vẫn nên đọc kỹ và ưu tiên ghi nguồn.",
+            "C": "Dùng rồi gắn logo cơ quan vào để thành ảnh của mình.",
+            "D": "Chỉ được dùng nếu mua bản quyền riêng."
+          },
+          "explanation": "Ngay cả với kho ảnh miễn phí, vẫn nên đọc kỹ điều kiện từng tệp và ưu tiên ghi nguồn để chắc chắn an toàn và chuyên nghiệp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B tìm thấy một bức ảnh gắn nhãn CC BY rất hợp với tài liệu tuyên truyền. Để dùng đúng luật, chị cần làm gì?",
+          "options": {
+            "A": "Dùng luôn, không cần làm gì thêm.",
+            "B": "Được phép sử dụng (kể cả cho công việc), nhưng bắt buộc phải ghi rõ tên tác giả gốc của bức ảnh.",
+            "C": "Phải liên hệ trả tiền cho tác giả trước khi dùng.",
+            "D": "Không được dùng vì ảnh CC BY luôn cấm dùng cho cơ quan."
+          },
+          "explanation": "Giấy phép CC BY cho phép sử dụng kể cả cho mục đích thương mại, với điều kiện bắt buộc là ghi rõ tên tác giả gốc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Kỹ năng trích dẫn tài liệu và sử dụng nội dung hợp pháp",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi trích dẫn trực tiếp (lấy nguyên văn) một đoạn của tác giả, cần làm gì?",
+          "options": {
+            "A": "Chỉ cần đổi vài từ là được, không cần ghi nguồn.",
+            "B": "Đặt phần nguyên văn trong dấu ngoặc kép và ghi rõ nguồn.",
+            "C": "Viết liền vào bài như thể là câu của mình.",
+            "D": "In đậm đoạn đó để phân biệt là đủ."
+          },
+          "explanation": "Trích dẫn trực tiếp phải giữ nguyên văn, đặt trong ngoặc kép và ghi rõ nguồn; không nên lạm dụng cách này.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Trích dẫn gián tiếp là gì?",
+          "options": {
+            "A": "Sao chép y nguyên đoạn văn của tác giả.",
+            "B": "Diễn đạt lại ý tưởng của tác giả bằng lời văn của mình nhưng giữ đúng nội dung, và vẫn ghi nguồn.",
+            "C": "Lấy ý của người khác và coi như của mình.",
+            "D": "Chỉ ghi tên tác giả mà không cần nội dung."
+          },
+          "explanation": "Trích dẫn gián tiếp là diễn đạt lại ý tác giả bằng lời mình, giữ đúng nội dung gốc, và vẫn phải ghi nguồn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Hành vi nào sau đây bị xem là đạo văn?",
+          "options": {
+            "A": "Trích nguyên văn có để ngoặc kép và ghi nguồn rõ ràng.",
+            "B": "Diễn giải lại ý tưởng của người khác nhưng không ghi nguồn gốc.",
+            "C": "Lập danh mục tài liệu tham khảo ở cuối báo cáo.",
+            "D": "Ghi rõ tên tác giả và năm cho mỗi số liệu sử dụng."
+          },
+          "explanation": "Đạo văn không chỉ là chép nguyên văn, mà còn gồm cả việc diễn giải lại ý tưởng của người khác mà lờ đi nguồn gốc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A đọc được một nhận định hay trong một bài nghiên cứu, viết lại bằng lời của mình rồi đưa vào báo cáo mà không ghi nguồn, vì “đã viết khác đi rồi”. Nhận định nào đúng?",
+          "options": {
+            "A": "Đúng, vì đã diễn đạt lại nên thành ý của anh A.",
+            "B": "Sai, vì dù diễn đạt lại bằng lời mình, ý tưởng vẫn của người khác nên vẫn phải ghi nguồn; bỏ nguồn là đạo văn.",
+            "C": "Đúng, vì báo cáo nội bộ không cần ghi nguồn.",
+            "D": "Sai, nhưng chỉ cần ghi nguồn nếu sao chép nguyên văn."
+          },
+          "explanation": "Diễn đạt lại bằng lời mình vẫn phải ghi nguồn vì ý tưởng là của người khác; bỏ nguồn trong trường hợp này chính là một dạng đạo văn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B soạn một tài liệu tập huấn, mỗi chỗ ghi nguồn một kiểu khác nhau, có chỗ lại quên không ghi. Cách làm chuyên nghiệp hơn là:",
+          "options": {
+            "A": "Cứ để vậy, miễn là có thông tin.",
+            "B": "Thống nhất một cách ghi nguồn trong toàn tài liệu và bảo đảm mọi thông tin mượn đều được dẫn nguồn đầy đủ.",
+            "C": "Bỏ hết phần ghi nguồn cho gọn.",
+            "D": "Chỉ ghi nguồn ở trang đầu tiên là đủ."
+          },
+          "explanation": "Trong một văn bản nên thống nhất một cách ghi nguồn và bảo đảm mọi thông tin mượn đều được dẫn nguồn đầy đủ - vừa chuyên nghiệp, vừa giúp kiểm chứng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Sử dụng nội dung do AI tạo ra một cách an toàn và đúng luật",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo pháp luật Việt Nam hiện hành (gồm cả Luật Trí tuệ nhân tạo), nguyên tắc cốt lõi về vai trò của AI là gì?",
+          "options": {
+            "A": "AI được công nhận là tác giả và có thể thay con người quyết định.",
+            "B": "Lấy con người làm trung tâm; AI là công cụ phục vụ, không thay thế thẩm quyền và trách nhiệm của con người; AI không phải tác giả.",
+            "C": "AI và con người có quyền và trách nhiệm ngang nhau.",
+            "D": "Công ty phát triển AI chịu mọi trách nhiệm thay người dùng."
+          },
+          "explanation": "Cả Luật Sở hữu trí tuệ và Luật Trí tuệ nhân tạo đều khẳng định: con người là trung tâm, AI chỉ là công cụ, không thay thế thẩm quyền và trách nhiệm của con người, và không phải là tác giả.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Một sản phẩm được tạo ra hoàn toàn tự động bởi AI (chỉ từ một câu lệnh đơn giản, không có đóng góp đáng kể của con người) thì:",
+          "options": {
+            "A": "Luôn được bảo hộ quyền tác giả đầy đủ.",
+            "B": "Về nguyên tắc không được pháp luật bảo hộ quyền tác giả.",
+            "C": "Thuộc quyền tác giả của công ty làm ra AI.",
+            "D": "Tự động thuộc về người gõ câu lệnh."
+          },
+          "explanation": "Sản phẩm do AI tạo ra hoàn toàn tự động, không có đóng góp sáng tạo đáng kể của con người, về nguyên tắc không được bảo hộ quyền tác giả.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Theo Luật Trí tuệ nhân tạo, nội dung do AI tạo ra (như hình ảnh, video) khi đưa ra công chúng cần được xử lý thế nào?",
+          "options": {
+            "A": "Giữ bí mật việc dùng AI để tăng độ tin cậy.",
+            "B": "Được đánh dấu, gắn nhãn hoặc ghi chú rõ để người dùng nhận biết, nhất là khi có khả năng gây nhầm lẫn về tính xác thực.",
+            "C": "Khẳng định là do con người trực tiếp tạo ra.",
+            "D": "Không cần ghi chú gì nếu nội dung đẹp."
+          },
+          "explanation": "Luật Trí tuệ nhân tạo quy định nghĩa vụ minh bạch: nội dung do AI tạo ra phải được gắn nhãn, ghi chú để nhận biết, nhất là khi có thể gây nhầm lẫn về tính xác thực.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A dùng AI tạo một đoạn văn cho báo cáo, trong đó có vài số liệu. Trước khi đưa vào báo cáo chính thức, anh nên làm gì?",
+          "options": {
+            "A": "Dùng luôn vì AI thường rất chính xác.",
+            "B": "Đọc lại, kiểm chứng các số liệu từ nguồn chính thống và biên tập cho phù hợp; anh là người chịu trách nhiệm cuối cùng về nội dung.",
+            "C": "Gửi thẳng cho lãnh đạo, ai phát hiện sai thì sửa sau.",
+            "D": "Chỉ cần đổi vài từ cho khác đi là được."
+          },
+          "explanation": "Theo Luật Trí tuệ nhân tạo, AI không thay thế trách nhiệm của người ra quyết định; nội dung AI phải được kiểm chứng, biên tập kỹ và người dùng chịu trách nhiệm cuối cùng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B dùng AI vẽ một bức tranh minh họa cho tài liệu của cơ quan. Cách làm đúng và minh bạch là:",
+          "options": {
+            "A": "Khẳng định đó là tranh do chính chị vẽ tay để tăng uy tín.",
+            "B": "Ghi chú rõ đây là hình ảnh được tạo bởi AI, và bảo đảm không mô phỏng giả mạo người thật, không sao chép phong cách một tác giả cụ thể.",
+            "C": "Bỏ mọi chú thích để không ai biết là tranh AI.",
+            "D": "Yêu cầu AI vẽ đúng theo phong cách một họa sĩ nổi tiếng rồi dùng luôn."
+          },
+          "explanation": "Cần minh bạch gắn nhãn hình ảnh do AI tạo (nghĩa vụ luật định) và không xâm phạm quyền người khác, không tạo nội dung giả mạo - đúng quy định của Luật Trí tuệ nhân tạo.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

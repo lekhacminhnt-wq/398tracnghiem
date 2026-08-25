@@ -53,7 +53,7 @@
             "C": "AI có thể tự học từ dữ liệu để cải thiện theo thời gian, còn phần mềm truyền thống chỉ chạy theo các lệnh cố định cài sẵn.",
             "D": "AI chỉ làm được việc đơn giản, phần mềm làm được việc phức tạp."
           },
-          "explanation": "Khả năng tự học từ dữ liệu là điểm khác biệt căn bản; AI vẫn cần con người giám sát và có thể sai. Phần tình huống công vụ",
+          "explanation": "Khả năng tự học từ dữ liệu là điểm khác biệt căn bản; AI vẫn cần con người giám sát và có thể sai.",
           "correctLabel": "C",
           "isTrueFalse": false,
           "source": "bold-verified"
@@ -150,7 +150,7 @@
             "C": "Robot thông minh (Robotics).",
             "D": "Hệ chuyên gia (Expert System)."
           },
-          "explanation": "NLP là công nghệ giúp máy hiểu và tạo ngôn ngữ tự nhiên của con người. Phần tình huống công vụ",
+          "explanation": "NLP là công nghệ giúp máy hiểu và tạo ngôn ngữ tự nhiên của con người.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -251,7 +251,7 @@
             "C": "Để bảo đảm AI không tự học thêm điều gì mà người quản lý không biết.",
             "D": "Không cần giám sát, vì AI đạt độ chính xác cao thì sẽ luôn đúng mãi."
           },
-          "explanation": "AI “không phải cài xong là xong”; cần theo dõi, cập nhật liên tục khi thực tế thay đổi và luôn có con người kiểm soát. Phần tình huống công vụ",
+          "explanation": "AI “không phải cài xong là xong”; cần theo dõi, cập nhật liên tục khi thực tế thay đổi và luôn có con người kiểm soát.",
           "correctLabel": "A",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -352,7 +352,7 @@
             "C": "Cấm hoàn toàn việc sử dụng AI trong các dịch vụ công vì rủi ro cao.",
             "D": "Đưa Việt Nam vào nhóm 4 nước dẫn đầu khu vực ASEAN về AI."
           },
-          "explanation": "Chiến lược hướng tới thúc đẩy phát triển và ứng dụng AI, không hề cấm dùng AI trong dịch vụ công. Phần tình huống công vụ",
+          "explanation": "Chiến lược hướng tới thúc đẩy phát triển và ứng dụng AI, không hề cấm dùng AI trong dịch vụ công.",
           "correctLabel": "C",
           "isTrueFalse": false,
           "source": "manually-verified",
@@ -453,7 +453,7 @@
             "C": "Không cho người dân biết mình đang nói chuyện với chatbot.",
             "D": "Chỉ cho chatbot hoạt động trong giờ hành chính."
           },
-          "explanation": "Chatbot cần được cập nhật liên tục và luôn có phương án chuyển sang con người; nên minh bạch để người dân biết đang dùng chatbot. Phần tình huống công vụ",
+          "explanation": "Chatbot cần được cập nhật liên tục và luôn có phương án chuyển sang con người; nên minh bạch để người dân biết đang dùng chatbot.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "bold-verified"
@@ -550,7 +550,7 @@
             "C": "Con người làm tất cả, không cần dùng AI.",
             "D": "AI và con người không liên quan đến nhau."
           },
-          "explanation": "AI tăng tốc phần việc thô; con người bảo đảm tính chính xác và chịu trách nhiệm về kết quả. Phần tình huống công vụ",
+          "explanation": "AI tăng tốc phần việc thô; con người bảo đảm tính chính xác và chịu trách nhiệm về kết quả.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -651,7 +651,7 @@
             "C": "Máy nào? Phần mềm nào? Mạng nào?",
             "D": "Đúng hay sai? Nhanh hay chậm? Đắt hay rẻ?"
           },
-          "explanation": "Ba câu hỏi “Số liệu từ đâu - Số liệu nói lên điều gì - Vậy ta nên làm gì” giúp biến số liệu thành thông tin rõ ràng, có thể hành động. Phần tình huống công vụ",
+          "explanation": "Ba câu hỏi “Số liệu từ đâu - Số liệu nói lên điều gì - Vậy ta nên làm gì” giúp biến số liệu thành thông tin rõ ràng, có thể hành động.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -752,7 +752,7 @@
             "C": "Thiên lệch chỉ xảy ra do lỗi của người dùng, không liên quan đến dữ liệu.",
             "D": "Thiên lệch là điều không thể nhận biết và không thể khắc phục."
           },
-          "explanation": "AI học từ dữ liệu; dữ liệu thiên lệch dẫn tới kết quả thiếu công bằng, do đó cần con người kiểm soát để bảo đảm khách quan. Phần tình huống công vụ",
+          "explanation": "AI học từ dữ liệu; dữ liệu thiên lệch dẫn tới kết quả thiếu công bằng, do đó cần con người kiểm soát để bảo đảm khách quan.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -853,7 +853,7 @@
             "C": "Chỉ dùng một công cụ AI duy nhất cho mọi loại dữ liệu.",
             "D": "Công cụ nào miễn phí thì nhập dữ liệu nào cũng được."
           },
-          "explanation": "Nguyên tắc này yêu cầu phân loại dữ liệu trước khi chọn công cụ; dữ liệu nhạy cảm tuyệt đối không đưa lên AI công cộng. Phần tình huống công vụ",
+          "explanation": "Nguyên tắc này yêu cầu phân loại dữ liệu trước khi chọn công cụ; dữ liệu nhạy cảm tuyệt đối không đưa lên AI công cộng.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "manually-verified",

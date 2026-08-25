@@ -53,7 +53,7 @@
             "C": "Vì chỉ nhằm tiết kiệm ngân sách in ấn tài liệu.",
             "D": "Vì đó là việc riêng của bộ phận công nghệ thông tin."
           },
-          "explanation": "Hệ thống dùng chung chỉ vận hành tốt khi từng người nhập đúng, cập nhật kịp thời và đúng quy trình. Phần tình huống công vụ",
+          "explanation": "Hệ thống dùng chung chỉ vận hành tốt khi từng người nhập đúng, cập nhật kịp thời và đúng quy trình.",
           "correctLabel": "A",
           "isTrueFalse": false,
           "source": "manually-verified",
@@ -154,7 +154,7 @@
             "C": "Trực tiếp thu thập dữ liệu từ môi trường xung quanh qua các cảm biến.",
             "D": "Ghi lại thông tin theo cách bảo đảm không thể tự ý sửa đổi."
           },
-          "explanation": "Điện toán đám mây cung cấp hạ tầng lưu trữ và sức mạnh tính toán linh hoạt để các công nghệ khác vận hành trên đó - đây chính là vai trò mà hình ảnh liên tưởng trong bài giúp chúng ta dễ hình dung. Các vai trò còn lại lần lượt thuộc về trí tuệ nhân tạo (A), internet vạn vật (C) và chuỗi khối (D) Phần tình huống công vụ",
+          "explanation": "Điện toán đám mây cung cấp hạ tầng lưu trữ và sức mạnh tính toán linh hoạt để các công nghệ khác vận hành trên đó - đây chính là vai trò mà hình ảnh liên tưởng trong bài giúp chúng ta dễ hình dung. Các vai trò còn lại lần lượt thuộc về trí tuệ nhân tạo (A), internet vạn vật (C) và chuỗi khối (D)",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -255,7 +255,7 @@
             "C": "Đưa công nghệ số vào đời sống người dân và thu hẹp khoảng cách số, không để ai bị bỏ lại phía sau.",
             "D": "Thay thế hoàn toàn các giao dịch trực tiếp bằng giao dịch trực tuyến."
           },
-          "explanation": "Xã hội số hướng tới phổ cập tiện ích số tới mọi người dân và thu hẹp khoảng cách số. Phần tình huống công vụ",
+          "explanation": "Xã hội số hướng tới phổ cập tiện ích số tới mọi người dân và thu hẹp khoảng cách số.",
           "correctLabel": "C",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -356,7 +356,7 @@
             "C": "Chỉ phát động phong trào trên văn bản.",
             "D": "Giao toàn bộ việc chuyển đổi số cho bộ phận công nghệ thông tin."
           },
-          "explanation": "Nêu gương là lãnh đạo trực tiếp sử dụng công cụ số, không chỉ hô hào hay giao khoán. Phần tình huống công vụ",
+          "explanation": "Nêu gương là lãnh đạo trực tiếp sử dụng công cụ số, không chỉ hô hào hay giao khoán.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "manually-verified",
@@ -457,7 +457,7 @@
             "C": "Hỏi về nguồn gốc và độ tin cậy: khảo sát bao nhiêu người, ở đâu, thời điểm nào, mẫu có đại diện không.",
             "D": "Tự ý làm tròn thành 100% cho đẹp báo cáo."
           },
-          "explanation": "Luôn kiểm chứng nguồn gốc, cỡ mẫu và tính đại diện của số liệu trước khi sử dụng. Phần tình huống công vụ",
+          "explanation": "Luôn kiểm chứng nguồn gốc, cỡ mẫu và tính đại diện của số liệu trước khi sử dụng.",
           "correctLabel": "C",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -554,7 +554,7 @@
             "C": "Chỉ cần mã hóa là có thể gửi tài liệu mật qua bất kỳ kênh nào.",
             "D": "Dữ liệu công khai và dữ liệu mật được xử lý như nhau."
           },
-          "explanation": "Mỗi loại dữ liệu phải đi đúng kênh phù hợp; tài liệu nội bộ, mật chỉ dùng hệ thống cơ quan. Phần tình huống công vụ",
+          "explanation": "Mỗi loại dữ liệu phải đi đúng kênh phù hợp; tài liệu nội bộ, mật chỉ dùng hệ thống cơ quan.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "manually-verified",
@@ -647,7 +647,7 @@
             "C": "Là phương thức ký điện tử có giá trị pháp lý tương đương chữ ký tay, thực hiện theo quy trình của cơ quan.",
             "D": "Là mật khẩu đăng nhập vào hệ thống văn bản."
           },
-          "explanation": "Chữ ký số là phương thức ký điện tử thực hiện theo đúng quy trình của cơ quan; khi đáp ứng các điều kiện theo quy định của pháp luật và được sử dụng đúng thẩm quyền, đúng quy trình thì có giá trị pháp lý như chữ ký tay - không phải ảnh chụp chữ ký hay việc gõ tên. Phần tình huống công vụ",
+          "explanation": "Chữ ký số là phương thức ký điện tử thực hiện theo đúng quy trình của cơ quan; khi đáp ứng các điều kiện theo quy định của pháp luật và được sử dụng đúng thẩm quyền, đúng quy trình thì có giá trị pháp lý như chữ ký tay - không phải ảnh chụp chữ ký hay việc gõ tên.",
           "correctLabel": "C",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -748,7 +748,7 @@
             "C": "Luật Đường bộ.",
             "D": "Nghị định về tiền lương cán bộ, công chức."
           },
-          "explanation": "Quyết định 874/QĐ-BTTTT năm 2021 ban hành Bộ Quy tắc ứng xử trên mạng xã hội, có điều riêng cho cán bộ, công chức, viên chức. Phần tình huống công vụ",
+          "explanation": "Quyết định 874/QĐ-BTTTT năm 2021 ban hành Bộ Quy tắc ứng xử trên mạng xã hội, có điều riêng cho cán bộ, công chức, viên chức.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",

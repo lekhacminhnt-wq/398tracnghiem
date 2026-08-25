@@ -53,7 +53,7 @@
             "C": "Vì cán bộ không cần chịu trách nhiệm về công việc nữa.",
             "D": "Vì mọi quyết định đều do hệ thống tự đưa ra."
           },
-          "explanation": "Minh bạch đến từ việc hệ thống lưu vết quá trình xử lý, giúp rõ trách nhiệm - không phải công khai mọi tài liệu hay bỏ trách nhiệm con người. Phần tình huống công vụ",
+          "explanation": "Minh bạch đến từ việc hệ thống lưu vết quá trình xử lý, giúp rõ trách nhiệm - không phải công khai mọi tài liệu hay bỏ trách nhiệm con người.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "manually-verified",
@@ -154,7 +154,7 @@
             "C": "AI luôn cho kết quả chính xác tuyệt đối, không cần kiểm tra.",
             "D": "AI chỉ dùng được cho lãnh đạo, không dành cho cán bộ."
           },
-          "explanation": "AI gánh phần việc thô, lặp lại; con người kiểm chứng kết quả và chịu trách nhiệm cuối cùng. Phần tình huống công vụ",
+          "explanation": "AI gánh phần việc thô, lặp lại; con người kiểm chứng kết quả và chịu trách nhiệm cuối cùng.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "manually-verified",

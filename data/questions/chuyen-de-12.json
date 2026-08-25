@@ -1,0 +1,410 @@
+{
+  "topicId": 12,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Tổng quan hợp tác số và tư duy đổi mới",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Hợp tác số” được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Chỉ là việc gửi email thay cho công văn giấy.",
+            "B": "Cùng nhau làm việc qua các nền tảng trực tuyến, nhiều người tham gia đồng thời từ mọi nơi - là thay đổi cách làm việc, không chỉ thay hình thức trao đổi.",
+            "C": "Là chuyển toàn bộ tài liệu giấy thành file để lưu trữ.",
+            "D": "Là việc riêng của bộ phận công nghệ thông tin."
+          },
+          "explanation": "Hợp tác số là cùng làm việc trên nền tảng trực tuyến, nhiều người tham gia đồng thời - tức thay đổi cách làm việc, không chỉ thay hình thức trao đổi.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Bốn nguyên tắc “làm việc số” gồm những gì?",
+          "options": {
+            "A": "Chung thiết bị, chung mật khẩu, chung tài khoản, chung máy in.",
+            "B": "Chung một không gian, chung một nhịp độ, chung một phiên bản, chung một nguyên tắc bảo mật.",
+            "C": "Họp thật nhiều, in thật nhiều, gửi thật nhiều file.",
+            "D": "Mỗi người giữ một bản riêng để chủ động."
+          },
+          "explanation": "Bốn nguyên tắc: chung một không gian, chung một nhịp độ, chung một phiên bản, và chung một nguyên tắc bảo mật.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao “tư duy đổi mới” lại quan trọng trong hợp tác số?",
+          "options": {
+            "A": "Vì có công cụ hiện đại là đủ, không cần thay đổi gì.",
+            "B": "Vì công cụ chỉ phát huy khi con người cởi mở, chủ động học và sẵn sàng thay đổi cách làm cũ.",
+            "C": "Vì đổi mới nghĩa là bỏ hết kinh nghiệm đã có.",
+            "D": "Vì chỉ lãnh đạo mới cần đổi mới tư duy."
+          },
+          "explanation": "Công cụ mới chỉ là một nửa; tư duy cởi mở, chủ động học và sẵn sàng thay đổi cách làm cũ mới giúp hợp tác số phát huy hiệu quả.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Nhóm của Anh/Chị đang mỗi người giữ một bản tài liệu, chỉnh sửa chồng chéo, không rõ bản nào mới nhất. Cách khắc phục theo nguyên tắc hợp tác số là gì?",
+          "options": {
+            "A": "Mỗi người cứ giữ bản của mình cho chủ động.",
+            "B": "Cùng chỉnh sửa trên một tài liệu số chung (chung phiên bản), lưu trong thư mục chung, đặt tên chuẩn, hệ thống lưu vết thay đổi.",
+            "C": "In tất cả các bản ra rồi ghép tay lại.",
+            "D": "Gửi qua lại nhiều file đính kèm cho chắc."
+          },
+          "explanation": "Nguyên tắc “chung một phiên bản” - cùng sửa trên một tài liệu số chung, lưu vết thay đổi - giúp tránh chồng chéo và nhầm phiên bản.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi chia sẻ một tài liệu công việc cho nhóm để cùng soạn thảo, Anh/Chị cần lưu ý gì về bảo mật?",
+          "options": {
+            "A": "Đặt ở chế độ ai có link cũng sửa được cho tiện.",
+            "B": "Phân quyền đọc/sửa rõ ràng, chỉ chia sẻ qua kênh chính thức của cơ quan; không gửi tài liệu mật qua ứng dụng chưa được phê duyệt.",
+            "C": "Gửi qua một ứng dụng cá nhân bất kỳ cho nhanh.",
+            "D": "Cho phép tải về tự do để mọi người giữ bản riêng."
+          },
+          "explanation": "Nguyên tắc “chung một nguyên tắc bảo mật”: phân quyền rõ ràng, chỉ dùng kênh chính thức, không gửi tài liệu mật qua ứng dụng chưa được phê duyệt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Các công cụ và kênh giao tiếp số trong công việc",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Email công vụ phù hợp nhất cho loại trao đổi nào?",
+          "options": {
+            "A": "Hỏi đáp ngắn, nhắc việc gấp trong vài giây.",
+            "B": "Trao đổi chính thức, trang trọng, cần lưu vết và dễ truy xuất (công văn, dự thảo, thông báo chính thức).",
+            "C": "Tán gẫu, trao đổi việc riêng.",
+            "D": "Chia sẻ tài liệu mật ra ngoài cơ quan."
+          },
+          "explanation": "Email công vụ là kênh chính thống cho nội dung trang trọng, cần lưu trữ và truy xuất - như công văn, dự thảo, thông báo chính thức.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“Quy tắc 3 gọn” khi dùng tin nhắn nhanh/chat gồm những gì?",
+          "options": {
+            "A": "Gọn người, gọn nhóm, gọn thiết bị.",
+            "B": "Gọn ý trình bày, gọn về thời gian, gọn kênh truyền tải.",
+            "C": "Gọn chữ, gọn ảnh, gọn biểu tượng cảm xúc.",
+            "D": "Gọn giờ làm, gọn giờ nghỉ, gọn ngày phép."
+          },
+          "explanation": "Ba gọn: gọn ý trình bày (ngắn, đi thẳng yêu cầu), gọn thời gian (tôn trọng giờ nghỉ), gọn kênh (không gửi tài liệu nhạy cảm qua kênh công cộng).",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Công thức “3Đ” trong giao tiếp số là gì?",
+          "options": {
+            "A": "Đủ người - Đủ thiết bị - Đủ thời gian.",
+            "B": "Đúng kênh - Đúng lúc - Đúng mực.",
+            "C": "Đẹp - Độc - Đáng nhớ.",
+            "D": "Đơn giản - Đầy đủ - Đa dạng."
+          },
+          "explanation": "3Đ trong giao tiếp số: Đúng kênh, Đúng lúc, Đúng mực.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần xin ý kiến gấp về một dự thảo, vừa cần nhanh, vừa cần lưu vết, vừa rõ ràng khi còn ý kiến khác nhau. Cách phối hợp kênh hợp lý là gì?",
+          "options": {
+            "A": "Chỉ nhắn tin trên nhóm chat cho nhanh là đủ.",
+            "B": "Báo nhanh trên chat (hạn rõ) - gửi email công vụ kèm file để lưu vết và phân công góp ý - họp trực tuyến ngắn nếu còn ý kiến trái chiều.",
+            "C": "Chỉ gửi email rồi chờ, không cần kênh nào khác.",
+            "D": "Gọi điện cho từng người, không lưu lại gì."
+          },
+          "explanation": "Phối hợp ba tầng - chat (nhanh), email (chắc chắn, lưu vết), họp trực tuyến (rõ ràng) - giúp không ai bị bỏ ngoài luồng thông tin.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp định gửi một tài liệu nội bộ nhạy cảm qua nhóm chat công cộng cho nhanh. Anh/Chị nên khuyên điều gì?",
+          "options": {
+            "A": "Cứ gửi cho nhanh, ai cũng làm vậy.",
+            "B": "Không gửi qua kênh công cộng; dùng email công vụ hoặc nhóm, hệ thống nội bộ đã được phân quyền.",
+            "C": "Gửi nhưng dặn mọi người xóa sau khi đọc.",
+            "D": "Gửi kèm mật khẩu ngay trong nhóm chat đó."
+          },
+          "explanation": "Theo nguyên tắc “gọn kênh”, tài liệu nhạy cảm chỉ chia sẻ qua kênh chính thức, nội bộ đã phân quyền - không gửi qua kênh công cộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Tổ chức cuộc họp trực tuyến hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Việc đầu tiên người tổ chức nên cân nhắc trước khi tạo một cuộc họp trực tuyến là gì?",
+          "options": {
+            "A": "Chọn nền tảng nào có hình nền đẹp nhất.",
+            "B": "Cân nhắc có thật sự cần họp không (hay chỉ cần email/văn bản); nếu họp thì xác định mục tiêu rõ và lập chương trình họp.",
+            "C": "Mời càng đông người càng tốt cho xôm tụ.",
+            "D": "Tạo phòng họp ngay rồi tính nội dung sau."
+          },
+          "explanation": "Chỉ họp khi cần thảo luận, ra quyết định; trước hết phải rõ mục tiêu và có chương trình họp - tránh họp không cần thiết.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vai trò “đồng chủ trì” (co-host) trong cuộc họp trực tuyến giúp ích gì?",
+          "options": {
+            "A": "Để có thêm người nói cho rôm rả.",
+            "B": "Hỗ trợ kỹ thuật và quản trị người tham dự (duyệt phòng chờ, tắt micro gây ồn…), để người điều hành tập trung dẫn dắt nội dung.",
+            "C": "Thay người chủ trì quyết định mọi việc.",
+            "D": "Chỉ để dự phòng khi chủ trì vắng mặt."
+          },
+          "explanation": "Đồng chủ trì lo kỹ thuật và quản trị người tham dự, giúp người điều hành tập trung vào nội dung và nhịp họp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Để điều hành đúng nhịp và đi đến quyết định, người chủ trì nên làm gì?",
+          "options": {
+            "A": "Để cuộc họp diễn ra tự nhiên, ai muốn nói gì thì nói.",
+            "B": "Bám chương trình họp, mỗi nội dung chốt một kết luận, ý lạc đề thì ghi lại bàn sau, tóm tắt và chốt phương án sau mỗi phần.",
+            "C": "Nói thật nhiều để dẫn dắt toàn bộ cuộc họp.",
+            "D": "Kéo dài thảo luận đến khi mọi người tự đồng ý."
+          },
+          "explanation": "Người điều hành giỏi giữ nhịp theo chương trình, “một nội dung - một kết luận”, và tóm tắt - chốt sau mỗi phần.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đang điều hành họp, một điểm cầu đang báo cáo thì mất tiếng, rớt mạng. Là người chủ trì, Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Dừng cả cuộc họp để chờ điểm cầu đó khắc phục.",
+            "B": "Bình tĩnh chuyển lượt sang nội dung hoặc người khác, nhờ đồng chủ trì hỗ trợ kỹ thuật cho điểm cầu đó, không để cả cuộc họp chờ đợi.",
+            "C": "Bỏ qua luôn phần báo cáo của điểm cầu đó.",
+            "D": "Tỏ thái độ khó chịu rồi kết thúc họp."
+          },
+          "explanation": "Người chủ trì giữ mạch họp bằng cách chuyển lượt và để đồng chủ trì hỗ trợ kỹ thuật, tránh để cả cuộc họp gián đoạn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một thành viên liên tục nói lan man, kéo dài quá giờ. Người điều hành nên xử lý thế nào?",
+          "options": {
+            "A": "Để mặc cho nói hết, dù quá giờ.",
+            "B": "Khéo léo cảm ơn, tóm tắt ý chính rồi đưa cuộc họp về trọng tâm; ghi ý ngoài lề vào “mục bàn sau” để giữ tiến độ.",
+            "C": "Ngắt lời gay gắt và phê bình ngay trước mọi người.",
+            "D": "Tắt micro của người đó mà không nói gì."
+          },
+          "explanation": "Khéo léo ghi nhận, tóm tắt và đưa về trọng tâm, chuyển ý ngoài lề sang “mục bàn sau” giúp giữ nhịp mà vẫn tôn trọng người phát biểu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Chia sẻ và cùng soạn thảo tài liệu trực tuyến an toàn",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Vấn đề gốc của cách chia sẻ tài liệu kiểu cũ (gửi email qua lại nhiều tệp) là gì?",
+          "options": {
+            "A": "Do mạng Internet quá chậm.",
+            "B": "Không có một bản trung tâm thống nhất, dẫn tới nhầm phiên bản, bỏ sót ý kiến và nguy cơ rò rỉ thông tin.",
+            "C": "Do email không gửi được tệp đính kèm.",
+            "D": "Do không ai chịu mở email."
+          },
+          "explanation": "Gốc rễ là thiếu một bản trung tâm thống nhất; gửi qua lại nhiều tệp gây nhầm phiên bản, sót ý kiến và dễ lộ lọt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Ba nguyên tắc cốt lõi để chia sẻ và cùng soạn thảo tài liệu trực tuyến an toàn là gì?",
+          "options": {
+            "A": "Gửi thật nhiều bản - lưu thật nhiều nơi - in thật nhiều lần.",
+            "B": "Một bản trung tâm - phân quyền chuẩn - quản lý phiên bản minh bạch.",
+            "C": "Ai cũng được sửa - ai cũng được tải - ai cũng được chuyển tiếp.",
+            "D": "Đặt mật khẩu thật khó - giấu file thật kỹ - không chia sẻ cho ai."
+          },
+          "explanation": "Ba nguyên tắc: một bản trung tâm, phân quyền chuẩn, và quản lý phiên bản minh bạch (luôn qua kênh chính thức).",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "“Phân quyền chuẩn” khi chia sẻ tài liệu nghĩa là gì?",
+          "options": {
+            "A": "Cho tất cả mọi người quyền chỉnh sửa cho tiện.",
+            "B": "Chia sẻ đúng người, đúng quyền (xem, bình luận, chỉnh sửa); tài liệu quan trọng thì giới hạn truy cập, và chỉ chia sẻ qua kênh chính thức.",
+            "C": "Ai có đường link là sửa được.",
+            "D": "Cho phép tải về và chuyển tiếp tự do."
+          },
+          "explanation": "Phân quyền chuẩn là trao đúng quyền cho đúng người, giới hạn truy cập tài liệu quan trọng và chỉ dùng kênh chính thức, tài khoản công vụ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Nhóm của Anh/Chị đang gửi qua lại nhiều tệp qua email, không rõ bản nào mới nhất. Cách làm đúng theo nguyên tắc cộng tác số là gì?",
+          "options": {
+            "A": "Cứ tiếp tục gửi email, ai giữ bản nào thì dùng bản đó.",
+            "B": "Đưa tài liệu lên một nơi lưu trữ chung (eOffice/thư mục chung), cùng chỉnh sửa trên một bản, bật lịch sử phiên bản và đặt tên phiên bản rõ ràng.",
+            "C": "In tất cả các bản ra rồi tự ghép lại.",
+            "D": "Mỗi người tự giữ một bản cho chắc."
+          },
+          "explanation": "Đưa về một bản trung tâm, cùng sửa trên đó, bật lịch sử và đặt tên phiên bản giúp tránh nhầm lẫn và sót ý kiến.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp định chụp màn hình đoạn trao đổi nội bộ rồi gửi qua một ứng dụng công cộng cho nhanh. Anh/Chị nên khuyên điều gì?",
+          "options": {
+            "A": "Cứ gửi cho nhanh, không sao đâu.",
+            "B": "Không nên làm vậy vì có thể vi phạm quy định bảo mật; hãy chia sẻ qua kênh chính thức, tài khoản công vụ với quyền phù hợp.",
+            "C": "Gửi nhưng nhớ xóa ngay sau đó.",
+            "D": "Gửi kèm lời nhắc “tài liệu mật” là được."
+          },
+          "explanation": "Chụp và gửi nội dung nội bộ qua ứng dụng công cộng có thể vi phạm bảo mật; chỉ chia sẻ qua kênh chính thức, đúng phân quyền.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Văn hóa và kỹ năng hợp tác số an toàn, hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Bốn nguyên tắc vàng của văn hóa hợp tác số là gì?",
+          "options": {
+            "A": "Họp nhiều - nói nhiều - gửi nhiều file - lưu nhiều bản.",
+            "B": "Văn minh trong giao tiếp - Bảo mật thông tin - Kỷ luật tiến độ - Hỗ trợ lẫn nhau & học tập suốt đời.",
+            "C": "Trả lời thật nhanh - chia sẻ thật rộng - làm thật khuya - họp thật lâu.",
+            "D": "Dùng thiết bị đắt - phần mềm mới - mạng mạnh - màn hình lớn."
+          },
+          "explanation": "Bốn nguyên tắc vàng: Văn minh trong giao tiếp, Bảo mật thông tin nhóm, Kỷ luật tiến độ, và Hỗ trợ lẫn nhau & học tập suốt đời.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“Văn minh trong giao tiếp số” thể hiện như thế nào?",
+          "options": {
+            "A": "Nói thẳng, nói mạnh, ai sai thì phê bình gay gắt.",
+            "B": "Góp ý đi thẳng vào vấn đề chuyên môn, không công kích cá nhân; ngôn từ chuẩn mực; phản hồi kịp thời.",
+            "C": "Chỉ cần lịch sự với cấp trên là đủ.",
+            "D": "Im lặng cho an toàn, không góp ý gì."
+          },
+          "explanation": "Văn minh số là tôn trọng, góp ý thẳng vào chuyên môn (không công kích cá nhân), ngôn từ chuẩn mực và phản hồi kịp thời.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi cả nhóm gặp trục trặc (hệ thống lỗi, quy trình chưa hợp lý), tinh thần nên có là gì?",
+          "options": {
+            "A": "Tìm cho ra ai có lỗi để quy trách nhiệm.",
+            "B": "Đặt mục tiêu chung lên trên, cùng thảo luận tìm giải pháp thay vì đổ lỗi cho cá nhân.",
+            "C": "Ai gây lỗi thì người đó tự xử lý một mình.",
+            "D": "Tạm dừng hợp tác cho đến khi hết lỗi."
+          },
+          "explanation": "Xuyên suốt văn hóa hợp tác số là đặt mục tiêu chung lên trên lợi ích riêng - cùng tìm giải pháp, không đổ lỗi cá nhân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận một email công vụ nhưng đang bận, chưa thể xử lý ngay. Cách ứng xử chuyên nghiệp là gì?",
+          "options": {
+            "A": "Để đó, khi nào rảnh hẳn mới trả lời.",
+            "B": "Phản hồi một dòng ngắn xác nhận đã nhận và hẹn thời điểm trả lời, ví dụ “Đã nhận, tôi sẽ phản hồi trước 17h hôm nay”.",
+            "C": "Bỏ qua vì không bắt buộc trả lời ngay.",
+            "D": "Chờ người gửi nhắc lại rồi mới phản hồi."
+          },
+          "explanation": "Một dòng xác nhận đã nhận và hẹn thời điểm trả lời thể hiện sự chuyên nghiệp, tôn trọng đồng nghiệp và giữ tiến độ chung.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trong nhóm có đồng nghiệp còn lúng túng với công cụ số. Theo tinh thần “Bình dân học vụ số”, Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Tự làm hết cho nhanh, khỏi mất công hướng dẫn.",
+            "B": "Chủ động hướng dẫn, hỗ trợ đồng nghiệp để không ai bị bỏ lại phía sau.",
+            "C": "Để đồng nghiệp tự xoay xở, ai giỏi thì theo kịp.",
+            "D": "Báo cấp trên rằng đồng nghiệp yếu công nghệ."
+          },
+          "explanation": "Tinh thần “Bình dân học vụ số” là người biết giúp người chưa thạo, hỗ trợ nhau cùng tiến, không để ai bị bỏ lại.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

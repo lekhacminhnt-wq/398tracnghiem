@@ -1,0 +1,491 @@
+{
+  "topicId": 9,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Giao tiếp qua email chuyên nghiệp",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi gửi email trao đổi công việc, lựa chọn nào đúng với quy tắc giao tiếp chuyên nghiệp?",
+          "options": {
+            "A": "Dùng địa chỉ thư công vụ do cơ quan cấp, có tên hiển thị và chữ ký rõ ràng.",
+            "B": "Dùng email cá nhân (Gmail, Yahoo...) cho nhanh, đỡ phải đăng nhập thư công vụ.",
+            "C": "Không cần chữ ký vì người nhận đã biết mình là ai.",
+            "D": "Đặt tên hiển thị là biệt danh cho thân thiện."
+          },
+          "explanation": "Thư công vụ thể hiện tính chính danh, bảo mật và chuyên nghiệp; email cá nhân làm giảm độ tin cậy và tăng rủi ro.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Tiêu đề email nào dưới đây là tốt nhất?",
+          "options": {
+            "A": "“Thông báo quan trọng”.",
+            "B": "“Gửi lại thông tin”.",
+            "C": "“Mời họp Tổ rà soát văn bản - 10h Thứ Hai 21/7”.",
+            "D": "“Re: Re: Fwd: tài liệu”."
+          },
+          "explanation": "Tiêu đề tốt theo công thức ba phần (động từ - nội dung - thời gian/đơn vị), ngắn gọn, giúp người nhận nắm ngay mục đích.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là thói quen đúng cần làm ngay trước khi bấm “Gửi” một email công vụ?",
+          "options": {
+            "A": "Gửi ngay cho nhanh, có gì sửa sau.",
+            "B": "Rà lại người nhận (CC/BCC), tiêu đề, tệp đính kèm, ngày giờ - số liệu và cách xưng hô.",
+            "C": "Chỉ cần kiểm tra mỗi nội dung chữ, không cần xem đính kèm.",
+            "D": "Để chế độ gửi ngay lập tức, không cần gửi trễ."
+          },
+          "explanation": "Một vài chục giây rà soát cuối giúp tránh gửi nhầm, sót đính kèm hay sai số liệu - những lỗi rất khó sửa sau khi đã gửi.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị cần gửi cho đơn vị phối hợp một tệp có chứa thông tin cá nhân của công dân. Cách làm an toàn là gì?",
+          "options": {
+            "A": "Đính kèm thẳng và gửi cho nhanh.",
+            "B": "Đặt mật khẩu/mã hóa cho tệp, gửi qua thư công vụ và gửi mật khẩu bằng một kênh khác; tuyệt đối không gửi tài liệu mật qua email thường.",
+            "C": "Gửi qua email cá nhân cho tiện.",
+            "D": "Đăng tệp lên một thư mục công cộng rồi gửi link cho nhanh."
+          },
+          "explanation": "Dữ liệu cá nhân cần được bảo vệ khi gửi; tài liệu mật, bí mật nhà nước không được gửi qua email thông thường theo quy định pháp luật.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị cần gửi một thông báo tới hàng chục người thuộc nhiều cơ quan khác nhau. Nên làm thế nào?",
+          "options": {
+            "A": "Điền tất cả địa chỉ vào ô “To” để ai cũng thấy nhau.",
+            "B": "Dùng BCC để ẩn danh sách người nhận, bảo vệ địa chỉ email của mọi người, kèm tiêu đề rõ ràng.",
+            "C": "Gửi thành nhiều email lẻ, mỗi lần một người, suốt buổi.",
+            "D": "Nhờ một người chuyển tiếp hộ cho tất cả."
+          },
+          "explanation": "Với số đông người nhận ngoài cơ quan, BCC giúp bảo vệ thông tin liên hệ và tránh lộ địa chỉ email của người khác.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Tham gia họp trực tuyến hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Trước khi tham gia một cuộc họp trực tuyến, Quý Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Kiểm tra trước kết nối mạng, micro, camera và chọn nơi đủ sáng, yên tĩnh.",
+            "B": "Chỉ cần có đường link họp, không cần chuẩn bị gì thêm.",
+            "C": "Không cần thử mic/camera, vào họp trục trặc rồi tính.",
+            "D": "Đợi đến đúng giờ mới mở tài liệu và đi tìm link mời họp."
+          },
+          "explanation": "Chuẩn bị kỹ thiết bị và không gian từ trước giúp cuộc họp bắt đầu suôn sẻ, tránh mất thời gian xử lý sự cố giữa chừng.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi đang tham gia họp trực tuyến mà chưa đến lượt phát biểu, hành động nào đúng?",
+          "options": {
+            "A": "Tắt micro để tránh tạp âm nền, chỉ bật khi cần nói.",
+            "B": "Mở micro suốt buổi để nói bất cứ lúc nào cần.",
+            "C": "Tự do phát biểu, không cần theo sự điều hành của chủ tọa.",
+            "D": "Rời cuộc họp giữa chừng không báo ai nếu có việc riêng."
+          },
+          "explanation": "Tắt mic khi không nói giúp lọc tạp âm; muốn phát biểu thì giơ tay hoặc nhắn qua chat và chờ chủ tọa mời.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Điều nào sau đây KHÔNG đúng về họp trực tuyến?",
+          "options": {
+            "A": "Nên chọn không gian yên tĩnh, đủ sáng khi họp từ xa.",
+            "B": "Có thể mặc tùy ý, vì người khác chỉ thấy khuôn mặt mình trên camera.",
+            "C": "Nên chia sẻ màn hình khi trình bày tài liệu để mọi người cùng theo dõi.",
+            "D": "Nên chốt lại kết luận và phân công nhiệm vụ trước khi kết thúc."
+          },
+          "explanation": "Dù họp từ xa, trang phục vẫn cần gọn gàng, lịch sự ít nhất ở phần thân trên; tác phong chỉn chu thể hiện sự tôn trọng cuộc họp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đang họp trực tuyến thì micro hoặc đường truyền của Quý Anh/Chị gặp sự cố. Nên xử lý thế nào?",
+          "options": {
+            "A": "Im lặng rời họp ngay vì không nghe được nữa.",
+            "B": "Kiểm tra lại mic/kết nối (xem có lỡ tắt tiếng không), nếu chưa được thì báo qua khung chat hoặc dùng điện thoại để tiếp tục, đề nghị hỗ trợ.",
+            "C": "Ngồi im đợi sự cố tự hết mà không thông báo gì.",
+            "D": "Tỏ thái độ khó chịu với bộ phận kỹ thuật ngay trong cuộc họp."
+          },
+          "explanation": "Bình tĩnh tự kiểm tra trước, thông báo qua chat và có phương án dự phòng (như chuyển sang điện thoại) giúp không làm gián đoạn cuộc họp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị được giao tổ chức một cuộc họp trực tuyến có nội dung nội bộ của cơ quan. Cách làm an toàn là gì?",
+          "options": {
+            "A": "Đăng công khai đường link và mật khẩu phòng họp lên mạng xã hội cho tiện.",
+            "B": "Dùng nền tảng được cơ quan cho phép, chỉ gửi đường link và mật khẩu riêng cho thành viên dự họp, không chia sẻ công khai; không trình bày tài liệu mật qua nền tảng công cộng.",
+            "C": "Cho phép bất kỳ ai có link đều vào được, không cần kiểm soát.",
+            "D": "Tự ý ghi hình rồi đăng lại toàn bộ cuộc họp lên nhóm ngoài cơ quan."
+          },
+          "explanation": "Kiểm soát người tham gia, gửi link riêng và dùng nền tảng được phép giúp tránh người lạ xâm nhập và bảo vệ thông tin nội bộ của cơ quan.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Trao đổi qua ứng dụng nhắn tin hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là cách ứng xử đúng khi trao đổi công việc qua ứng dụng nhắn tin?",
+          "options": {
+            "A": "Nhắn rõ ràng, lịch sự: “Nhờ Anh gửi giúp tôi báo cáo trước 15h nhé, cảm ơn Anh!”",
+            "B": "Nhắn cho lãnh đạo lúc 11 giờ đêm về việc không quá gấp để báo cáo cho nhanh.",
+            "C": "Trả lời một yêu cầu công việc chỉ bằng một biểu tượng “ 👌 ” cho gọn.",
+            "D": "Tự ý thêm người quen vào nhóm chat công việc mà không hỏi trước."
+          },
+          "explanation": "Tin nhắn công vụ nên đủ ý, lịch sự; tránh nhắn ngoài giờ việc không gấp, trả lời cụt lủn bằng biểu tượng hay tự ý thêm người vào nhóm.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi nào nên dùng nhắn tin thay vì email?",
+          "options": {
+            "A": "Khi gửi một văn bản chính thức, nhiều thông tin và cần lưu trữ lâu dài.",
+            "B": "Khi cần trao đổi ngắn, nhanh, hỏi đáp hoặc nhắc việc gấp.",
+            "C": "Khi gửi tài liệu mật cho đồng nghiệp.",
+            "D": "Khi muốn thông tin được lưu vết chính thức để sau này truy xuất."
+          },
+          "explanation": "Nhắn tin hợp với việc nhanh, ngắn; nội dung dài, trang trọng hoặc cần lưu vết thì nên dùng email hoặc hệ thống văn bản của cơ quan.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Hành vi nào nên tránh khi tham gia một nhóm chat công việc?",
+          "options": {
+            "A": "Đặt tên nhóm rõ ràng theo nội dung công việc.",
+            "B": "Chốt lại kết luận sau khi cả nhóm đã thống nhất.",
+            "C": "Gửi nội dung ngoài chủ đề, spam nhiều tin hối thúc và tự ý thêm người ngoài vào nhóm.",
+            "D": "Chỉ trao đổi trong giờ làm việc, trừ việc khẩn cấp."
+          },
+          "explanation": "Nhóm chat hiệu quả cần đúng chủ đề, gọn gàng, không spam và không thêm người tùy tiện để tránh nhiễu thông tin và lộ nội dung.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị cần gửi gấp một tài liệu nội bộ có chứa thông tin cá nhân của công dân. Một đồng nghiệp bảo cứ gửi qua ứng dụng chat công cộng cho nhanh. Nên làm thế nào?",
+          "options": {
+            "A": "Gửi luôn qua ứng dụng chat cho kịp.",
+            "B": "Không gửi qua ứng dụng công cộng; dùng hệ thống quản lý văn bản hoặc email công vụ của cơ quan, và bảo vệ tệp khi cần.",
+            "C": "Chụp màn hình tài liệu rồi gửi vào nhóm chat cho nhanh.",
+            "D": "Đăng tạm lên một nhóm chat đông người để mọi người cùng tải."
+          },
+          "explanation": "Tài liệu nội bộ, dữ liệu cá nhân nhạy cảm phải đi qua kênh chính thống, bảo mật của cơ quan, không trao đổi qua ứng dụng nhắn tin công cộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị nhận được tin nhắn từ một tài khoản lạ tự xưng là lãnh đạo, nhờ chuyển tiền gấp hoặc cung cấp mã OTP. Nên xử lý thế nào?",
+          "options": {
+            "A": "Làm theo ngay vì là “lãnh đạo” yêu cầu gấp.",
+            "B": "Không làm theo; gọi điện trực tiếp cho người đó để xác minh, không chuyển tiền, không cung cấp mã OTP hay bấm vào link lạ.",
+            "C": "Chuyển tiền trước, hỏi lại sau cho kịp việc.",
+            "D": "Gửi mã OTP để “xác nhận” theo yêu cầu trong tin nhắn."
+          },
+          "explanation": "Đây là chiêu lừa đảo mạo danh phổ biến; luôn xác minh qua kênh trực tiếp và tuyệt đối không cung cấp mã OTP, mật khẩu hay chuyển tiền theo tin nhắn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Giao tiếp trên mạng xã hội an toàn, văn minh",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi sử dụng mạng xã hội, đâu là hành vi ứng xử đúng đắn của một cán bộ?",
+          "options": {
+            "A": "Phản hồi bình luận chỉ trích bằng thái độ điềm tĩnh, cầu thị và giải thích rõ thêm vấn đề.",
+            "B": "Chia sẻ ngay một thông tin “nóng” chưa được kiểm chứng để thu hút sự chú ý.",
+            "C": "Đăng công khai mọi thông tin cá nhân (địa chỉ, số điện thoại) để mọi người dễ liên hệ.",
+            "D": "Xóa ngay các bình luận góp ý trái chiều và chặn người có ý kiến khác với mình."
+          },
+          "explanation": "Điềm tĩnh, cầu thị và giải thích khách quan giúp giữ hình ảnh chuyên nghiệp; xóa - chặn tùy tiện hay chia sẻ tin chưa kiểm chứng đều nên tránh.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Theo Bộ Quy tắc ứng xử trên mạng xã hội, cán bộ, công chức nên làm gì?",
+          "options": {
+            "A": "Dùng họ tên thật, minh bạch; theo nội quy cơ quan về cung cấp thông tin; gặp tin trái chiều liên quan lĩnh vực phụ trách thì báo cơ quan.",
+            "B": "Lợi dụng chức vụ để phát ngôn tùy ý cho có ảnh hưởng.",
+            "C": "Đăng tải nội dung nội bộ của cơ quan bất cứ khi nào thấy cần.",
+            "D": "Ẩn danh để bình luận thoải mái mà không cần chịu trách nhiệm."
+          },
+          "explanation": "Quy tắc riêng cho cán bộ, công chức đề cao tính minh bạch, tuân thủ nội quy và trách nhiệm với thông tin thuộc lĩnh vực mình phụ trách.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là cách “chia sẻ thông tin có trách nhiệm” trên mạng xã hội?",
+          "options": {
+            "A": "Thấy tin giật gân là chia sẻ ngay cho mọi người cùng biết.",
+            "B": "Kiểm chứng nguồn trước khi chia sẻ, ưu tiên thông tin chính thống, không lan truyền tin chưa rõ thực hư.",
+            "C": "Chia sẻ lại mọi thông tin miễn là nhiều người đang quan tâm.",
+            "D": "Đăng tin chưa kiểm chứng rồi xóa sau nếu sai cũng được."
+          },
+          "explanation": "Người chia sẻ chịu trách nhiệm về điều mình lan truyền; kiểm chứng nguồn và ưu tiên thông tin chính thống giúp tránh tiếp tay cho tin giả.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị bị gắn thẻ vào một bài viết đang gây chú ý, chỉ trích một chính sách; nhiều người liên tục nhắc tên, giục lên tiếng ngay. Nên xử lý thế nào?",
+          "options": {
+            "A": "Trả lời thật nhanh cho “nóng”, kẻo bị cho là né tránh.",
+            "B": "Bình tĩnh, không phản hồi vội; kiểm chứng thông tin, trả lời điềm tĩnh trong thẩm quyền, hoặc báo cáo cơ quan nếu vượt thẩm quyền.",
+            "C": "Xóa lượt gắn thẻ và chặn tất cả những người bình luận trái chiều.",
+            "D": "Vào tranh luận tay đôi để bảo vệ quan điểm đến cùng."
+          },
+          "explanation": "Một câu trả lời vội có thể bị cắt ghép, lan truyền; dừng lại để cân nhắc, kiểm chứng và phản hồi đúng mực, đúng thẩm quyền là an toàn nhất.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị thấy một tin “nóng” chưa rõ thực hư liên quan đến cơ quan và định chia sẻ ngay lên trang cá nhân. Nên làm gì?",
+          "options": {
+            "A": "Chia sẻ ngay để mọi người cùng biết cho kịp thời.",
+            "B": "Khoan chia sẻ; kiểm chứng qua nguồn chính thống trước, nếu là tin sai thì không lan truyền và có thể báo cơ quan.",
+            "C": "Chia sẻ kèm dòng “chưa rõ đúng sai” để né trách nhiệm.",
+            "D": "Gửi tin đó vào các nhóm đông người để nhờ mọi người xác minh hộ."
+          },
+          "explanation": "Lan truyền tin chưa kiểm chứng có thể gây hoang mang và khiến người chia sẻ chịu trách nhiệm; cần xác minh nguồn chính thống trước khi chia sẻ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Tham gia nền tảng học trực tuyến hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Làm thế nào để kiến thức học trực tuyến thật sự trở thành năng lực của mình?",
+          "options": {
+            "A": "Học càng nhiều khóa càng tốt, không cần thực hành.",
+            "B": "Học xong là áp dụng ngay vào một việc thật, làm rồi rút kinh nghiệm và học lại chỗ chưa thông.",
+            "C": "Chỉ cần xem hết video là coi như đã thành thạo.",
+            "D": "Học để biết cho vui, khi nào cần mới tính đến việc làm."
+          },
+          "explanation": "Kiến thức chỉ thành kỹ năng khi được mang ra dùng; vòng “học - làm - rút kinh nghiệm” lặp lại giúp năng lực ngày càng vững.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là cách duy trì việc học tập một cách bền vững?",
+          "options": {
+            "A": "Học dồn thật nhiều trong một đợt rồi nghỉ hẳn một thời gian dài.",
+            "B": "Xây dựng một lộ trình học liên tục gắn với công việc và giữ nhịp đều đặn mỗi ngày một chút.",
+            "C": "Chỉ học khi nào cơ quan bắt buộc, còn lại thì thôi.",
+            "D": "Học hết một khóa là coi như đã đủ, không cần học thêm."
+          },
+          "explanation": "Học tập là hành trình liên tục; một lộ trình rõ ràng và thói quen đều đặn hiệu quả hơn nhiều so với học dồn theo đợt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nên tham gia trao đổi, hỏi - đáp khi học trực tuyến thay vì chỉ học một mình?",
+          "options": {
+            "A": "Vì học một mình luôn nhanh và hiệu quả hơn học cùng người khác.",
+            "B": "Vì trao đổi, đặt câu hỏi và chia sẻ kinh nghiệm giúp hiểu sâu hơn và cùng nhau tiến bộ.",
+            "C": "Vì tham gia diễn đàn chỉ để cho có, không ảnh hưởng đến việc học.",
+            "D": "Vì chỉ người hỏi mới học được, người trả lời thì không."
+          },
+          "explanation": "Tương tác giúp cả người hỏi lẫn người chia sẻ hiểu sâu hơn; học cùng nhau còn lan tỏa văn hóa học hỏi trong cơ quan.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị muốn dùng AI để hỗ trợ việc học. Cách làm vừa hiệu quả vừa an toàn là gì?",
+          "options": {
+            "A": "Nhập cả tài liệu nội bộ, dữ liệu công dân vào AI để nhờ tóm tắt cho nhanh.",
+            "B": "Nhờ AI giải thích khái niệm khó, tóm tắt, ra câu hỏi luyện tập; nhưng không nhập dữ liệu nhạy cảm và luôn đối chiếu nội dung quan trọng với nguồn chính thống.",
+            "C": "Tin tuyệt đối mọi câu trả lời của AI, không cần kiểm tra lại.",
+            "D": "Dùng AI làm hộ mọi việc, không cần tự suy nghĩ hay thực hành."
+          },
+          "explanation": "AI là trợ lý học tập hữu ích, nhưng có thể trả lời sai và không được phép nhận dữ liệu nhạy cảm; cần đối chiếu nguồn chính thống và giữ an toàn thông tin.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Sau khi học được một kỹ năng số mới và áp dụng tốt, Quý Anh/Chị nên làm gì để lan tỏa trong đơn vị?",
+          "options": {
+            "A": "Giữ riêng cho mình để tạo lợi thế so với đồng nghiệp.",
+            "B": "Chia sẻ, hướng dẫn lại cho đồng nghiệp, có thể lập một nhóm cùng học và trao đổi cách áp dụng vào công việc chung.",
+            "C": "Cho rằng việc học là của mỗi cá nhân, không cần chia sẻ.",
+            "D": "Chỉ chia sẻ khi được lãnh đạo yêu cầu, còn lại thì thôi."
+          },
+          "explanation": "Chia sẻ và hướng dẫn lại vừa giúp mình nhớ sâu, vừa nâng trình độ chung của cả tập thể và xây dựng văn hóa học tập tại cơ quan.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 6,
+      "lessonTitle": "Sử dụng dịch vụ công trực tuyến",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là điểm đúng về bối cảnh dịch vụ công trực tuyến hiện nay?",
+          "options": {
+            "A": "Cổng Dịch vụ công Quốc gia là điểm một cửa số tập trung của cả nước; cùng mô hình chính quyền hai cấp, cấp xã là tuyến đầu tiếp nhận phần lớn hồ sơ.",
+            "B": "Mỗi bộ, mỗi tỉnh vẫn duy trì một cổng dịch vụ công riêng để người dân tự chọn.",
+            "C": "Người dân bắt buộc phải đến đúng nơi cư trú mới nộp được mọi hồ sơ.",
+            "D": "Dịch vụ công trực tuyến chỉ làm được ở cấp tỉnh, cấp xã không tiếp nhận."
+          },
+          "explanation": "Các cổng riêng lẻ đã tích hợp về một đầu mối là Cổng Dịch vụ công Quốc gia; trong mô hình hai cấp, cấp xã trực tiếp tiếp nhận, giải quyết phần lớn hồ sơ.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi xử lý hồ sơ dịch vụ công trực tuyến, trách nhiệm của cán bộ là gì?",
+          "options": {
+            "A": "Xử lý lúc nào rảnh thì làm, không cần đúng hạn.",
+            "B": "Xử lý đúng quy trình, đúng thời hạn, cập nhật trạng thái minh bạch và không để hồ sơ quá hạn vô lý.",
+            "C": "Không cần cập nhật trạng thái, khi nào xong thì báo.",
+            "D": "Để hồ sơ “ngâm” nếu thấy chưa cần thiết."
+          },
+          "explanation": "Xử lý đúng hạn, minh bạch trạng thái và không để hồ sơ tồn đọng là trách nhiệm công vụ, nay gắn với yêu cầu giải trình trước người dân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi hỗ trợ một người dân lớn tuổi, chưa quen công nghệ làm dịch vụ công trực tuyến, cách làm đúng là gì?",
+          "options": {
+            "A": "Làm thay thật nhanh cho xong, không cần giải thích.",
+            "B": "Kiên nhẫn hướng dẫn từng bước, giải thích dễ hiểu, để người dân dần tự tin tự làm được.",
+            "C": "Từ chối hỗ trợ vì không phải việc của mình.",
+            "D": "Bảo người dân tự tìm hiểu trên mạng rồi quay lại."
+          },
+          "explanation": "Hỗ trợ kiên nhẫn, tận tình giúp người dân bớt e ngại công nghệ và lan tỏa thói quen dùng dịch vụ công trực tuyến.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Khi giúp người dân nộp hồ sơ, Quý Anh/Chị tiếp xúc với nhiều thông tin, dữ liệu cá nhân của họ. Cách ứng xử đúng là gì?",
+          "options": {
+            "A": "Lưu lại thông tin của dân để tiện dùng cho việc khác.",
+            "B": "Bảo mật tuyệt đối, chỉ dùng đúng mục đích giải quyết hồ sơ, không tiết lộ; tuyệt đối không yêu cầu người dân đọc mã OTP hay mật khẩu.",
+            "C": "Chia sẻ thông tin của dân cho đồng nghiệp cho tiện trao đổi.",
+            "D": "Nhờ người dân đọc mã OTP để mình thao tác hộ cho nhanh."
+          },
+          "explanation": "Dữ liệu cá nhân của người dân phải được bảo vệ, chỉ dùng đúng mục đích; cơ quan, cán bộ không bao giờ được yêu cầu người dân cung cấp mã OTP, mật khẩu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một người dân ở xã vùng xa hỏi: “Thủ tục này tôi có phải lên tận tỉnh nộp không?”. Quý Anh/Chị nên trả lời và hỗ trợ thế nào?",
+          "options": {
+            "A": "“Đúng rồi, bác phải lên tỉnh nộp trực tiếp mới được.”",
+            "B": "Giải thích nhiều thủ tục nay làm trực tuyến, không phụ thuộc địa giới trong tỉnh; có thể nộp qua Cổng Dịch vụ công hoặc tại xã, rồi hướng dẫn bác thao tác.",
+            "C": "“Cái này cháu không rõ, bác tự tìm hiểu nhé.”",
+            "D": "Bảo người dân chờ, khi nào có dịp lên tỉnh thì nộp."
+          },
+          "explanation": "Nhiều thủ tục đã toàn trình và không phụ thuộc địa giới trong phạm vi cấp tỉnh; cán bộ nên giải thích rõ và hỗ trợ người dân nộp trực tuyến ngay tại xã.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

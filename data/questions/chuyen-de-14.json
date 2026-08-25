@@ -1,0 +1,491 @@
+{
+  "topicId": 14,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Khái niệm danh tính số và tầm quan trọng",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Danh tính số” được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Chỉ là tài khoản mạng xã hội của một người.",
+            "B": "Toàn bộ thông tin định danh của một người tồn tại trên môi trường số (họ tên, số định danh, email và tài khoản công vụ, VNeID, chữ ký số...).",
+            "C": "Chỉ là chiếc căn cước công dân gắn chip.",
+            "D": "Chỉ là mật khẩu email của cán bộ."
+          },
+          "explanation": "Danh tính số là tập hợp mọi thông tin định danh trên môi trường số, không chỉ một tài khoản hay một loại giấy tờ đơn lẻ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nói danh tính số vừa là “chìa khóa”, vừa là “tài sản”?",
+          "options": {
+            "A": "Vì nó là một loại giấy tờ có thể mua bán được.",
+            "B": "Vì nó là điều kiện để truy cập, giao dịch trên môi trường số (chìa khóa) và gắn với uy tín, trách nhiệm của mỗi người (tài sản).",
+            "C": "Vì nó chỉ có giá trị với bộ phận kỹ thuật.",
+            "D": "Vì nó giúp cán bộ không cần nhớ mật khẩu."
+          },
+          "explanation": "Danh tính số là chìa khóa mở mọi giao dịch điện tử, đồng thời là tài sản gắn với niềm tin số và uy tín của cá nhân, cơ quan.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Hành vi nào dưới đây làm tăng nguy cơ mất an toàn cho danh tính số?",
+          "options": {
+            "A": "Đặt mật khẩu mạnh, mỗi tài khoản một mật khẩu riêng.",
+            "B": "Đăng ảnh căn cước công dân hoặc màn hình ứng dụng định danh lên mạng xã hội.",
+            "C": "Báo ngay cho bộ phận công nghệ thông tin khi nghi tài khoản bị xâm nhập.",
+            "D": "Giữ kín thông tin tài khoản công vụ, không chia sẻ cho người khác."
+          },
+          "explanation": "Đăng tải hình ảnh giấy tờ tùy thân hay thông tin định danh lên mạng có thể làm lộ số định danh, mã QR cho kẻ gian lợi dụng; các phương án còn lại đều là thói quen an toàn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp nhờ anh Nam cho mượn tài khoản công vụ và mật khẩu để “đăng nhập nhanh xử lý giúp một việc gấp”. Anh Nam nên làm gì?",
+          "options": {
+            "A": "Cho mượn ngay vì là đồng nghiệp thân thiết.",
+            "B": "Cho mượn nhưng dặn dùng xong nhớ đăng xuất.",
+            "C": "Không chia sẻ tài khoản, mật khẩu công vụ; đề nghị đồng nghiệp dùng tài khoản của chính họ hoặc báo cáo theo đúng quy trình.",
+            "D": "Nhắn mật khẩu qua tin nhắn cho tiện."
+          },
+          "explanation": "Tài khoản, mật khẩu công vụ là thành phần danh tính số gắn với trách nhiệm cá nhân, tuyệt đối không chia sẻ; mọi thao tác phải thực hiện đúng người, đúng quyền.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị Hoa phát hiện có người lạ đăng nhập vào tài khoản dịch vụ công của mình từ một thiết bị không quen. Chị nên ưu tiên làm gì?",
+          "options": {
+            "A": "Bỏ qua vì có thể là nhầm lẫn của hệ thống.",
+            "B": "Chờ xem có mất mát gì không rồi mới xử lý.",
+            "C": "Đổi mật khẩu ngay, kiểm tra lại thông tin tài khoản và báo cho bộ phận công nghệ thông tin để được hỗ trợ.",
+            "D": "Xóa tài khoản đó đi rồi tạo tài khoản mới mà không báo ai."
+          },
+          "explanation": "Khi nghi danh tính số bị xâm nhập, cần đổi mật khẩu sớm và báo bộ phận công nghệ thông tin để xử lý kịp thời, hạn chế thiệt hại lan rộng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Bảo vệ thông tin cá nhân và mật khẩu",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc “3 Không” trong bảo vệ thông tin định danh KHÔNG bao gồm điều nào sau đây?",
+          "options": {
+            "A": "Không đăng tải hình ảnh giấy tờ tùy thân lên mạng.",
+            "B": "Không chia sẻ mã QR định danh cho người khác.",
+            "C": "Không bao giờ sử dụng mạng xã hội.",
+            "D": "Không đưa giấy tờ tùy thân cho người lạ chụp hoặc cầm giữ."
+          },
+          "explanation": "“3 Không” hướng tới việc giữ gìn thông tin định danh, không phải cấm dùng mạng xã hội; điều cần làm là sử dụng mạng xã hội một cách thận trọng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Mật khẩu được coi là an toàn khi đáp ứng nguyên tắc nào?",
+          "options": {
+            "A": "Càng ngắn càng tốt để dễ nhớ.",
+            "B": "Đủ mạnh (đủ dài, khó đoán) và mỗi tài khoản dùng một mật khẩu riêng.",
+            "C": "Dùng chung một mật khẩu cho mọi tài khoản cho tiện.",
+            "D": "Lấy ngày sinh hoặc số điện thoại làm mật khẩu cho dễ nhớ."
+          },
+          "explanation": "Mật khẩu cần đủ mạnh và không dùng chung; dùng chung hoặc lấy thông tin dễ đoán làm mật khẩu khiến nhiều tài khoản cùng gặp nguy khi một nơi bị lộ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao không nên dùng chung một mật khẩu cho nhiều tài khoản?",
+          "options": {
+            "A": "Vì hệ thống không cho phép đặt trùng mật khẩu.",
+            "B": "Vì như vậy sẽ khó nhớ hơn.",
+            "C": "Vì chỉ cần một tài khoản bị lộ, các tài khoản khác dùng chung mật khẩu cũng dễ bị chiếm theo.",
+            "D": "Vì mật khẩu dùng chung sẽ tự động yếu đi theo thời gian."
+          },
+          "explanation": "Dùng chung mật khẩu tạo ra hiệu ứng dây chuyền: lộ một nơi là nguy hiểm lan sang mọi tài khoản dùng cùng mật khẩu đó.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị Lan nhận được cuộc gọi tự xưng là “nhân viên ngân hàng”, thông báo tài khoản có trục trặc và đề nghị chị đọc mã OTP vừa nhận để “xác minh và khắc phục”. Chị nên làm gì?",
+          "options": {
+            "A": "Đọc mã OTP ngay để được hỗ trợ kịp thời.",
+            "B": "Đọc một phần mã rồi hỏi thêm cho chắc.",
+            "C": "Tuyệt đối không cung cấp mã OTP; chủ động gọi lại tổng đài chính thức của ngân hàng để kiểm tra.",
+            "D": "Làm theo hướng dẫn vì người gọi biết rõ tên và số tài khoản của chị."
+          },
+          "explanation": "Không cơ quan, ngân hàng chính thống nào yêu cầu cung cấp mã OTP; việc người gọi biết một số thông tin không chứng minh họ đáng tin, cần tự xác minh qua kênh chính thức.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh Tuấn vừa được cấp một tài khoản công vụ mới với mật khẩu mặc định do hệ thống tạo. Anh nên ưu tiên làm gì?",
+          "options": {
+            "A": "Giữ nguyên mật khẩu mặc định cho khỏi quên.",
+            "B": "Đặt lại mật khẩu trùng với mật khẩu email cá nhân cho dễ nhớ.",
+            "C": "Đổi ngay sang một mật khẩu mạnh, riêng biệt cho tài khoản công vụ này và không chia sẻ cho ai.",
+            "D": "Ghi mật khẩu vào mẩu giấy dán lên màn hình máy tính."
+          },
+          "explanation": "Mật khẩu mặc định cần được đổi ngay sang mật khẩu mạnh và riêng; đặt trùng mật khẩu khác hay dán lên màn hình đều làm tăng nguy cơ lộ tài khoản.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Xác thực đa yếu tố (MFA) - “chìa khóa vàng” bảo vệ tài khoản",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Xác thực đa yếu tố (MFA) là gì?",
+          "options": {
+            "A": "Một loại mật khẩu đặc biệt dài hơn bình thường.",
+            "B": "Cách đăng nhập yêu cầu từ hai yếu tố xác minh trở lên, thay vì chỉ một mật khẩu.",
+            "C": "Một phần mềm diệt virus cho tài khoản.",
+            "D": "Việc đổi mật khẩu thường xuyên mỗi tháng."
+          },
+          "explanation": "MFA yêu cầu kết hợp ít nhất hai yếu tố xác minh (ví dụ mật khẩu cộng mã dùng một lần, hoặc mật khẩu cộng vân tay), nên an toàn hơn nhiều so với chỉ một mật khẩu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao MFA vẫn bảo vệ được tài khoản ngay cả khi mật khẩu bị lộ?",
+          "options": {
+            "A": "Vì MFA tự động đổi mật khẩu giúp người dùng.",
+            "B": "Vì kẻ gian dù biết mật khẩu vẫn cần yếu tố thứ hai (mã trên điện thoại, vân tay...) mà chúng không có.",
+            "C": "Vì MFA làm cho mật khẩu không bao giờ bị lộ.",
+            "D": "Vì MFA xóa tài khoản khi có người lạ đăng nhập."
+          },
+          "explanation": "Yếu tố thứ hai gắn với chính chủ tài khoản (điện thoại, vân tay...), nên kẻ gian ở xa dù có mật khẩu cũng bị chặn ở bước xác minh thứ hai.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Hình thức MFA nào sau đây thường được đánh giá an toàn cao, phù hợp cho cán bộ ở vị trí trọng yếu?",
+          "options": {
+            "A": "Mã dùng một lần gửi qua tin nhắn SMS.",
+            "B": "Ghi mật khẩu ra giấy để cạnh máy tính.",
+            "C": "Khóa bảo mật phần cứng (thiết bị cắm vào máy hoặc chạm để xác thực).",
+            "D": "Dùng chung một mã xác thực cho cả phòng."
+          },
+          "explanation": "Khóa bảo mật phần cứng an toàn cao vì kẻ gian buộc phải cầm được thiết bị vật lý; tin nhắn SMS tiện nhưng kém an toàn hơn, các phương án còn lại đều sai nguyên tắc.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh Bình bật MFA cho email công vụ. Một hôm anh nhận được tin nhắn chứa mã xác thực mà mình không hề đăng nhập, ngay sau đó có người gọi tự xưng là “bộ phận kỹ thuật” xin mã đó để “kiểm tra hệ thống”. Anh nên làm gì?",
+          "options": {
+            "A": "Đọc mã cho người gọi vì họ nói là bộ phận kỹ thuật.",
+            "B": "Tuyệt đối không đọc mã cho ai; cảnh giác vì đây là dấu hiệu kẻ gian đã có mật khẩu và đang cần mã để vượt lớp thứ hai, đồng thời đổi mật khẩu và báo bộ phận công nghệ thông tin.",
+            "C": "Đọc nửa mã trước cho an toàn.",
+            "D": "Bỏ qua tin nhắn, không cần làm gì thêm."
+          },
+          "explanation": "Việc nhận được mã mà không tự đăng nhập là dấu hiệu mật khẩu có thể đã bị lộ; cung cấp mã cho người lạ chính là tự mở nốt lớp khóa thứ hai cho kẻ gian, nên phải từ chối và xử lý ngay.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị Hà thấy việc bật MFA hơi mất công nên định chỉ dùng mật khẩu cho tài khoản email công vụ. Lời khuyên đúng dành cho chị là gì?",
+          "options": {
+            "A": "Cứ dùng mật khẩu là đủ, MFA không cần thiết.",
+            "B": "Chỉ cần đặt mật khẩu thật dài là thay được MFA.",
+            "C": "Nên dành vài phút bật MFA cho email công vụ, vì đây là tài khoản quan trọng và MFA giúp chặn phần lớn các vụ chiếm tài khoản.",
+            "D": "Chờ đến khi bị mất tài khoản rồi mới bật MFA."
+          },
+          "explanation": "Với tài khoản quan trọng như email công vụ, vài phút thiết lập MFA đổi lại mức an toàn cao hơn hẳn; mật khẩu dài tốt nhưng không thay thế được lớp bảo vệ thứ hai.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "VNeID, eKYC và chữ ký số - công cụ định danh điện tử hiện đại",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "eKYC trong lĩnh vực ngân hàng được hiểu là gì?",
+          "options": {
+            "A": "Việc khách hàng phải ra quầy gặp nhân viên để xác minh.",
+            "B": "Cách định danh khách hàng từ xa: chụp căn cước, quét chip và đối chiếu khuôn mặt để xác nhận đúng người.",
+            "C": "Một loại chữ ký số dùng riêng cho ngân hàng.",
+            "D": "Việc đọc mã OTP cho nhân viên ngân hàng qua điện thoại."
+          },
+          "explanation": "eKYC là định danh khách hàng điện tử; bước cốt lõi là đối chiếu sinh trắc khuôn mặt với dữ liệu trên căn cước, nhờ đó xác nhận đúng người mà không cần gặp trực tiếp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Theo quy định của Ngân hàng Nhà nước, giao dịch chuyển tiền trực tuyến nào phải xác thực bằng sinh trắc học khớp với căn cước gắn chip?",
+          "options": {
+            "A": "Mọi giao dịch dù giá trị nhỏ nhất.",
+            "B": "Trên 10 triệu đồng một lần, hoặc trên 20 triệu đồng một ngày.",
+            "C": "Chỉ giao dịch trên 1 tỷ đồng.",
+            "D": "Không có quy định nào về việc này."
+          },
+          "explanation": "Theo Quyết định 2345/QĐ-NHNN (áp dụng từ giữa năm 2024), chuyển tiền trực tuyến trên 10 triệu đồng/lần hoặc trên 20 triệu đồng/ngày phải xác thực sinh trắc học, nhằm giảm rủi ro lừa đảo chiếm đoạt tiền.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Chữ ký số bảo đảm “tính toàn vẹn” của tài liệu nghĩa là gì?",
+          "options": {
+            "A": "Tài liệu sẽ không bao giờ bị mất.",
+            "B": "Nếu văn bản bị chỉnh sửa sau khi ký, chữ ký số sẽ báo không còn hợp lệ.",
+            "C": "Tài liệu tự động được sao lưu nhiều bản.",
+            "D": "Chữ ký số làm cho tài liệu không thể mở được."
+          },
+          "explanation": "Nhờ cơ chế cặp khóa, người nhận kiểm chứng được ai ký và văn bản có bị sửa hay không; chỉ cần thay đổi dù nhỏ, chữ ký sẽ không còn hợp lệ - đó là tính toàn vẹn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đồng nghiệp đi công tác, nhờ chị Lan dùng chữ ký số (USB Token và mã PIN của anh ấy) để ký giúp một văn bản cho kịp hạn. Chị Lan nên làm gì?",
+          "options": {
+            "A": "Ký giúp ngay vì đã có sẵn Token và mã PIN.",
+            "B": "Ký giúp nhưng nhắn lại cho anh ấy biết là được.",
+            "C": "Từ chối; giải thích rằng chữ ký số gắn với trách nhiệm pháp lý cá nhân, mỗi người phải tự ký văn bản của mình.",
+            "D": "Cắm sẵn Token vào máy và nhập hộ mã PIN cho nhanh."
+          },
+          "explanation": "Chữ ký số, khi được sử dụng đúng thẩm quyền, đúng quy trình, có giá trị pháp lý như chữ ký tay và con dấu và gắn với trách nhiệm cá nhân; ký hộ là để người khác ký nhân danh mình, tiềm ẩn rủi ro pháp lý nghiêm trọng cho cả hai.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh Nam dùng chữ ký số dạng ký từ xa ngay trên điện thoại, rất tiện. Để dùng an toàn, anh nên làm gì?",
+          "options": {
+            "A": "Để ứng dụng tự đăng nhập sẵn, khỏi nhập mã cho nhanh.",
+            "B": "Chia sẻ mã PIN cho người thân giữ hộ phòng khi quên.",
+            "C": "Khóa chặt ứng dụng bằng mã riêng và sinh trắc học, giữ kín mã PIN, và kiểm tra kỹ nội dung trước mỗi lần ký.",
+            "D": "Ký nhanh tất cả tài liệu được gửi tới mà không cần đọc kỹ."
+          },
+          "explanation": "Ký số từ xa tiện nhưng nắm quyền ký ngay trên điện thoại, nên phải khóa chặt ứng dụng, giữ kín mã PIN và luôn kiểm tra nội dung trước khi ký, vì chữ ký có hiệu lực pháp lý ngay khi đặt.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Lừa đảo danh tính số: nhận diện và phòng tránh",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo thống kê năm 2025, hình thức lừa đảo trực tuyến phổ biến nhất là gì?",
+          "options": {
+            "A": "Giả danh người giao hàng (shipper).",
+            "B": "Giả danh cơ quan công an, dựng chuyện liên quan vụ án để ép chuyển tiền hoặc cài ứng dụng.",
+            "C": "Mời gọi đầu tư tài chính lợi nhuận cao.",
+            "D": "Giả danh trúng thưởng, nhận quà."
+          },
+          "explanation": "Khảo sát năm 2025 cho thấy giả danh công an là hình thức lừa đảo phổ biến nhất; kẻ gian dựng chuyện vụ án, gây áp lực tâm lý để chiếm đoạt tài sản.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là ba dấu hiệu chung của hầu hết các vụ lừa đảo mạo danh?",
+          "options": {
+            "A": "Lịch sự, không vội vàng, không đòi hỏi gì.",
+            "B": "Tạo áp lực gấp gáp; yêu cầu giữ bí mật, không báo ai; đòi tiền hoặc thông tin nhạy cảm.",
+            "C": "Luôn gọi từ số điện thoại của cơ quan nhà nước thật.",
+            "D": "Chỉ nhắn tin, không bao giờ gọi điện."
+          },
+          "explanation": "Gấp gáp, đòi giữ bí mật và đòi tiền hoặc thông tin là “bộ mặt thật” chung của các vụ lừa đảo; nhận ra ba dấu hiệu này giúp ta cảnh giác kịp thời.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "“Quy tắc vàng” khi gặp một cuộc gọi hay tin nhắn yêu cầu đáng ngờ là gì?",
+          "options": {
+            "A": "Làm theo ngay cho nhanh kẻo bị phạt.",
+            "B": "Chuyển một phần tiền trước để thăm dò.",
+            "C": "Dừng lại, bình tĩnh, và xác minh qua kênh chính thống trước khi làm bất cứ điều gì.",
+            "D": "Tự tìm cách xử lý một mình và giữ bí mật."
+          },
+          "explanation": "Dừng lại để không bị cuốn theo áp lực, rồi xác minh qua số tổng đài chính thức hoặc liên hệ trực tiếp cơ quan - đó là cách phòng vệ hiệu quả nhất.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh Dũng nhận tin nhắn từ tài khoản mạng xã hội của một người bạn thân, hỏi vay gấp 20 triệu đồng và xin chuyển ngay. Cách xử lý đúng là gì?",
+          "options": {
+            "A": "Chuyển tiền ngay vì đúng là tài khoản của bạn mình.",
+            "B": "Gọi điện thoại trực tiếp cho người bạn đó để xác minh, vì tài khoản mạng xã hội có thể đã bị chiếm.",
+            "C": "Chuyển một nửa trước cho an toàn.",
+            "D": "Nhắn lại hỏi vài câu rồi cứ thế chuyển tiền."
+          },
+          "explanation": "Kẻ gian thường chiếm tài khoản mạng xã hội để mạo danh hỏi vay tiền; một cuộc gọi trực tiếp để nghe đúng giọng người quen sẽ giúp xác minh chắc chắn trước khi chuyển bất kỳ khoản nào.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một người tự xưng là “cán bộ công an” gọi điện cho chị Lan, yêu cầu chị giữ bí mật tuyệt đối và chuyển tiền vào một tài khoản để “phục vụ điều tra”. Chị Lan nên hiểu thế nào cho đúng?",
+          "options": {
+            "A": "Đây là yêu cầu hợp pháp, cần làm theo ngay.",
+            "B": "Nên chuyển tiền trước rồi hỏi lại sau.",
+            "C": "Cơ quan công an không làm việc qua điện thoại theo kiểu này; đây chắc chắn là lừa đảo, cần gác máy và trình báo.",
+            "D": "Giữ bí mật và tự mình xử lý theo hướng dẫn của người gọi."
+          },
+          "explanation": "Cơ quan công an, viện kiểm sát, tòa án không bao giờ gọi điện đe dọa hay yêu cầu chuyển tiền để “chứng minh trong sạch”; mọi cuộc gọi như vậy đều là giả mạo, cần gác máy và báo cơ quan chức năng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 6,
+      "lessonTitle": "Phòng thủ số chủ động: Nhận diện Phishing có chủ đích và Deepfake",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Tấn công “có chủ đích” (như spear-phishing) khác với lừa đảo số đông ở điểm nào?",
+          "options": {
+            "A": "Chỉ gửi tin nhắn, không bao giờ gọi điện.",
+            "B": "Kẻ gian nghiên cứu kỹ về một mục tiêu cụ thể và “may đo” kịch bản riêng cho người đó.",
+            "C": "Luôn dễ nhận ra hơn lừa đảo thông thường.",
+            "D": "Chỉ nhắm vào người lớn tuổi."
+          },
+          "explanation": "Tấn công có chủ đích nhắm vào một cá nhân hoặc tổ chức cụ thể, kẻ gian tìm hiểu kỹ thông tin để tạo kịch bản thuyết phục - như “một mũi lao nhắm đích” thay vì “quăng lưới” hàng loạt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi nhận một email tự xưng là của lãnh đạo, yêu cầu chuyển tiền gấp và giữ kín, đâu là dấu hiệu cần cảnh giác?",
+          "options": {
+            "A": "Email có chữ ký và logo trông giống thật.",
+            "B": "Địa chỉ người gửi gần giống nhưng khác vài ký tự, kèm yêu cầu chuyển tiền “gấp, kín” bất thường.",
+            "C": "Email được gửi trong giờ hành chính.",
+            "D": "Email không có tệp đính kèm."
+          },
+          "explanation": "Kẻ gian thường dùng địa chỉ gần giống thật và tạo yêu cầu khẩn cấp, bí mật; một đề nghị chuyển tiền hay gửi tài liệu mật qua email luôn cần được kiểm tra kỹ địa chỉ gửi và xác minh lại.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là những dấu hiệu giúp nhận biết một cuộc gọi video deepfake?",
+          "options": {
+            "A": "Hình ảnh sắc nét, biểu cảm phong phú, âm thanh khớp hoàn hảo.",
+            "B": "Khuôn mặt thiếu biểu cảm, mắt ít chớp, tiếng nói lệch khẩu hình, viện cớ “sóng yếu” và giục chuyển tiền gấp.",
+            "C": "Cuộc gọi kéo dài và người gọi trả lời mọi câu hỏi rõ ràng.",
+            "D": "Tài khoản nhận tiền đúng tên người thân."
+          },
+          "explanation": "Deepfake thường để lộ khuôn mặt thiếu tự nhiên, mắt ít chớp, âm thanh không khớp; kẻ gian hay viện lý do mạng kém để che lỗi và hối thúc chuyển tiền vào tài khoản tên người lạ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị Hương, kế toán, nhận cuộc gọi video từ “giám đốc” yêu cầu chuyển gấp một khoản tiền cho đối tác, viện lý do đang họp nên sóng yếu. Cách xử lý thể hiện đúng tinh thần phòng thủ chủ động là gì?",
+          "options": {
+            "A": "Chuyển tiền ngay vì thấy đúng mặt và giọng giám đốc.",
+            "B": "Chuyển trước một phần rồi xác minh sau.",
+            "C": "Dừng lại, không chuyển tiền; gọi lại cho giám đốc qua số đã lưu hoặc xác minh trực tiếp và theo đúng quy trình phê duyệt.",
+            "D": "Làm theo ngay vì sợ chậm trễ công việc của lãnh đạo."
+          },
+          "explanation": "Hình ảnh và giọng nói có thể bị deepfake giả mạo; với yêu cầu chuyển tiền, cần kiểm tra tính hợp lý, xác minh qua kênh độc lập và tuân thủ quy trình - xác minh lại không phải là thiếu tôn trọng cấp trên.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Để chủ động giảm nguy cơ bị kẻ gian dùng deepfake giả mạo chính mình, cán bộ nên làm gì?",
+          "options": {
+            "A": "Đăng thật nhiều ảnh, video, clip phát biểu công khai để mọi người dễ nhận ra.",
+            "B": "Hạn chế đăng công khai hình ảnh, video, giọng nói thật, chức vụ và lịch công tác lên mạng xã hội.",
+            "C": "Công khai số điện thoại và lịch làm việc chi tiết để tiện liên hệ.",
+            "D": "Dùng ảnh đại diện là ảnh chân dung rõ nét ở mọi tài khoản."
+          },
+          "explanation": "Kẻ gian dùng chính hình ảnh, video, giọng nói công khai làm “nguyên liệu” dựng deepfake; càng hạn chế lộ các thông tin này, càng giảm khả năng bị giả mạo.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

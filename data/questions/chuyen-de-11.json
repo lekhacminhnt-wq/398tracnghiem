@@ -1,0 +1,410 @@
+{
+  "topicId": 11,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Khái quát chung về quyền và nghĩa vụ công dân trên không gian số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo Hiến pháp năm 2013, mối quan hệ giữa quyền và nghĩa vụ của công dân được hiểu thế nào?",
+          "options": {
+            "A": "Có quyền thì không cần thực hiện nghĩa vụ.",
+            "B": "Quyền công dân không tách rời nghĩa vụ công dân - quyền luôn đi đôi với nghĩa vụ.",
+            "C": "Nghĩa vụ chỉ áp dụng ngoài đời thực, không áp dụng trên mạng.",
+            "D": "Quyền và nghĩa vụ là hai việc hoàn toàn không liên quan."
+          },
+          "explanation": "Hiến pháp 2013 khẳng định quyền công dân không tách rời nghĩa vụ công dân; nguyên tắc này áp dụng cả trên không gian số.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“Không gian số” được hiểu gần đúng nhất là gì?",
+          "options": {
+            "A": "Chỉ là nơi giải trí, không liên quan đến công việc.",
+            "B": "Một “xã hội thứ hai” trên Internet - nơi diễn ra công việc, giao tiếp, dịch vụ công và quyền, nghĩa vụ công dân vẫn hiện diện đầy đủ.",
+            "C": "Một khu vực không chịu sự điều chỉnh của pháp luật.",
+            "D": "Chỉ dành cho bộ phận công nghệ thông tin."
+          },
+          "explanation": "Không gian số là môi trường số nơi quyền và nghĩa vụ công dân vẫn được áp dụng như ngoài đời thực.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi thực hiện quyền bày tỏ ý kiến trên không gian số, giới hạn cần tuân thủ là gì?",
+          "options": {
+            "A": "Không có giới hạn nào cả.",
+            "B": "Phải nằm trong khuôn khổ pháp luật (an ninh mạng), không xâm phạm an ninh quốc gia và quyền, lợi ích hợp pháp của người khác.",
+            "C": "Chỉ cần không bị phát hiện là được.",
+            "D": "Tùy thuộc hoàn toàn vào cảm xúc cá nhân."
+          },
+          "explanation": "Quyền bày tỏ ý kiến được tôn trọng nhưng phải trong khuôn khổ pháp luật, không gây hại an ninh quốc gia hay xâm phạm người khác.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị phụ trách tạo một khảo sát trực tuyến để lấy ý kiến người dân. Việc nên làm để thực hiện đúng nghĩa vụ bảo vệ dữ liệu cá nhân là gì?",
+          "options": {
+            "A": "Thu thập càng nhiều thông tin cá nhân càng tốt, lưu vô thời hạn.",
+            "B": "Ghi rõ mục đích thu thập và thời hạn lưu trữ, chỉ dùng kênh chính thức, bảo mật thông tin người góp ý.",
+            "C": "Đăng khảo sát lên trang mạng xã hội cá nhân cho nhanh.",
+            "D": "Chia sẻ danh sách người góp ý cho nhiều người cùng xem."
+          },
+          "explanation": "Thu thập đúng mục đích, có thời hạn lưu trữ, dùng kênh chính thức và bảo mật thông tin là yêu cầu của pháp luật bảo vệ dữ liệu cá nhân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trước khi chia sẻ lại một “văn bản” nhận được trên mạng cho đồng nghiệp hoặc người dân, Anh/Chị nên làm gì để ứng xử số có trách nhiệm?",
+          "options": {
+            "A": "Chia sẻ ngay cho nhanh, ai cũng đang gửi.",
+            "B": "Dừng lại kiểm tra nguồn gốc - có phải văn bản chính thống, có số hiệu, ngày ban hành rõ ràng - rồi mới chia sẻ.",
+            "C": "Chỉ cần thấy tiêu đề hợp lý là chia sẻ.",
+            "D": "Chia sẻ kèm bình luận suy đoán của mình."
+          },
+          "explanation": "Bước “Xác thực” - kiểm tra nguồn gốc, số hiệu, ngày ban hành - giúp tránh lan truyền thông tin sai, đúng tinh thần ứng xử số có trách nhiệm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Các quyền cơ bản của công dân trên không gian số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là bốn quyền cơ bản của công dân trên không gian số được nêu trong bài?",
+          "options": {
+            "A": "Quyền dùng mạng miễn phí, quyền ẩn danh tuyệt đối, quyền tải mọi nội dung, quyền không bị quản lý.",
+            "B": "Tiếp cận thông tin và dịch vụ công; tự do bày tỏ ý kiến trong khuôn khổ pháp luật; bảo vệ đời tư, dữ liệu cá nhân; được bảo đảm an toàn, an ninh.",
+            "C": "Quyền chia sẻ mọi thông tin, quyền phê phán không giới hạn, quyền giấu danh tính, quyền từ chối pháp luật.",
+            "D": "Chỉ có một quyền duy nhất là quyền truy cập Internet."
+          },
+          "explanation": "Bốn quyền cơ bản gồm: tiếp cận thông tin/dịch vụ công, tự do bày tỏ ý kiến trong khuôn khổ pháp luật, bảo vệ dữ liệu cá nhân, và được bảo đảm an toàn - an ninh.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Quyền tự do bày tỏ ý kiến trên không gian số được hiểu đúng là gì?",
+          "options": {
+            "A": "Được nói bất cứ điều gì, kể cả tin chưa kiểm chứng.",
+            "B": "Là quyền hiến định nhưng phải thực hiện có trách nhiệm, đúng pháp luật; với cán bộ còn gắn với trách nhiệm nêu gương.",
+            "C": "Chỉ lãnh đạo mới được bày tỏ ý kiến.",
+            "D": "Không được nêu ý kiến gì trên mạng."
+          },
+          "explanation": "Tự do ngôn luận là quyền hiến định, nhưng phải trong khuôn khổ pháp luật và đi kèm trách nhiệm, nhất là với cán bộ, công chức.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Theo Luật Bảo vệ dữ liệu cá nhân, công dân có những quyền nào với dữ liệu của mình?",
+          "options": {
+            "A": "Không có quyền gì, dữ liệu thuộc về bên thu thập.",
+            "B": "Quyền được biết, được đồng ý, được truy cập, chỉnh sửa và yêu cầu xóa dữ liệu của mình.",
+            "C": "Chỉ được xem, không được yêu cầu chỉnh sửa hay xóa.",
+            "D": "Chỉ doanh nghiệp lớn mới có các quyền này."
+          },
+          "explanation": "Luật Bảo vệ dữ liệu cá nhân (hiệu lực 1/1/2026) trao cho công dân quyền được biết, đồng ý, truy cập, chỉnh sửa và yêu cầu xóa dữ liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Một ứng dụng mới đòi quyền truy cập danh bạ, vị trí và thư viện ảnh trên điện thoại của Anh/Chị. Cách xử lý đúng để bảo vệ dữ liệu cá nhân là gì?",
+          "options": {
+            "A": "Bấm “cho phép tất cả” cho nhanh.",
+            "B": "Chỉ cấp quyền thật sự cần thiết, đọc kỹ thông báo, từ chối nếu không phù hợp.",
+            "C": "Cài rồi cấp hết quyền, tính sau.",
+            "D": "Cho phép tất cả vì ứng dụng nào cũng vậy."
+          },
+          "explanation": "Chỉ cấp quyền cần thiết và đọc kỹ thông báo giúp giữ quyền kiểm soát dữ liệu cá nhân - “tài sản số” của mỗi người.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận một thư điện tử giả danh ngân hàng, giục bấm link “xác minh tài khoản” kẻo bị khóa. Cách phản ứng đúng là gì?",
+          "options": {
+            "A": "Bấm vào link và điền thông tin cho kịp kẻo mất tài khoản.",
+            "B": "Không bấm link; báo ngân hàng và cơ quan an ninh mạng; lưu bằng chứng, đổi mật khẩu, bật xác thực hai lớp.",
+            "C": "Chuyển tiếp thư cho đồng nghiệp cùng làm theo.",
+            "D": "Trả lời thư cung cấp số tài khoản để được hỗ trợ."
+          },
+          "explanation": "Ghi nhớ “ngừng phát tán - lưu bằng chứng - báo cơ quan chức năng”; không cung cấp thông tin theo thư lạ để thực hiện quyền được bảo vệ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Các nghĩa vụ cơ bản của công dân trên không gian số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Ba nghĩa vụ cơ bản của công dân trên không gian số gồm những gì?",
+          "options": {
+            "A": "Dùng mạng nhiều, chia sẻ nhanh, phản hồi mọi tin nhắn.",
+            "B": "Thượng tôn pháp luật; bảo vệ và tôn trọng dữ liệu; cung cấp thông tin chính xác, ứng xử văn minh.",
+            "C": "Ẩn danh, tránh mọi trách nhiệm, không khai báo thông tin.",
+            "D": "Chỉ cần không vi phạm là đủ, không cần làm gì thêm."
+          },
+          "explanation": "Ba nghĩa vụ cốt lõi: thượng tôn pháp luật, bảo vệ - tôn trọng dữ liệu, và cung cấp thông tin chính xác kèm ứng xử văn minh.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“Thượng tôn pháp luật trên không gian mạng” có nghĩa là gì?",
+          "options": {
+            "A": "Chỉ tuân thủ khi có người giám sát.",
+            "B": "Không tham gia, không chia sẻ, không tiếp tay cho hành vi vi phạm hay tin sai sự thật.",
+            "C": "Được phép chia sẻ mọi thông tin nếu thấy hấp dẫn.",
+            "D": "Pháp luật trên mạng lỏng lẻo nên không cần để ý."
+          },
+          "explanation": "Thượng tôn pháp luật là không tham gia, chia sẻ hay tiếp tay cho vi phạm và tin sai sự thật trên mạng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi điền biểu mẫu, khai báo thông tin cho thủ tục hành chính hoặc báo cáo trực tuyến, nghĩa vụ của công dân số là gì?",
+          "options": {
+            "A": "Điền qua loa cho nhanh, sai cũng được.",
+            "B": "Khai báo trung thực, chính xác, đầy đủ để hồ sơ, số liệu được xử lý đúng và thông suốt.",
+            "C": "Để trống những mục không thích điền.",
+            "D": "Điền thông tin của người khác cho tiện."
+          },
+          "explanation": "Cung cấp thông tin chính xác, trung thực giúp hồ sơ, số liệu xử lý đúng và nhanh, tránh sai sót, chậm trễ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Một người quen nhắn xin danh sách thông tin của người dân mà Anh/Chị đang phụ trách, để “tiện liên hệ”. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Gửi ngay vì là chỗ quen biết.",
+            "B": "Từ chối và nhắc rằng dữ liệu của người dân chỉ được dùng đúng mục đích công vụ, có căn cứ.",
+            "C": "Gửi một phần danh sách cho đỡ ngại.",
+            "D": "Hỏi xin “phí cảm ơn” rồi mới gửi."
+          },
+          "explanation": "Dữ liệu của người dân chỉ được sử dụng, chia sẻ đúng mục đích công vụ; chia sẻ tùy tiện có thể gây rò rỉ và vi phạm pháp luật.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trong nhóm Zalo cơ quan, một thành viên chuyển tiếp một bài viết giật gân chưa rõ thực hư và giục “chia sẻ gấp”. Cách xử lý đúng là gì?",
+          "options": {
+            "A": "Chia sẻ ngay cho mọi người cùng biết.",
+            "B": "Không vội chia sẻ; kiểm chứng nguồn và báo cho bộ phận chuyên trách nếu cần.",
+            "C": "Bấm vào xem rồi gửi tiếp nếu thấy “có vẻ thật”.",
+            "D": "Bình luận suy đoán để mọi người chú ý."
+          },
+          "explanation": "Thông tin chưa kiểm chứng cần được xác minh, không vội chia sẻ để tránh khuếch tán tin sai gây hoang mang.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Sử dụng công cụ số để thực thi quyền và nghĩa vụ",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Sau khi hợp nhất theo Nghị định năm 2025, người dân thực hiện thủ tục hành chính trực tuyến chủ yếu qua đâu?",
+          "options": {
+            "A": "Mỗi tỉnh, mỗi bộ một cổng riêng như trước.",
+            "B": "Một địa chỉ duy nhất - Cổng Dịch vụ công Quốc gia (dichvucong.gov.vn).",
+            "C": "Chỉ qua mạng xã hội của cơ quan.",
+            "D": "Bắt buộc nộp hồ sơ giấy trực tiếp."
+          },
+          "explanation": "Theo Nghị định 118/2025/NĐ-CP, dichvucong.gov.vn trở thành điểm “một cửa số” duy nhất cho thủ tục hành chính trực tuyến.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Định danh điện tử VNeID có vai trò gì?",
+          "options": {
+            "A": "Chỉ là một mạng xã hội để nhắn tin.",
+            "B": "Là ứng dụng định danh điện tử quốc gia (Bộ Công an), “chìa khóa đăng nhập” an toàn, giúp xác thực đúng người, chống giả mạo danh tính.",
+            "C": "Là phần mềm diệt virus cho điện thoại.",
+            "D": "Là ví điện tử để mua sắm."
+          },
+          "explanation": "VNeID là “chứng minh thư điện tử” - chìa khóa đăng nhập an toàn vào Cổng Dịch vụ công và các dịch vụ số, chống giả mạo danh tính.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Theo quy định của pháp luật, chữ ký số có giá trị pháp lý như thế nào?",
+          "options": {
+            "A": "Chỉ mang tính hình thức, không có giá trị pháp lý.",
+            "B": "Khi đáp ứng các điều kiện theo quy định của pháp luật và được sử dụng đúng thẩm quyền, đúng quy trình, có giá trị pháp lý như chữ ký tay và con dấu, đồng thời bảo đảm tính toàn vẹn của tài liệu điện tử.",
+            "C": "Chỉ có giá trị khi dùng trong nội bộ một cơ quan.",
+            "D": "Phải in văn bản ra giấy thì chữ ký mới có hiệu lực."
+          },
+          "explanation": "Theo Luật Giao dịch điện tử năm 2023, chữ ký số đáp ứng các điều kiện theo quy định của pháp luật, được sử dụng đúng thẩm quyền, đúng quy trình có giá trị pháp lý như chữ ký tay và con dấu; đồng thời công nghệ ký số giúp bảo đảm tính toàn vẹn, văn bản đã ký nếu bị chỉnh sửa sẽ bị phát hiện. Đây chính là nền tảng để văn bản điện tử được tin cậy như văn bản giấy.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị muốn đăng nhập Cổng Dịch vụ công Quốc gia để nộp một hồ sơ trực tuyến an toàn nhất. Nên chọn cách nào?",
+          "options": {
+            "A": "Dùng một mật khẩu đơn giản cho dễ nhớ.",
+            "B": "Đăng nhập bằng tài khoản định danh điện tử VNeID.",
+            "C": "Nhờ người khác đăng nhập hộ bằng tài khoản của họ.",
+            "D": "Mượn tài khoản của đồng nghiệp cho nhanh."
+          },
+          "explanation": "Đăng nhập bằng VNeID là cách an toàn và tiện lợi nhất, bảo đảm xác thực đúng người.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần ký và gửi gấp một báo cáo điện tử (PDF) có giá trị pháp lý cho cơ quan trong khi đang đi công tác xa. Cách làm phù hợp là gì?",
+          "options": {
+            "A": "Chụp ảnh chữ ký tay rồi chèn vào tệp báo cáo.",
+            "B": "Dùng chữ ký số để ký theo thẩm quyền, rồi gửi qua hệ thống điện tử hoặc thư điện tử công vụ - văn bản đáp ứng quy định của pháp luật có giá trị pháp lý như chữ ký tay và con dấu.",
+            "C": "Đợi về cơ quan ký bản giấy rồi gửi qua đường bưu điện.",
+            "D": "Nhờ đồng nghiệp ký thay cho kịp thời hạn."
+          },
+          "explanation": "Chữ ký số cho phép Anh/Chị ký theo thẩm quyền và gửi văn bản hợp lệ ngay khi ở xa - nhanh chóng mà vẫn bảo đảm giá trị pháp lý khi đáp ứng quy định của pháp luật. Ảnh chụp chữ ký chỉ là hình ảnh, không phải chữ ký số; còn việc nhờ ký thay tiềm ẩn rủi ro pháp lý cho cả hai bên.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Học tập suốt đời và nâng cao kỹ năng số (Bình dân học vụ số)",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Trong kỷ nguyên số, “học tập suốt đời và nâng cao kỹ năng số” được hiểu là gì?",
+          "options": {
+            "A": "Chỉ là sở thích cá nhân, không bắt buộc.",
+            "B": "Là quyền của công dân, được Nhà nước khuyến khích chủ động học tập, cập nhật kiến thức, kỹ năng số để đáp ứng yêu cầu công việc và cuộc sống.",
+            "C": "Chỉ cần thiết với người trẻ tuổi.",
+            "D": "Chỉ dành cho bộ phận công nghệ thông tin."
+          },
+          "explanation": "Học tập suốt đời là quyền của công dân và được Nhà nước khuyến khích trong kỷ nguyên số; chủ động cập nhật kiến thức, kỹ năng số giúp mỗi người không tụt hậu và làm tốt công vụ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao cần chủ động học cách sử dụng trí tuệ nhân tạo (AI) trong công việc?",
+          "options": {
+            "A": "Vì AI là trào lưu nhất thời, học cho vui.",
+            "B": "Vì AI giúp tóm tắt, soạn thảo, phân tích, dịch nhanh… nâng hiệu quả công việc; ai không học sẽ dần tụt hậu.",
+            "C": "Vì AI sẽ làm thay toàn bộ công việc của con người.",
+            "D": "Vì bắt buộc phải dùng AI cho mọi việc."
+          },
+          "explanation": "AI mang lại lợi ích rõ rệt cho công việc; chủ động học AI giúp không bị bỏ lại phía sau trong dòng chảy công nghệ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khung kiến thức, kỹ năng số cơ bản (năm 2025) dùng để làm gì?",
+          "options": {
+            "A": "Chỉ để tham khảo cho doanh nghiệp.",
+            "B": "Xác định các nhóm năng lực số mà cán bộ, công chức cần có, làm cơ sở cho các khóa học và đánh giá kỹ năng số.",
+            "C": "Thay thế cho mọi văn bằng, chứng chỉ.",
+            "D": "Không liên quan đến cán bộ, công chức."
+          },
+          "explanation": "Khung kiến thức, kỹ năng số cơ bản (Quyết định 757/QĐ-BKHCN) chỉ rõ năng lực số cần có cho từng nhóm, định hướng học tập và đánh giá.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị muốn thử dùng một công cụ AI để tóm tắt nhanh một tài liệu phục vụ công việc. Cách làm an toàn là gì?",
+          "options": {
+            "A": "Tải nguyên một văn bản nội bộ mật lên công cụ AI công cộng cho nhanh.",
+            "B": "Chỉ dùng với tài liệu công khai hoặc công cụ được cơ quan cho phép; tuyệt đối không nhập dữ liệu mật, thông tin nội bộ, dữ liệu cá nhân của người dân.",
+            "C": "Nhập cả thông tin cá nhân của người dân để AI xử lý giúp.",
+            "D": "Dùng tài khoản chung của cơ quan đăng tải mọi dữ liệu."
+          },
+          "explanation": "Tận dụng AI là tốt, nhưng không nhập dữ liệu mật/nội bộ/cá nhân lên công cụ công cộng; chỉ dùng dữ liệu công khai hoặc công cụ đã được cho phép.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp lớn tuổi nói “công nghệ này không dành cho người như tôi”. Là người đã học chuyên đề này, Anh/Chị nên động viên thế nào?",
+          "options": {
+            "A": "Đồng ý rằng lớn tuổi thì không nên học công nghệ.",
+            "B": "Khích lệ rằng không bao giờ là quá muộn; bắt đầu từ 15 phút mỗi ngày, chọn khóa cơ bản phù hợp và thực hành dần.",
+            "C": "Khuyên đồng nghiệp cứ làm theo cách cũ cho khỏe.",
+            "D": "Để mặc, vì đó là việc của mỗi người."
+          },
+          "explanation": "Tinh thần “Bình dân học vụ số” là ai cũng có thể bắt đầu; động viên đồng nghiệp học từng bước nhỏ, kiên trì mỗi ngày như câu chuyện bác Sơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

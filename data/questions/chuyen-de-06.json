@@ -15,7 +15,7 @@
             "C": "-keyword",
             "D": "“phrase”"
           },
-          "explanation": "Toán tử site: giới hạn kết quả trong một tên miền cụ thể, ví dụ site:\\*.gov.vn để tìm trong các cổng cơ quan nhà nước.",
+          "explanation": "Toán tử site: giới hạn kết quả trong một tên miền cụ thể, ví dụ site:*.gov.vn để tìm trong các cổng cơ quan nhà nước.",
           "correctLabel": "A",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -53,7 +53,7 @@
             "C": "Sử dụng -site: để loại bỏ kết quả từ trang không mong muốn.",
             "D": "Cả A và C đều đúng."
           },
-          "explanation": "Có thể dùng thẻ “Tin tức” để chỉ lấy bài báo chí, và dùng dấu trừ trước site để loại bỏ trang không mong muốn; cả hai đều là cách lọc hiệu quả. Phần tình huống công vụ",
+          "explanation": "Có thể dùng thẻ “Tin tức” để chỉ lấy bài báo chí, và dùng dấu trừ trước site để loại bỏ trang không mong muốn; cả hai đều là cách lọc hiệu quả.",
           "correctLabel": "D",
           "isTrueFalse": false,
           "source": "manually-verified",
@@ -154,7 +154,7 @@
             "C": "Nên nhờ AI viết sẵn báo cáo kiểm chứng rồi gửi lãnh đạo.",
             "D": "Không cần dùng AI, chỉ cần tự mình tìm hiểu là đủ."
           },
-          "explanation": "AI chỉ hỗ trợ gợi ý; người dùng phải tự kiểm chứng lại từ nguồn chính thống và là người quyết định cuối cùng. Phần tình huống công vụ",
+          "explanation": "AI chỉ hỗ trợ gợi ý; người dùng phải tự kiểm chứng lại từ nguồn chính thống và là người quyết định cuối cùng.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -255,7 +255,7 @@
             "C": "Không nên dùng AI vì chắc chắn sẽ làm lộ mọi dữ liệu.",
             "D": "Cứ đưa toàn bộ dữ liệu thô cho AI, AI sẽ tự tìm ra quy luật tốt hơn con người."
           },
-          "explanation": "AI chỉ hỗ trợ; người dùng phải kiểm tra kết quả và kết hợp với nghiệp vụ, đồng thời lưu ý không đưa dữ liệu nội bộ lên công cụ công cộng. Phần tình huống công vụ",
+          "explanation": "AI chỉ hỗ trợ; người dùng phải kiểm tra kết quả và kết hợp với nghiệp vụ, đồng thời lưu ý không đưa dữ liệu nội bộ lên công cụ công cộng.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",

@@ -1,0 +1,407 @@
+{
+  "topicId": 24,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Khái niệm và tầm quan trọng của việc xác định nhu cầu công nghệ",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Nhu cầu công nghệ” được hiểu là gì?",
+          "options": {
+            "A": "Vấn đề thực tế cần giải quyết hoặc mục tiêu cụ thể cần đạt được bằng công nghệ số.",
+            "B": "Danh sách các thiết bị và phần mềm hiện đại mà cơ quan muốn mua sắm.",
+            "C": "Xu hướng công nghệ mới nhất trên thị trường hiện nay."
+          },
+          "explanation": "Nhu cầu công nghệ là vấn đề thực tiễn hoặc mục tiêu cần đạt, không phải danh sách thiết bị muốn mua hay xu hướng thị trường; hiểu đúng điều này giúp tránh “mua giải pháp trước khi rõ vấn đề”.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Điều gì có thể xảy ra nếu triển khai một giải pháp công nghệ mà không xác định rõ nhu cầu trước?",
+          "options": {
+            "A": "Giải pháp có thể không phù hợp, không giải quyết được vấn đề thực sự và dẫn đến lãng phí nguồn lực.",
+            "B": "Giải pháp sẽ tự động thích ứng với mọi vấn đề của cơ quan nên không cần lo lắng.",
+            "C": "Cơ quan sẽ tiết kiệm thời gian vì bỏ qua bước phân tích ban đầu.",
+            "D": "Nhân viên sẽ ngay lập tức ủng hộ giải pháp công nghệ vì nó mới và hiện đại."
+          },
+          "explanation": "Bỏ qua bước xác định nhu cầu dễ dẫn đến chọn sai giải pháp, đầu tư không hiệu quả và lãng phí - như trường hợp mua phần mềm về nhưng không ai dùng.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Bước đầu tiên cần thực hiện trước khi lựa chọn một giải pháp công nghệ là gì?",
+          "options": {
+            "A": "Khảo sát các nhà cung cấp giải pháp công nghệ trên thị trường.",
+            "B": "Đánh giá nhu cầu thực tế và vấn đề cần giải quyết của đơn vị mình.",
+            "C": "Tính toán chi phí để triển khai giải pháp công nghệ dự kiến.",
+            "D": "Tìm hiểu xu hướng công nghệ mới nhất hiện nay."
+          },
+          "explanation": "Phải hiểu rõ vấn đề và nhu cầu của chính đơn vị trước; khảo sát nhà cung cấp, tính chi phí hay tìm xu hướng chỉ có ý nghĩa sau khi đã xác định đúng nhu cầu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Trong cuộc họp, một đồng nghiệp đề xuất “nên mua ngay phần mềm trí tuệ nhân tạo mới nhất vì cơ quan bạn kia cũng vừa mua”. Theo tinh thần xác định nhu cầu đúng, Anh/Chị nên góp ý thế nào?",
+          "options": {
+            "A": "Đồng ý mua ngay cho kịp xu hướng, không cần cân nhắc thêm.",
+            "B": "Đề nghị làm rõ trước: đơn vị đang có vấn đề cụ thể nào cần giải quyết, mục tiêu đo lường ra sao, rồi mới xét công nghệ nào phù hợp - tránh mua theo phong trào.",
+            "C": "Phản đối mọi công nghệ mới vì tốn kém.",
+            "D": "Để người đề xuất tự quyết, không cần phân tích nhu cầu."
+          },
+          "explanation": "Quyết định công nghệ phải xuất phát từ vấn đề thực tế của đơn vị, không chạy theo nơi khác; làm rõ nhu cầu và mục tiêu trước giúp đầu tư trúng đích, tránh lãng phí.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Đơn vị Anh/Chị thấy việc xử lý hồ sơ giấy đang rất chậm và hay sai sót. Trước khi đề xuất một giải pháp số, bước đi hợp lý nhất là gì?",
+          "options": {
+            "A": "Lập tức đề xuất mua phần mềm đắt tiền nhất cho chắc chắn hiệu quả.",
+            "B": "Mô tả rõ vấn đề kèm dữ liệu (thời gian xử lý, tỷ lệ sai sót), xác định ai bị ảnh hưởng và mục tiêu cần đạt, rồi mới tìm giải pháp phù hợp.",
+            "C": "Chờ cơ quan khác làm trước rồi bắt chước y hệt.",
+            "D": "Bỏ qua phân tích, cứ triển khai thử nhiều phần mềm cùng lúc xem cái nào hợp."
+          },
+          "explanation": "Xác định nhu cầu đúng bắt đầu từ việc mô tả vấn đề bằng dữ liệu cụ thể và mục tiêu đo lường được; đó là cơ sở để chọn giải pháp trúng đích thay vì phỏng đoán hay bắt chước.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Phương pháp xác định nhu cầu (Bước 1: Đánh giá hiện trạng)",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Trong quá trình đánh giá hiện trạng, dấu hiệu nào dưới đây cho thấy nhu cầu cần một giải pháp công nghệ?",
+          "options": {
+            "A": "Công việc xử lý hồ sơ giấy tờ bị chậm trễ, thường xuyên sai sót - cho thấy cần số hóa quy trình để nâng cao tốc độ và độ chính xác.",
+            "B": "Mọi công việc đều vận hành trơn tru, không có phàn nàn nào.",
+            "C": "Nhân sự trong cơ quan đều có kỹ năng tin học tốt.",
+            "D": "Cơ quan vừa được cấp ngân sách cho công nghệ thông tin nên muốn dùng hết ngân sách."
+          },
+          "explanation": "Quy trình chậm, hay sai sót là dấu hiệu rõ của điểm nghẽn cần công nghệ giải quyết; có ngân sách hay nhân sự giỏi không phải là căn cứ để xác định nhu cầu.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Câu hỏi nào dưới đây hữu ích nhất khi phân tích hiện trạng để xác định nhu cầu công nghệ?",
+          "options": {
+            "A": "“Công việc nào trong quy trình hiện tại đang chậm trễ hoặc kém hiệu quả?”",
+            "B": "“Công nghệ mới nhất hiện nay là gì và cơ quan có nên áp dụng không?”",
+            "C": "“Nhà cung cấp giải pháp công nghệ nào đang có thị phần lớn nhất?”",
+            "D": "“Ai sẽ là người phụ trách dự án công nghệ sắp tới?”"
+          },
+          "explanation": "Đánh giá hiện trạng phải hướng vào việc tìm điểm nghẽn trong quy trình của chính mình; các câu hỏi về công nghệ mới hay nhà cung cấp chỉ phù hợp ở bước sau, khi đã rõ nhu cầu.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Mục đích chính của việc đánh giá hiện trạng quy trình hiện tại là gì?",
+          "options": {
+            "A": "Để liệt kê tất cả các ứng dụng công nghệ mà cơ quan đang có.",
+            "B": "Để tìm ra vấn đề và hạn chế có thể cải thiện bằng công nghệ.",
+            "C": "Để làm hài lòng lãnh đạo cấp trên.",
+            "D": "Để có cớ mua sắm thêm thiết bị công nghệ hiện đại."
+          },
+          "explanation": "Đánh giá hiện trạng nhằm phát hiện bất cập có thể cải thiện bằng công nghệ, làm cơ sở xác định nhu cầu đúng - không phải để liệt kê tài sản hay hợp thức hóa việc mua sắm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị được giao đánh giá hiện trạng một quy trình để đề xuất ứng dụng công nghệ. Cách làm bài bản nhất là gì?",
+          "options": {
+            "A": "Dựa vào cảm giác “quy trình này chậm” rồi đề xuất luôn một phần mềm.",
+            "B": "Phác họa các bước của quy trình, đánh dấu điểm chờ - chuyển - kiểm mất thời gian, rồi đo ba chỉ số: thời gian xử lý, tỷ lệ sai sót, mức độ trùng lặp.",
+            "C": "Hỏi xem cơ quan khác đang dùng phần mềm gì rồi đề xuất y hệt.",
+            "D": "Chờ lãnh đạo chỉ định mua phần mềm nào thì làm theo."
+          },
+          "explanation": "Đánh giá hiện trạng cần kết hợp rà soát định tính (sơ đồ quy trình, điểm nghẽn) và đo lường định lượng (ba chỉ số); chỉ dựa vào cảm giác hay bắt chước nơi khác dễ dẫn đến đề xuất sai.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Sau khi đo được quy trình cấp một loại giấy tờ hiện mất trung bình năm ngày và có tỷ lệ sai sót cao, Anh/Chị nên trình bày kết quả đánh giá hiện trạng thế nào cho thuyết phục?",
+          "options": {
+            "A": "Chỉ nói chung chung rằng “quy trình hiện nay khá chậm, nên cải tiến”.",
+            "B": "Nêu rõ số liệu (năm ngày xử lý, tỷ lệ sai sót cụ thể), chỉ ra điểm nghẽn, kèm nhu cầu công nghệ tương ứng và mục tiêu cải tiến đo lường được.",
+            "C": "Đề xuất mua ngay phần mềm đắt nhất để chắc chắn nhanh hơn.",
+            "D": "Bỏ qua số liệu vì lãnh đạo cũng không quan tâm con số."
+          },
+          "explanation": "Một đề xuất dựa trên số liệu cụ thể, gắn điểm nghẽn với nhu cầu và mục tiêu đo lường được sẽ thuyết phục và dễ được đồng thuận hơn nhiều so với nhận định chung chung.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Phương pháp xác định nhu cầu (Bước 2: Thu thập yêu cầu từ các bên liên quan)",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đối tượng nào dưới đây cần được tham khảo ý kiến khi xác định nhu cầu công nghệ cho một cơ quan nhà nước?",
+          "options": {
+            "A": "Các bên liên quan trực tiếp: lãnh đạo cơ quan, cán bộ sẽ sử dụng hệ thống, và cả người dân nếu nhu cầu liên quan dịch vụ công.",
+            "B": "Chỉ lãnh đạo cấp cao của cơ quan, vì họ là người ra quyết định cuối cùng.",
+            "C": "Chỉ đội ngũ kỹ thuật công nghệ thông tin của cơ quan.",
+            "D": "Chỉ chuyên gia tư vấn bên ngoài, không cần hỏi ý kiến cán bộ nội bộ."
+          },
+          "explanation": "Cần lắng nghe đủ các bên liên quan trực tiếp - lãnh đạo, cán bộ sử dụng, người dân thụ hưởng - để nhu cầu sát thực tế; chỉ nghe một nhóm dễ bỏ sót vướng mắc thật.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nhiều cán bộ phản ánh việc khó tra cứu tài liệu trên hệ thống hiện tại. Điều này gợi ý nhu cầu nào sau đây?",
+          "options": {
+            "A": "Nâng cấp phần mềm tra cứu hoặc tạo công cụ hỗ trợ tra cứu thân thiện hơn cho người dùng.",
+            "B": "Tăng cường tập huấn tin học cho cán bộ để họ quen với hệ thống hiện tại.",
+            "C": "Không cần làm gì, đó chỉ là do một vài người chưa thành thạo công nghệ.",
+            "D": "Yêu cầu cán bộ quay lại dùng tài liệu giấy cho dễ tra cứu."
+          },
+          "explanation": "Phản ánh khó tra cứu từ chính người dùng là tín hiệu rõ về nhu cầu cải thiện công cụ tra cứu; quy lỗi cho người dùng hay quay lại giấy tờ không giải quyết được vấn đề.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Thu thập yêu cầu từ các bên liên quan giúp ích gì cho quá trình xác định nhu cầu công nghệ?",
+          "options": {
+            "A": "Giúp đảm bảo nhu cầu được xác định phù hợp với thực tế và nhận được sự đồng thuận cao khi triển khai.",
+            "B": "Giúp lãnh đạo tránh phải ra quyết định, đổ trách nhiệm cho tập thể.",
+            "C": "Khiến quá trình xác định nhu cầu kéo dài không cần thiết và phức tạp hơn.",
+            "D": "Không có tác dụng đáng kể, chỉ cần chuyên gia kỹ thuật xác định là đủ."
+          },
+          "explanation": "Lắng nghe đa chiều giúp nhu cầu vừa sát thực tế vừa được nhiều người ủng hộ, nhờ đó giải pháp triển khai sau này có cơ hội thành công cao hơn.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị được giao thu thập yêu cầu để đề xuất nâng cấp một hệ thống dùng chung. Cách làm hợp lý nhất là gì?",
+          "options": {
+            "A": "Chỉ hỏi ý kiến lãnh đạo rồi tổng hợp thành nhu cầu, cho nhanh gọn.",
+            "B": "Phỏng vấn ngắn và khảo sát cả lãnh đạo, cán bộ trực tiếp sử dụng (và người dân nếu liên quan dịch vụ công), tập trung vào các câu hỏi về vướng mắc và mong muốn thực tế.",
+            "C": "Tự mình hình dung nhu cầu vì mình cũng dùng hệ thống đó.",
+            "D": "Sao chép yêu cầu của một cơ quan khác cho tiết kiệm thời gian."
+          },
+          "explanation": "Thu thập yêu cầu cần lắng nghe đủ các nhóm bằng phỏng vấn và khảo sát, hỏi đúng vào trải nghiệm thực tế; chỉ nghe một phía hay tự suy đoán dễ dẫn đến nhu cầu lệch.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi khảo sát ý kiến cán bộ và người dân, Anh/Chị có thu thập một số thông tin cá nhân của họ. Cách ứng xử đúng đắn là gì?",
+          "options": {
+            "A": "Thu thập càng nhiều thông tin cá nhân càng tốt để dùng dần về sau.",
+            "B": "Chia sẻ danh sách thông tin đó cho nhiều người để tiện trao đổi.",
+            "C": "Chỉ hỏi những thông tin thật sự cần thiết, bảo mật dữ liệu thu được và chỉ dùng đúng mục đích khảo sát đã thông báo.",
+            "D": "Lưu thông tin tùy tiện, không cần quan tâm đến bảo mật."
+          },
+          "explanation": "Khi thu thập thông tin cá nhân phải tuân thủ nguyên tắc tối thiểu và bảo mật, dùng đúng mục đích đã nêu - vừa tôn trọng người tham gia, vừa đúng quy định về bảo vệ dữ liệu cá nhân.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Phương pháp xác định nhu cầu (Bước 3: Xác định mục tiêu cụ thể)",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Mục tiêu nào dưới đây là rõ ràng và đo lường được?",
+          "options": {
+            "A": "“Nâng mức độ hài lòng của người dân lên 90% sau một năm thực hiện dự án.”",
+            "B": "“Cải thiện dịch vụ công trực tuyến sao cho tốt hơn hiện nay.”",
+            "C": "“Ứng dụng công nghệ để nâng cao hiệu quả công việc.”"
+          },
+          "explanation": "Mục tiêu A có chỉ số đo được (90%) và mốc thời gian (một năm); các phương án còn lại chung chung, không có con số và thời hạn nên không kiểm chứng được.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc SMART khi đặt mục tiêu gồm những đặc điểm nào?",
+          "options": {
+            "A": "Cụ thể, đo lường được, khả thi, thực tế và có thời hạn.",
+            "B": "Nhanh, mạnh, mới, mở rộng và miễn phí.",
+            "C": "Đơn giản, dễ làm, không cần đo lường, linh hoạt và không thời hạn.",
+            "D": "To, rõ, nhiều tính năng, hiện đại và tốn ít chi phí."
+          },
+          "explanation": "SMART là năm tiêu chí: cụ thể (Specific), đo lường được (Measurable), khả thi (Achievable), thực tế (Realistic), có thời hạn (Time-bound) - giúp mục tiêu vừa rõ ràng vừa kiểm chứng được.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao mục tiêu cụ thể, đo lường được lại quan trọng khi ứng dụng công nghệ?",
+          "options": {
+            "A": "Vì mục tiêu rõ ràng giúp định hướng chọn giải pháp phù hợp và có cơ sở để kiểm chứng kết quả sau khi triển khai.",
+            "B": "Vì mục tiêu mơ hồ sẽ dễ điều chỉnh khi dự án gặp khó khăn.",
+            "C": "Vì mục tiêu chỉ là hình thức, không ảnh hưởng đến kết quả dự án.",
+            "D": "Vì có mục tiêu rõ ràng sẽ khiến dự án kéo dài hơn."
+          },
+          "explanation": "Mục tiêu rõ vừa định hướng cho việc chọn giải pháp, vừa là thước đo để đánh giá thành công; mục tiêu mơ hồ khiến dự án mất phương hướng.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đơn vị Anh/Chị có nhu cầu “giảm thời gian tiếp nhận hồ sơ tại bộ phận một cửa”. Cách phát biểu mục tiêu nào sau đây là đạt chuẩn SMART nhất?",
+          "options": {
+            "A": "“Cố gắng giảm thời gian tiếp nhận hồ sơ càng nhiều càng tốt.”",
+            "B": "“Trong vòng 6 tháng kể từ khi áp dụng phần mềm tiếp nhận trực tuyến, giảm 40% thời gian tiếp nhận hồ sơ tại bộ phận một cửa.”",
+            "C": "“Tiếp nhận hồ sơ nhanh hơn để người dân hài lòng hơn.”",
+            "D": "“Ứng dụng công nghệ hiện đại nhất vào bộ phận một cửa.”"
+          },
+          "explanation": "Phương án B có đủ năm yếu tố SMART: cụ thể (giảm thời gian tiếp nhận), đo được (40%), khả thi và thực tế (nhờ phần mềm trực tuyến), có thời hạn (6 tháng); các phương án khác đều mơ hồ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp đặt mục tiêu “trong một tháng số hóa toàn bộ kho hồ sơ giấy mười năm qua của cơ quan”. Theo tiêu chí SMART, Anh/Chị nên góp ý điều gì?",
+          "options": {
+            "A": "Đồng ý ngay, vì mục tiêu càng tham vọng càng tốt.",
+            "B": "Bác bỏ hoàn toàn, vì không nên đặt mục tiêu có con số.",
+            "C": "Mục tiêu đã cụ thể và đo được, nhưng cần xem lại tính khả thi về thời hạn và nguồn lực; nên điều chỉnh mốc thời gian hoặc chia thành nhiều giai đoạn cho thực tế.",
+            "D": "Khuyên bỏ luôn thời hạn để khỏi áp lực."
+          },
+          "explanation": "Mục tiêu cần khả thi và thực tế; số hóa kho hồ sơ mười năm chỉ trong một tháng thường vượt quá nguồn lực, nên điều chỉnh thời hạn hoặc chia giai đoạn để bảo đảm thành công, tránh hình thức.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Phương pháp xác định nhu cầu (Bước 4: Ưu tiên nhu cầu công nghệ)",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi cơ quan có nhiều nhu cầu công nghệ cùng lúc, cách làm nào sau đây là hợp lý nhất?",
+          "options": {
+            "A": "Đánh giá và xếp thứ tự ưu tiên các nhu cầu dựa trên mức độ quan trọng, cấp thiết của từng nhu cầu.",
+            "B": "Triển khai đồng thời tất cả các nhu cầu để đảm bảo không bỏ sót việc gì.",
+            "C": "Chọn một nhu cầu ngẫu nhiên để làm trước, các nhu cầu khác để sau."
+          },
+          "explanation": "Khi nguồn lực có hạn, cần xếp ưu tiên theo mức độ quan trọng và cấp thiết để tập trung làm việc cần nhất trước; làm đồng thời tất cả dễ dẫn đến dàn trải, kém hiệu quả.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Tiêu chí nào dưới đây được dùng để ưu tiên nhu cầu công nghệ?",
+          "options": {
+            "A": "Lợi ích kỳ vọng khi đáp ứng nhu cầu - nhu cầu mang lại hiệu quả càng cao càng nên ưu tiên.",
+            "B": "Sở thích cá nhân của người phụ trách về một công nghệ nào đó.",
+            "C": "Xu hướng công nghệ mới nhất trên thị trường hiện nay.",
+            "D": "Thứ tự bảng chữ cái của tên các dự án hoặc nhu cầu."
+          },
+          "explanation": "Lợi ích kỳ vọng là một trong bốn tiêu chí ưu tiên chính (cùng với cấp thiết, nguồn lực, chiến lược); sở thích cá nhân hay xu hướng thị trường không phải căn cứ khách quan.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Yếu tố nào sau đây không nên là tiêu chí ưu tiên khi xác định nhu cầu công nghệ?",
+          "options": {
+            "A": "Mức độ cấp thiết của nhu cầu đối với hoạt động của cơ quan.",
+            "B": "Lợi ích kỳ vọng khi đáp ứng nhu cầu đó.",
+            "C": "Sở thích cá nhân của người phụ trách về một công nghệ nào đó.",
+            "D": "Định hướng chiến lược và nguồn lực hiện có của cơ quan."
+          },
+          "explanation": "Ưu tiên phải dựa trên tiêu chí khách quan: cấp thiết, lợi ích, nguồn lực, chiến lược; lấy sở thích cá nhân làm căn cứ dễ dẫn đến đầu tư sai và lãng phí.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đơn vị Anh/Chị cùng lúc có nhiều nhu cầu công nghệ nhưng ngân sách và nhân lực năm nay rất hạn chế. Cách xử lý hợp lý nhất là gì?",
+          "options": {
+            "A": "Cố gắng triển khai tất cả cùng lúc cho kịp, dù nguồn lực eo hẹp.",
+            "B": "Xếp ưu tiên theo cấp thiết, lợi ích, nguồn lực và chiến lược; chọn nhóm “thực hiện ngay” gồm việc cấp thiết và vừa sức, phần còn lại đưa vào lộ trình giai đoạn sau.",
+            "C": "Trì hoãn toàn bộ đến khi nào có thật nhiều ngân sách rồi làm một lần.",
+            "D": "Chọn việc nào dễ làm nhất để làm trước, bất kể có cấp thiết hay không."
+          },
+          "explanation": "Khi nguồn lực hạn chế, lập thứ tự ưu tiên và chia lộ trình theo giai đoạn giúp giải quyết việc cấp thiết trước mà vẫn khả thi; ôm đồm tất cả hoặc trì hoãn toàn bộ đều không hiệu quả.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trong cuộc họp xét ưu tiên các nhu cầu công nghệ, một đồng nghiệp đề nghị ưu tiên một phần mềm chỉ vì “công nghệ đó đang là xu hướng và bản thân thấy thích”. Anh/Chị nên góp ý thế nào?",
+          "options": {
+            "A": "Đồng ý, vì cứ theo xu hướng mới là đúng.",
+            "B": "Đề nghị đánh giá lại theo các tiêu chí khách quan - mức độ cấp thiết, lợi ích thực tế, nguồn lực và định hướng chiến lược - thay vì dựa vào sở thích hay xu hướng.",
+            "C": "Bác bỏ thẳng thừng mọi ý kiến của đồng nghiệp đó.",
+            "D": "Để đồng nghiệp tự quyết vì đó là người đề xuất."
+          },
+          "explanation": "Việc ưu tiên cần dựa trên tiêu chí khách quan để bảo đảm đầu tư trúng đích; quyết định theo sở thích cá nhân hay xu hướng dễ gây lãng phí nguồn lực của cơ quan.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

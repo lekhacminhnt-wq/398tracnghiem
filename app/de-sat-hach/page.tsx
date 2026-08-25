@@ -62,10 +62,6 @@ export default async function DeSatHachPage() {
   return (
     <div className="mx-auto max-w-2xl">
       <h1 className="mb-1 text-2xl font-bold text-brand-primary">Đề sát hạch cuối chương trình</h1>
-      <p className="mb-1 text-sm font-semibold text-amber-700">
-        ĐỀ THỬ NGHIỆM (20 câu, lấy từ 7 chuyên đề đã có dữ liệu) — chưa phải đề chính thức 50 câu
-        theo Phụ lục 3.
-      </p>
       <p className="mb-6 text-sm text-brand-text-muted">
         Thời gian làm bài: {EXAM_DURATION_MINUTES} phút, hệ thống hiển thị đồng hồ đếm ngược và tự
         động thu bài khi hết giờ. Bạn có thể nộp bài sớm. Đạt từ 70% số câu trở lên để được công

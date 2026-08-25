@@ -1,0 +1,855 @@
+{
+  "examSetId": "official",
+  "questions": [
+    {
+      "topicId": 1,
+      "level": "Cơ bản",
+      "order": 1,
+      "type": "KNOWLEDGE",
+      "text": "Theo định hướng chuyển đổi số quốc gia, ba trụ cột cốt lõi được xác định là:",
+      "options": {
+        "A": "Chính phủ số, kinh tế số và xã hội số.",
+        "B": "Hạ tầng số, dữ liệu số và nhân lực số.",
+        "C": "Công nghệ số, dịch vụ số và thương mại điện tử.",
+        "D": "Thể chế số, đô thị thông minh và công dân số."
+      },
+      "explanation": "Ba trụ cột của chuyển đổi số quốc gia là Chính phủ số, kinh tế số và xã\nhội số; các yếu tố còn lại là thành phần hỗ trợ",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 1,
+      "level": "Cơ bản",
+      "order": 2,
+      "type": "KNOWLEDGE",
+      "text": "Hoạt động nào dưới đây thể hiện đúng bản chất của chuyển đổi số trong cơ quan nhà nước?",
+      "options": {
+        "A": "Quét toàn bộ hồ sơ giấy thành tệp PDF để lưu trên máy tính.",
+        "B": "Trang bị máy tính cấu hình cao cho tất cả các phòng, ban.",
+        "C": "Gửi văn bản qua thư điện tử thay cho việc chuyển bản giấy.",
+        "D": "Tái thiết kế quy trình giải quyết thủ tục để người dân nộp hồ sơ và nhận kết quả trực tuyến."
+      },
+      "explanation": "Chuyển đổi số là thay đổi cách thức vận hành dựa trên công nghệ và dữ\nliệu; các phương án còn lại mới dừng ở số hóa hoặc tin học hóa",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 1,
+      "level": "Trung cấp",
+      "order": 3,
+      "type": "SITUATION",
+      "text": "Cơ quan đã vận hành hệ thống quản lý văn bản điện tử, nhưng một số cán bộ vẫn in tài liệu trình ký bản giấy như trước. Là người được giao hỗ trợ triển khai, cách xử lý phù hợp nhất của Anh/Chị là:",
+      "options": {
+        "A": "Đề nghị tạm dừng hệ thống mới một thời gian để mọi người quen dần.",
+        "B": "Hướng dẫn trực tiếp thao tác trên hệ thống và đề xuất lãnh đạo nêu gương xử lý văn bản điện tử.",
+        "C": "Chấp nhận duy trì song song hai cách làm lâu dài cho thuận tiện.",
+        "D": "Chỉ nhắc nhở qua nhóm chung và để từng người tự tìm hiểu cách dùng."
+      },
+      "explanation": "Thay đổi thói quen cần hướng dẫn cụ thể đi kèm sự nêu gương của lãnh\nđạo; duy trì hai cách làm song song lâu dài sẽ cản trở chuyển đổi số",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 2,
+      "level": "Cơ bản",
+      "order": 4,
+      "type": "KNOWLEDGE",
+      "text": "Công nghệ nào cho phép lưu trữ dữ liệu trên hệ thống máy chủ từ xa và truy cập qua Internet ở mọi nơi?",
+      "options": {
+        "A": "Mạng nội bộ (LAN) kết nối các máy tính trong cơ quan.",
+        "B": "Thiết bị lưu trữ di động (USB) dung lượng lớn.",
+        "C": "Điện toán đám mây do nhà cung cấp dịch vụ vận hành.",
+        "D": "Phần mềm văn phòng cài đặt trên máy tính cá nhân."
+      },
+      "explanation": "Điện toán đám mây lưu dữ liệu trên hạ tầng từ xa, cho phép truy cập\nqua Internet mọi lúc, mọi nơi.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 3,
+      "level": "Cơ bản",
+      "order": 5,
+      "type": "KNOWLEDGE",
+      "text": "Đặc trưng cơ bản của trí tuệ nhân tạo (AI) so với phần mềm truyền thống là:",
+      "options": {
+        "A": "Chạy nhanh hơn nhờ được cài trên máy tính có cấu hình mạnh hơn.",
+        "B": "Chỉ hoạt động khi có kỹ sư công nghệ thông tin trực tiếp vận hành.",
+        "C": "Không bao giờ đưa ra kết quả sai nếu kết nối Internet ổn định.",
+        "D": "Có khả năng học từ dữ liệu để nhận dạng, suy luận và tạo ra nội dung mới."
+      },
+      "explanation": "AI học từ dữ liệu để thực hiện các nhiệm vụ như nhận dạng, suy luận,\nsinh nội dung; AI vẫn có thể sai nên kết quả cần được kiểm chứng.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 3,
+      "level": "Cơ bản",
+      "order": 6,
+      "type": "KNOWLEDGE",
+      "text": "Nguyên tắc \"Dữ liệu nào, công cụ đó\" khi sử dụng AI trong công vụ được hiểu là:",
+      "options": {
+        "A": "Mỗi loại dữ liệu chỉ được xử lý bằng đúng một phần mềm duy nhất do cơ quan quy định.",
+        "B": "Dữ liệu càng quan trọng thì càng phải dùng công cụ AI hiện đại, có trả phí.",
+        "C": "Dữ liệu mật, nội bộ chỉ xử lý trên hệ thống được cơ quan cho phép; công cụ AI công cộng chỉ dùng cho nội dung công khai.",
+        "D": "Cán bộ được tự chọn công cụ xử lý dữ liệu miễn là bảo đảm đúng tiến độ công việc."
+      },
+      "explanation": "Mức độ nhạy cảm của dữ liệu quyết định công cụ được phép sử dụng; tuyệt đối không đưa dữ liệu mật, nội bộ vào công cụ AI công cộng.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 3,
+      "level": "Trung cấp",
+      "order": 7,
+      "type": "SITUATION",
+      "text": "Chị H dùng một công cụ AI để soạn dự thảo bài phát biểu, trong đó AI đưa ra một số liệu thống kê kèm tên văn bản trích dẫn. Trước khi trình lãnh đạo, chị H nên:",
+      "options": {
+        "A": "Giữ nguyên toàn bộ vì AI đã trích dẫn kèm theo tên văn bản cụ thể.",
+        "B": "Xóa hết số liệu để tránh rủi ro, chỉ giữ lại phần lời văn chung.",
+        "C": "Đối chiếu số liệu và văn bản với nguồn chính thống, biên tập lại rồi mới sử dụng.",
+        "D": "Chuyển thẳng cho bộ phận văn thư kiểm tra giúp trước khi trình ký."
+      },
+      "explanation": "Người dùng chịu trách nhiệm về nội dung; thông tin do AI cung cấp phải được kiểm chứng với nguồn chính thống trước khi sử dụng.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 4,
+      "level": "Cơ bản",
+      "order": 8,
+      "type": "KNOWLEDGE",
+      "text": "Khi cần truy cập hệ thống công vụ ngoài trụ sở, cách kết nối an toàn nhất trong các phương án sau là:",
+      "options": {
+        "A": "Dùng mạng Wi-Fi công cộng không mật khẩu tại quán cà phê cho tiện.",
+        "B": "Dùng mạng di động cá nhân hoặc kết nối qua VPN do cơ quan cấp.",
+        "C": "Mượn điện thoại của người lạ phát Wi-Fi để đăng nhập cho nhanh.",
+        "D": "Nhờ nhân viên quán nhập giúp mật khẩu Wi-Fi rồi truy cập bình thường."
+      },
+      "explanation": "Wi-Fi công cộng tiềm ẩn nguy cơ bị nghe lén, đánh cắp thông tin; nên dùng mạng di động tin cậy hoặc VPN của cơ quan.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 4,
+      "level": "Trung cấp",
+      "order": 9,
+      "type": "SITUATION",
+      "text": "Máy tính làm việc của anh T (đang lưu tài liệu công vụ) bị hỏng không khởi động được. Cách xử lý đúng quy định là:",
+      "options": {
+        "A": "Mang máy ra cửa hàng sửa chữa bên ngoài cho nhanh, tiện đâu sửa đó.",
+        "B": "Tự tháo ổ cứng lắp sang máy tính cá nhân ở nhà để tiếp tục làm việc.",
+        "C": "Nhờ đồng nghiệp thành thạo công nghệ tháo máy ra kiểm tra giúp tại bàn.",
+        "D": "Báo bộ phận kỹ thuật của cơ quan xử lý theo quy trình quản lý thiết bị."
+      },
+      "explanation": "Thiết bị chứa dữ liệu công vụ phải được xử lý theo quy trình của cơ quan để tránh nguy cơ lộ lọt dữ liệu.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 5,
+      "level": "Cơ bản",
+      "order": 10,
+      "type": "KNOWLEDGE",
+      "text": "Cổng Dịch vụ công trực tuyến mang lại lợi ích trực tiếp nào cho người dân?",
+      "options": {
+        "A": "Nộp hồ sơ, theo dõi tiến độ và nhận kết quả mà không phải đến trực tiếp trụ sở.",
+        "B": "Được giải quyết mọi thủ tục ngay lập tức, không cần thời gian xử lý.",
+        "C": "Không phải nộp bất kỳ khoản phí, lệ phí nào khi thực hiện thủ tục.",
+        "D": "Được cán bộ đến tận nhà hướng dẫn kê khai từng loại hồ sơ cụ thể."
+      },
+      "explanation": "Dịch vụ công trực tuyến giúp người dân thực hiện thủ tục mọi lúc, mọi nơi; các thủ tục vẫn có thời hạn xử lý và phí, lệ phí theo quy định.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 5,
+      "level": "Trung cấp",
+      "order": 11,
+      "type": "SITUATION",
+      "text": "Nhóm mạng xã hội của phòng anh K (có cả người ngoài cơ quan) đang trao đổi công việc; một đồng nghiệp định gửi lên nhóm danh sách kèm số định danh cá nhân của công dân để \"xin ý kiến nhanh\". Anh K nên:",
+      "options": {
+        "A": "Đồng ý vì gửi trong nhóm toàn người quen biết thì thông tin vẫn an toàn.",
+        "B": "Đề nghị chỉ gửi qua hệ thống, hộp thư công vụ cho đúng kênh và đúng người có trách nhiệm.",
+        "C": "Đề nghị nén tệp và đặt mật khẩu đơn giản rồi gửi lên nhóm như dự định.",
+        "D": "Không tham gia ý kiến vì việc gửi tệp là trách nhiệm riêng của người gửi."
+      },
+      "explanation": "Dữ liệu cá nhân của công dân không được trao đổi qua kênh công cộng; phải dùng kênh chính thống và giới hạn đúng người có trách nhiệm.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 6,
+      "level": "Cơ bản",
+      "order": 12,
+      "type": "KNOWLEDGE",
+      "text": "Để tra cứu chính xác một văn bản quy phạm pháp luật phục vụ tham mưu, nguồn nên ưu tiên là:",
+      "options": {
+        "A": "Bài viết tóm tắt trên các diễn đàn, hội nhóm mạng xã hội.",
+        "B": "Bản chụp văn bản do người quen gửi qua ứng dụng nhắn tin.",
+        "C": "Cơ sở dữ liệu quốc gia về pháp luật và cổng thông tin của cơ quan ban hành.",
+        "D": "Kết quả hiển thị đầu tiên khi tìm kiếm nhanh trên Internet."
+      },
+      "explanation": "Nguồn chính thống bảo đảm văn bản đúng, còn hiệu lực; các nguồn trôi nổi dễ sai lệch, lỗi thời.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 7,
+      "level": "Cơ bản",
+      "order": 13,
+      "type": "KNOWLEDGE",
+      "text": "Dấu hiệu nào sau đây thường gặp ở tin giả trên mạng?",
+      "options": {
+        "A": "Nêu rõ nguồn phát hành và dẫn liên kết đến văn bản gốc.",
+        "B": "Tiêu đề giật gân, nguồn mập mờ, kêu gọi chia sẻ gấp.",
+        "C": "Được nhiều cơ quan báo chí chính thống cùng đăng tải.",
+        "D": "Nội dung có số liệu trùng khớp với công bố chính thức."
+      },
+      "explanation": "Tin giả thường đánh vào cảm xúc bằng tiêu đề giật gân, nguồn không rõ ràng và thúc giục lan truyền nhanh.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 7,
+      "level": "Trung cấp",
+      "order": 14,
+      "type": "SITUATION",
+      "text": "Trên mạng xã hội lan truyền ảnh chụp một \"văn bản hỏa tốc\" về thay đổi chính sách liên quan trực tiếp đến lĩnh vực của cơ quan. Trước khi tham mưu hay chia sẻ, Anh/Chị nên:",
+      "options": {
+        "A": "Chia sẻ ngay vào nhóm cơ quan để mọi người kịp thời nắm thông tin.",
+        "B": "Lưu ảnh lại làm căn cứ và bổ sung ngay vào báo cáo đang soạn thảo.",
+        "C": "Bình luận hỏi người đăng về nguồn gốc của văn bản trong ảnh chụp.",
+        "D": "Kiểm chứng trên cổng thông tin chính thức của cơ quan có thẩm quyền trước khi sử dụng."
+      },
+      "explanation": "Ảnh văn bản rất dễ bị làm giả, cắt ghép; chỉ sử dụng khi đã xác minh trên kênh chính thức.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 8,
+      "level": "Cơ bản",
+      "order": 15,
+      "type": "KNOWLEDGE",
+      "text": "Việc phân loại tài liệu điện tử theo các mức Công khai - Nội bộ - Mật nhằm mục đích chính là:",
+      "options": {
+        "A": "Giúp thư mục lưu trữ trên máy tính trông gọn gàng, dễ nhìn hơn.",
+        "B": "Áp dụng đúng biện pháp bảo vệ và kênh xử lý tương ứng với từng loại tài liệu.",
+        "C": "Giảm bớt số lượng tài liệu phải sao lưu định kỳ của đơn vị.",
+        "D": "Thuận tiện cho việc in ấn và đóng dấu khi phát hành văn bản."
+      },
+      "explanation": "Mỗi mức độ mật đòi hỏi biện pháp bảo vệ, kênh lưu chuyển khác nhau; phân loại đúng là nền tảng của an toàn dữ liệu.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 8,
+      "level": "Trung cấp",
+      "order": 16,
+      "type": "SITUATION",
+      "text": "Chị M cần chia sẻ một tài liệu nội bộ cho ba đồng nghiệp cùng xử lý công việc. Cách làm phù hợp là:",
+      "options": {
+        "A": "Đăng tài liệu vào nhóm chung của cơ quan để ai cần thì tự tải về.",
+        "B": "Gửi qua tài khoản mạng xã hội cá nhân của từng người cho nhanh gọn.",
+        "C": "Chia sẻ qua hệ thống được cơ quan cho phép và phân quyền đúng ba người đó.",
+        "D": "Sao chép ra ba thiết bị nhớ USB cá nhân rồi chuyển tay cho từng người."
+      },
+      "explanation": "Tài liệu nội bộ phải chia sẻ qua kênh chính thống, phân quyền đúng người, đúng phạm vi công việc.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 9,
+      "level": "Cơ bản",
+      "order": 17,
+      "type": "KNOWLEDGE",
+      "text": "Một email công vụ chuẩn mực cần bảo đảm yêu cầu nào sau đây?",
+      "options": {
+        "A": "Tiêu đề rõ nội dung, xưng hô phù hợp, kiểm tra kỹ người nhận và tệp đính kèm trước khi gửi.",
+        "B": "Viết càng ngắn càng tốt, có thể bỏ tiêu đề khi nội dung trao đổi đơn giản.",
+        "C": "Gửi đồng thời cho nhiều người nhất có thể để ai cũng nắm được thông tin.",
+        "D": "Dùng nhiều chữ in hoa và dấu chấm than để nhấn mạnh sự khẩn trương."
+      },
+      "explanation": "Email công vụ là văn bản giao dịch chính thức: đúng thể thức, đúng người nhận, nội dung và tệp đính kèm được kiểm tra kỹ.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 9,
+      "level": "Trung cấp",
+      "order": 18,
+      "type": "SITUATION",
+      "text": "Anh P được phân công phát biểu trong cuộc họp trực tuyến quan trọng. Để cuộc họp hiệu quả, anh P nên:",
+      "options": {
+        "A": "Vào phòng họp sát giờ bắt đầu để tiết kiệm thời gian chờ đợi.",
+        "B": "Kiểm tra trước thiết bị, đường truyền, vào sớm ít phút và tắt micro khi chưa phát biểu.",
+        "C": "Vừa họp vừa di chuyển ngoài đường để tranh thủ giải quyết việc khác.",
+        "D": "Chuẩn bị nội dung phát biểu trong lúc ngồi chờ đến lượt mình tại cuộc họp."
+      },
+      "explanation": "Chuẩn bị chu đáo thiết bị, tài liệu và tuân thủ quy tắc họp trực tuyến giúp cuộc họp nghiêm túc, hiệu quả.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 10,
+      "level": "Cơ bản",
+      "order": 19,
+      "type": "KNOWLEDGE",
+      "text": "Trước khi đưa một số liệu thống kê vào hồ sơ, báo cáo của cơ quan, việc cần làm là:",
+      "options": {
+        "A": "Ưu tiên chọn số liệu ấn tượng để tăng sức thuyết phục của báo cáo.",
+        "B": "Làm tròn số liệu cho đẹp rồi ghi chú \"nguồn tổng hợp\" ở cuối trang.",
+        "C": "Sử dụng ngay nếu thấy số liệu được nhiều trang mạng cùng đăng lại.",
+        "D": "Kiểm chứng số liệu với nguồn chính thống và ghi rõ nguồn trích dẫn."
+      },
+      "explanation": "Số liệu trong văn bản công vụ phải chính xác, có nguồn rõ ràng; nhiều trang cùng đăng không đồng nghĩa với chính xác.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 10,
+      "level": "Cơ bản",
+      "order": 20,
+      "type": "KNOWLEDGE",
+      "text": "Đặt tên tệp tin theo quy tắc thống nhất (ví dụ: ngày tháng, loại văn bản, nội dung) mang lại lợi ích chính nào?",
+      "options": {
+        "A": "Giúp giảm đáng kể dung lượng lưu trữ trên máy tính làm việc.",
+        "B": "Tệp tin tự động được sao lưu lên hệ thống lưu trữ đám mây.",
+        "C": "Ngăn chặn được hoàn toàn nguy cơ mất hoặc hỏng tệp tin.",
+        "D": "Tìm kiếm, tra cứu nhanh và thuận lợi khi bàn giao công việc."
+      },
+      "explanation": "Quy tắc đặt tên thống nhất giúp tổ chức dữ liệu khoa học, tra cứu nhanh và bàn giao công việc thuận lợi.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 11,
+      "level": "Cơ bản",
+      "order": 21,
+      "type": "KNOWLEDGE",
+      "text": "Quyền cơ bản của công dân trên không gian số bao gồm nội dung nào sau đây?",
+      "options": {
+        "A": "Tự do đăng tải mọi thông tin mà không chịu ràng buộc pháp lý nào.",
+        "B": "Yêu cầu gỡ bỏ bất kỳ nội dung nào bản thân không thích trên mạng.",
+        "C": "Tiếp cận thông tin, sử dụng dịch vụ công trực tuyến và được bảo vệ dữ liệu cá nhân.",
+        "D": "Truy cập không giới hạn vào cơ sở dữ liệu nội bộ của cơ quan nhà nước."
+      },
+      "explanation": "Công dân có quyền tiếp cận thông tin, sử dụng dịch vụ số và được bảo vệ dữ liệu cá nhân trong khuôn khổ pháp luật.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 11,
+      "level": "Cơ bản",
+      "order": 22,
+      "type": "KNOWLEDGE",
+      "text": "Hành vi nào sau đây vi phạm nghĩa vụ của công dân trên không gian số?",
+      "options": {
+        "A": "Chia sẻ lại thông tin từ cổng thông tin điện tử của cơ quan nhà nước.",
+        "B": "Đăng bình luận góp ý chính sách với ngôn từ chuẩn mực, đúng pháp luật.",
+        "C": "Sử dụng dịch vụ công trực tuyến để nộp hồ sơ thủ tục hành chính.",
+        "D": "Phát tán thông tin chưa kiểm chứng gây hoang mang trong dư luận."
+      },
+      "explanation": "Thượng tôn pháp luật trên không gian mạng là nghĩa vụ cơ bản; phát tán tin chưa kiểm chứng có thể bị xử lý theo quy định.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 12,
+      "level": "Cơ bản",
+      "order": 23,
+      "type": "KNOWLEDGE",
+      "text": "Cách chọn kênh trao đổi công việc phù hợp trong môi trường số là:",
+      "options": {
+        "A": "Nội dung chính thức dùng email công vụ; việc khẩn nhắn tin ngắn; vấn đề phức tạp tổ chức họp trực tuyến.",
+        "B": "Mọi nội dung đều nhắn qua mạng xã hội vì tốc độ phản hồi nhanh nhất.",
+        "C": "Mọi nội dung đều gửi email để bảo đảm tính trang trọng, lưu vết đầy đủ.",
+        "D": "Mọi nội dung đều đưa ra cuộc họp để tất cả cùng nghe và cùng thống nhất."
+      },
+      "explanation": "Mỗi kênh có thế mạnh riêng; chọn đúng kênh theo tính chất công việc giúp trao đổi hiệu quả và đúng quy định.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 12,
+      "level": "Trung cấp",
+      "order": 24,
+      "type": "SITUATION",
+      "text": "Nhóm của chị L cùng biên tập một tài liệu trên nền tảng trực tuyến được cơ quan cho phép. Để bảo đảm an toàn và hiệu quả, chị L nên:",
+      "options": {
+        "A": "Đặt chế độ ai có đường liên kết cũng chỉnh sửa được cho tiện phối hợp.",
+        "B": "Phân quyền xem hoặc chỉnh sửa đúng phạm vi của từng thành viên tham gia.",
+        "C": "Tải tài liệu về gửi qua lại bằng thư điện tử sau mỗi lần chỉnh sửa.",
+        "D": "Cho phép mọi người chỉnh sửa tự do rồi khóa tài liệu khi đã hoàn thành."
+      },
+      "explanation": "Phân quyền đúng phạm vi vừa bảo vệ tài liệu, vừa giữ được lịch sử chỉnh sửa rõ ràng của từng thành viên.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 13,
+      "level": "Cơ bản",
+      "order": 25,
+      "type": "KNOWLEDGE",
+      "text": "Khi ứng dụng trên máy tính bị treo trong giờ làm việc, thao tác nên thử đầu tiên là:",
+      "options": {
+        "A": "Buộc đóng ứng dụng và mở lại, hoặc khởi động lại máy tính.",
+        "B": "Gọi ngay bộ phận kỹ thuật đến kiểm tra toàn bộ máy tính.",
+        "C": "Cài đặt lại toàn bộ hệ điều hành để xử lý triệt để lỗi.",
+        "D": "Chuyển sang dùng máy của đồng nghiệp và bỏ qua sự cố."
+      },
+      "explanation": "Thử các giải pháp đơn giản trước; nếu không khắc phục được mới chuyển bộ phận kỹ thuật hỗ trợ.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 13,
+      "level": "Trung cấp",
+      "order": 26,
+      "type": "SITUATION",
+      "text": "Anh D được giao làm một trang infographic tóm tắt kết quả công tác để trình bày tại hội nghị. Cách làm phù hợp là:",
+      "options": {
+        "A": "Sao chép một mẫu đẹp trên mạng và giữ nguyên cả số liệu minh họa sẵn có.",
+        "B": "Dồn toàn bộ bảng biểu, số liệu chi tiết của báo cáo vào một trang cho đầy đủ.",
+        "C": "Chọn số liệu tiêu biểu đã kiểm chứng, dùng công cụ thiết kế đơn giản với bố cục rõ ràng.",
+        "D": "Thuê dịch vụ bên ngoài thiết kế và gửi kèm toàn bộ số liệu nội bộ để họ xử lý."
+      },
+      "explanation": "Infographic hiệu quả cần chọn lọc thông tin tiêu biểu, chính xác, trình bày trực quan; không đưa dữ liệu nội bộ ra bên ngoài.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 14,
+      "level": "Cơ bản",
+      "order": 27,
+      "type": "KNOWLEDGE",
+      "text": "Xác thực đa yếu tố (MFA) giúp bảo vệ tài khoản vì:",
+      "options": {
+        "A": "Tự động thay đổi mật khẩu của người dùng theo định kỳ hằng tuần.",
+        "B": "Yêu cầu thêm một lớp xác nhận ngoài mật khẩu, nên kẻ xấu khó truy cập kể cả khi lộ mật khẩu.",
+        "C": "Mã hóa toàn bộ dữ liệu đã lưu trữ trên thiết bị của người sử dụng.",
+        "D": "Chặn hoàn toàn việc đăng nhập tài khoản từ các thiết bị lạ, mạng lạ."
+      },
+      "explanation": "MFA là lớp khóa thứ hai (mã OTP, ứng dụng xác thực, sinh trắc học), bảo vệ tài khoản ngay cả khi mật khẩu bị lộ.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 14,
+      "level": "Trung cấp",
+      "order": 28,
+      "type": "SITUATION",
+      "text": "Anh Q nhận được cuộc gọi video, hình ảnh và giọng nói giống hệt lãnh đạo cơ quan, yêu cầu chuyển gấp một khoản tiền và giữ bí mật. Anh Q nên:",
+      "options": {
+        "A": "Thực hiện ngay vì đã thấy rõ khuôn mặt và nghe đúng giọng lãnh đạo.",
+        "B": "Nhắn tin lại chính số vừa gọi đến để xác nhận thêm một lần nữa.",
+        "C": "Tạm dừng, xác minh trực tiếp với lãnh đạo qua kênh liên lạc chính thức khác trước khi làm bất cứ điều gì.",
+        "D": "Chuyển trước một phần nhỏ của khoản tiền để thăm dò mức độ tin cậy."
+      },
+      "explanation": "Đây là dấu hiệu điển hình của lừa đảo deepfake; phải xác minh qua kênh độc lập, không làm theo yêu cầu \"khẩn cấp, bí mật\".",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 15,
+      "level": "Cơ bản",
+      "order": 29,
+      "type": "KNOWLEDGE",
+      "text": "\"Kết hợp và tái tạo nội dung số\" được hiểu là:",
+      "options": {
+        "A": "Sao chép nguyên vẹn nội dung có sẵn và thay tên tác giả của tài liệu.",
+        "B": "Chỉnh sửa, kết hợp các nội dung sẵn có thành sản phẩm mới phục vụ công việc, có kiểm soát chất lượng và nguồn gốc.",
+        "C": "Lưu trữ tất cả tài liệu sưu tầm được vào một thư mục dùng chung.",
+        "D": "Chuyển toàn bộ văn bản giấy của đơn vị sang định dạng điện tử."
+      },
+      "explanation": "Tái sử dụng, kết hợp nội dung hợp pháp giúp tiết kiệm thời gian và nâng chất lượng sản phẩm, khác hoàn toàn với sao chép.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 15,
+      "level": "Cơ bản",
+      "order": 30,
+      "type": "KNOWLEDGE",
+      "text": "Khi chỉnh sửa ảnh minh họa cho tài liệu, báo cáo của cơ quan, yêu cầu cần bảo đảm là:",
+      "options": {
+        "A": "Chỉ cắt cúp, chỉnh sáng, chú thích để ảnh rõ ràng; không cắt ghép làm sai lệch nội dung.",
+        "B": "Dùng nhiều hiệu ứng màu sắc nổi bật để tăng tính thẩm mỹ cho tài liệu.",
+        "C": "Ghép thêm chi tiết cần thiết vào ảnh cho phù hợp nội dung muốn nêu.",
+        "D": "Chọn ảnh bất kỳ trên mạng miễn là có độ phân giải đủ cao để in ấn."
+      },
+      "explanation": "Ảnh trong tài liệu công vụ phải trung thực; chỉnh sửa chỉ nhằm tăng độ rõ ràng, không làm thay đổi bản chất thông tin.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 16,
+      "level": "Cơ bản",
+      "order": 31,
+      "type": "KNOWLEDGE",
+      "text": "Lợi thế chính của việc dùng các mẫu thiết kế sẵn (trên Canva, PowerPoint) đối với cán bộ không chuyên về mỹ thuật là:",
+      "options": {
+        "A": "Sản phẩm tạo ra được miễn trừ hoàn toàn các vấn đề về bản quyền.",
+        "B": "Không cần kiểm tra lại nội dung vì mẫu đã được thiết kế chuẩn sẵn.",
+        "C": "Tạo nhanh ấn phẩm có bố cục chuyên nghiệp mà không cần kỹ năng thiết kế chuyên sâu.",
+        "D": "Hệ thống tự động điền số liệu của cơ quan vào đúng vị trí trong mẫu."
+      },
+      "explanation": "Mẫu thiết kế sẵn giúp người không chuyên tạo sản phẩm đẹp, nhanh; nội dung và bản quyền vẫn phải tự kiểm soát.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 16,
+      "level": "Trung cấp",
+      "order": 32,
+      "type": "SITUATION",
+      "text": "Chị V dùng AI để gợi ý dàn ý và bản nháp một bài viết tuyên truyền chính sách. Cách sử dụng đúng là:",
+      "options": {
+        "A": "Đăng ngay bản nháp AI tạo ra vì văn phong đã khá trôi chảy, mạch lạc.",
+        "B": "Nhập kèm số liệu nội bộ chưa công bố để AI viết được chi tiết hơn.",
+        "C": "Chỉ dùng phần tiêu đề do AI gợi ý, còn lại tự viết toàn bộ nội dung.",
+        "D": "Coi sản phẩm AI là bản nháp; tự biên tập, kiểm chứng thông tin và chịu trách nhiệm nội dung cuối cùng."
+      },
+      "explanation": "AI là công cụ hỗ trợ; con người biên tập, kiểm chứng và chịu trách nhiệm cuối cùng, không nhập dữ liệu nội bộ vào công cụ công cộng.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 17,
+      "level": "Cơ bản",
+      "order": 33,
+      "type": "KNOWLEDGE",
+      "text": "Quyền tác giả đối với một tác phẩm bao gồm:",
+      "options": {
+        "A": "Quyền nhân thân và quyền tài sản theo quy định của pháp luật.",
+        "B": "Chỉ quyền được ghi tên trên tác phẩm khi công bố rộng rãi.",
+        "C": "Chỉ quyền thu tiền khi có tổ chức sử dụng tác phẩm đó.",
+        "D": "Quyền sở hữu vĩnh viễn mọi bản sao tồn tại của tác phẩm."
+      },
+      "explanation": "Quyền tác giả gồm quyền nhân thân (đứng tên, bảo vệ sự toàn vẹn tác phẩm) và quyền tài sản (khai thác, cho phép sử dụng).",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 17,
+      "level": "Trung cấp",
+      "order": 34,
+      "type": "SITUATION",
+      "text": "Đơn vị anh S chuẩn bị ấn phẩm truyền thông và cần hình ảnh minh họa. Cách làm đúng quy định về bản quyền là:",
+      "options": {
+        "A": "Tải ảnh đẹp bất kỳ trên mạng về dùng vì mục đích tuyên truyền phi lợi nhuận.",
+        "B": "Dùng ảnh từ kho miễn phí bản quyền hoặc ảnh được cấp phép, ghi nguồn theo yêu cầu của giấy phép.",
+        "C": "Chụp lại màn hình ảnh của báo chí rồi chỉnh sửa nhẹ để thành ảnh mới.",
+        "D": "Lấy ảnh của đơn vị khác đã đăng vì cùng trong hệ thống cơ quan nhà nước."
+      },
+      "explanation": "Mục đích phi lợi nhuận không đương nhiên miễn trừ bản quyền; cơ quan nhà nước càng phải gương mẫu dùng nguồn hợp pháp, ghi nguồn đúng.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 18,
+      "level": "Cơ bản",
+      "order": 35,
+      "type": "KNOWLEDGE",
+      "text": "\"Tư duy lập trình\" hữu ích với cán bộ, công chức ngay cả khi không viết mã, vì đó là cách:",
+      "options": {
+        "A": "Ghi nhớ được nhiều cú pháp của các ngôn ngữ lập trình phổ biến.",
+        "B": "Đánh giá được cấu hình và tốc độ xử lý của các thiết bị công nghệ.",
+        "C": "Sử dụng thành thạo mọi phần mềm chuyên dụng của cơ quan, đơn vị.",
+        "D": "Chia một việc lớn thành các bước nhỏ rõ ràng và xử lý theo logic \"nếu... thì...\"."
+      },
+      "explanation": "Tư duy lập trình là tư duy tổ chức công việc mạch lạc, tuần tự; đây cũng là nền tảng để mô tả yêu cầu chuẩn xác cho AI.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 18,
+      "level": "Cơ bản",
+      "order": 36,
+      "type": "KNOWLEDGE",
+      "text": "Xu hướng \"lập trình cùng AI\" cho phép người không chuyên tạo công cụ số bằng cách:",
+      "options": {
+        "A": "Mô tả rõ yêu cầu bằng ngôn ngữ tự nhiên để AI tạo chương trình, sau đó kiểm tra kỹ trước khi dùng.",
+        "B": "Sao chép các đoạn mã có sẵn trên mạng rồi ghép lại thành chương trình.",
+        "C": "Đăng ký một khóa đào tạo lập trình chuyên sâu kéo dài nhiều năm.",
+        "D": "Cài đặt càng nhiều phần mềm lập trình càng tốt lên máy làm việc."
+      },
+      "explanation": "Với sự hỗ trợ của AI, mô tả yêu cầu rõ ràng là kỹ năng then chốt; sản phẩm AI tạo ra vẫn phải được con người kiểm tra, chịu trách nhiệm.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 19,
+      "level": "Cơ bản",
+      "order": 37,
+      "type": "KNOWLEDGE",
+      "text": "Vì sao phải cập nhật hệ điều hành và phần mềm kịp thời?",
+      "options": {
+        "A": "Để giao diện của thiết bị luôn mới mẻ, hiện đại hơn phiên bản cũ.",
+        "B": "Để giải phóng bộ nhớ và tăng dung lượng lưu trữ cho thiết bị.",
+        "C": "Để vá các lỗ hổng bảo mật mà kẻ xấu có thể lợi dụng tấn công.",
+        "D": "Để dữ liệu tự động đồng bộ giữa các thiết bị của người dùng."
+      },
+      "explanation": "Bản cập nhật thường chứa các bản vá bảo mật; trì hoãn cập nhật là để ngỏ cánh cửa cho mã độc và tấn công mạng.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 19,
+      "level": "Trung cấp",
+      "order": 38,
+      "type": "SITUATION",
+      "text": "Máy tính của chị N đột nhiên chạy rất chậm, liên tục hiện cửa sổ lạ và tự gửi email đi. Việc cần làm ngay là:",
+      "options": {
+        "A": "Ngắt kết nối mạng, ngừng thao tác và báo ngay bộ phận kỹ thuật, an toàn thông tin.",
+        "B": "Tiếp tục làm việc cho xong nhiệm vụ gấp rồi xử lý sự cố vào cuối ngày.",
+        "C": "Tự tải một phần mềm diệt vi-rút miễn phí trên mạng về quét thử máy.",
+        "D": "Xóa bớt các tệp tin dung lượng lớn để máy tính chạy nhanh trở lại."
+      },
+      "explanation": "Đây là dấu hiệu nhiễm mã độc; ngắt mạng để ngăn lây lan, lộ lọt dữ liệu và báo ngay bộ phận chuyên trách xử lý.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 20,
+      "level": "Cơ bản",
+      "order": 39,
+      "type": "KNOWLEDGE",
+      "text": "Theo quy định về bảo vệ dữ liệu cá nhân, thông tin nào sau đây thuộc nhóm dữ liệu cá nhân?",
+      "options": {
+        "A": "Số văn bản đến, văn bản đi trong sổ theo dõi của văn thư cơ quan.",
+        "B": "Họ tên, ngày sinh, số định danh cá nhân, số điện thoại của một người.",
+        "C": "Số liệu thống kê tổng hợp đã được công bố trên cổng thông tin.",
+        "D": "Danh mục thủ tục hành chính niêm yết công khai tại bộ phận một cửa."
+      },
+      "explanation": "Dữ liệu cá nhân là thông tin gắn với một con người cụ thể, giúp xác định danh tính người đó, cần được bảo vệ theo quy định.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 20,
+      "level": "Trung cấp",
+      "order": 40,
+      "type": "SITUATION",
+      "text": "Anh G nhận được email thông báo \"trúng thưởng chương trình tri ân\", yêu cầu bấm vào liên kết và nhập mã OTP để nhận quà. Anh G nên:",
+      "options": {
+        "A": "Nhập thông tin ngay vì email có logo và tên của một ngân hàng lớn.",
+        "B": "Chuyển tiếp email cho đồng nghiệp để hỏi xem đã ai từng nhận thưởng.",
+        "C": "Bấm vào liên kết xem trước nội dung rồi mới quyết định có nhập hay không.",
+        "D": "Không bấm liên kết, không cung cấp OTP và xóa hoặc báo cáo email lừa đảo."
+      },
+      "explanation": "Mã OTP là lớp bảo vệ cuối cùng của tài khoản; tuyệt đối không cung cấp cho bất kỳ ai và không bấm vào liên kết lạ.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 21,
+      "level": "Cơ bản",
+      "order": 41,
+      "type": "KNOWLEDGE",
+      "text": "Để bảo vệ mắt và cơ thể khi làm việc nhiều giờ với máy tính, nên:",
+      "options": {
+        "A": "Ngồi đúng tư thế, đặt màn hình ngang tầm mắt và nghỉ ngắn, vận động định kỳ giữa giờ.",
+        "B": "Tăng độ sáng màn hình lên mức cao nhất để nhìn chữ rõ ràng hơn.",
+        "C": "Làm việc liên tục cho xong rồi nghỉ bù một lần dài vào cuối ngày.",
+        "D": "Ngồi gần màn hình hơn để giảm bớt việc mắt phải điều tiết nhiều."
+      },
+      "explanation": "Tư thế chuẩn, màn hình đúng tầm và nghỉ ngắn định kỳ giúp phòng mỏi mắt, đau cổ vai gáy khi làm việc văn phòng.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 22,
+      "level": "Cơ bản",
+      "order": 42,
+      "type": "KNOWLEDGE",
+      "text": "Thực hành \"sống số xanh\" nơi công sở thể hiện qua hành vi nào sau đây?",
+      "options": {
+        "A": "In sẵn tất cả tài liệu của các cuộc họp để chủ động khi cần dùng đến.",
+        "B": "Tắt thiết bị khi không sử dụng, hạn chế in ấn và dọn dẹp dữ liệu thừa định kỳ.",
+        "C": "Thay mới toàn bộ thiết bị cũ hằng năm để tiết kiệm điện năng tiêu thụ.",
+        "D": "Lưu mỗi tài liệu thành nhiều bản ở nhiều nơi khác nhau cho an toàn."
+      },
+      "explanation": "Sống số xanh là dùng công nghệ tiết kiệm, có trách nhiệm: giảm in ấn, tiết kiệm năng lượng, giảm rác thải dữ liệu và thiết bị.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 23,
+      "level": "Cơ bản",
+      "order": 43,
+      "type": "KNOWLEDGE",
+      "text": "Thứ tự hợp lý của quy trình xử lý một sự cố kỹ thuật cơ bản là:",
+      "options": {
+        "A": "Tìm hỗ trợ ngay, sau đó tự kiểm tra nguyên nhân và thử các giải pháp.",
+        "B": "Thử mọi giải pháp có thể trước, rồi mới xác định sự cố đang gặp là gì.",
+        "C": "Nhận diện sự cố, kiểm tra nguyên nhân đơn giản, thử giải pháp, đánh giá kết quả, tìm hỗ trợ nếu chưa được.",
+        "D": "Đánh giá thiệt hại trước tiên, sau đó khôi phục dữ liệu rồi tìm nguyên nhân."
+      },
+      "explanation": "Xử lý sự cố cần bình tĩnh, tuần tự từ đơn giản đến phức tạp; nhờ hỗ trợ khi đã thử các bước cơ bản mà chưa khắc phục được.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 23,
+      "level": "Trung cấp",
+      "order": 44,
+      "type": "SITUATION",
+      "text": "Còn 10 phút nữa đến cuộc họp trực tuyến do anh Y phụ trách kết nối thì mạng Internet của phòng bị mất. Cách xử lý phù hợp là:",
+      "options": {
+        "A": "Chờ mạng tự có trở lại vì sự cố thường chỉ diễn ra trong ít phút.",
+        "B": "Hủy cuộc họp và gửi thư điện tử xin lỗi toàn bộ các thành phần tham dự.",
+        "C": "Rời trụ sở đi tìm quán cà phê gần nhất có mạng Wi-Fi để kịp kết nối.",
+        "D": "Kiểm tra nhanh thiết bị phát mạng, chuyển sang phát 4G dự phòng và báo người chủ trì nếu có nguy cơ chậm trễ."
+      },
+      "explanation": "Xử lý sự cố kết nối cần kiểm tra nhanh nguyên nhân, dùng phương án dự phòng và thông tin kịp thời để cuộc họp không bị gián đoạn.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 24,
+      "level": "Cơ bản",
+      "order": 45,
+      "type": "KNOWLEDGE",
+      "text": "Vì sao phải xác định rõ nhu cầu trước khi đề xuất mua sắm, triển khai một giải pháp công nghệ?",
+      "options": {
+        "A": "Để bảo đảm giải pháp giải quyết đúng điểm nghẽn thực tế, tránh đầu tư lãng phí, không sát nhu cầu.",
+        "B": "Để lựa chọn được giải pháp có công nghệ mới nhất trên thị trường.",
+        "C": "Để rút ngắn tối đa thời gian thực hiện các thủ tục mua sắm.",
+        "D": "Để bảo đảm giải pháp được chọn có mức giá thấp nhất có thể."
+      },
+      "explanation": "Xác định đúng vấn đề là bước đầu tiên; công nghệ chỉ hiệu quả khi giải quyết đúng nhu cầu thực tế của đơn vị.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 24,
+      "level": "Cơ bản",
+      "order": 46,
+      "type": "KNOWLEDGE",
+      "text": "Mục tiêu được thiết lập theo nguyên tắc SMART là mục tiêu:",
+      "options": {
+        "A": "Có tầm nhìn dài hạn và thể hiện quyết tâm cao nhất của đơn vị.",
+        "B": "Cụ thể, đo lường được, khả thi, phù hợp thực tiễn và có thời hạn rõ ràng.",
+        "C": "Được nhiều thành viên trong đơn vị đồng thuận và cùng cam kết.",
+        "D": "Linh hoạt, có thể thay đổi bất kỳ lúc nào theo diễn biến tình hình."
+      },
+      "explanation": "SMART gồm: cụ thể, đo lường được, khả thi, phù hợp và có thời hạn - căn cứ để lựa chọn giải pháp và đánh giá hiệu quả.",
+      "correctLabel": "B",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 25,
+      "level": "Cơ bản",
+      "order": 47,
+      "type": "KNOWLEDGE",
+      "text": "Sử dụng sáng tạo công nghệ số trong cơ quan nhà nước được hiểu là:",
+      "options": {
+        "A": "Áp dụng công nghệ mới nhất vào tất cả các khâu công việc của đơn vị.",
+        "B": "Chờ có phần mềm chuyên dụng được cấp rồi mới cải tiến cách làm việc.",
+        "C": "Vận dụng linh hoạt công cụ số phù hợp để cải tiến quy trình, nâng cao hiệu quả công việc.",
+        "D": "Thay thế hoàn toàn con người bằng máy móc trong xử lý công việc."
+      },
+      "explanation": "Sáng tạo số là chọn đúng công cụ, cải tiến đúng khâu để công việc hiệu quả hơn, không phải chạy theo công nghệ mới nhất.",
+      "correctLabel": "C",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 25,
+      "level": "Cơ bản",
+      "order": 48,
+      "type": "KNOWLEDGE",
+      "text": "Để truyền thông chính sách hấp dẫn hơn bằng công nghệ số, cách làm phù hợp là:",
+      "options": {
+        "A": "Đăng nguyên văn toàn bộ văn bản chính sách lên trang mạng xã hội.",
+        "B": "Chỉ truyền thông qua hình thức hội nghị trực tiếp như truyền thống.",
+        "C": "Rút gọn tối đa nội dung, chỉ giữ lại tiêu đề để người xem dễ nhớ.",
+        "D": "Chuyển hóa nội dung thành infographic, video ngắn dễ hiểu, bảo đảm chính xác và đúng quy định."
+      },
+      "explanation": "Nội dung trực quan, ngắn gọn giúp chính sách dễ tiếp cận; yêu cầu tiên quyết vẫn là chính xác và đúng quy định.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 26,
+      "level": "Cơ bản",
+      "order": 49,
+      "type": "KNOWLEDGE",
+      "text": "Việc tự đánh giá năng lực số của bản thân nhằm mục đích:",
+      "options": {
+        "A": "Xác định khoảng cách so với yêu cầu vị trí việc làm để có kế hoạch học tập, bồi dưỡng phù hợp.",
+        "B": "So sánh, xếp hạng trình độ công nghệ giữa các cá nhân trong đơn vị.",
+        "C": "Hoàn thiện hồ sơ cán bộ theo yêu cầu của bộ phận tổ chức nhân sự.",
+        "D": "Chứng minh mức độ hoàn thành nhiệm vụ trong kỳ đánh giá cuối năm."
+      },
+      "explanation": "Tự đánh giá giúp mỗi người nhận diện điểm mạnh, điểm thiếu hụt để học đúng thứ mình cần cho vị trí công việc.",
+      "correctLabel": "A",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    },
+    {
+      "topicId": 26,
+      "level": "Cơ bản",
+      "order": 50,
+      "type": "KNOWLEDGE",
+      "text": "Sau khi hoàn thành chương trình \"Bình dân học vụ số\", cách duy trì và phát triển năng lực số đúng tinh thần học tập suốt đời là:",
+      "options": {
+        "A": "Lưu giữ cẩn thận chứng nhận hoàn thành để phục vụ việc đánh giá.",
+        "B": "Tập trung hoàn toàn vào chuyên môn vì đã nắm đủ kỹ năng số cần thiết.",
+        "C": "Chờ chương trình bồi dưỡng bắt buộc tiếp theo do cơ quan tổ chức.",
+        "D": "Thường xuyên áp dụng vào công việc, cập nhật kiến thức mới và chia sẻ, hỗ trợ đồng nghiệp."
+      },
+      "explanation": "Năng lực số chỉ bền vững khi được sử dụng thường xuyên, cập nhật liên tục và lan tỏa trong tập thể.",
+      "correctLabel": "D",
+      "isTrueFalse": false,
+      "source": "explicit-letter"
+    }
+  ]
+}

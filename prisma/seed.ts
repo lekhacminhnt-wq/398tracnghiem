@@ -57,7 +57,7 @@ async function main() {
   await prisma.option.deleteMany({});
   await prisma.question.deleteMany({});
 
-  const readyTopics = [1, 2, 3, 4, 5, 6, 7];
+  const readyTopics = Array.from({ length: 26 }, (_, i) => i + 1);
   let qCount = 0;
   for (const topicId of readyTopics) {
     const file = path.join(DATA_DIR, "questions", `chuyen-de-${String(topicId).padStart(2, "0")}.json`);
@@ -94,19 +94,19 @@ async function main() {
   }
   console.log(`Seeded ${qCount} lesson questions.`);
 
-  // Demo/trial final exam pool
-  const demo = JSON.parse(
-    fs.readFileSync(path.join(DATA_DIR, "questions", "demo-exam.json"), "utf8")
+  // Đề sát hạch chính thức (Phần II, Phụ lục 3 — 50 câu)
+  const official = JSON.parse(
+    fs.readFileSync(path.join(DATA_DIR, "questions", "official-exam.json"), "utf8")
   ) as { examSetId: string; questions: RawQuestion[] };
 
-  await prisma.option.deleteMany({ where: { question: { examSetId: "demo" } } });
-  await prisma.question.deleteMany({ where: { examSetId: "demo" } });
+  await prisma.option.deleteMany({ where: { question: { examSetId: official.examSetId } } });
+  await prisma.question.deleteMany({ where: { examSetId: official.examSetId } });
 
   let idx = 1;
-  for (const q of demo.questions) {
+  for (const q of official.questions) {
     const question = await prisma.question.create({
       data: {
-        examSetId: "demo",
+        examSetId: official.examSetId,
         order: idx++,
         type: q.type,
         text: q.text,
@@ -122,7 +122,7 @@ async function main() {
       });
     }
   }
-  console.log(`Seeded ${demo.questions.length} demo-exam questions.`);
+  console.log(`Seeded ${official.questions.length} official-exam questions.`);
 }
 
 main()

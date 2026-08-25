@@ -1,0 +1,410 @@
+{
+  "topicId": 20,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Dữ liệu cá nhân: tài sản số quý giá cần bảo vệ",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo quy định mới, dữ liệu cá nhân được phân thành những nhóm nào?",
+          "options": {
+            "A": "Dữ liệu công khai và dữ liệu bí mật.",
+            "B": "Dữ liệu cá nhân cơ bản và dữ liệu cá nhân nhạy cảm.",
+            "C": "Dữ liệu trên giấy và dữ liệu điện tử.",
+            "D": "Dữ liệu cá nhân và dữ liệu cơ quan."
+          },
+          "explanation": "Pháp luật phân dữ liệu cá nhân thành hai nhóm: dữ liệu cá nhân cơ bản (họ tên, số định danh, địa chỉ...) và dữ liệu cá nhân nhạy cảm (sức khỏe, tài chính, sinh trắc học...), trong đó nhóm nhạy cảm được bảo vệ nghiêm ngặt hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu được xem là dữ liệu cá nhân nhạy cảm?",
+          "options": {
+            "A": "Họ tên và năm sinh ghi trên danh thiếp.",
+            "B": "Địa chỉ cơ quan đăng công khai trên cổng thông tin.",
+            "C": "Thông tin sức khỏe, dữ liệu tài chính - ngân hàng, dữ liệu sinh trắc học (vân tay, khuôn mặt).",
+            "D": "Chức danh công việc in trên bảng tên."
+          },
+          "explanation": "Dữ liệu nhạy cảm là nhóm gắn với quyền riêng tư mà nếu lộ sẽ ảnh hưởng trực tiếp đến quyền lợi của cá nhân, như sức khỏe, tài chính - ngân hàng, sinh trắc học; các thông tin còn lại là dữ liệu cơ bản hoặc đã công khai.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Theo Luật Bảo vệ dữ liệu cá nhân, chủ thể dữ liệu (mỗi công dân) có những quyền nào với thông tin của mình?",
+          "options": {
+            "A": "Chỉ có quyền cung cấp thông tin khi được cơ quan yêu cầu.",
+            "B": "Quyền được biết, đồng ý hoặc từ chối, rút lại sự đồng ý, truy cập, chỉnh sửa và yêu cầu xóa dữ liệu.",
+            "C": "Không có quyền gì, vì dữ liệu do bên thu thập toàn quyền quyết định.",
+            "D": "Chỉ có quyền khiếu nại sau khi đã bị lộ thông tin."
+          },
+          "explanation": "Luật trao cho chủ thể dữ liệu nhiều quyền: được biết, đồng ý/từ chối, rút lại sự đồng ý, truy cập, chỉnh sửa, xóa dữ liệu, phản đối xử lý và yêu cầu bồi thường khi bị xâm phạm; đây là bước chuyển để quyền riêng tư trở thành “quyền năng số” của công dân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Trong công việc, Anh/Chị được giao xử lý hồ sơ chứa thông tin cá nhân của người dân. Cách ứng xử đúng nhất là gì?",
+          "options": {
+            "A": "Sao chép hồ sơ về máy cá nhân để tiện làm thêm ở nhà.",
+            "B": "Chia sẻ một phần lên nhóm chat chung cho đồng nghiệp cùng xem nhanh.",
+            "C": "Chỉ sử dụng trong phạm vi được phép, đúng mục đích và thẩm quyền; không tự ý sao chép, chia sẻ ra ngoài.",
+            "D": "Đăng thông tin tổng hợp lên mạng xã hội để minh bạch với người dân."
+          },
+          "explanation": "Dữ liệu cá nhân của người dân phải được xử lý đúng mục đích, đúng thẩm quyền và trong phạm vi được phép; tự ý sao chép, chia sẻ hay đăng công khai đều có thể làm lộ lọt và vi phạm pháp luật về bảo vệ dữ liệu cá nhân.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một người quen nhờ Anh/Chị cho số điện thoại của một đồng nghiệp khác để “tiện liên hệ công việc”. Theo tinh thần của Luật Bảo vệ dữ liệu cá nhân, cách xử lý phù hợp là gì?",
+          "options": {
+            "A": "Cho ngay số điện thoại vì chỉ là chuyện nhỏ, lại để liên hệ công việc.",
+            "B": "Hỏi ý kiến đồng nghiệp đó trước; chỉ cung cấp khi được người đó đồng ý, hoặc hướng dẫn người quen liên hệ qua kênh chính thức.",
+            "C": "Cho số nhưng dặn đừng nói là mình cung cấp.",
+            "D": "Cho cả số điện thoại và email cho đầy đủ, tiện trao đổi."
+          },
+          "explanation": "Từ khi Luật có hiệu lực, cung cấp thông tin cá nhân của người khác khi chưa được họ đồng ý - kể cả việc “cho số giúp” - có thể là vi phạm; cách đúng là hỏi ý kiến chủ thể dữ liệu trước hoặc hướng dẫn liên hệ qua kênh chính thức.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Đừng để lộ đời tư trên mạng: sử dụng Internet an toàn",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Dấu chân số” (còn gọi là dấu chân điện tử, dấu vết mạng - digital footprint) được hiểu là gì?",
+          "options": {
+            "A": "Mật khẩu đăng nhập các tài khoản trực tuyến của một người.",
+            "B": "Toàn bộ dấu vết dữ liệu mà một người tạo ra trong quá trình sử dụng Internet: bài đăng, bình luận, hình ảnh, vị trí, lịch sử tìm kiếm, thông tin khai báo.",
+            "C": "Số lần một người truy cập Internet trong ngày.",
+            "D": "Dấu vân tay dùng để mở khóa điện thoại."
+          },
+          "explanation": "Dấu chân số là tất cả dấu vết dữ liệu ta để lại khi hoạt động trên mạng (theo Wikipedia, vốn là thuật ngữ marketing); đặc điểm quan trọng là một khi đã đăng, thông tin rất khó thu hồi hoàn toàn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao đăng công khai tấm vé máy bay (boarding pass) lên mạng xã hội lại tiềm ẩn rủi ro?",
+          "options": {
+            "A": "Vì làm lộ sở thích du lịch của bản thân.",
+            "B": "Vì mã QR/mã vạch trên vé có thể chứa thông tin cá nhân, hành trình, mã đặt chỗ; đồng thời để lộ thời gian vắng nhà.",
+            "C": "Vì ảnh vé máy bay làm tốn dung lượng lưu trữ.",
+            "D": "Vì vi phạm quy định của hãng hàng không."
+          },
+          "explanation": "Theo cảnh báo của cơ quan an ninh mạng, mã QR trên vé lưu nhiều dữ liệu (họ tên, hành trình, mã đặt chỗ), kẻ gian có thể khai thác; việc công khai lịch trình còn để lộ thời điểm nhà không có người.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nên bật tính năng xét duyệt nội dung gắn thẻ (tag review) trên mạng xã hội?",
+          "options": {
+            "A": "Để tăng số lượng bạn bè và lượt theo dõi.",
+            "B": "Để khi người khác gắn thẻ mình vào một bài đăng, bài đó phải được mình đồng ý mới hiển thị trên trang cá nhân, tránh bị lợi dụng gây hiểu lầm.",
+            "C": "Để bài viết của mình được nhiều người thấy hơn.",
+            "D": "Để xóa nhanh các bình luận tiêu cực."
+          },
+          "explanation": "Nếu không bật xét duyệt, một bài đăng có nội dung không hay do người khác gắn thẻ Anh/Chị sẽ tự động hiển thị trên trang cá nhân như thể do mình đăng, dễ gây hiểu lầm và ảnh hưởng hình ảnh; bật xét duyệt giúp kiểm soát điều này.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị muốn đăng một bức ảnh chụp chung trong cuộc họp, nhưng trong ảnh có cả đồng nghiệp và một vài tài liệu trên bàn. Cách làm phù hợp nhất là gì?",
+          "options": {
+            "A": "Đăng ngay vì là ảnh kỷ niệm bình thường.",
+            "B": "Cân nhắc hỏi ý kiến những người trong ảnh; che hoặc loại bỏ phần tài liệu nhạy cảm trước khi đăng; giới hạn người xem.",
+            "C": "Đăng công khai để nhiều người cùng thấy hoạt động của cơ quan.",
+            "D": "Đăng rồi gắn thẻ tất cả mọi người cho vui."
+          },
+          "explanation": "Cần tôn trọng dữ liệu của người khác (hỏi ý kiến trước khi đăng ảnh có họ) và bảo vệ thông tin nội bộ (che/loại bỏ tài liệu nhạy cảm); tự ý đăng có thể làm lộ thông tin và vi phạm quy định.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp khoe vừa đăng ảnh căn cước công dân lên Facebook để “kỷ niệm làm căn cước mới”. Anh/Chị nên khuyên thế nào?",
+          "options": {
+            "A": "Khen vì đã chia sẻ khoảnh khắc đáng nhớ.",
+            "B": "Khuyên gỡ ngay bài đăng, vì ảnh căn cước có thể bị kẻ gian lợi dụng làm giả giấy tờ, đăng ký vay tiền dưới tên mình.",
+            "C": "Không nói gì vì đó là quyền cá nhân của họ.",
+            "D": "Khuyên để chế độ công khai cho nhiều người chúc mừng."
+          },
+          "explanation": "Cơ quan công an đã cảnh báo trào lưu khoe ảnh giấy tờ tùy thân; ảnh căn cước bị lộ có thể bị dùng để làm giả giấy tờ, mở tài khoản, vay tiền dưới danh nghĩa nạn nhân, nên cần gỡ bỏ ngay.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Khóa chặt dữ liệu: an toàn từ ứng dụng đến thiết bị",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Quyền truy cập của ứng dụng” là gì?",
+          "options": {
+            "A": "Quyền của người dùng được tải ứng dụng về máy.",
+            "B": "Việc ứng dụng xin phép sử dụng một số chức năng và dữ liệu trên thiết bị, như danh bạ, vị trí, máy ảnh, micro.",
+            "C": "Mật khẩu để mở một ứng dụng.",
+            "D": "Phí phải trả để dùng ứng dụng."
+          },
+          "explanation": "Quyền truy cập là việc ứng dụng xin phép dùng các chức năng, dữ liệu trên máy; cần cấp ở mức tối thiểu, đúng với chức năng của ứng dụng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc đúng khi cấp quyền cho một ứng dụng là gì?",
+          "options": {
+            "A": "Cấp tất cả quyền để ứng dụng chạy mượt mà.",
+            "B": "Chỉ cấp những quyền thực sự cần thiết, đúng với chức năng của ứng dụng; từ chối quyền không liên quan.",
+            "C": "Cấp quyền nào cũng được, vì ứng dụng đã có trên kho thì đều an toàn.",
+            "D": "Luôn từ chối mọi quyền để bảo đảm an toàn tuyệt đối."
+          },
+          "explanation": "Nguyên tắc là cấp quyền tối thiểu cần thiết; cấp dư thừa khiến dữ liệu có thể bị thu thập, còn từ chối toàn bộ thì ứng dụng có thể không dùng được đúng chức năng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi thanh lý, cho tặng một điện thoại hoặc máy tính cũ, cần làm gì để bảo vệ dữ liệu?",
+          "options": {
+            "A": "Chỉ cần xóa vài tập tin quan trọng rồi giao máy.",
+            "B": "Sao lưu dữ liệu cần giữ, sau đó khôi phục cài đặt gốc hoặc ghi đè dữ liệu để không thể khôi phục.",
+            "C": "Tháo pin ra là dữ liệu sẽ tự mất.",
+            "D": "Đổi mật khẩu khóa màn hình rồi giao máy là đủ."
+          },
+          "explanation": "Xóa qua loa vài tập tin thì người khác vẫn có thể khôi phục; cần khôi phục cài đặt gốc hoặc ghi đè dữ liệu an toàn sau khi đã sao lưu thứ cần giữ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần bỏ đi một xấp tài liệu cũ của cơ quan, trong đó có vài tờ chứa thông tin cá nhân của người dân. Cách xử lý đúng nhất là gì?",
+          "options": {
+            "A": "Bỏ nguyên cả xấp vào thùng rác văn phòng cho gọn.",
+            "B": "Bán cho hàng thu mua giấy vụn để tái chế.",
+            "C": "Tiêu hủy đúng quy định và đúng thẩm quyền của cơ quan (cắt nhỏ, máy hủy tài liệu) sao cho không thể phục hồi nội dung.",
+            "D": "Mang về nhà tự xử lý cho tiện."
+          },
+          "explanation": "Tài liệu của cơ quan chứa thông tin của người dân phải được tiêu hủy đúng quy trình, đúng thẩm quyền, bảo đảm không thể phục hồi nội dung; bỏ nguyên tờ, bán giấy vụn hay tự mang về nhà đều có thể làm lộ thông tin và vi phạm quy định về lưu trữ, bảo vệ bí mật.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một ứng dụng quét tài liệu Anh/Chị mới cài xin quyền truy cập danh bạ và micro, dù chức năng chỉ là quét văn bản. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Cấp hết quyền cho ứng dụng chạy đầy đủ tính năng.",
+            "B": "Từ chối các quyền không liên quan; nếu ứng dụng vẫn bắt buộc đòi mới cho dùng, nên cân nhắc gỡ bỏ và chọn ứng dụng khác từ nguồn tin cậy.",
+            "C": "Cấp quyền tạm, dùng xong rồi tính sau.",
+            "D": "Cấp quyền vì ứng dụng nào cũng cần như vậy."
+          },
+          "explanation": "Quét tài liệu không cần danh bạ hay micro; nên từ chối quyền thừa, và nếu ứng dụng bắt buộc đòi quyền vô lý thì nên thay bằng ứng dụng khác từ nguồn chính thức, để tránh bị thu thập dữ liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Quà tặng ảo, họa thật: nhận diện lừa đảo qua mạng",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao lừa đảo qua mạng vẫn thành công dù nhiều người nghĩ “mình sẽ không mắc”?",
+          "options": {
+            "A": "Vì kẻ gian luôn dùng công nghệ quá cao siêu không ai chống được.",
+            "B": "Vì kẻ gian tấn công vào tâm lý con người - khai thác lòng tham, nỗi sợ và sự cả tin.",
+            "C": "Vì các phần mềm bảo mật đều vô tác dụng.",
+            "D": "Vì pháp luật không xử lý hành vi lừa đảo."
+          },
+          "explanation": "Lừa đảo qua mạng thành công chủ yếu nhờ đánh vào tâm lý: lòng tham (quà tặng, lợi nhuận), nỗi sợ (bị khóa tài khoản, liên quan pháp luật), sự cả tin (đối phương xưng danh cơ quan uy tín); hiểu điều này giúp ta cảnh giác đúng lúc và giải thích được cho người dân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi tuyên truyền cho người dân, cần giải thích vì sao tuyệt đối không cung cấp mã OTP cho người khác?",
+          "options": {
+            "A": "Vì OTP là thông tin không quan trọng, chỉ cần giữ mật khẩu là đủ.",
+            "B": "Vì mã OTP dùng để xác nhận giao dịch (nhất là chuyển tiền đi), không bao giờ dùng để nhận tiền hay nhận quà; cung cấp OTP là tạo điều kiện cho kẻ gian chiếm đoạt.",
+            "C": "Vì OTP chỉ dùng được một lần nên cho ai cũng không sao.",
+            "D": "Vì ngân hàng yêu cầu phải chia sẻ OTP khi có giao dịch."
+          },
+          "explanation": "OTP là mã xác nhận giao dịch, đặc biệt là giao dịch chuyển tiền đi - không dùng để nhận tiền; bất kỳ ai hỏi OTP để “nhận thưởng” hay “xác minh” đều là dấu hiệu lừa đảo. Đây là điểm cốt lõi cần giải thích rõ để người dân nhớ lâu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là điểm chung của hầu hết các chiêu trò lừa đảo qua mạng?",
+          "options": {
+            "A": "Luôn gửi kèm một món quà thật để tạo lòng tin.",
+            "B": "Tạo ra một lý do gấp gáp hoặc hấp dẫn, rồi hướng tới mục đích lấy thông tin cá nhân, mã xác thực hoặc khiến nạn nhân chuyển tiền.",
+            "C": "Chỉ nhắm vào người làm trong cơ quan nhà nước.",
+            "D": "Luôn dùng số điện thoại quốc tế để liên hệ."
+          },
+          "explanation": "Dù đa dạng, các chiêu trò đều tạo ra sự gấp gáp hoặc hấp dẫn để thao túng tâm lý, rồi hướng tới một trong ba mục đích: lấy thông tin cá nhân, lấy mã xác thực, hoặc khiến nạn nhân chuyển tiền; nhận ra “công thức” này giúp cảnh báo người dân kịp thời.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Một người dân đến cơ quan, lo lắng kể vừa nhận cuộc gọi xưng là “công an”, thông báo họ liên quan một vụ án và yêu cầu chuyển tiền vào một tài khoản để “chứng minh trong sạch”. Anh/Chị nên hướng dẫn thế nào?",
+          "options": {
+            "A": "Khuyên họ cứ chuyển tiền trước cho yên chuyện rồi tính sau.",
+            "B": "Trấn an người dân bình tĩnh, khẳng định cơ quan nhà nước không làm việc và yêu cầu chuyển tiền theo cách này; hướng dẫn không cung cấp thông tin, không chuyển tiền và đến công an nơi gần nhất để trình báo.",
+            "C": "Bảo họ tự tìm hiểu trên mạng xem có đúng không.",
+            "D": "Khuyên họ giữ liên lạc với người gọi để “hợp tác điều tra”."
+          },
+          "explanation": "Mạo danh công an là chiêu trò phổ biến nhất; cơ quan nhà nước không bao giờ yêu cầu chuyển tiền vào tài khoản cá nhân để chứng minh trong sạch. Cán bộ cần trấn an, hướng dẫn người dân không làm theo và trình báo công an địa phương để được hỗ trợ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Người thân lớn tuổi của Anh/Chị khoe vừa nhận được tin nhắn “khảo sát tri ân, điền thông tin nhận quà 500.000 đồng” và định làm theo. Cách ứng xử phù hợp nhất là gì?",
+          "options": {
+            "A": "Để mặc vì đó là việc riêng của người thân.",
+            "B": "Nhẹ nhàng giải thích đây thường là chiêu thu thập dữ liệu cá nhân để lừa đảo, khuyên không điền thông tin, không bấm link; nhân đó hướng dẫn luôn ba nguyên tắc vàng để phòng tránh.",
+            "C": "Khuyên điền thông tin giả cho an toàn rồi vẫn nhận quà.",
+            "D": "Bảo người thân chuyển tin nhắn cho cả nhà cùng tham gia."
+          },
+          "explanation": "Khảo sát, trúng thưởng không rõ nguồn gốc thường nhằm thu thập dữ liệu cá nhân; nên nhẹ nhàng giải thích, khuyên không tham gia và tranh thủ hướng dẫn người thân ba nguyên tắc vàng - đúng tinh thần mỗi cán bộ là một người lan tỏa nhận thức cho cộng đồng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Bảo mật dữ liệu công vụ: từ quy định đến trí tuệ nhân tạo",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Dữ liệu công vụ ở mức “nội bộ” (như văn bản hành chính, dự thảo chưa công bố) nên được trao đổi bằng phương thức nào?",
+          "options": {
+            "A": "Qua mạng xã hội hoặc email cá nhân cho tiện.",
+            "B": "Chỉ qua email công vụ và hệ thống quản lý văn bản nội bộ của cơ quan.",
+            "C": "Qua bất kỳ dịch vụ đám mây công cộng nào.",
+            "D": "Đăng lên cổng thông tin công khai để mọi người cùng xem."
+          },
+          "explanation": "Dữ liệu mức nội bộ bắt buộc chỉ trao đổi qua email công vụ và hệ thống quản lý văn bản nội bộ; dùng email cá nhân, mạng xã hội hay đám mây công cộng đều làm tăng nguy cơ lộ lọt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi cần gửi một tệp tài liệu nhạy cảm qua email, cách làm nào sau đây an toàn nhất?",
+          "options": {
+            "A": "Đính kèm tệp và ghi luôn mật khẩu trong cùng email cho tiện.",
+            "B": "Mã hóa hoặc đặt mật khẩu cho tệp, rồi gửi mật khẩu qua một đường khác (ví dụ gọi điện), tách khỏi email chứa tệp.",
+            "C": "Gửi thẳng qua ứng dụng chat cá nhân cho nhanh.",
+            "D": "Nén tệp lại là đủ, không cần mật khẩu."
+          },
+          "explanation": "Đặt mật khẩu cho tệp và gửi mật khẩu qua một đường khác giúp bảo vệ tài liệu ngay cả khi email bị lộ; ghi mật khẩu chung trong email hay gửi qua chat cá nhân đều làm mất tác dụng bảo vệ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao không nên đưa tài liệu nội bộ chưa công bố vào công cụ AI công cộng?",
+          "options": {
+            "A": "Vì AI sẽ tự động từ chối các tài liệu nội bộ.",
+            "B": "Vì dữ liệu nhập vào có thể được lưu trên máy chủ bên ngoài, thậm chí dùng để huấn luyện mô hình; một khi đã đưa lên thì không còn kiểm soát được.",
+            "C": "Vì AI xử lý tài liệu nội bộ rất chậm.",
+            "D": "Vì làm như vậy sẽ tốn phí dịch vụ AI."
+          },
+          "explanation": "Dữ liệu đưa vào AI công cộng có thể bị lưu lại trên hệ thống bên ngoài và dùng để huấn luyện mô hình, tiềm ẩn nguy cơ rò rỉ; vì vậy tuyệt đối không đưa dữ liệu mật, nội bộ, thông tin công dân vào các công cụ này.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị muốn dùng một chatbot AI công cộng để tóm tắt nhanh một báo cáo nội bộ có đóng dấu “Mật”. Cách xử lý đúng là gì?",
+          "options": {
+            "A": "Cứ dán toàn bộ vào AI cho nhanh, xong rồi xóa lịch sử trò chuyện.",
+            "B": "Dán một nửa nội dung thôi để giảm rủi ro.",
+            "C": "Không đưa tài liệu mật vào công cụ AI công cộng; nếu cần hỗ trợ, dùng công cụ nội bộ được cơ quan cho phép, hoặc xử lý thủ công theo quy định.",
+            "D": "Nhờ đồng nghiệp dùng tài khoản AI cá nhân của họ để làm hộ."
+          },
+          "explanation": "Tài liệu mật tuyệt đối không được đưa vào AI công cộng, kể cả khi xóa lịch sử hay chỉ dán một phần; nếu cần hỗ trợ phải dùng công cụ nội bộ được phép hoặc xử lý theo đúng quy trình bảo mật.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần nhờ AI hỗ trợ chỉnh sửa cách diễn đạt cho một văn bản trả lời người dân, trong đó có tên và địa chỉ của công dân. Nên làm thế nào cho an toàn?",
+          "options": {
+            "A": "Nhập nguyên văn cả tên, địa chỉ công dân để AI hiểu đúng ngữ cảnh.",
+            "B": "Ẩn danh trước khi nhập - thay tên, địa chỉ thật bằng ký hiệu chung như “Ông A”, “địa chỉ X”; chỉ nhờ AI hỗ trợ về cách diễn đạt, rồi kiểm chứng lại.",
+            "C": "Nhập đầy đủ thông tin rồi bật chế độ ẩn danh của AI là đủ.",
+            "D": "Gửi cả văn bản cho AI và dùng tính năng chia sẻ liên kết cho nhanh."
+          },
+          "explanation": "Cần ẩn danh dữ liệu công dân trước khi nhập (thay thông tin nhận dạng bằng ký hiệu chung), chỉ nhờ AI hỗ trợ phần diễn đạt và luôn kiểm chứng lại; như vậy vừa tận dụng được AI, vừa bảo vệ thông tin của người dân theo đúng quy định.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

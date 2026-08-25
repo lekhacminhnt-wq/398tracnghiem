@@ -1,6 +1,6 @@
 import { prisma } from "./db";
 
-export const EXAM_SET_ID = "demo"; // đổi thành "official" khi có đủ 50 câu Phần II chính thức
+export const EXAM_SET_ID = "official";
 export const EXAM_DURATION_MINUTES = 90;
 export const EXAM_PASS_RATIO = 0.7;
 

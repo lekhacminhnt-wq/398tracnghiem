@@ -53,7 +53,7 @@
             "C": "Chỉ cần đổi tên mạng là đủ an toàn.",
             "D": "Bật chế độ ẩn mạng là không cần mật khẩu nữa."
           },
-          "explanation": "WPA2/WPA3 là chuẩn mã hóa phổ biến giúp bảo vệ đường truyền; mật khẩu mặc định của nhà sản xuất rất dễ bị dò. Phần tình huống công vụ",
+          "explanation": "WPA2/WPA3 là chuẩn mã hóa phổ biến giúp bảo vệ đường truyền; mật khẩu mặc định của nhà sản xuất rất dễ bị dò.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -154,7 +154,7 @@
             "C": "Tự động xử lý toàn bộ hồ sơ thay cho cán bộ mà không cần kiểm tra.",
             "D": "Thay thế hoàn toàn vai trò phán đoán của con người."
           },
-          "explanation": "Trợ lý giọng nói giúp thao tác rảnh tay (đặt lịch, nhắn tin, gọi điện); nó là công cụ hỗ trợ, không thay con người chịu trách nhiệm. Phần tình huống công vụ",
+          "explanation": "Trợ lý giọng nói giúp thao tác rảnh tay (đặt lịch, nhắn tin, gọi điện); nó là công cụ hỗ trợ, không thay con người chịu trách nhiệm.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "manually-verified",
@@ -251,7 +251,7 @@
             "C": "Ctrl + P.",
             "D": "Windows + L."
           },
-          "explanation": "Alt + Tab giúp chuyển nhanh giữa các cửa sổ; rất hữu ích khi mở nhiều tài liệu cùng lúc. Phần tình huống công vụ",
+          "explanation": "Alt + Tab giúp chuyển nhanh giữa các cửa sổ; rất hữu ích khi mở nhiều tài liệu cùng lúc.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -352,7 +352,7 @@
             "C": "Bàn phím không dây.",
             "D": "Loa di động (loa Bluetooth)."
           },
-          "explanation": "Máy in kiểu cũ dùng cáp nối có dây; tai nghe, bàn phím không dây và loa di động đều dùng Bluetooth. Phần tình huống công vụ",
+          "explanation": "Máy in kiểu cũ dùng cáp nối có dây; tai nghe, bàn phím không dây và loa di động đều dùng Bluetooth.",
           "correctLabel": "A",
           "isTrueFalse": false,
           "source": "manually-verified",
@@ -415,7 +415,7 @@
             "C": "2026-06-11\\_SoNoiVu\\_TaiLieuDaoTaoAI\\_v1.0.docx",
             "D": "final-final-moi.docx"
           },
-          "explanation": "Tài liệu làm việc nên đặt theo cấu trúc: ngày tháng \\_ mã cơ quan/dự án \\_ nội dung tóm tắt \\_ phiên bản; tên chung chung như “Tài liệu mới 1” rất khó tìm lại.",
+          "explanation": "Tài liệu làm việc nên đặt theo cấu trúc: ngày tháng _ mã cơ quan/dự án _ nội dung tóm tắt _ phiên bản; tên chung chung như “Tài liệu mới 1” rất khó tìm lại.",
           "correctLabel": "C",
           "isTrueFalse": false,
           "source": "bold-verified"
@@ -430,7 +430,7 @@
             "C": "Chỉ cần ghi ngày tải về máy là đủ.",
             "D": "Đặt tên càng dài, liệt kê càng nhiều thông tin càng tốt."
           },
-          "explanation": "Văn bản đã ban hành nên đặt theo: loại văn bản \\_ số và ký hiệu \\_ ngày ban hành \\_ trích yếu, giúp tra cứu lại văn bản chính thức nhanh và chính xác.",
+          "explanation": "Văn bản đã ban hành nên đặt theo: loại văn bản _ số và ký hiệu _ ngày ban hành _ trích yếu, giúp tra cứu lại văn bản chính thức nhanh và chính xác.",
           "correctLabel": "A",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -449,7 +449,7 @@
             "C": "3 thư mục, 2 ổ đĩa, 1 mật khẩu.",
             "D": "3 tháng sao lưu một lần, dùng 2 USB và 1 ổ cứng."
           },
-          "explanation": "3-2-1 nghĩa là 3 bản sao, trên 2 loại phương tiện khác nhau, trong đó 1 bản để ở nơi khác (off-site) để phòng rủi ro. Phần tình huống công vụ",
+          "explanation": "3-2-1 nghĩa là 3 bản sao, trên 2 loại phương tiện khác nhau, trong đó 1 bản để ở nơi khác (off-site) để phòng rủi ro.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",

@@ -1,0 +1,410 @@
+{
+  "topicId": 15,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Kết hợp và tái tạo nội dung số: khái niệm và lợi ích",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Tái tạo nội dung số” được hiểu là gì?",
+          "options": {
+            "A": "Xóa bỏ hoàn toàn nội dung cũ và tự tạo nội dung mới từ đầu.",
+            "B": "Sử dụng nội dung số sẵn có, chỉnh sửa và kết hợp để tạo ra nội dung mới cho mục đích cụ thể.",
+            "C": "Sao chép nguyên văn nội dung của người khác và đưa vào tài liệu của mình.",
+            "D": "Thu thập nội dung số nhưng không chỉnh sửa hay sử dụng lại."
+          },
+          "explanation": "Tái tạo là chọn lọc - tổng hợp - trình bày lại có chủ đích, khác hẳn việc tạo mới hoàn toàn hay sao chép y nguyên.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Lợi ích chính của việc kết hợp nội dung số có sẵn là gì?",
+          "options": {
+            "A": "Tiết kiệm thời gian và nâng cao hiệu quả công việc nhờ không phải làm lại từ đầu.",
+            "B": "Giúp người dùng phụ thuộc hoàn toàn vào người khác soạn sẵn nội dung.",
+            "C": "Tránh phải trích dẫn nguồn vì nội dung đã có sẵn.",
+            "D": "Làm giảm chất lượng công việc do nội dung không đồng nhất."
+          },
+          "explanation": "Tận dụng nội dung sẵn có giúp nhanh hơn và chất lượng hơn; vẫn phải trích dẫn nguồn đầy đủ.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Trong quy trình ba bước, vì sao ngay từ Bước một (Thu thập) đã phải ghi lại xuất xứ tài liệu?",
+          "options": {
+            "A": "Để làm cho báo cáo dài hơn.",
+            "B": "Để bảo đảm việc tái tạo nội dung hợp pháp, minh bạch và dễ trích dẫn nguồn về sau.",
+            "C": "Vì ghi nguồn là bước bắt buộc duy nhất, các bước sau không cần.",
+            "D": "Để tránh phải đọc kỹ nội dung tài liệu."
+          },
+          "explanation": "Ghi xuất xứ ngay từ đầu giúp tài liệu cuối cùng minh bạch, đúng quy định về bản quyền và dễ kiểm chứng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Tình huống nào sau đây đúng với tinh thần “tái tạo nội dung số”?",
+          "options": {
+            "A": "Anh A tự viết hoàn toàn báo cáo từ trí nhớ, không tham khảo tài liệu nào.",
+            "B": "Anh A sao chép y nguyên một bài viết trên mạng và nộp làm báo cáo của mình.",
+            "C": "Anh A chắt lọc thông tin từ báo cáo cũ và số liệu thống kê sẵn có, kết hợp logic trong báo cáo mới, có ghi nguồn.",
+            "D": "Anh A xóa hết dữ liệu năm trước để soạn văn bản mới hoàn toàn, không dựa trên gì."
+          },
+          "explanation": "Tái tạo là kế thừa có chọn lọc và ghi nguồn, không phải viết chay từ đầu cũng không phải sao chép nguyên văn.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B cần tóm tắt nhanh một tập tài liệu dài để làm báo cáo, trong đó có một văn bản đóng dấu “MẬT”. Cách xử lý đúng là:",
+          "options": {
+            "A": "Đưa toàn bộ tập tài liệu, kể cả văn bản mật, lên một công cụ AI công cộng để tóm tắt cho nhanh.",
+            "B": "Chỉ dùng AI hỗ trợ với phần thông tin đã công khai; riêng văn bản mật thì tự xử lý trong môi trường nội bộ theo quy định, không đưa lên công cụ bên ngoài.",
+            "C": "Chụp màn hình văn bản mật rồi gửi qua ứng dụng nhắn tin cá nhân để nhờ đồng nghiệp tóm tắt giúp.",
+            "D": "Vì đang gấp nên cứ đưa hết lên công cụ AI, miễn là hoàn thành đúng hạn."
+          },
+          "explanation": "Công cụ AI công cộng chỉ dùng cho thông tin đã công khai; tài liệu mật, nội bộ phải xử lý đúng quy định bảo mật, tuyệt đối không đưa ra bên ngoài.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Soạn thảo văn bản thông minh nhờ công nghệ số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Lợi ích lớn nhất của việc dùng Styles (Kiểu định dạng) khi soạn thảo là gì?",
+          "options": {
+            "A": "Làm cho tài liệu có nhiều màu sắc bắt mắt hơn.",
+            "B": "Định dạng nhất quán toàn tài liệu và khi cần thay đổi chỉ sửa một lần, cả văn bản tự cập nhật theo.",
+            "C": "Giúp văn bản tự động dài thêm cho đủ số trang.",
+            "D": "Thay thế hoàn toàn việc phải đọc và kiểm tra nội dung."
+          },
+          "explanation": "Styles giúp định dạng đồng nhất và cập nhật đồng loạt chỉ với một lần chỉnh, đồng thời hỗ trợ tạo mục lục tự động.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Tính năng Find & Replace (Tìm kiếm và Thay thế, phím tắt Ctrl + H) phù hợp nhất với tình huống nào?",
+          "options": {
+            "A": "Cần đổi màu nền của trang văn bản.",
+            "B": "Cần sửa một cụm từ bị lặp sai ở nhiều vị trí trong một văn bản dài, nhanh và đồng loạt.",
+            "C": "Cần kiểm tra xem ai đã chỉnh sửa văn bản.",
+            "D": "Cần chèn ảnh vào văn bản."
+          },
+          "explanation": "Find & Replace thay nhanh và đồng loạt một cụm từ ở nhiều vị trí; với thay thế quan trọng nên rà soát từng trường hợp, và có thể hoàn tác bằng Ctrl + Z nếu nhầm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi nhiều người cùng góp ý cho một bản dự thảo, nên dùng tính năng nào để biết rõ ai đã sửa gì?",
+          "options": {
+            "A": "Kiểm tra chính tả (Spelling & Grammar).",
+            "B": "Tạo mục lục tự động.",
+            "C": "Theo dõi thay đổi (Track Changes) trên thẻ Review, kết hợp Ghi chú (Comment).",
+            "D": "Xuất văn bản sang PDF."
+          },
+          "explanation": "Track Changes ghi lại và đánh dấu mọi chỉnh sửa kèm người và thời gian; người chủ trì duyệt bằng nút Accept/Reject; Comment để lại lời bình bên lề mà không làm xáo trộn nội dung chính.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A thường xuyên phải soạn giấy mời họp với cùng một thể thức. Cách làm thông minh và tiết kiệm thời gian nhất là gì?",
+          "options": {
+            "A": "Mỗi lần lại mở một văn bản trắng và gõ, căn chỉnh lại từ đầu.",
+            "B": "Sao chép một giấy mời cũ rồi xóa nội dung cũ đi để gõ nội dung mới.",
+            "C": "Tạo sẵn một tệp mẫu (Template) đã cài đúng thể thức và Styles; lần sau chỉ mở mẫu ra điền nội dung.",
+            "D": "Nhờ người khác soạn giúp mỗi khi cần."
+          },
+          "explanation": "Lưu sẵn một tệp mẫu đúng thể thức theo quy định giúp các lần sau chỉ cần điền nội dung, vừa nhanh vừa luôn đúng chuẩn trình bày.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trước khi gửi một bản dự thảo (đã qua nhiều vòng góp ý bằng Track Changes) ra ngoài cơ quan, Chị B nên làm gì để bảo đảm an toàn thông tin?",
+          "options": {
+            "A": "Gửi luôn cho nhanh, vì nội dung đã chỉnh xong.",
+            "B": "Duyệt hết các vết chỉnh sửa, xóa ghi chú, rồi dùng Document Inspector để rà và làm sạch dữ liệu ẩn (vết sửa, ghi chú, thông tin người soạn) trước khi gửi.",
+            "C": "Chỉ cần đổi tên tệp là xong, không cần kiểm tra bên trong.",
+            "D": "Để nguyên các vết Track Changes cho người nhận tự xử lý."
+          },
+          "explanation": "Văn bản gửi ra ngoài cần được duyệt hết vết chỉnh sửa và làm sạch dữ liệu ẩn bằng Document Inspector, tránh vô tình lộ thông tin góp ý nội bộ hay thông tin người soạn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Chỉnh sửa hình ảnh, tăng tính trực quan cho nội dung",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Tác dụng của thao tác cắt cúp (crop) ảnh là gì?",
+          "options": {
+            "A": "Xóa phông nền ảnh và thay bằng phông mới tự động.",
+            "B": "Cắt bỏ phần thừa, tập trung vào nội dung chính của ảnh.",
+            "C": "Phóng to ảnh vô hạn mà không giảm chất lượng.",
+            "D": "Đổi định dạng ảnh từ PNG sang JPG."
+          },
+          "explanation": "Cắt cúp loại bỏ phần thừa, giúp ánh nhìn tập trung vào trọng tâm; không phải để xóa nền hay đổi định dạng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Công cụ nào dưới đây có thể dùng để chỉnh sửa ảnh đơn giản (cắt, xoay, chỉnh sáng)?",
+          "options": {
+            "A": "Microsoft Paint hoặc ứng dụng Photos trên Windows.",
+            "B": "Microsoft Excel.",
+            "C": "Máy tính cầm tay (Calculator).",
+            "D": "Trình soạn thảo văn bản Notepad."
+          },
+          "explanation": "Paint và Photos là công cụ sẵn có trên Windows, đủ dùng cho các thao tác chỉnh ảnh cơ bản mà không cần phần mềm chuyên nghiệp.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi chèn một hình ảnh vào báo cáo, nên làm gì để hình ảnh phát huy hiệu quả?",
+          "options": {
+            "A": "Chọn bất kỳ ảnh nào cho “có minh họa”, không cần liên quan nội dung.",
+            "B": "Chọn ảnh rõ nét, nội dung phù hợp, chèn gần đoạn văn bản liên quan và thêm chú thích nếu cần.",
+            "C": "Chèn ảnh kích thước thật lớn để gây chú ý, bố cục lệch cũng không sao.",
+            "D": "Tránh dùng hình ảnh để giữ tính nghiêm túc cho văn bản."
+          },
+          "explanation": "Ảnh phát huy hiệu quả khi rõ nét, liên quan nội dung, đặt gần đoạn văn tương ứng và có chú thích khi cần.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A chụp một ảnh hiện trường để đưa vào báo cáo, nhưng ảnh hơi tối và có nhiều chi tiết thừa xung quanh. Cách xử lý phù hợp nhất là:",
+          "options": {
+            "A": "Dùng luôn ảnh gốc, vì chỉnh sửa ảnh là không trung thực.",
+            "B": "Cắt cúp để tập trung vào chi tiết cần báo cáo, tăng sáng nhẹ cho rõ, rồi khoanh đánh dấu vị trí quan trọng - nhưng không chỉnh quá tay làm sai lệch thực tế.",
+            "C": "Chỉnh màu thật rực rỡ và thêm nhiều hiệu ứng cho ảnh nổi bật.",
+            "D": "Bỏ ảnh đi, chỉ mô tả bằng chữ cho an toàn."
+          },
+          "explanation": "Cắt cúp, tăng sáng vừa phải và đánh dấu giúp ảnh rõ và đúng trọng tâm; tuyệt đối không chỉnh quá tay làm sai lệch thực tế của ảnh minh chứng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B muốn đưa vào báo cáo một ảnh chụp có hình rõ mặt người dân và một phần văn bản có thông tin cá nhân. Trước khi chèn và chia sẻ, chị nên làm gì?",
+          "options": {
+            "A": "Chèn nguyên ảnh vào cho chân thực, vì đó là ảnh chị tự chụp.",
+            "B": "Làm mờ hoặc che phần thông tin cá nhân và cân nhắc che mặt hoặc xin phép người dân, nhằm bảo vệ dữ liệu cá nhân theo quy định.",
+            "C": "Chỉ cần thu nhỏ ảnh lại là đủ an toàn.",
+            "D": "Đăng ảnh lên nhóm chung để hỏi ý kiến trước đã."
+          },
+          "explanation": "Ảnh chứa thông tin cá nhân hay hình ảnh người dân phải được che, làm mờ hoặc xin phép trước khi dùng, để bảo vệ dữ liệu cá nhân và quyền riêng tư theo quy định.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Video và âm thanh: ghi lại và tái sử dụng nội dung đa phương tiện",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Để thu âm một lời phát biểu cho rõ ràng, nên làm gì?",
+          "options": {
+            "A": "Giữ điện thoại cách người nói khoảng hai gang tay, nói to rõ và chọn nơi ít tiếng ồn.",
+            "B": "Đặt điện thoại thật xa người nói để thu được cả âm thanh môi trường.",
+            "C": "Ghi âm ở nơi đông người cho sinh động, không cần quan tâm tạp âm.",
+            "D": "Nói thật nhanh để rút ngắn thời lượng tệp ghi âm."
+          },
+          "explanation": "Đứng gần nguồn âm ở khoảng cách vừa phải và chọn nơi yên tĩnh giúp thu được tiếng rõ; đặt quá xa hoặc nơi ồn sẽ lẫn nhiều tạp âm.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Có một tệp ghi âm cuộc họp dài và muốn nhanh chóng có văn bản nội dung. Cách hiệu quả nhất là:",
+          "options": {
+            "A": "Mở tệp ra ngồi nghe và gõ lại thủ công từ đầu đến cuối.",
+            "B": "Dùng công cụ chuyển giọng nói thành văn bản để tạo bản nháp, sau đó rà soát và chỉnh lại.",
+            "C": "Tăng tốc độ phát lên gấp đôi rồi nghe cho nhanh, không cần ghi ra chữ.",
+            "D": "Gửi tệp ghi âm cho tất cả mọi người, ai cần thì tự nghe."
+          },
+          "explanation": "Công cụ chuyển giọng nói thành văn bản tạo bản nháp nhanh; con người vẫn phải rà lại để bảo đảm chính xác tên riêng, thuật ngữ, số liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi quay một video ngắn để báo cáo hiện trường, điều nào sau đây không nên làm?",
+          "options": {
+            "A": "Quay ngang màn hình, giữ máy ổn định bằng điểm tựa.",
+            "B": "Kiểm tra ánh sáng và âm thanh trước, nói rõ ràng.",
+            "C": "Quay một mạch thật dài rồi gửi luôn, không cắt gọt vì nghĩ người nhận sẽ xem hết.",
+            "D": "Xem lại video, cắt bỏ đoạn thừa ở đầu và cuối rồi mới gửi."
+          },
+          "explanation": "Nên cắt gọn đoạn thừa và kiểm tra trước khi gửi; quay một mạch quá dài rồi gửi nguyên vừa nặng tệp vừa gây khó cho người xem.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị A có một tệp ghi âm cuộc họp nội bộ chưa được phép công khai, muốn nhờ công cụ trực tuyến gỡ thành biên bản. Cách xử lý đúng là:",
+          "options": {
+            "A": "Tải thẳng tệp lên một công cụ gỡ băng trực tuyến miễn phí cho nhanh.",
+            "B": "Không tải nội dung nội bộ lên công cụ công cộng; dùng công cụ được cơ quan cho phép hoặc xử lý trong môi trường nội bộ, vì nhiều công cụ không cam kết giữ kín dữ liệu.",
+            "C": "Tải lên nhưng xóa tên cơ quan đi là đủ an toàn.",
+            "D": "Gửi tệp cho người quen nhờ gỡ giúp bằng công cụ của họ."
+          },
+          "explanation": "Ghi âm nội bộ chưa được phép công khai tuyệt đối không đưa lên công cụ công cộng, vì nhiều công cụ có thể lưu hoặc dùng dữ liệu để huấn luyện; nên dùng công cụ được phép hoặc môi trường nội bộ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh B quay một video tại buổi tiếp dân, trong đó có hình ảnh rõ mặt và lời nói của người dân. Trước khi đưa vào báo cáo và chia sẻ, anh nên:",
+          "options": {
+            "A": "Chia sẻ rộng rãi ngay cho mọi người cùng xem vì đó là việc công.",
+            "B": "Chỉ dùng trong phạm vi được phép, cân nhắc xin phép hoặc che mặt, giọng nói người dân, và không phát tán rộng nếu nội dung nhạy cảm.",
+            "C": "Đăng lên mạng xã hội cá nhân để minh bạch thông tin.",
+            "D": "Cắt ngắn video lại là đủ bảo đảm riêng tư."
+          },
+          "explanation": "Video chứa hình ảnh, giọng nói người dân phải được dùng đúng phạm vi cho phép, cân nhắc xin phép hoặc che thông tin và không phát tán rộng nếu nhạy cảm, theo tinh thần bảo vệ dữ liệu cá nhân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Tích hợp nội dung đa dạng và tuân thủ bảo mật, đạo đức",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Điều nào dưới đây không đúng khi tích hợp nhiều loại nội dung vào một bài trình bày?",
+          "options": {
+            "A": "Các nội dung (chữ, hình, video) cần xoay quanh một thông điệp chung, hỗ trợ lẫn nhau.",
+            "B": "Nên kiểm tra trước trên thiết bị sẽ trình chiếu để chắc chắn mọi thứ hiển thị và chạy tốt.",
+            "C": "Cứ chèn càng nhiều hình, hiệu ứng, video càng tốt cho sinh động, không cần quan tâm có liên quan hay không.",
+            "D": "Nên dùng mẫu thiết kế thống nhất (phông chữ, nền, định dạng) để bài trình bày trông chuyên nghiệp."
+          },
+          "explanation": "Chỉ nên đưa vào những chất liệu thực sự phục vụ thông điệp; lạm dụng hình, hiệu ứng, video sẽ gây phân tán và thiếu chuyên nghiệp.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Trong quy trình tích hợp, vì sao bước kiểm thử trên thiết bị sẽ trình chiếu lại quan trọng?",
+          "options": {
+            "A": "Để làm cho tệp sản phẩm nặng hơn.",
+            "B": "Để phát hiện sớm lỗi hiển thị (video không chạy, hình bị vỡ, phông chữ nhảy) và tránh sự cố khi trình bày.",
+            "C": "Vì kiểm thử là bước duy nhất bắt buộc, các bước khác không cần.",
+            "D": "Để thay đổi hoàn toàn nội dung đã chuẩn bị."
+          },
+          "explanation": "Kiểm thử trước trên đúng thiết bị giúp phát hiện và xử lý lỗi hiển thị, tránh sự cố ngay trước mặt người xem.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi tái sử dụng một biểu đồ và một đoạn trích lấy từ báo cáo của cơ quan khác, nguyên tắc đạo đức cần tuân thủ là gì?",
+          "options": {
+            "A": "Dùng thoải mái mà không cần ghi nguồn, vì đó là tài liệu của nhà nước.",
+            "B": "Chỉ dùng khi được phép và phải ghi nguồn rõ ràng cho số liệu, hình ảnh, trích đoạn không do mình tạo ra.",
+            "C": "Chỉnh sửa lại số liệu cho hợp với lập luận của mình.",
+            "D": "Xóa hết thông tin nguồn để sản phẩm gọn gàng hơn."
+          },
+          "explanation": "Phải tôn trọng bản quyền: chỉ dùng nội dung được phép và ghi nguồn rõ ràng; tuyệt đối không sửa số liệu gây sai lệch.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A cần gấp một bản tóm tắt cho báo cáo có đóng dấu nội bộ. Anh định dán toàn bộ nội dung lên một công cụ AI công cộng cho nhanh. Theo phương châm “dữ liệu nào, công cụ đó”, anh nên:",
+          "options": {
+            "A": "Cứ dán lên cho nhanh, vì đang gấp và công cụ AI rất tiện.",
+            "B": "Không đưa tài liệu nội bộ lên công cụ AI công cộng; chỉ xử lý trên công cụ được cơ quan cho phép hoặc trong môi trường nội bộ.",
+            "C": "Dán lên nhưng xóa tiêu đề “nội bộ” đi là được.",
+            "D": "Nhờ người quen dán hộ lên công cụ của họ."
+          },
+          "explanation": "Dữ liệu nội bộ chỉ được xử lý trên công cụ được phép; tuyệt đối không tải lên nền tảng AI công cộng dù đang gấp, để tránh lộ lọt thông tin.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi làm một video tổng hợp để báo cáo, chị B chỉnh ánh sáng và cắt ghép cho gọn. Chị nên dừng ở giới hạn nào để bảo đảm nguyên tắc trung thực?",
+          "options": {
+            "A": "Cắt ghép, lồng thêm chi tiết sao cho câu chuyện hấp dẫn hơn, kể cả khác thực tế.",
+            "B": "Chỉ chỉnh sửa ở mức làm rõ và gọn nội dung, tuyệt đối không cắt ghép hay thêm bớt làm sai lệch bản chất sự việc.",
+            "C": "Chỉnh màu và tua nhanh để giấu bớt những chi tiết bất lợi.",
+            "D": "Ghép thêm hình ảnh từ một sự việc khác cho sinh động."
+          },
+          "explanation": "Chỉnh sửa chỉ để làm rõ và gọn; mọi thao tác cắt ghép, thêm bớt làm sai lệch bản chất sự việc đều vi phạm nguyên tắc trung thực.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

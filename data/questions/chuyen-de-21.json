@@ -1,0 +1,410 @@
+{
+  "topicId": 21,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Rủi ro sức khỏe thể chất khi dùng công nghệ số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Hội chứng thị giác màn hình” (mỏi mắt kỹ thuật số) là gì?",
+          "options": {
+            "A": "Một loại bệnh lây qua thiết bị điện tử.",
+            "B": "Tình trạng mắt mỏi, khô, nhìn mờ... do nhìn màn hình liên tục trong thời gian dài mà ít nghỉ ngơi.",
+            "C": "Hiện tượng màn hình máy tính bị mờ do bụi.",
+            "D": "Một bệnh chỉ gặp ở người lớn tuổi."
+          },
+          "explanation": "Hội chứng thị giác màn hình (mỏi mắt kỹ thuật số) là tình trạng mắt căng thẳng, khô, mỏi, nhìn mờ do tập trung nhìn màn hình quá lâu mà ít nghỉ và ít chớp mắt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên nhân chính gây đau mỏi vùng cổ - vai - lưng khi làm việc với máy tính là gì?",
+          "options": {
+            "A": "Do máy tính phát ra sóng có hại.",
+            "B": "Do ngồi sai tư thế trong thời gian dài (gù lưng, cúi cổ nhìn màn hình), gây áp lực lên cột sống.",
+            "C": "Do phòng làm việc quá lạnh.",
+            "D": "Do gõ bàn phím quá nhẹ."
+          },
+          "explanation": "Ngồi gù lưng, cúi cổ nhìn màn hình nhiều giờ khiến cột sống cổ và lưng chịu áp lực liên tục, làm cơ vùng cổ - vai - gáy căng cứng, đau mỏi.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Triệu chứng nào sau đây KHÔNG thuộc nhóm rủi ro sức khỏe thể chất do dùng thiết bị số quá mức?",
+          "options": {
+            "A": "Mỏi và khô mắt.",
+            "B": "Đau mỏi vai gáy.",
+            "C": "Tê, đau cổ tay (hội chứng ống cổ tay).",
+            "D": "Căng thẳng, lo âu, mất ngủ."
+          },
+          "explanation": "Mỏi mắt, đau vai gáy, hội chứng ống cổ tay là các rủi ro thể chất; còn căng thẳng, lo âu, mất ngủ thuộc nhóm sức khỏe tinh thần (sẽ tìm hiểu ở bài sau).",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Trong giờ làm việc, Anh/Chị thấy mắt bắt đầu khô rát và vai mỏi sau nhiều giờ ngồi máy tính liên tục. Cách xử lý phù hợp nhất là gì?",
+          "options": {
+            "A": "Cố gắng làm tiếp cho xong vì đó là chuyện bình thường.",
+            "B": "Xem đó là tín hiệu cần nghỉ, dành một quãng ngắn rời mắt khỏi màn hình, đứng dậy vận động rồi mới làm tiếp.",
+            "C": "Nhỏ thật nhiều thuốc nhỏ mắt để làm việc tiếp không nghỉ.",
+            "D": "Tăng độ sáng màn hình lên tối đa cho dễ nhìn."
+          },
+          "explanation": "Mắt khô, vai mỏi là dấu hiệu sớm cơ thể cần nghỉ; nên dừng lại một quãng ngắn để mắt và cơ được phục hồi, thay vì cố làm tiếp khiến tình trạng nặng thêm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp nói: “Mình ngồi làm liên tục cả ngày cho xong việc, mỏi một chút cũng không sao.” Anh/Chị nên góp ý thế nào cho đúng?",
+          "options": {
+            "A": "Đồng tình, vì làm liền mạch mới hiệu quả.",
+            "B": "Khuyên nên nghỉ ngắn và vận động sau mỗi 45-60 phút, vì ngồi liên tục nhiều giờ dễ gây mỏi mắt, đau vai gáy và ảnh hưởng sức khỏe lâu dài.",
+            "C": "Khuyên cứ ngồi yên, chỉ cần uống nhiều nước là đủ.",
+            "D": "Bảo đồng nghiệp dùng điện thoại thay máy tính cho đỡ mỏi."
+          },
+          "explanation": "Ngồi làm việc liên tục nhiều giờ không nghỉ là thói quen có hại; y học khuyến cáo nên vận động sau mỗi 45-60 phút để giảm mỏi mắt, đau vai gáy và bảo vệ sức khỏe lâu dài.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Rủi ro sức khỏe tinh thần khi dùng công nghệ số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao sử dụng điện thoại, lướt mạng vào ban đêm dễ gây mất ngủ?",
+          "options": {
+            "A": "Vì điện thoại phát ra tiếng ồn nhỏ làm khó ngủ.",
+            "B": "Vì ánh sáng xanh từ màn hình ức chế quá trình sản sinh melatonin - hormone báo hiệu đã đến giờ nghỉ ngơi.",
+            "C": "Vì cầm điện thoại làm mỏi tay nên khó ngủ.",
+            "D": "Vì điện thoại tỏa nhiệt làm nóng phòng."
+          },
+          "explanation": "Ánh sáng xanh từ màn hình khiến não bộ hiểu lầm là ban ngày và ức chế melatonin, làm ta khó ngủ, ngủ không sâu và thức dậy mệt mỏi.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“FOMO” trong việc sử dụng công nghệ số được hiểu là gì?",
+          "options": {
+            "A": "Một ứng dụng mạng xã hội phổ biến.",
+            "B": "Nỗi sợ bị bỏ lỡ - cảm giác lo lắng rằng nếu không liên tục cập nhật, mình sẽ bỏ lỡ thông tin hay điều gì quan trọng.",
+            "C": "Một chế độ tiết kiệm pin của điện thoại.",
+            "D": "Một kỹ thuật giúp tập trung khi làm việc."
+          },
+          "explanation": "FOMO (Fear Of Missing Out) là nỗi sợ bị bỏ lỡ; đây là một biểu hiện tâm lý của sự phụ thuộc thiết bị, khiến người dùng liên tục kiểm tra điện thoại và bồn chồn khi rời xa nó.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "\"Brain rot\" - cụm từ được Nhà xuất bản Đại học Oxford chọn là Từ của năm 2024 - mô tả hiện tượng gì?",
+          "options": {
+            "A": "Một loại vi-rút máy tính có khả năng gây hại cho người dùng.",
+            "B": "Tình trạng suy giảm khả năng tư duy, khả năng tập trung và tinh thần do tiêu thụ quá nhiều nội dung nông cạn, ít giá trị trên mạng.",
+            "C": "Hiện tượng quên mật khẩu do sử dụng quá nhiều thiết bị.",
+            "D": "Một chứng suy giảm trí nhớ chỉ gặp ở người cao tuổi."
+          },
+          "explanation": "\"Brain rot\" - tình trạng suy giảm khả năng tư duy do nội dung nông cạn - được Nhà xuất bản Đại học Oxford chọn là Từ của năm 2024, phản ánh mối quan tâm toàn cầu về thói quen tiêu thụ video ngắn và nội dung giải trí ít giá trị kéo dài. Nhận diện sớm hiện tượng này giúp mỗi người chủ động chọn lọc nội dung, giữ cho tư duy luôn sắc bén.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Gần đây, sau giờ làm Anh/Chị thường khó thư giãn, đầu óc luôn căng thẳng và hay mất ngủ vì tối nào cũng lướt điện thoại đến khuya. Hướng điều chỉnh phù hợp nhất là gì?",
+          "options": {
+            "A": "Cố gắng chịu đựng, vì đó là điều ai cũng gặp.",
+            "B": "Xem đây là dấu hiệu cần điều chỉnh; thử đặt điện thoại ra xa và ngừng dùng thiết bị khoảng 30-60 phút trước khi ngủ để cải thiện giấc ngủ.",
+            "C": "Uống cà phê buổi sáng nhiều hơn để bớt mệt.",
+            "D": "Lướt điện thoại nhiều hơn nữa cho đến khi buồn ngủ."
+          },
+          "explanation": "Căng thẳng kéo dài và mất ngủ là tín hiệu cần điều chỉnh thói quen số; ngừng dùng thiết bị 30-60 phút trước khi ngủ theo khuyến nghị của các chuyên gia về giấc ngủ, giúp cơ thể tiết melatonin tự nhiên và ngủ ngon hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận thấy mình ngày càng khó đọc hết một văn bản dài, hay mất tập trung và chỉ muốn xem các video ngắn. Cách điều chỉnh phù hợp là gì?",
+          "options": {
+            "A": "Chấp nhận vì đó là xu hướng chung, không cần thay đổi.",
+            "B": "Chủ động chọn lọc nội dung có giá trị, dành thời gian đọc sách, học kỹ năng mới và suy ngẫm, giảm dần thói quen lướt video ngắn theo quán tính.",
+            "C": "Xem nhiều video ngắn hơn để não quen với tốc độ nhanh.",
+            "D": "Ngừng đọc mọi văn bản dài để đỡ căng thẳng."
+          },
+          "explanation": "Khó tập trung và lệ thuộc nội dung ngắn là biểu hiện của tình trạng suy giảm tư duy do nội dung nông cạn (brain rot); cách khắc phục là chủ động chọn lọc nội dung có giá trị, đọc sách, học kỹ năng mới và rèn thói quen tư duy sâu, thay vì tiêu thụ nội dung ngắn theo quán tính.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Tư thế làm việc khoa học và bảo vệ thị lực khi sử dụng thiết bị số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi làm việc với máy tính, màn hình nên được đặt như thế nào cho đúng?",
+          "options": {
+            "A": "Cao hơn tầm mắt để cổ luôn ngẩng lên.",
+            "B": "Ngang tầm mắt, cách mắt khoảng 50-70 cm, đặt thẳng trước mặt.",
+            "C": "Thấp hơn nhiều so với tầm mắt để luôn cúi nhìn.",
+            "D": "Lệch hẳn sang một bên cho đỡ chói."
+          },
+          "explanation": "Màn hình đặt ngang tầm mắt, cách mắt khoảng 50-70 cm và thẳng trước mặt giúp mắt nhìn thẳng tự nhiên, giảm áp lực lên cổ và mắt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Tư thế ngồi làm việc đúng được mô tả như thế nào?",
+          "options": {
+            "A": "Ngồi gù lưng, nhoài người sát màn hình cho rõ.",
+            "B": "Lưng thẳng tựa ghế, vai thả lỏng, chân chạm sàn (gối khoảng 90 độ), khuỷu tay gập khoảng 90 độ khi gõ phím.",
+            "C": "Bắt chéo chân, lưng cong để thoải mái.",
+            "D": "Ngả hẳn người ra sau, chân không chạm sàn."
+          },
+          "explanation": "Tư thế đúng gồm: lưng thẳng tựa ghế, vai thả lỏng, chân đặt phẳng trên sàn với đầu gối khoảng 90 độ, khuỷu tay gập khoảng 90 độ và cổ tay thẳng khi gõ phím.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Quy tắc “20-20-20” để bảo vệ mắt nghĩa là gì?",
+          "options": {
+            "A": "Làm việc 20 giờ, nghỉ 20 phút, uống 20 ngụm nước.",
+            "B": "Cứ sau 20 phút nhìn màn hình, dành khoảng 20 giây nhìn ra xa chừng 6 mét (tương đương 20 feet).",
+            "C": "Đặt màn hình cách mắt đúng 20 cm.",
+            "D": "Chớp mắt 20 lần mỗi 20 giây."
+          },
+          "explanation": "Quy tắc 20-20-20 gồm ba con số 20: cứ sau 20 phút nhìn màn hình, nhìn ra xa khoảng 6 mét (tương đương 20 feet) trong khoảng 20 giây, giúp cơ mắt được thư giãn sau khi điều tiết căng thẳng ở cự ly gần - một khuyến nghị tham khảo từ các chuyên gia nhãn khoa.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị thường phải làm việc nhiều giờ trên máy tính xách tay đặt thấp trên bàn, phải cúi cổ nhìn màn hình. Cách cải thiện phù hợp nhất là gì?",
+          "options": {
+            "A": "Cứ giữ nguyên vì laptop vốn phải đặt như vậy.",
+            "B": "Kê đế nâng laptop hoặc dùng màn hình rời để màn hình ngang tầm mắt, kết hợp bàn phím - chuột rời để giữ khuỷu tay vuông góc.",
+            "C": "Cúi sát hơn nữa cho nhìn rõ chữ.",
+            "D": "Đặt laptop lên đùi và ngả người ra ghế."
+          },
+          "explanation": "Khi dùng laptop lâu, nên kê đế nâng hoặc dùng màn hình rời để màn hình ngang tầm mắt, dùng thêm bàn phím và chuột rời nhằm giữ tư thế đúng, tránh cúi cổ gây đau mỏi cổ - vai - gáy.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp hay cúi gập cổ nhìn điện thoại hàng giờ và than đau mỏi cổ, vai. Anh/Chị nên góp ý thế nào?",
+          "options": {
+            "A": "Khuyên cứ cúi nhìn cho thoải mái, không sao cả.",
+            "B": "Khuyên nâng điện thoại lên gần ngang tầm mắt khi sử dụng, hạn chế cúi gập cổ lâu, và nghỉ mắt - đổi tư thế sau một lúc dùng.",
+            "C": "Khuyên nằm xuống dùng điện thoại cho đỡ mỏi cổ.",
+            "D": "Khuyên tăng độ sáng điện thoại để nhìn nhanh hơn."
+          },
+          "explanation": "Cúi gập cổ nhìn điện thoại lâu gây áp lực lớn lên đốt sống cổ; nên nâng điện thoại lên gần tầm mắt, hạn chế cúi lâu và thỉnh thoảng đổi tư thế, nghỉ mắt để giảm đau mỏi cổ - vai - gáy.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Nghỉ ngơi và vận động hợp lý khi làm việc với công nghệ",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo khuyến cáo, không nên ngồi làm việc liên tục quá bao lâu mà không đứng dậy vận động?",
+          "options": {
+            "A": "Quá 5 giờ.",
+            "B": "Quá khoảng 30 đến 60 phút.",
+            "C": "Quá 3 giờ.",
+            "D": "Không có giới hạn, ngồi bao lâu cũng được."
+          },
+          "explanation": "Tổ chức Y tế Thế giới khuyến cáo nên tránh ngồi liên tục quá khoảng 30-60 phút mà không đứng dậy, đi lại hoặc vận động nhẹ trong vài phút.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Trong quãng nghỉ giữa giờ làm việc, việc nên làm là gì?",
+          "options": {
+            "A": "Tiếp tục ngồi tại chỗ và lướt mạng xã hội.",
+            "B": "Đứng dậy, đi lại nhẹ nhàng, vươn vai và xoay nhẹ cổ, vai, cổ tay.",
+            "C": "Ngồi yên nhắm mắt và không cử động.",
+            "D": "Tranh thủ ăn thật nhiều đồ ngọt."
+          },
+          "explanation": "Quãng nghỉ nên dùng để đứng dậy, đi lại, vươn vai và xoay nhẹ các khớp cổ - vai - cổ tay, giúp khí huyết lưu thông và giảm căng cơ; tiếp tục ngồi lướt điện thoại không giúp cơ thể được nghỉ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao ngồi liên tục quá lâu lại có hại cho sức khỏe?",
+          "options": {
+            "A": "Vì màn hình máy tính phát ra sóng có hại.",
+            "B": "Vì các cơ ít vận động, trao đổi chất chậm lại và máu lưu thông kém, gây đau mỏi cổ - vai - gáy, đau lưng và nhiều vấn đề lâu dài.",
+            "C": "Vì ngồi lâu làm hao pin thiết bị.",
+            "D": "Vì ngồi lâu khiến mắt sáng hơn."
+          },
+          "explanation": "Ngồi yên một chỗ nhiều giờ khiến cơ ít vận động, trao đổi chất và tuần hoàn máu kém đi, dẫn đến đau mỏi cổ - vai - gáy, đau lưng và liên quan đến nhiều vấn đề sức khỏe lâu dài.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị có một khối lượng công việc lớn cần xử lý trên máy tính trong cả buổi. Cách làm việc khoa học nhất là gì?",
+          "options": {
+            "A": "Ngồi làm một mạch cho đến khi xong hẳn rồi mới nghỉ.",
+            "B": "Chia thành các chặng, cứ sau khoảng 45-60 phút thì đứng dậy nghỉ vài phút, đi lại và giãn cơ rồi làm tiếp.",
+            "C": "Vừa nằm trên ghế dài vừa làm cho đỡ mỏi.",
+            "D": "Bỏ hẳn các quãng nghỉ để tiết kiệm thời gian."
+          },
+          "explanation": "Chia công việc thành các chặng và nghỉ ngắn sau mỗi 45-60 phút giúp cơ thể phục hồi, duy trì sự tập trung và năng suất; ngồi làm một mạch nhiều giờ liền dễ gây mệt mỏi và đau mỏi cơ thể.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp thường mang máy tính lên giường, vừa nằm vừa làm việc đến khuya cho “thoải mái”. Anh/Chị nên góp ý thế nào?",
+          "options": {
+            "A": "Đồng tình, vì nằm làm việc giúp thư giãn cột sống.",
+            "B": "Khuyên không nên nằm dùng thiết bị, vì tư thế nằm gây áp lực không tốt cho cột sống và mắt; nên làm việc tại bàn với tư thế ngồi đúng và nghỉ ngơi tách biệt với công việc.",
+            "C": "Khuyên kê thêm gối cho cao để nằm làm việc lâu hơn.",
+            "D": "Khuyên chuyển hẳn sang làm việc trên giường cho tiện."
+          },
+          "explanation": "Nằm dùng máy tính, điện thoại gây áp lực không tốt lên cột sống cổ, cột sống lưng và ảnh hưởng đến mắt; nên làm việc tại bàn với tư thế đúng và giữ không gian nghỉ ngơi tách biệt với công việc để bảo vệ sức khỏe.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Quản lý thời gian và cân bằng cuộc sống số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nên sắp xếp các công việc cùng loại (như xử lý thư điện tử) vào những khung giờ cố định?",
+          "options": {
+            "A": "Vì làm như vậy sẽ dùng hết dung lượng pin nhanh hơn.",
+            "B": "Vì tránh được việc liên tục chuyển đổi giữa các đầu việc, vốn làm phân tán sự tập trung; giúp làm việc hiệu quả hơn.",
+            "C": "Vì các ứng dụng yêu cầu phải dùng theo khung giờ.",
+            "D": "Vì sẽ nhận được nhiều thông báo hơn."
+          },
+          "explanation": "Sắp xếp các đầu việc cùng loại vào khung giờ cố định giúp tránh tình trạng liên tục chuyển đổi giữa các việc, nhờ đó duy trì sự tập trung và làm việc hiệu quả hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi đầu óc đã quá tải, mệt mỏi nhưng công việc còn dang dở, cách làm nào sau đây là hợp lý hơn cả?",
+          "options": {
+            "A": "Cố gắng làm tiếp bằng mọi giá cho đến khi xong, dù rất mệt.",
+            "B": "Cho phép bản thân nghỉ ngắn đúng lúc để phục hồi, rồi quay lại làm việc với sự tập trung tốt hơn.",
+            "C": "Vừa làm vừa lướt mạng xã hội để giải tỏa.",
+            "D": "Bỏ hẳn công việc sang ngày khác, không cần nghỉ."
+          },
+          "explanation": "Não bộ không thể tập trung cao liên tục trong thời gian dài; cố làm khi đã quá tải thường phản tác dụng (chậm hơn, dễ sai, căng thẳng hơn). Một quãng nghỉ ngắn đúng lúc giúp phục hồi tinh thần và làm việc hiệu quả hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "“Ngắt kết nối số” (digital detox) được hiểu là gì?",
+          "options": {
+            "A": "Xóa hẳn tất cả ứng dụng và ngừng dùng công nghệ vĩnh viễn.",
+            "B": "Chủ động dành những khoảng thời gian không dùng thiết bị số để tinh thần nghỉ ngơi, sử dụng công nghệ có chừng mực và chủ đích hơn.",
+            "C": "Tắt điện thoại chỉ khi hết pin.",
+            "D": "Chuyển toàn bộ công việc sang làm trên giấy."
+          },
+          "explanation": "“Ngắt kết nối số” là chủ động dành thời gian không dùng thiết bị để phục hồi tinh thần; đây không phải là từ bỏ công nghệ, mà là sử dụng công nghệ một cách có chừng mực và có chủ đích hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận thấy mình thường xuyên bị các thông báo tin nhắn, mạng xã hội làm gián đoạn khi đang xử lý một văn bản quan trọng. Cách khắc phục phù hợp nhất là gì?",
+          "options": {
+            "A": "Cứ để thông báo và vừa làm vừa xem cho nhanh.",
+            "B": "Bật chế độ “Không làm phiền” trong khoảng thời gian xử lý văn bản, tắt thông báo các ứng dụng không liên quan, và chỉ kiểm tra tin nhắn vào khung giờ đã định.",
+            "C": "Tắt hẳn điện thoại cả ngày, không liên lạc với ai.",
+            "D": "Chuyển sang vừa làm vừa lướt mạng xã hội cho đỡ căng thẳng."
+          },
+          "explanation": "Khi cần xử lý công việc quan trọng, nên bật chế độ “Không làm phiền”, tắt thông báo các ứng dụng không liên quan và dồn việc kiểm tra tin nhắn vào khung giờ cố định, giúp giữ tập trung mà vẫn không bỏ lỡ liên lạc cần thiết.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp chia sẻ rằng tối nào cũng xem điện thoại đến khuya, ngày nghỉ cũng “dán mắt” vào mạng xã hội nên luôn thấy mệt mỏi, khó tập trung. Anh/Chị nên góp ý thế nào?",
+          "options": {
+            "A": "Khuyên cứ tiếp tục, vì đó là nhu cầu giải trí bình thường.",
+            "B": "Gợi ý áp dụng “ngắt kết nối số”: dừng dùng thiết bị 30-60 phút trước khi ngủ, dành thời gian cho hoạt động ngoài màn hình và hạn chế trực tuyến vào ngày nghỉ để phục hồi tinh thần.",
+            "C": "Khuyên cài thêm nhiều ứng dụng giải trí cho vui.",
+            "D": "Khuyên thức khuya hơn nữa để xem cho hết nội dung."
+          },
+          "explanation": "Tình trạng mệt mỏi, khó tập trung do dùng thiết bị quá nhiều có thể cải thiện bằng thói quen “ngắt kết nối số”: dừng thiết bị trước khi ngủ, tăng hoạt động ngoài màn hình và hạn chế trực tuyến ngày nghỉ, giúp phục hồi tinh thần và sự tập trung.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

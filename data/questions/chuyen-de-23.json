@@ -1,0 +1,405 @@
+{
+  "topicId": 23,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Quy trình xử lý sự cố kỹ thuật cơ bản",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Bước đầu tiên trong quy trình xử lý sự cố kỹ thuật là gì?",
+          "options": {
+            "A": "Thử khởi động lại thiết bị ngay lập tức.",
+            "B": "Xác định rõ biểu hiện và loại sự cố đang gặp phải.",
+            "C": "Gọi ngay cho bộ phận kỹ thuật để nhờ xử lý."
+          },
+          "explanation": "Phải nhận diện đúng triệu chứng và loại sự cố trước thì mới định hướng cách xử lý phù hợp; xác định sai vấn đề sẽ dẫn đến sửa sai cách.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao khi gặp sự cố nên kiểm tra các nguyên nhân đơn giản nhất trước?",
+          "options": {
+            "A": "Vì mọi sự cố đều do lỗi của người dùng gây ra.",
+            "B": "Vì nhiều sự cố bắt nguồn từ nguyên nhân đơn giản (chưa cắm điện, dây lỏng, tắt âm lượng) và thường dễ khắc phục nhất.",
+            "C": "Vì kiểm tra nguyên nhân đơn giản giúp bỏ qua hẳn bước tìm hỗ trợ.",
+            "D": "Vì nguyên nhân phức tạp không bao giờ xảy ra."
+          },
+          "explanation": "Nguyên tắc “đơn giản trước, phức tạp sau” giúp xử lý nhanh phần lớn trục trặc thường gặp mà không mất công vào những giả định phức tạp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Theo quy trình, việc ghi lại các thao tác đã thử (ở bước kiểm tra kết quả) có tác dụng gì?",
+          "options": {
+            "A": "Không có tác dụng gì, chỉ làm mất thời gian.",
+            "B": "Giúp tránh lặp lại thao tác vô ích và cung cấp thông tin chính xác cho bộ phận kỹ thuật khi cần hỗ trợ.",
+            "C": "Chỉ để báo cáo thành tích với cấp trên.",
+            "D": "Giúp máy tính tự động sửa lỗi."
+          },
+          "explanation": "Ghi lại những gì đã thử giúp không lặp lại vô ích và mô tả nhanh, chính xác cho người hỗ trợ - rút ngắn thời gian khắc phục.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đang làm việc thì máy tính của Anh/Chị bị “đơ”, không phản hồi chuột và bàn phím. Theo quy trình, việc nên làm trước tiên là gì?",
+          "options": {
+            "A": "Rút nguồn điện đột ngột để tắt máy cho nhanh.",
+            "B": "Bình tĩnh thử tổ hợp phím để đóng ứng dụng đang treo hoặc khởi động lại máy đúng cách, sau đó kiểm tra lại.",
+            "C": "Ngồi chờ vài giờ cho máy tự khôi phục.",
+            "D": "Gọi ngay kỹ thuật viên mà chưa thử cách cơ bản nào."
+          },
+          "explanation": "Khởi động lại đúng cách là giải pháp cơ bản an toàn cho lỗi treo máy; rút nguồn đột ngột có thể gây mất dữ liệu hoặc hại thiết bị.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Sau khi thử các bước cơ bản mà máy vẫn lỗi, Anh/Chị gọi điện nhờ hỗ trợ. Một “trung tâm hỗ trợ” lạ trên mạng yêu cầu Anh/Chị cung cấp mật khẩu và cho phép điều khiển máy từ xa. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Cung cấp ngay mật khẩu và quyền điều khiển để được sửa nhanh.",
+            "B": "Làm theo mọi yêu cầu vì họ tự giới thiệu là chuyên gia.",
+            "C": "Từ chối cung cấp mật khẩu, không cho điều khiển từ xa; chỉ liên hệ bộ phận kỹ thuật chính thức của cơ quan hoặc nguồn hỗ trợ tin cậy.",
+            "D": "Gửi kèm cả tài liệu nội bộ để họ “kiểm tra giúp”."
+          },
+          "explanation": "Khi nhờ hỗ trợ, tuyệt đối không cung cấp mật khẩu, dữ liệu nội bộ hay quyền điều khiển máy cho nguồn lạ; chỉ dùng kênh hỗ trợ chính thức để tránh bị lừa đảo, đánh cắp dữ liệu.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Xử lý sự cố thiết bị số thường gặp",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi bấm nút nguồn mà máy tính không lên, theo nguyên tắc “đơn giản trước, phức tạp sau”, bước xử lý đầu tiên nên làm là gì?",
+          "options": {
+            "A": "Tháo thùng máy ra để kiểm tra bo mạch.",
+            "B": "Kiểm tra dây nguồn, ổ cắm điện và pin (đối với laptop).",
+            "C": "Mang ngay máy đến trung tâm bảo hành."
+          },
+          "explanation": "Nguồn điện, dây cắm, pin là nguyên nhân đơn giản và hay gặp nhất; kiểm tra những thứ này trước khi nghĩ đến lỗi linh kiện phức tạp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Laptop đang dùng bị quá nóng rồi tự tắt. Giải pháp nào dưới đây không nên làm?",
+          "options": {
+            "A": "Tắt máy, để nguội bớt rồi mới dùng tiếp.",
+            "B": "Vệ sinh bụi ở khe và quạt tản nhiệt.",
+            "C": "Tiếp tục dùng và đặt máy lên đệm hoặc gối cho êm.",
+            "D": "Dùng thêm đế tản nhiệt để hỗ trợ làm mát."
+          },
+          "explanation": "Đặt máy trên đệm, gối sẽ bịt kín lỗ thoát nhiệt khiến máy càng nóng; khi máy quá nhiệt cần để nguội và làm thông thoáng khe tản nhiệt.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi loa máy tính không phát ra âm thanh, điều nên kiểm tra đầu tiên là gì?",
+          "options": {
+            "A": "Cập nhật lại toàn bộ hệ điều hành.",
+            "B": "Kiểm tra âm lượng có bị tắt (mute) hoặc để quá nhỏ, và tai nghe có đang cắm vào máy không.",
+            "C": "Thay ngay card âm thanh mới.",
+            "D": "Cài đặt lại BIOS của máy."
+          },
+          "explanation": "Phần lớn sự cố mất tiếng đến từ âm lượng bị tắt hoặc tai nghe đang cắm làm ngắt loa ngoài - kiểm tra cái đơn giản trước khi nghĩ đến phần cứng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đang trình bày trong cuộc họp trực tuyến thì máy của Anh/Chị treo cứng, không thao tác được. Cách xử lý phù hợp nhất là gì?",
+          "options": {
+            "A": "Rút phích điện đột ngột cho máy tắt ngay.",
+            "B": "Thử tổ hợp phím buộc đóng ứng dụng đang treo (Ctrl + Alt + Delete trên Windows, Command + Option + Esc trên MacBook); nếu không được mới giữ nút nguồn để khởi động lại.",
+            "C": "Ngồi chờ rất lâu cho máy tự hồi phục, mặc cuộc họp gián đoạn.",
+            "D": "Đập nhẹ vào máy cho “hết treo”."
+          },
+          "explanation": "Dùng tổ hợp phím để đóng ứng dụng treo là cách an toàn ưu tiên (tùy hệ điều hành Windows hay MacBook); chỉ giữ nút nguồn tắt máy khi bất đắc dĩ, vì tắt đột ngột dễ mất dữ liệu chưa lưu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Máy của Anh/Chị quá nhiệt rồi tự tắt; Anh/Chị đã vệ sinh quạt nhưng máy vẫn tắt vì vẫn nóng. Bước tiếp theo nên làm là gì?",
+          "options": {
+            "A": "Cứ tiếp tục dùng, kệ máy nóng đến đâu thì đến.",
+            "B": "Tự mở thùng máy, tháo linh kiện bên trong ra kiểm tra.",
+            "C": "Lưu lại dữ liệu quan trọng, ngừng sử dụng và liên hệ bộ phận kỹ thuật, mô tả rõ đã vệ sinh quạt mà máy vẫn quá nhiệt.",
+            "D": "Cho máy vào ngăn mát tủ lạnh cho nguội nhanh."
+          },
+          "explanation": "Khi đã thử cách cơ bản mà không hết, đây là lúc cần dừng và nhờ kỹ thuật viên; tự ý mở máy khi không có chuyên môn có thể gây hỏng nặng hơn, còn làm lạnh đột ngột dễ gây hư hại do ngưng tụ hơi nước.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Xử lý sự cố phần mềm và ứng dụng",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi một ứng dụng đang chạy bỗng hiện trạng thái “Not Responding” (không phản hồi), việc nên làm là gì?",
+          "options": {
+            "A": "Tắt nguồn máy tính ngay lập tức để bảo vệ hệ thống.",
+            "B": "Chờ ít giây xem ứng dụng có tự hồi phục không; nếu không, dùng trình quản lý tác vụ để buộc đóng ứng dụng rồi mở lại.",
+            "C": "Gỡ cài đặt ứng dụng đó ngay lập tức."
+          },
+          "explanation": "Ứng dụng treo nhiều khi tự hồi phục sau ít giây; nếu không, buộc đóng bằng trình quản lý tác vụ là bước “Đóng” đầu tiên trong chu trình, an toàn hơn tắt nguồn đột ngột.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Theo chu trình “Đóng - Mở - Cập nhật - Gỡ cài”, biện pháp nên thử khi một phần mềm liên tục lỗi (sau khi đã đóng - mở lại) là gì?",
+          "options": {
+            "A": "Cài mới lại toàn bộ hệ điều hành.",
+            "B": "Kiểm tra và cập nhật phần mềm lên phiên bản mới nhất; nếu vẫn lỗi thì gỡ cài đặt rồi cài lại bản sạch từ nguồn tin cậy.",
+            "C": "Xóa hết các tệp dữ liệu liên quan đến phần mềm.",
+            "D": "Thay ổ cứng máy tính mới."
+          },
+          "explanation": "Sau “Đóng - Mở lại”, chu trình tiếp tục bằng “Cập nhật” rồi mới đến “Gỡ cài và cài lại” - đi từ giải pháp nhẹ đến triệt để, không vội cài lại cả hệ điều hành.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Chế độ an toàn (Safe Mode) có tác dụng gì khi xử lý sự cố phần mềm, hệ thống?",
+          "options": {
+            "A": "Tăng tốc độ máy tính lên mức tối đa.",
+            "B": "Khởi động máy chỉ với những thành phần cơ bản, giúp gỡ bỏ phần mềm hoặc trình điều khiển mới cài gây lỗi.",
+            "C": "Tự động sao lưu toàn bộ dữ liệu trong máy.",
+            "D": "Xóa vĩnh viễn mọi vi-rút mà không cần phần mềm diệt vi-rút."
+          },
+          "explanation": "Chế độ an toàn chỉ tải các thành phần hệ thống cơ bản, nhờ đó dễ gỡ bỏ phần mềm/trình điều khiển lỗi rồi khởi động lại bình thường.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Máy của Anh/Chị có dấu hiệu chạy chậm bất thường, hiện nhiều quảng cáo lạ và một số chương trình tự đóng - mở. Nghi máy nhiễm mã độc, việc nên làm trước tiên là gì?",
+          "options": {
+            "A": "Cứ tiếp tục làm việc bình thường vì có thể máy chỉ hơi chậm.",
+            "B": "Tạm ngắt kết nối Internet để tránh lây lan và rò rỉ dữ liệu, sau đó chạy quét vi-rút toàn hệ thống bằng phần mềm đã cập nhật.",
+            "C": "Cài thêm thật nhiều phần mềm diệt vi-rút từ các trang web lạ cho chắc.",
+            "D": "Gửi máy cho người quen sửa mà không sao lưu hay báo cơ quan."
+          },
+          "explanation": "Khi nghi nhiễm mã độc, ngắt mạng giúp hạn chế lây lan và đánh cắp dữ liệu; sau đó quét toàn hệ thống bằng phần mềm tin cậy đã cập nhật là bước xử lý đúng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp định tải một phần mềm tiện ích từ một trang web lạ về cài lên máy cơ quan để “xử lý nhanh công việc”. Anh/Chị nên góp ý thế nào?",
+          "options": {
+            "A": "Cứ để đồng nghiệp tải về cài, miễn là dùng được việc.",
+            "B": "Khuyên tải càng nhiều phần mềm lạ càng tốt cho phong phú.",
+            "C": "Khuyên chỉ cài phần mềm từ nguồn chính thống, tin cậy và nên trao đổi với bộ phận kỹ thuật của cơ quan trước khi cài, để tránh rủi ro mã độc và bảo đảm đúng quy định.",
+            "D": "Đề nghị tắt phần mềm diệt vi-rút đi để cài cho nhanh."
+          },
+          "explanation": "Cài phần mềm từ nguồn lạ tiềm ẩn nguy cơ mã độc, mất an toàn dữ liệu; chỉ dùng nguồn chính thống và phối hợp với bộ phận kỹ thuật là cách làm an toàn, đúng quy định trong môi trường công sở.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Khắc phục sự cố kết nối Internet",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi đang dùng Wi-Fi mà bị mất kết nối Internet, việc đầu tiên nên làm là gì?",
+          "options": {
+            "A": "Khởi động lại máy tính ngay lập tức.",
+            "B": "Kiểm tra xem Wi-Fi trên máy có bị tắt không, dây mạng có lỏng không, và thử kết nối lại.",
+            "C": "Gọi ngay tổng đài nhà mạng để báo hỏng."
+          },
+          "explanation": "Theo nguyên tắc kiểm tra từ gần đến xa, trước hết phải xem chính thiết bị của mình; rất nhiều khi chỉ là Wi-Fi bị tắt nhầm hoặc dây lỏng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Thao tác nào sau đây thường rất hiệu quả để khắc phục tình trạng mất mạng?",
+          "options": {
+            "A": "Đập mạnh vào modem cho nó tự reset.",
+            "B": "Rút nguồn điện rồi khởi động lại modem/router, đợi vài phút cho đèn ổn định rồi kết nối lại.",
+            "C": "Gỡ bỏ trình duyệt web rồi cài lại.",
+            "D": "Thay toàn bộ dây cáp mạng trong phòng."
+          },
+          "explanation": "Khởi động lại modem/router là cách hiệu quả nhất cho phần lớn sự cố mạng, vì thiết bị chạy lâu ngày dễ ngưng hoạt động tạm thời và cần được làm mới.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Nếu modem có đèn báo Internet màu đỏ hoặc không sáng, điều đó thường có nghĩa là gì?",
+          "options": {
+            "A": "Kết nối từ nhà cung cấp dịch vụ đang gặp vấn đề; cần liên hệ nhà mạng hoặc chờ họ khắc phục.",
+            "B": "Modem hoàn toàn bình thường, lỗi chắc chắn nằm ở máy tính.",
+            "C": "Đèn modem bị hỏng nên tín hiệu đèn không có ý nghĩa gì.",
+            "D": "Internet vẫn bình thường, đèn báo sai do trục trặc nhỏ."
+          },
+          "explanation": "Đèn Internet đỏ hoặc tắt thường báo hiệu sự cố từ đường truyền của nhà mạng; lúc này nên liên hệ nhà cung cấp để được kiểm tra và xử lý.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đang họp trực tuyến thì máy của Anh/Chị mất mạng. Để biết lỗi do máy mình hay do mạng chung, cách kiểm tra nhanh và hợp lý nhất là gì?",
+          "options": {
+            "A": "Lập tức gọi nhà mạng trước khi thử bất cứ điều gì.",
+            "B": "Thử kết nối một thiết bị khác (như điện thoại) vào cùng mạng: nếu thiết bị đó cũng không vào được thì lỗi ở mạng chung, nếu vào được thì lỗi ở máy của mình.",
+            "C": "Tắt máy tính đi rồi để đó, chờ mạng tự khôi phục.",
+            "D": "Thay ngay modem mới cho chắc chắn."
+          },
+          "explanation": "Thử bằng một thiết bị khác trên cùng mạng là cách khoanh vùng nhanh và chính xác, giúp xác định nên xử lý ở máy mình hay báo nhà mạng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Mạng cơ quan của Anh/Chị bỗng chậm bất thường, nghi do mật khẩu Wi-Fi quá đơn giản nên bị người ngoài truy cập trái phép. Cách xử lý phù hợp nhất là gì?",
+          "options": {
+            "A": "Tự ý vào cấu hình thiết bị mạng của cơ quan để đổi mọi thiết lập theo ý mình.",
+            "B": "Bỏ luôn mật khẩu Wi-Fi cho tiện kết nối.",
+            "C": "Báo bộ phận kỹ thuật để rà soát và đặt mật khẩu Wi-Fi đủ mạnh, đổi định kỳ; không chia sẻ mật khẩu nội bộ cho người không có trách nhiệm.",
+            "D": "Chia sẻ rộng rãi mật khẩu cho mọi người để ai cũng dùng được."
+          },
+          "explanation": "Mật khẩu yếu khiến mạng dễ bị dùng trái phép và mất an toàn; với mạng cơ quan, nên để bộ phận kỹ thuật xử lý cấu hình, đặt mật khẩu mạnh và giữ bí mật nội bộ.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Xử lý sự cố máy in văn phòng",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi máy in không in dù đã ra lệnh, việc đầu tiên nên kiểm tra là gì?",
+          "options": {
+            "A": "Kiểm tra xem máy in đã được bật và kết nối đúng chưa (dây cáp hoặc mạng).",
+            "B": "Đập nhẹ vào máy in để kích thích nó hoạt động.",
+            "C": "Cài đặt lại toàn bộ hệ điều hành máy tính."
+          },
+          "explanation": "Trước hết phải bảo đảm máy in đã bật và kết nối đúng; rất nhiều khi máy không in chỉ vì chưa bật, tuột dây hoặc mất kết nối mạng.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Cách xử lý kẹt giấy máy in đúng và an toàn là gì?",
+          "options": {
+            "A": "Cứ tiếp tục bấm in để giấy tự đẩy ra ngoài.",
+            "B": "Tắt máy in, mở nắp, rồi từ từ kéo tờ giấy ra theo đúng chiều giấy chạy, kiểm tra hết mảnh vụn trước khi đóng nắp.",
+            "C": "Dùng vật nhọn cậy mạnh cho giấy rách rồi bật máy lại.",
+            "D": "Lật ngược máy in để mảnh giấy tự rơi ra."
+          },
+          "explanation": "Tắt máy trước để an toàn, kéo giấy nhẹ và đúng chiều để không rách, làm sạch mảnh vụn - đó là quy trình gỡ kẹt giấy chuẩn; giật mạnh hay dùng vật nhọn dễ làm hỏng máy.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Bản in ra mờ nhạt, chữ đậm nhạt không đều; nguyên nhân thường gặp nhất là gì?",
+          "options": {
+            "A": "Máy in bị ẩm ướt.",
+            "B": "Hộp mực sắp hết, cần thay hộp mực hoặc nạp mực mới.",
+            "C": "Giấy in quá dày so với tiêu chuẩn.",
+            "D": "Lỗi kết nối cáp giữa máy in và máy tính."
+          },
+          "explanation": "Bản in mờ, đậm nhạt thất thường hầu hết là dấu hiệu sắp hết mực; thay hoặc nạp mực sẽ khắc phục, trước khi nghĩ đến các nguyên nhân phức tạp hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị gửi lệnh in nhiều lần nhưng máy không in, trên máy tính có nhiều lệnh in đang xếp hàng chờ. Cách xử lý hợp lý nhất là gì?",
+          "options": {
+            "A": "Cứ bấm in thêm thật nhiều lần nữa cho máy “nhận ra”.",
+            "B": "Xóa toàn bộ các lệnh đang chờ trong hàng đợi in, khởi động lại dịch vụ in trên máy tính, rồi thử in lại một tệp đơn giản.",
+            "C": "Tắt máy tính và máy in rồi bỏ đó, chờ tự khỏi.",
+            "D": "Rút điện máy in đột ngột nhiều lần liên tiếp."
+          },
+          "explanation": "Khi lệnh in bị đọng trong hàng đợi, làm mới hàng đợi và khởi động lại dịch vụ in là cách xử lý đúng; bấm in thêm chỉ khiến hàng đợi càng dài.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Máy in của phòng bị lem mực, có vệt đen trên bản in; Anh/Chị nghi trống mực bị bẩn hoặc hỏng nhưng chưa từng thao tác thay trống. Nên làm gì?",
+          "options": {
+            "A": "Tự ý tháo tung máy in ra để thay trống cho nhanh.",
+            "B": "Cứ in tiếp, kệ cho bản in lem bẩn.",
+            "C": "Không tự tháo mở máy; nhờ kỹ thuật viên hoặc bộ phận phụ trách vệ sinh bên trong và thay trống mực để tránh làm hỏng thiết bị.",
+            "D": "Đổ mực ra ngoài rồi lắp lại đại khái cho xong."
+          },
+          "explanation": "Vệ sinh bên trong máy và thay trống mực là phần việc cần can thiệp vào bên trong thiết bị; nhờ người có chuyên môn thực hiện là cách an toàn, tránh gây hư hỏng nặng hơn.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

@@ -53,7 +53,7 @@
             "C": "Thay thế hoàn toàn con người, tự ra quyết định cuối cùng.",
             "D": "Gợi ý nội dung và tự động tóm tắt khi soạn thảo văn bản."
           },
-          "explanation": "AI hỗ trợ gợi ý nội dung, tóm tắt, phân tích số liệu; nó là công cụ hỗ trợ, không thay con người ra quyết định cuối cùng. Phần tình huống công vụ",
+          "explanation": "AI hỗ trợ gợi ý nội dung, tóm tắt, phân tích số liệu; nó là công cụ hỗ trợ, không thay con người ra quyết định cuối cùng.",
           "correctLabel": "D",
           "isTrueFalse": false,
           "source": "manually-verified",
@@ -154,7 +154,7 @@
             "C": "Đến trực tiếp cơ quan để hỏi vì trên mạng không xem được.",
             "D": "Chờ đến hẹn rồi đến nhận, không cần theo dõi."
           },
-          "explanation": "Mỗi hồ sơ có mã số tra cứu; người dùng xem trạng thái qua mã hoặc mục “Hồ sơ của tôi”, và nhận thông báo tự động qua tin nhắn/email. Phần tình huống công vụ",
+          "explanation": "Mỗi hồ sơ có mã số tra cứu; người dùng xem trạng thái qua mã hoặc mục “Hồ sơ của tôi”, và nhận thông báo tự động qua tin nhắn/email.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -255,7 +255,7 @@
             "C": "Chọn nền tảng, nguồn học chính thống; không chia sẻ tài liệu mật; dùng tài liệu hợp pháp và ghi rõ nguồn.",
             "D": "Chia sẻ công khai mã lớp học nội bộ cho mọi người vào cho vui."
           },
-          "explanation": "Cần học từ nguồn chính thống, không phát tán tài liệu nội bộ mật, dùng tài liệu hợp pháp và ghi rõ nguồn; các cách còn lại đều vi phạm bảo mật hoặc bản quyền. Phần tình huống công vụ",
+          "explanation": "Cần học từ nguồn chính thống, không phát tán tài liệu nội bộ mật, dùng tài liệu hợp pháp và ghi rõ nguồn; các cách còn lại đều vi phạm bảo mật hoặc bản quyền.",
           "correctLabel": "C",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -356,7 +356,7 @@
             "C": "Gửi dồn dập nhiều tin “??” khi chưa thấy trả lời ngay.",
             "D": "Nhắn việc công vào đêm khuya cho kịp, bất kể giờ giấc."
           },
-          "explanation": "Trên chat công việc vẫn cần ngắn gọn, lịch sự, phản hồi rõ ràng; việc phức tạp nên chuyển kênh phù hợp và tránh làm phiền ngoài giờ. Phần tình huống công vụ",
+          "explanation": "Trên chat công việc vẫn cần ngắn gọn, lịch sự, phản hồi rõ ràng; việc phức tạp nên chuyển kênh phù hợp và tránh làm phiền ngoài giờ.",
           "correctLabel": "B",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",
@@ -457,7 +457,7 @@
             "C": "Xem một vài video giải trí vào cuối tuần để thư giãn.",
             "D": "Nghe nhạc nhẹ khi tập thể dục buổi sáng."
           },
-          "explanation": "Dành hầu hết thời gian rảnh để lướt mạng và giảm tập trung vào công việc là dấu hiệu lạm dụng, cần đặt lại giới hạn thời gian; các trường hợp còn lại đều ở mức chừng mực. Phần tình huống công vụ",
+          "explanation": "Dành hầu hết thời gian rảnh để lướt mạng và giảm tập trung vào công việc là dấu hiệu lạm dụng, cần đặt lại giới hạn thời gian; các trường hợp còn lại đều ở mức chừng mực.",
           "correctLabel": "A",
           "isTrueFalse": false,
           "source": "inferred-from-explanation",

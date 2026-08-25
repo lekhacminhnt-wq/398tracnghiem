@@ -1,0 +1,410 @@
+{
+  "topicId": 26,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Chuyển đổi số trong cơ quan nhà nước: tầm nhìn và đánh giá năng lực số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo bài học, bản chất cốt lõi của chuyển đổi số trong cơ quan nhà nước là gì?",
+          "options": {
+            "A": "Trang bị càng nhiều máy tính và phần mềm mới càng tốt.",
+            "B": "Đổi mới toàn diện về cách làm việc và tư duy quản lý, không chỉ là thiết bị, phần mềm.",
+            "C": "Thay thế hoàn toàn con người bằng máy móc và phần mềm.",
+            "D": "Số hóa mọi tài liệu giấy thành tệp điện tử là đã hoàn tất."
+          },
+          "explanation": "Chuyển đổi số là đổi mới cách làm việc và tư duy; công nghệ chỉ là phương tiện, con người là yếu tố quyết định.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "“Khoảng cách năng lực số” của một cán bộ được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Khoảng cách về tuổi tác giữa các thế hệ cán bộ trong cơ quan.",
+            "B": "Chênh lệch giữa kỹ năng số mà công việc đòi hỏi và kỹ năng số mà cá nhân thực có.",
+            "C": "Số lượng phần mềm mà một người chưa cài đặt trên máy tính.",
+            "D": "Khoảng cách giữa cơ quan mình với cơ quan khác về trang thiết bị."
+          },
+          "explanation": "Đó là chênh lệch giữa yêu cầu của công việc và năng lực thực tế của cá nhân - chính là phần cần bồi đắp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao việc tự xác định khoảng cách năng lực số lại quan trọng?",
+          "options": {
+            "A": "Để so sánh hơn thua với đồng nghiệp trong cơ quan.",
+            "B": "Để biết cần học đúng cái gì, tránh học lan man, chủ động bắt kịp yêu cầu công việc.",
+            "C": "Để có lý do từ chối những công việc liên quan đến công nghệ.",
+            "D": "Vì đó là thủ tục bắt buộc không có giá trị thực tế."
+          },
+          "explanation": "Biết khoảng cách giúp học đúng trọng tâm, tiết kiệm thời gian và tự tin hơn với công việc số.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Sau khi tự đánh giá, Anh/Chị nhận thấy mình còn yếu về kỹ năng an toàn thông tin. Cách hành động phù hợp nhất với tinh thần bài học là gì?",
+          "options": {
+            "A": "Bỏ qua, vì đã có bộ phận kỹ thuật của cơ quan lo việc đó.",
+            "B": "Đặt một mục tiêu nhỏ, vừa sức trong tháng - như học và thực hành cách bảo vệ tài khoản công việc.",
+            "C": "Đăng ký ngay tất cả các khóa học nâng cao về mọi lĩnh vực số cùng lúc.",
+            "D": "Chờ đến khi cơ quan tổ chức tập huấn bắt buộc mới bắt đầu học."
+          },
+          "explanation": "Kế hoạch bồi dưỡng nên thực tế, vừa sức, bắt đầu từ một việc nhỏ làm được ngay, rồi tiến dần.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp lớn tuổi cho rằng “chuyển đổi số là việc của lớp trẻ, mình sắp nghỉ nên không cần học”. Theo tinh thần bài học, quan điểm này nên được nhìn nhận thế nào?",
+          "options": {
+            "A": "Hoàn toàn hợp lý, vì năng lực số chỉ dành cho người trẻ.",
+            "B": "Đúng, vì người lớn tuổi không thể học được kỹ năng số.",
+            "C": "Chưa phù hợp, vì mỗi cán bộ đều là tác nhân của chuyển đổi số và việc bồi dưỡng kỹ năng số là yêu cầu thường xuyên với mọi người.",
+            "D": "Không liên quan đến mình nên không cần góp ý."
+          },
+          "explanation": "Chuyển đổi số cần sự tham gia của mọi cán bộ; tự học, bồi dưỡng kỹ năng số là yêu cầu thường xuyên, không phân biệt tuổi tác.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Kỹ năng số cơ bản trong công việc hành chính công",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu KHÔNG phải là một kỹ năng số cơ bản cần có đối với cán bộ, công chức, viên chức?",
+          "options": {
+            "A": "Soạn thảo văn bản, lập bảng tính và trình bày bằng phần mềm văn phòng.",
+            "B": "Tìm kiếm, chọn lọc và tổng hợp thông tin phục vụ công việc.",
+            "C": "Lập trình phần mềm phức tạp để tự xây dựng hệ thống cho cơ quan.",
+            "D": "Quản lý, lưu trữ và chia sẻ tài liệu an toàn trên môi trường số."
+          },
+          "explanation": "Kỹ năng số cơ bản hướng tới vận hành công việc thành thạo, không yêu cầu lập trình chuyên sâu - đó là việc của cán bộ kỹ thuật chuyên trách.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Theo bài học, ba nhóm kỹ năng số cốt lõi trong công việc hành chính công là gì?",
+          "options": {
+            "A": "Kỹ năng đánh máy nhanh, kỹ năng thiết kế đồ họa, kỹ năng quay video.",
+            "B": "Vận hành công việc số; tìm kiếm và xử lý thông tin; an toàn và giao tiếp số có trách nhiệm.",
+            "C": "Kỹ năng sửa máy tính, kỹ năng cài phần mềm, kỹ năng lập trình.",
+            "D": "Kỹ năng dùng mạng xã hội, kỹ năng chơi game, kỹ năng chỉnh ảnh."
+          },
+          "explanation": "Ba nhóm này hợp thành bộ khung năng lực số cốt lõi để tự rà soát, bám sát chuẩn của Nhà nước.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao bài học khuyến khích đối chiếu năng lực bản thân với Khung kỹ năng số chuẩn của Nhà nước?",
+          "options": {
+            "A": "Để được xếp hạng thi đua cao hơn trong cơ quan.",
+            "B": "Vì đó là thước đo chung, giúp việc hoàn thiện kỹ năng đi đúng chuẩn thay vì học ngẫu nhiên.",
+            "C": "Vì nếu không đối chiếu sẽ bị xử lý kỷ luật.",
+            "D": "Để so sánh hơn kém về điểm số với đồng nghiệp."
+          },
+          "explanation": "Khung chuẩn đóng vai trò thước đo chung, giúp mỗi người bồi dưỡng đúng hướng và đúng trọng tâm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Sau khi tự rà soát ba nhóm kỹ năng, Anh/Chị thấy mình thành thạo soạn thảo văn bản nhưng còn lúng túng khi tổng hợp số liệu thành biểu đồ để báo cáo. Hướng hành động phù hợp nhất là gì?",
+          "options": {
+            "A": "Bỏ qua, vì đã giỏi soạn thảo là đủ cho công việc.",
+            "B": "Ghi nhận đây là khoảng cách thuộc nhóm xử lý thông tin và đặt mục tiêu bồi dưỡng kỹ năng tổng hợp, trình bày dữ liệu.",
+            "C": "Nhờ người khác làm thay phần biểu đồ mãi mãi để khỏi phải học.",
+            "D": "Cho rằng kỹ năng biểu đồ không cần thiết với cán bộ hành chính."
+          },
+          "explanation": "Tự rà soát là để nhận ra đúng khoảng cách của mình rồi bồi dưỡng đúng nhóm kỹ năng còn yếu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trong lúc rà soát kỹ năng an toàn số, Anh/Chị nhận thấy mình hay gửi tài liệu công việc qua tài khoản nhắn tin cá nhân cho tiện. Theo tinh thần bài học, nên nhìn nhận thói quen này thế nào?",
+          "options": {
+            "A": "Không sao, miễn là gửi nhanh và tiện cho công việc.",
+            "B": "Chấp nhận được, vì tài khoản cá nhân cũng có mật khẩu.",
+            "C": "Đây là một rủi ro an toàn cần khắc phục; tài liệu công vụ phải gửi qua kênh chính thống, không dùng kênh cá nhân chưa được phép.",
+            "D": "Chỉ cần xóa tin nhắn sau khi gửi là an toàn."
+          },
+          "explanation": "Gửi tài liệu công vụ qua kênh cá nhân chưa được phép là rủi ro lộ lọt; cần chuyển sang kênh chính thống theo quy định.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Ứng dụng hiệu quả trí tuệ nhân tạo (AI) trong công việc của cán bộ, công chức, viên chức",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo bài học, khâu công việc nào sau đây là trường hợp phù hợp nhất để ứng dụng AI hỗ trợ?",
+          "options": {
+            "A": "Ra quyết định kỷ luật một cán bộ trong cơ quan.",
+            "B": "Tóm tắt một tài liệu dài hoặc phân loại hồ sơ theo nhóm có khuôn mẫu.",
+            "C": "Chịu trách nhiệm pháp lý về nội dung một văn bản đã ban hành.",
+            "D": "Đánh giá, nhận xét về phẩm chất chính trị của đồng nghiệp."
+          },
+          "explanation": "AI phù hợp với việc lặp lại, theo khuôn mẫu, xử lý nhiều thông tin; còn phán đoán, quyết định và trách nhiệm thuộc về con người.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu KHÔNG phải là một dấu hiệu cho thấy một công việc có thể cân nhắc ứng dụng AI?",
+          "options": {
+            "A": "Việc lặp đi lặp lại theo một khuôn mẫu nhất định.",
+            "B": "Việc cần xử lý, rút gọn khối lượng thông tin lớn.",
+            "C": "Việc đòi hỏi phán đoán và ra quyết định cuối cùng có tính trách nhiệm.",
+            "D": "Việc cần một bản nháp hoặc dàn ý khởi đầu để chỉnh sửa tiếp."
+          },
+          "explanation": "Việc cần phán đoán và chịu trách nhiệm cuối cùng phải do con người đảm nhận; AI chỉ tham khảo.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc “AI làm nhanh, con người làm chuẩn” có nghĩa là gì?",
+          "options": {
+            "A": "AI làm mọi việc, con người chỉ cần ngồi chờ kết quả.",
+            "B": "AI hỗ trợ phần việc thô và lặp lại, còn kiểm chứng, quyết định và chịu trách nhiệm cuối cùng thuộc về con người.",
+            "C": "Con người và AI thi xem ai làm nhanh hơn và chuẩn hơn.",
+            "D": "Chỉ nên dùng AI khi con người quá bận, không còn thời gian."
+          },
+          "explanation": "AI gánh phần việc lặp lại để tiết kiệm thời gian; con người giữ vai trò kiểm chứng và quyết định.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Sau khi tự đánh giá, Anh/Chị thấy mình “chưa khai thác” AI bao giờ. Bước đi phù hợp nhất với tinh thần bài học là gì?",
+          "options": {
+            "A": "Cho rằng AI không cần thiết với công việc của mình và bỏ qua.",
+            "B": "Mạnh dạn thử một lần với một việc nhỏ, an toàn - như nhờ AI tóm tắt một tài liệu không thuộc diện mật, rồi đối chiếu lại.",
+            "C": "Lập tức dùng AI cho mọi việc, kể cả các việc quan trọng nhất.",
+            "D": "Chờ khi nào thành thạo hoàn toàn mới bắt đầu dùng AI lần đầu."
+          },
+          "explanation": "Thu hẹp khoảng cách bắt đầu từ một lần thử nhỏ, an toàn, có kiểm chứng - không cần cầu toàn ngay.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị muốn dùng một công cụ AI công cộng để tóm tắt nhanh một dự thảo báo cáo nội bộ chưa được công bố. Cách xử lý đúng đắn nhất là gì?",
+          "options": {
+            "A": "Dán toàn bộ dự thảo vào công cụ cho nhanh, vì chỉ mình mình dùng.",
+            "B": "Dán vào nhưng nhớ xóa lịch sử trò chuyện sau khi xong là an toàn.",
+            "C": "Không đưa nội dung nội bộ chưa công bố lên công cụ AI công cộng; chỉ dùng AI cho nội dung đã được phép, hoặc dùng công cụ được cơ quan cho phép, và luôn kiểm chứng kết quả.",
+            "D": "Nhờ người khác dán hộ để mình không phải chịu trách nhiệm."
+          },
+          "explanation": "Dữ liệu nội bộ, chưa công bố tuyệt đối không đưa lên công cụ AI công cộng, kể cả khi đã xóa lịch sử; ưu tiên công cụ được cơ quan cho phép.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "An toàn thông tin và bảo vệ dữ liệu trong môi trường số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo bài học, vì sao an toàn thông tin được coi là điều kiện sống còn của chuyển đổi số?",
+          "options": {
+            "A": "Vì nó giúp máy tính chạy nhanh hơn.",
+            "B": "Vì nếu dữ liệu bị lộ lọt hay hệ thống bị xâm nhập, mọi thành quả chuyển đổi số đều có thể bị tổn hại nghiêm trọng.",
+            "C": "Vì đó chỉ là một thủ tục hành chính bắt buộc.",
+            "D": "Vì an toàn thông tin chỉ liên quan đến bộ phận kỹ thuật."
+          },
+          "explanation": "An toàn thông tin là nền tảng; mất an toàn thì mọi nỗ lực số hóa đều có nguy cơ đổ vỡ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Ba lớp để tự đánh giá mức độ tuân thủ an toàn thông tin trong bài là gì?",
+          "options": {
+            "A": "Mua phần mềm, thuê chuyên gia, lắp camera.",
+            "B": "Bảo vệ tài khoản và thiết bị; xử lý dữ liệu đúng quy định; ứng xử đúng trước rủi ro.",
+            "C": "Đăng nhập, đăng xuất, đổi mật khẩu.",
+            "D": "Cài đặt, sao chép, in ấn tài liệu."
+          },
+          "explanation": "Ba lớp đi từ gần đến xa, hợp thành bộ tiêu chí để cá nhân và đơn vị tự rà soát.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Theo tinh thần bài học, an toàn thông tin trong một cơ quan phụ thuộc nhiều nhất vào điều gì?",
+          "options": {
+            "A": "Chỉ phụ thuộc vào hệ thống máy chủ hiện đại.",
+            "B": "Chỉ phụ thuộc vào lãnh đạo và bộ phận kỹ thuật.",
+            "C": "Phụ thuộc vào ý thức của mọi cá nhân, vì hệ thống an toàn đến đâu cũng được quyết định bởi mắt xích yếu nhất.",
+            "D": "Phụ thuộc vào việc có nhiều phần mềm diệt virus hay không."
+          },
+          "explanation": "Một cá nhân lơ là có thể thành mắt xích yếu khiến cả hệ thống gặp rủi ro; an toàn là trách nhiệm chung.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Sau khi tự rà soát ba lớp, Anh/Chị nhận thấy mình chưa bật xác thực nhiều lớp cho tài khoản công việc. Hướng hành động phù hợp nhất là gì?",
+          "options": {
+            "A": "Bỏ qua, vì mật khẩu hiện tại cũng đủ dùng rồi.",
+            "B": "Xác định đây là một điểm cần ưu tiên thuộc lớp bảo vệ tài khoản và bật xác thực nhiều lớp ngay trong tuần.",
+            "C": "Chờ khi nào bị mất tài khoản rồi mới xử lý.",
+            "D": "Cho rằng việc này là của bộ phận kỹ thuật, không phải của mình."
+          },
+          "explanation": "Tự rà soát là để nhận ra điểm cần ưu tiên cụ thể và khắc phục ngay bằng một hành động nhỏ, vừa sức.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận được một thư điện tử lạ, tự xưng là cơ quan cấp trên, yêu cầu bấm vào đường liên kết để “cập nhật thông tin tài khoản gấp”. Cách xử lý đúng đắn nhất là gì?",
+          "options": {
+            "A": "Bấm vào liên kết ngay để kịp cập nhật theo yêu cầu.",
+            "B": "Chuyển tiếp thư cho tất cả đồng nghiệp để mọi người cùng làm.",
+            "C": "Không vội bấm vào liên kết; kiểm chứng lại qua kênh chính thống và báo cho bộ phận phụ trách nếu thấy dấu hiệu lừa đảo.",
+            "D": "Trả lời thư, cung cấp thông tin tài khoản để được hỗ trợ nhanh."
+          },
+          "explanation": "Đây là dấu hiệu lừa đảo điển hình; cần tỉnh táo kiểm chứng và báo bộ phận phụ trách, tuyệt đối không bấm liên kết hay cung cấp thông tin.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Giao tiếp số và khai thác dữ liệu phục vụ hoạt động của cơ quan nhà nước",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo bài học, một thông điệp giao tiếp số hiệu quả trong công việc cần bảo đảm điều gì?",
+          "options": {
+            "A": "Càng dài và nhiều thông tin càng tốt.",
+            "B": "Rõ ràng để người nhận nắm được cần làm gì, đến khi nào và phản hồi ra sao.",
+            "C": "Dùng càng nhiều thuật ngữ chuyên môn càng chuyên nghiệp.",
+            "D": "Gửi cùng lúc qua thật nhiều kênh để chắc chắn."
+          },
+          "explanation": "Giao tiếp số hiệu quả là chọn đúng kênh và truyền thông điệp rõ ý, giúp người nhận hành động được ngay.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi khai thác dữ liệu để phục vụ tham mưu, báo cáo, điều nào sau đây là đúng đắn nhất?",
+          "options": {
+            "A": "Dùng số liệu nào tìm thấy đầu tiên trên mạng cho nhanh.",
+            "B": "Dựa trên số liệu từ nguồn đáng tin cậy, có kiểm chứng, và trình bày trực quan, dễ hiểu.",
+            "C": "Chỉ nói theo cảm tính và kinh nghiệm cá nhân là đủ.",
+            "D": "Đưa thật nhiều con số mà không cần chú thích nguồn."
+          },
+          "explanation": "Dữ liệu phải đến từ nguồn tin cậy, được kiểm chứng và trình bày rõ ràng thì mới có sức thuyết phục.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Thông điệp cốt lõi về tinh thần học tập mà bài học (và cả chương trình) muốn gửi gắm là gì?",
+          "options": {
+            "A": "Học xong chương trình là đã đủ kiến thức số cho cả sự nghiệp.",
+            "B": "Chỉ cần học khi nào cơ quan bắt buộc.",
+            "C": "Trong thế giới số không có vạch đích cuối cùng; cần giữ tinh thần tự học và sẵn sàng đổi mới liên tục.",
+            "D": "Công nghệ thay đổi quá nhanh nên không cần cố gắng theo kịp."
+          },
+          "explanation": "Năng lực số cần được bồi dưỡng suốt đời; hoàn thành chương trình là một cột mốc, không phải điểm dừng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần báo cáo lãnh đạo về kết quả công việc của phòng trong quý. Cách làm thể hiện đúng tinh thần “khai thác dữ liệu” đã học là gì?",
+          "options": {
+            "A": "Trình bày bằng nhận định chung chung, không kèm số liệu.",
+            "B": "Tổng hợp số liệu từ nguồn đáng tin cậy, kiểm chứng lại, và trình bày bằng bảng hoặc biểu đồ trực quan để báo cáo thuyết phục.",
+            "C": "Lấy một vài con số ước lượng theo trí nhớ cho nhanh.",
+            "D": "Sao chép số liệu từ một nguồn trên mạng mà không kiểm tra."
+          },
+          "explanation": "Báo cáo dựa trên dữ liệu tin cậy, có kiểm chứng và trình bày trực quan sẽ chính xác và thuyết phục hơn hẳn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Sau khi hoàn thành toàn bộ chương trình, đâu là cách Anh/Chị tiếp nối tinh thần học tập đúng đắn nhất?",
+          "options": {
+            "A": "Coi như đã hoàn thành nghĩa vụ và dừng việc cập nhật kiến thức số.",
+            "B": "Chỉ học thêm khi bị yêu cầu, không chủ động.",
+            "C": "Tiếp tục chủ động cập nhật công nghệ mới, áp dụng kiến thức đã học vào công việc và sẵn sàng đổi mới khi cần.",
+            "D": "Cho rằng kiến thức đã học là đủ dùng mãi mãi."
+          },
+          "explanation": "Tinh thần học tập suốt đời và chủ động đổi mới chính là hành trang bền vững nhất sau khi kết thúc chương trình.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

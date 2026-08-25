@@ -1,0 +1,491 @@
+{
+  "topicId": 8,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Khái niệm dữ liệu số và tầm quan trọng của quản lý dữ liệu",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Điểm nào sau đây đúng nhất về mối quan hệ giữa dữ liệu và thông tin?",
+          "options": {
+            "A": "Dữ liệu và thông tin hoàn toàn giống nhau, đều là các con số và chữ viết.",
+            "B": "Dữ liệu là đầu vào thô, qua xử lý phân tích trở thành thông tin có ý nghĩa.",
+            "C": "Thông tin khi mất ý nghĩa sẽ trở thành dữ liệu thô.",
+            "D": "Một tài liệu điện tử không chứa dữ liệu nên không được gọi là thông tin."
+          },
+          "explanation": "Dữ liệu là nguyên liệu thô; chỉ khi qua xử lý, phân tích mới trở thành thông tin có ý nghĩa để sử dụng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Điều nào sau đây không phải là lợi ích của việc quản lý dữ liệu, thông tin hiệu quả?",
+          "options": {
+            "A": "Nhanh chóng tìm được tài liệu cần thiết khi xử lý công việc.",
+            "B": "Tuân thủ quy định pháp luật về lưu trữ và bảo mật thông tin.",
+            "C": "Tránh được việc phải sao lưu dữ liệu, giúp tiết kiệm dung lượng.",
+            "D": "Hỗ trợ phát hiện sớm vấn đề nhờ phân tích dữ liệu có hệ thống."
+          },
+          "explanation": "Sao lưu là việc cần thiết để phòng mất mát dữ liệu; “bỏ sao lưu” không phải lợi ích mà là rủi ro.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Thông tin nào sau đây là dữ liệu cá nhân nhạy cảm?",
+          "options": {
+            "A": "Họ và tên.",
+            "B": "Số điện thoại.",
+            "C": "Thông tin về tình trạng sức khỏe.",
+            "D": "Địa chỉ nơi ở."
+          },
+          "explanation": "Sức khỏe thuộc nhóm dữ liệu cá nhân nhạy cảm, cần bảo vệ nghiêm ngặt hơn; họ tên, số điện thoại, địa chỉ thuộc nhóm cơ bản.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Trong một thư mục công việc có cả văn bản công khai lẫn hồ sơ chứa thông tin sức khỏe của công dân. Để quản lý đúng, Quý Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Để chung tất cả cho tiện, ai cần thì tự tìm.",
+            "B": "Tách riêng hồ sơ chứa thông tin sức khỏe, nhận diện là dữ liệu nhạy cảm, giới hạn quyền truy cập và bảo vệ theo quy định.",
+            "C": "Sao lưu toàn bộ lên một ổ đĩa cá nhân cho chắc.",
+            "D": "Đăng danh mục hồ sơ lên nhóm chung để mọi người cùng nắm."
+          },
+          "explanation": "Thông tin sức khỏe là dữ liệu cá nhân nhạy cảm; cần tách riêng, hạn chế truy cập và bảo vệ nghiêm ngặt theo pháp luật.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị có một bảng số liệu thô về số hồ sơ tiếp nhận theo từng ngày. Để bảng này trở thành thông tin hữu ích cho lãnh đạo, nên làm gì?",
+          "options": {
+            "A": "Gửi nguyên bảng số liệu thô cho lãnh đạo tự xem.",
+            "B": "Tổng hợp, phân tích thành xu hướng hoặc tỷ lệ (ví dụ tỷ lệ trễ hẹn theo tháng) rồi báo cáo.",
+            "C": "In bảng số liệu ra cho báo cáo dày dặn hơn.",
+            "D": "Chỉ giữ lại để đó, khi nào được hỏi mới đưa."
+          },
+          "explanation": "Dữ liệu thô chỉ trở thành thông tin khi được xử lý, tổng hợp thành ý nghĩa phục vụ quyết định; gửi bảng thô chưa phải là thông tin hữu ích.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Thu thập và tổ chức dữ liệu hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi nhận được một tập dữ liệu báo cáo từ địa phương phục vụ công việc, việc nào sau đây nên làm đầu tiên?",
+          "options": {
+            "A": "Sao chép toàn bộ vào ổ đĩa cá nhân để lưu trữ lâu dài cho chắc.",
+            "B": "Phân loại dữ liệu theo chủ đề và độ nhạy cảm, đồng thời xác thực độ tin cậy trước khi lưu.",
+            "C": "Chuyển ngay cho đồng nghiệp khác xử lý để tiết kiệm thời gian.",
+            "D": "Tải tất cả lên một kho chia sẻ công cộng để tiện truy cập sau này."
+          },
+          "explanation": "Phân loại và xác thực ngay khi tiếp nhận giúp dữ liệu vào nếp từ đầu; sao chép tràn lan hay đưa lên kho công cộng tiềm ẩn rủi ro lộ lọt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc “rác vào thì rác ra” (Garbage In - Garbage Out) trong xử lý dữ liệu có nghĩa là gì?",
+          "options": {
+            "A": "Dữ liệu nào cũng cần được giữ lại, kể cả dữ liệu rác.",
+            "B": "Nếu dữ liệu đầu vào sai lệch thì kết quả phân tích về sau cũng sai; vì vậy phải làm sạch, xác thực ngay từ đầu.",
+            "C": "Càng nhiều dữ liệu thì kết quả càng chính xác.",
+            "D": "Chỉ cần xử lý dữ liệu ở khâu cuối là đủ."
+          },
+          "explanation": "Chất lượng đầu ra phụ thuộc vào chất lượng đầu vào; làm sạch và kiểm chứng dữ liệu ngay từ đầu giúp tránh sai sót dây chuyền.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Chọn phương án đúng nhất về cách tổ chức thư mục và đặt tên file:",
+          "options": {
+            "A": "Lưu tất cả file vào một thư mục duy nhất, tên file đặt tùy ý cho nhanh.",
+            "B": "Sắp xếp file vào thư mục có cấu trúc logic (theo công việc, thời gian...), tên file chứa từ khóa nội dung và thống nhất định dạng.",
+            "C": "Đặt tên file càng dài càng tốt, liệt kê mọi thông tin trong tên.",
+            "D": "Không cần đặt tên rõ ràng nếu đã có phần mềm tìm kiếm."
+          },
+          "explanation": "Cấu trúc thư mục logic cùng tên file nhất quán giúp tra cứu nhanh và bàn giao thuận lợi; tên quá dài hay tùy tiện đều gây khó tìm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị cần số liệu cho một báo cáo. Trên mạng xã hội có vài con số “nóng”, còn cơ quan thống kê chính thức cũng có báo cáo liên quan. Nên xử lý thế nào?",
+          "options": {
+            "A": "Dùng luôn số liệu trên mạng xã hội vì cập nhật nhanh.",
+            "B": "Ưu tiên số liệu từ cơ quan thống kê chính thức, chỉ thu thập đúng phần cần và xác thực trước khi dùng; số liệu mạng xã hội chỉ để tham khảo.",
+            "C": "Lấy cả hai nguồn rồi ghép vào báo cáo cho phong phú.",
+            "D": "Chọn nguồn nào có số liệu ấn tượng hơn để báo cáo nổi bật."
+          },
+          "explanation": "Nguồn chính thống là căn cứ đáng tin; thu thập đúng mục đích và xác thực trước khi dùng giúp báo cáo chính xác, tránh số liệu sai.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị nhận hàng trăm ý kiến góp ý, trong đó nhiều bản trùng nhau và một số chứa thông tin cá nhân. Trước khi tổng hợp nên làm gì?",
+          "options": {
+            "A": "Tổng hợp ngay tất cả cho kịp tiến độ.",
+            "B": "Loại bỏ các bản trùng lặp, làm sạch dữ liệu; nhận diện và xử lý phần chứa thông tin cá nhân (ẩn danh, giới hạn quyền); đối chiếu số liệu trích dẫn với nguồn chính thống.",
+            "C": "Chỉ giữ lại các ý kiến ngắn cho dễ tổng hợp.",
+            "D": "Đăng toàn bộ ý kiến lên nhóm chung để mọi người cùng đọc."
+          },
+          "explanation": "Khử trùng lặp, làm sạch và bảo vệ thông tin cá nhân giúp bản tổng hợp vừa chính xác vừa đúng quy định; tổng hợp vội hay phát tán ý kiến đều gây sai sót và rủi ro lộ lọt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Tra cứu, chia sẻ và bảo toàn dữ liệu",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Trong các tình huống sau, tình huống nào chưa áp dụng tốt kỹ năng tìm kiếm, khai thác thông tin?",
+          "options": {
+            "A": "Cán bộ dùng chức năng lọc theo “người gửi” trên hệ thống quản lý văn bản để tìm tất cả công văn từ một cơ quan trong năm 2024.",
+            "B": "Cán bộ dùng trợ lý ảo AI để tóm tắt nhanh một báo cáo dài thành một trang ý chính (với tài liệu không mật).",
+            "C": "Cán bộ mở lần lượt từng file Word trong hàng trăm file để tìm chỗ có một từ khóa, vì không biết cách tìm kiếm bên trong file.",
+            "D": "Văn thư tìm hồ sơ điện tử bằng cách nhập số hiệu văn bản hoặc vài từ khóa trích yếu vào ô tìm kiếm."
+          },
+          "explanation": "Mở thủ công từng file vừa mất thời gian vừa dễ sót; nên dùng tìm kiếm theo nội dung, số hiệu, người gửi hay bộ lọc của hệ thống.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc “3-2-1” trong sao lưu dữ liệu có nghĩa là gì?",
+          "options": {
+            "A": "Sao lưu 3 lần liên tiếp, 2 ngày một lần, trên 1 thiết bị duy nhất.",
+            "B": "Giữ 3 bản dữ liệu, trên 2 loại phương tiện lưu trữ khác nhau, và 1 bản lưu ở nơi khác an toàn (off-site).",
+            "C": "Cứ mỗi 3 ngày sao lưu 2 lần vào 1 thiết bị rồi luân phiên thiết bị khác.",
+            "D": "Có 3 người phụ trách, 2 người kiểm tra, 1 người chịu trách nhiệm sao lưu."
+          },
+          "explanation": "3-2-1 nghĩa là ba bản sao, trên hai loại phương tiện khác nhau, một bản đặt ở nơi tách biệt - giúp dữ liệu vẫn an toàn khi một nơi gặp sự cố.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là phương án an toàn nhất khi cần chia sẻ một báo cáo “Mật” cho nhóm làm việc?",
+          "options": {
+            "A": "Tải lên kho lưu trữ đám mây cá nhân rồi gửi đường link cho cả nhóm.",
+            "B": "Dùng hệ thống quản lý văn bản nội bộ hoặc ổ đĩa mạng của cơ quan, cấp quyền truy cập chỉ cho các thành viên trong nhóm.",
+            "C": "Gửi qua ứng dụng chat phổ biến cho nhanh, xong việc sẽ xóa tin nhắn.",
+            "D": "Dùng email cá nhân nhưng đặt tiêu đề là “Mật” để người nhận biết là nhạy cảm."
+          },
+          "explanation": "Tài liệu mật phải đi qua kênh chính thống, có phân quyền và để lại dấu vết; kho cá nhân, chat hay email cá nhân đều không an toàn dù có ghi chú.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị phát hiện máy tính có dấu hiệu nhiễm mã độc tống tiền (nhiều file bị mã hóa, có thông báo đòi tiền chuộc). Việc nên làm đầu tiên là gì?",
+          "options": {
+            "A": "Ngắt kết nối mạng ngay và không trả tiền chuộc; sau đó dùng bản sao lưu sạch để khôi phục dữ liệu sau khi đã loại bỏ mã độc.",
+            "B": "Thương lượng với kẻ tấn công để giảm số tiền chuộc.",
+            "C": "Chờ vài ngày xem kẻ tấn công có tự mở khóa không.",
+            "D": "Tiếp tục dùng máy bình thường cho đến khi các file khác cũng bị khóa."
+          },
+          "explanation": "Ngắt kết nối để cô lập, tuyệt đối không trả tiền chuộc, rồi khôi phục từ bản sao lưu sạch - đây chính là lý do việc sao lưu 3-2-1 trở nên sống còn.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trong cuộc họp, Quý Anh/Chị cần tìm gấp một công văn nằm trong hàng trăm tài liệu của cơ quan. Cách làm hiệu quả nhất là gì?",
+          "options": {
+            "A": "Mở lần lượt từng file để xem file nào đúng.",
+            "B": "Dùng ô tìm kiếm của hệ thống, nhập số hiệu văn bản, người ký hoặc từ khóa trích yếu, hoặc tìm theo nội dung bên trong file.",
+            "C": "Nhờ người khác tìm hộ vì mình không quen thao tác.",
+            "D": "Bỏ qua, chờ họp xong rồi tìm sau."
+          },
+          "explanation": "Tận dụng tìm kiếm theo số hiệu, người ký, từ khóa hay nội dung giúp truy xuất trong vài giây thay vì dò thủ công.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Bảo vệ dữ liệu cá nhân và an toàn thông tin",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo pháp luật về bảo vệ dữ liệu cá nhân, việc thu thập và sử dụng dữ liệu cá nhân của công dân phải bảo đảm điều gì?",
+          "options": {
+            "A": "Thu thập càng nhiều càng tốt để dự phòng khi cần.",
+            "B": "Chỉ thu thập, sử dụng khi có sự đồng ý của người đó hoặc khi pháp luật cho phép, đúng mục đích và bảo đảm an toàn.",
+            "C": "Ai trong cơ quan cũng có thể tự do sử dụng nếu thấy cần.",
+            "D": "Có thể chia sẻ rộng rãi miễn là phục vụ công việc."
+          },
+          "explanation": "Nguyên tắc cốt lõi là có cơ sở hợp pháp (đồng ý hoặc luật cho phép), dùng đúng mục đích, tối thiểu và bảo mật; không thu thập tràn lan hay chia sẻ tùy tiện.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Việc phân loại tài liệu thành ba mức công khai - nội bộ - mật nhằm mục đích chính là gì?",
+          "options": {
+            "A": "Để dễ đặt tên file cho gọn.",
+            "B": "Để áp dụng cách lưu trữ, chia sẻ và biện pháp bảo vệ phù hợp với từng mức độ.",
+            "C": "Để in ra thành nhiều bản lưu.",
+            "D": "Để xóa các tài liệu cũ cho nhanh."
+          },
+          "explanation": "Xác định đúng độ mật giúp ta biết tài liệu nào được trao đổi rộng, tài liệu nào phải hạn chế và bảo vệ nghiêm ngặt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi cần gửi một file chứa dữ liệu nhạy cảm qua mạng, biện pháp nào sau đây là phù hợp?",
+          "options": {
+            "A": "Gửi thẳng qua ứng dụng chat cá nhân cho nhanh.",
+            "B": "Đăng lên nhóm chung để mọi người cùng tải.",
+            "C": "Mã hóa hoặc đặt mật khẩu cho file, gửi qua kênh chính thống và gửi mật khẩu bằng một kênh khác.",
+            "D": "Nén file lại là đủ, không cần mật khẩu."
+          },
+          "explanation": "Mã hóa/đặt mật khẩu và tách kênh gửi mật khẩu giúp bảo vệ dữ liệu nhạy cảm ngay cả khi đường truyền bị lộ.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị được giao tổng hợp đơn thư của công dân (có họ tên, địa chỉ, nội dung riêng tư). Một đồng nghiệp không phụ trách việc này hỏi xin toàn bộ danh sách. Nên xử lý thế nào?",
+          "options": {
+            "A": "Gửi ngay cho đồng nghiệp vì là người trong cơ quan.",
+            "B": "Không cung cấp cho người không có thẩm quyền; chỉ chia sẻ đúng người, đúng mục đích, đúng quy định; nếu cần thì xin ý kiến cấp có thẩm quyền.",
+            "C": "Đăng danh sách lên nhóm chung cho tiện tra cứu.",
+            "D": "Gửi một bản rút gọn qua chat cá nhân cho nhanh."
+          },
+          "explanation": "Thông tin cá nhân của công dân chỉ được chia sẻ cho người có thẩm quyền và đúng mục đích; cung cấp tùy tiện là vi phạm nguyên tắc bảo vệ dữ liệu cá nhân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị muốn nhờ một công cụ AI tóm tắt một tập hồ sơ có chứa thông tin cá nhân của công dân. Cách làm đúng và an toàn là gì?",
+          "options": {
+            "A": "Tải toàn bộ hồ sơ lên một công cụ AI công cộng cho nhanh.",
+            "B": "Không đưa thông tin cá nhân, nhạy cảm lên công cụ AI công cộng; nếu cần dùng thì ẩn/loại bỏ thông tin cá nhân trước, hoặc chỉ dùng công cụ được cơ quan cho phép và bảo đảm bảo mật.",
+            "C": "Dán nội dung vào AI rồi tin tưởng hoàn toàn kết quả.",
+            "D": "Chia sẻ link hồ sơ cho công cụ AI để nó tự đọc."
+          },
+          "explanation": "Dữ liệu nhập vào công cụ công cộng có thể bị lưu trữ, xử lý ngoài tầm kiểm soát; phải ẩn danh hoặc chỉ dùng công cụ được cấp phép, có bảo mật.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Công cụ số hiện đại hỗ trợ quản lý dữ liệu",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi nào nên dùng hệ quản trị cơ sở dữ liệu (như SQL Server, Oracle) thay vì bảng tính Excel?",
+          "options": {
+            "A": "Khi bảng dữ liệu chỉ có vài chục dòng.",
+            "B": "Khi dữ liệu rất lớn (hàng triệu dòng), cần nhiều người truy cập cùng lúc và lưu trữ tập trung, nhất quán.",
+            "C": "Khi cần in nhanh ra giấy.",
+            "D": "Bảng tính luôn tốt hơn trong mọi trường hợp."
+          },
+          "explanation": "Hệ quản trị CSDL phù hợp với khối dữ liệu rất lớn, nhiều người dùng đồng thời; còn dữ liệu vừa và nhỏ thì bảng tính đã đủ và tiện hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Lợi ích chính của hệ thống quản lý tài liệu điện tử (ECM) cùng tính năng quản lý phiên bản là gì?",
+          "options": {
+            "A": "Giúp xóa tài liệu cũ cho nhanh.",
+            "B": "Lưu trữ tập trung, tìm kiếm toàn văn và theo dõi phiên bản, tránh tình trạng “mỗi người một bản” hay nhầm bản cuối.",
+            "C": "Giúp in tài liệu thành nhiều bản.",
+            "D": "Giúp khỏi cần phân quyền truy cập."
+          },
+          "explanation": "ECM lưu tập trung, dễ tìm và kiểm soát phiên bản, nhờ đó cả nhóm luôn làm trên bản mới nhất, minh bạch và không thất lạc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi dùng công cụ AI hỗ trợ xử lý dữ liệu (phân loại, tóm tắt), nguyên tắc đúng là gì?",
+          "options": {
+            "A": "Tin tuyệt đối vào kết quả AI cho nhanh.",
+            "B": "Nhập mọi tài liệu, kể cả tài liệu mật, để AI xử lý nhanh nhất.",
+            "C": "Chỉ dùng công cụ được cơ quan cho phép, luôn kiểm tra lại kết quả và không nhập dữ liệu cá nhân, nhạy cảm vào AI công cộng.",
+            "D": "Để AI thay thế hoàn toàn việc kiểm tra của con người."
+          },
+          "explanation": "AI là trợ thủ nhưng có thể sai; phải kiểm tra lại, dùng công cụ được phép và tuyệt đối không đưa dữ liệu nhạy cảm lên công cụ công cộng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị cần tổng hợp một bảng vài trăm dòng hồ sơ theo từng lĩnh vực để làm báo cáo. Cách làm hiệu quả nhất là gì?",
+          "options": {
+            "A": "Ngồi đếm và cộng thủ công từng dòng.",
+            "B": "Dùng chức năng PivotTable (Bảng tổng hợp) trong Excel hoặc Google Sheets để tự động tổng hợp và vẽ biểu đồ.",
+            "C": "Cài đặt một hệ quản trị cơ sở dữ liệu lớn chỉ để xử lý vài trăm dòng.",
+            "D": "Đưa cả bảng có thông tin cá nhân lên một công cụ AI công cộng để nhờ phân tích."
+          },
+          "explanation": "Với dữ liệu vừa và nhỏ, PivotTable cho kết quả nhanh, chính xác và trực quan; không cần công cụ quá nặng, cũng không đưa dữ liệu cá nhân lên công cụ công cộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một nhóm cùng soạn một dự thảo nhưng hay bị nhầm phiên bản do gửi qua lại nhiều bản qua email. Nên làm gì?",
+          "options": {
+            "A": "Mỗi người tự giữ một bản rồi cuối cùng ghép lại.",
+            "B": "Cùng soạn trên một công cụ đồng soạn thảo trực tuyến (lưu trên hệ thống/đám mây của cơ quan), phân quyền xem - sửa rõ ràng và dùng tính năng quản lý phiên bản.",
+            "C": "Gửi qua lại nhiều bản qua ứng dụng chat cho nhanh.",
+            "D": "In tất cả các bản ra để đối chiếu bằng tay."
+          },
+          "explanation": "Làm việc trên một bản chung có phân quyền và lưu lịch sử phiên bản giúp cả nhóm luôn ở bản mới nhất, tránh nhầm lẫn và thất lạc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 6,
+      "lessonTitle": "Phân loại, sao lưu và phục hồi tài liệu điện tử theo độ mật",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo Luật Bảo vệ bí mật nhà nước năm 2025, tài liệu thuộc bí mật nhà nước được phân thành các cấp độ nào?",
+          "options": {
+            "A": "Chỉ có một mức “Mật” duy nhất.",
+            "B": "Ba cấp độ: Mật, Tối mật và Tuyệt mật.",
+            "C": "Hai cấp độ: Nội bộ và Mật.",
+            "D": "Bốn cấp độ: Công khai, Nội bộ, Mật và Tối mật."
+          },
+          "explanation": "Bí mật nhà nước được phân thành ba cấp tăng dần là Mật, Tối mật, Tuyệt mật; “công khai” và “nội bộ” là cách phân loại quản lý, không thuộc bí mật nhà nước.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Theo Luật Bảo vệ bí mật nhà nước năm 2025, việc soạn thảo và lưu giữ tài liệu bí mật nhà nước trên thiết bị điện tử phải bảo đảm điều gì?",
+          "options": {
+            "A": "Có thể soạn thảo, lưu trên máy tính nối Internet miễn là đặt mật khẩu.",
+            "B": "Không được soạn thảo, lưu giữ trên máy tính, thiết bị đang kết nối Internet; chỉ trên máy riêng hoặc mạng nội bộ không nối Internet (mạng LAN độc lập) có bảo vệ theo quy định.",
+            "C": "Có thể lưu trên đám mây công cộng để truy cập mọi nơi cho tiện.",
+            "D": "Gửi qua email cá nhân nếu nén file và đặt mật khẩu."
+          },
+          "explanation": "Luật nghiêm cấm soạn thảo, lưu giữ, truyền đưa bí mật nhà nước trên thiết bị, mạng kết nối Internet (trừ mạng LAN độc lập theo quy định); truyền qua mạng phải tuân theo pháp luật về cơ yếu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Việc định kỳ thử phục hồi (diễn tập khôi phục) tài liệu từ bản sao lưu nhằm mục đích gì?",
+          "options": {
+            "A": "Để xóa bớt các bản sao cũ.",
+            "B": "Để chắc chắn bản sao lưu thực sự dùng được khi cần, tránh tình huống đến lúc sự cố mới phát hiện bản sao đã hỏng.",
+            "C": "Để tăng dung lượng lưu trữ.",
+            "D": "Để chia sẻ tài liệu cho nhiều người hơn."
+          },
+          "explanation": "Sao lưu mà không kiểm thử thì khi sự cố xảy ra mới biết bản sao hỏng đã quá muộn; diễn tập phục hồi giúp ta luôn sẵn sàng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Quý Anh/Chị đang xử lý một tài liệu thuộc bí mật nhà nước (độ Mật). Một đồng nghiệp đề nghị gửi nhanh qua email cá nhân hoặc đám mây công cộng cho tiện. Nên xử lý thế nào?",
+          "options": {
+            "A": "Gửi luôn cho nhanh vì đang gấp.",
+            "B": "Không gửi; tài liệu bí mật nhà nước chỉ được soạn thảo, lưu giữ, gửi nhận theo đúng quy định của Luật Bảo vệ bí mật nhà nước và quy chế cơ quan, không qua Internet, email cá nhân hay đám mây công cộng.",
+            "C": "Nén file đặt mật khẩu rồi gửi qua chat cá nhân.",
+            "D": "Nhờ một công cụ AI công cộng tóm tắt rồi gửi bản tóm tắt."
+          },
+          "explanation": "Đưa tài liệu bí mật nhà nước ra ngoài kênh được phép (kể cả qua AI công cộng) là hành vi bị nghiêm cấm, có thể bị xử lý kỷ luật, hành chính hoặc hình sự - dù với lý do tiện lợi hay khẩn cấp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một hồ sơ điện tử đã hết thời hạn lưu trữ theo quy định và không còn giá trị sử dụng. Cách xử lý đúng là gì?",
+          "options": {
+            "A": "Cứ giữ lại mãi cho chắc, biết đâu sau này cần.",
+            "B": "Hủy đúng quy trình và quy định (bảo đảm không khôi phục trái phép), thay vì giữ lại làm tăng nguy cơ lộ lọt và tốn lưu trữ.",
+            "C": "Xóa nhanh vào thùng rác rồi thôi.",
+            "D": "Sao chép ra USB cá nhân để giữ làm kỷ niệm."
+          },
+          "explanation": "Tài liệu hết hạn cần được hủy đúng quy trình; giữ lại tràn lan vừa tốn kém vừa tăng rủi ro, còn xóa qua loa thì dữ liệu vẫn có thể bị khôi phục.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

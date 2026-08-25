@@ -29,14 +29,15 @@ export default async function TopicDetailPage({
       </p>
 
       <ol className="space-y-2">
-        {topic.lessons.map((lesson) => {
+        {topic.lessons.map((lesson, idx) => {
           const clickable = lesson.status === "READY" && lesson.unlocked;
+          const stripe = idx % 2 === 0 ? "bg-brand-stripe-light" : "bg-brand-stripe-dark";
           const content = (
             <div
               className={`flex items-center justify-between gap-4 rounded-lg border p-3 ${
                 clickable
-                  ? "border-brand-border bg-brand-surface shadow-sm hover:shadow-md"
-                  : "border-dashed border-brand-border bg-brand-bg opacity-70"
+                  ? `border-brand-border ${stripe} shadow-sm hover:shadow-md`
+                  : `border-dashed border-brand-border ${stripe} opacity-70`
               }`}
             >
               <div>

@@ -19,11 +19,13 @@ export default async function Home() {
       </p>
 
       <div className="space-y-3">
-        {topics.map((t) => (
+        {topics.map((t, idx) => (
           <Link
             key={t.id}
             href={`/chuyen-de/${t.id}`}
-            className="flex items-center justify-between gap-4 rounded-xl border border-brand-border bg-brand-surface p-4 shadow-sm transition hover:shadow-md"
+            className={`flex items-center justify-between gap-4 rounded-xl border border-brand-border p-4 shadow-sm transition hover:shadow-md ${
+              idx % 2 === 0 ? "bg-brand-stripe-light" : "bg-brand-stripe-dark"
+            }`}
           >
             <div>
               <div className="text-xs font-semibold text-brand-text-muted">Chuyên đề {t.id}</div>

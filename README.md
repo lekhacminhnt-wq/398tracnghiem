@@ -8,32 +8,33 @@ Sheets API (đồng bộ báo cáo, tuỳ chọn).
 
 ## Tình trạng dữ liệu ngân hàng câu hỏi
 
-- **Đầy đủ, đã xác minh:** Chuyên đề 1–7 (37 bài, 185 câu), trích và xử lý từ file PDF Phụ lục 3.
-  PDF gốc không nêu rõ ký hiệu đáp án đúng bằng chữ, nhưng phương án đúng được **in đậm** —
-  mỗi câu có trường `source` trong `data/questions/*.json`:
-  - `"explicit-letter"` — đáp án được nêu rõ ký hiệu trong PDF gốc, độ tin cậy cao nhất (19/185).
-  - `"manually-verified"` — đã đọc và xác minh thủ công (56/185 câu).
+- **Đầy đủ, đã xác minh:** Toàn bộ 26 chuyên đề (136 bài, 681 câu — Bài 4 Chuyên đề 16 có 6 câu
+  thay vì 5, đúng theo PDF gốc) + đề sát hạch chính thức Phần II (50 câu). Toàn bộ trích và xử lý
+  từ file PDF Phụ lục 3 gốc: nội dung câu hỏi, phương án, đáp án đúng và phần giải thích (đoạn in
+  nghiêng sau mỗi câu) đối chiếu trực tiếp với PDF, không suy luận. Mỗi câu có trường `source` trong
+  `data/questions/*.json`:
+  - `"explicit-letter"` — đáp án được nêu rõ ký hiệu trong PDF gốc (toàn bộ đề sát hạch Phần II, và
+    một phần Chuyên đề 1–16).
+  - `"manually-verified"` — đã đọc và xác minh thủ công (Chuyên đề 1–7).
   - `"bold-verified"` — đối chiếu tự động bằng font-name (in đậm = đáp án đúng) trên toàn bộ PDF,
-    độ tin cậy tương đương `explicit-letter` (9/185 câu — trước đó gắn nhãn
-    `inferred-from-explanation` và **sai**, đã sửa lại sau khi đối chiếu, xem lịch sử git).
-  - `"inferred-from-explanation"` — suy luận tự động qua đối chiếu từ khoá với đoạn giải thích
-    (101/185 câu còn lại). Đã đối chiếu toàn bộ 185 câu Chuyên đề 1–7 với định dạng in đậm trong
-    PDF gốc — 176 câu khớp (kể cả phần lớn nhóm này), 9 câu sai đã sửa ở trên. Nhóm này giữ nhãn
-    cũ vì bản thân trường `source` không đổi, nhưng đáp án đã được xác minh chéo, không cần rà
-    soát lại nữa.
-- **Chưa có dữ liệu:** Chuyên đề 8–26 (99 bài) và đề sát hạch chính thức (Phần II, 50 câu) —
-  hiển thị "Sắp cập nhật" trên giao diện.
-- **Đề sát hạch hiện tại là đề thử nghiệm** (`examSetId = "demo"`, 20 câu lấy từ 7 chuyên đề đã
-  có) để kiểm thử cơ chế 90 phút/ngẫu nhiên/tự nộp. Khi có đủ 50 câu Phần II chính thức, cập nhật
-  `EXAM_SET_ID` trong `lib/exam.ts` thành `"official"` và chạy lại `npm run seed` với dữ liệu mới.
+    độ tin cậy tương đương `explicit-letter` (dùng cho phần còn lại của Chuyên đề 1–7, và toàn bộ
+    Chuyên đề 8–26 khi PDF không nêu rõ ký hiệu chữ).
+  - `"inferred-from-explanation"` — chỉ còn sót lại ở một phần nhỏ Chuyên đề 1–7 (đã đối chiếu chéo
+    bằng in đậm, không cần rà soát lại).
+  - 18 câu (6 câu Chuyên đề 7 dạng Đúng/Sai chỉ có 2 phương án; 12 câu đầu bài của Chuyên đề 22/23/24
+    chỉ có 3 phương án A/B/C) đúng theo PDF gốc, không phải lỗi trích xuất — xem `isTrueFalse` và số
+    lượng khoá trong `options`.
+- **Đề sát hạch chính thức:** `examSetId = "official"` (`lib/exam.ts`), 50 câu theo đúng ma trận
+  Phụ lục 3 (35 câu cơ bản + 15 câu trung cấp, phân bổ đều 26 chuyên đề). File `demo-exam.json` cũ
+  (20 câu thử nghiệm) không còn được seed, giữ lại trên đĩa chỉ để tham khảo lịch sử.
 
-## Nạp thêm dữ liệu chuyên đề
+## Nạp thêm/ sửa dữ liệu chuyên đề
 
-1. Chuẩn hoá câu hỏi mới theo cấu trúc trong `data/questions/chuyen-de-01.json` (mảng `lessons`,
-   mỗi bài có `lessonOrder`, `lessonTitle`, `questions` gồm 5 câu với `options`, `correctLabel`,
-   `explanation`).
-2. Cập nhật `status` tương ứng trong `data/topics.json` từ `"PENDING"` sang `"READY"`.
-3. Thêm chuyên đề vào mảng `READY_TOPICS` trong `prisma/seed.ts`.
+1. Chuẩn hoá câu hỏi theo cấu trúc trong `data/questions/chuyen-de-01.json` (mảng `lessons`, mỗi
+   bài có `lessonOrder`, `lessonTitle`, `questions` với `options`, `correctLabel`, `explanation`).
+2. Cập nhật `status`/`title` tương ứng trong `data/topics.json`.
+3. `READY_TOPICS` trong `prisma/seed.ts` seed toàn bộ 26 chuyên đề — không cần sửa khi thêm/sửa dữ
+   liệu một chuyên đề đã có trong danh sách.
 4. Chạy `npm run seed` (script tự xoá và nạp lại toàn bộ câu hỏi — không ảnh hưởng dữ liệu người
    dùng/kết quả làm bài).
 

@@ -1,0 +1,410 @@
+{
+  "topicId": 25,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Khái niệm và tầm quan trọng của sáng tạo trong ứng dụng công nghệ số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Sử dụng sáng tạo công nghệ số” trong công việc được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Chỉ sử dụng những công nghệ quen thuộc, theo đúng hướng dẫn có sẵn.",
+            "B": "Tìm và áp dụng những cách thức mới, công cụ mới để cải tiến hiệu quả công việc.",
+            "C": "Cài đặt và dùng càng nhiều phần mềm cùng lúc càng tốt.",
+            "D": "Tránh thử nghiệm công cụ mới vì dễ phát sinh sai sót."
+          },
+          "explanation": "Sáng tạo số là “nghĩ khác, làm khác” để cải tiến công việc, không phải dùng nhiều công cụ cho biết.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Yếu tố nào dưới đây KHÔNG giúp phát triển tư duy sáng tạo trong công việc số?",
+          "options": {
+            "A": "Sẵn sàng thử nghiệm cái mới ở phạm vi nhỏ, có kiểm soát.",
+            "B": "Thường xuyên tự hỏi “có cách nào tốt hơn nhờ công nghệ không?”.",
+            "C": "Chỉ tuân thủ tuyệt đối quy trình cũ, không thay đổi gì.",
+            "D": "Cởi mở học hỏi đồng nghiệp và cập nhật công cụ mới."
+          },
+          "explanation": "Giữ nguyên lối mòn, ngại thay đổi chính là rào cản lớn nhất của sáng tạo.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao “không phải cứ có phần mềm là năng suất tự động tăng”?",
+          "options": {
+            "A": "Vì phần mềm nào cũng có lỗi nên không đáng tin.",
+            "B": "Vì hiệu quả phụ thuộc vào cách con người sử dụng công cụ một cách sáng tạo.",
+            "C": "Vì phần mềm chỉ dành cho người trẻ, am hiểu công nghệ.",
+            "D": "Vì công nghệ không liên quan đến công việc hành chính."
+          },
+          "explanation": "Cùng một công cụ, cách dùng khác nhau tạo ra kết quả khác nhau - giá trị nằm ở người dùng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Trong bối cảnh chính quyền hai cấp khiến khối lượng công việc ở cơ sở tăng, Anh/Chị muốn cải tiến việc tổng hợp ý kiến người dân vốn đang làm thủ công. Cách bắt đầu hợp lý và an toàn nhất là gì?",
+          "options": {
+            "A": "Thay đổi toàn bộ quy trình của cả cơ quan ngay lập tức cho nhanh.",
+            "B": "Thử một biểu mẫu trực tuyến trong phạm vi một nhóm nhỏ, đo kết quả rồi mới nhân rộng.",
+            "C": "Chờ đến khi có phần mềm chuyên dụng được cấp mới làm.",
+            "D": "Giữ nguyên cách cũ vì thử cái mới dễ sai."
+          },
+          "explanation": "Tinh thần sáng tạo số là thử nghiệm nhỏ - đo kết quả - điều chỉnh nhanh, tránh xáo trộn lớn ngay từ đầu, đặc biệt khi công việc đang nhiều thêm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi thử dùng một công cụ AI công cộng để hỗ trợ soạn thảo, để vừa sáng tạo vừa an toàn, Anh/Chị cần lưu ý điều gì?",
+          "options": {
+            "A": "Dán cả tài liệu nội bộ vào công cụ để nó xử lý đầy đủ hơn.",
+            "B": "Nhập thông tin cá nhân của công dân để kết quả chính xác hơn.",
+            "C": "Tuyệt đối không nhập thông tin nội bộ, tài liệu mật hay dữ liệu cá nhân của công dân vào công cụ công cộng.",
+            "D": "Tin tưởng tuyệt đối kết quả AI mà không cần kiểm chứng."
+          },
+          "explanation": "Sáng tạo phải luôn đi cùng an toàn thông tin và đúng quy định; dữ liệu mật, nội bộ, cá nhân không được đưa lên công cụ công cộng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Phương pháp rèn luyện tư duy sáng tạo và khai thác công nghệ mới",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi cần tìm một giải pháp công nghệ cho công việc mới, bước nào sau đây nên thực hiện đầu tiên?",
+          "options": {
+            "A": "Hỏi ngay đồng nghiệp xem họ thích dùng công cụ nào.",
+            "B": "Gọi tên đúng nhu cầu - xác định rõ và cụ thể việc mình cần giải quyết.",
+            "C": "Chọn một phần mềm nổi tiếng rồi cố áp dụng vào công việc.",
+            "D": "Cài thử thật nhiều ứng dụng rồi xem cái nào hợp."
+          },
+          "explanation": "Hiểu đúng nhu cầu là gốc; có xác định rõ việc cần làm thì mới tìm và chọn đúng công cụ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là tiêu chí KHÔNG nên coi là quan trọng khi đánh giá một công cụ số mới?",
+          "options": {
+            "A": "Mức độ đáp ứng đúng nhu cầu công việc đề ra.",
+            "B": "Độ an toàn, bảo mật và uy tín của công cụ.",
+            "C": "Tên gọi nghe “kêu” và giao diện hào nhoáng.",
+            "D": "Khả năng tích hợp với phần mềm cơ quan đang dùng."
+          },
+          "explanation": "Yếu tố bề nổi không phản ánh giá trị thực; cần soi theo nhu cầu, bảo mật, chi phí, tích hợp.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Thái độ nào giúp cán bộ duy trì tư duy sáng tạo lâu dài trong ứng dụng công nghệ?",
+          "options": {
+            "A": "Chủ động tự học, cập nhật công cụ mới đều đặn, ngay cả khi đã quen cách làm cũ.",
+            "B": "Tránh thử cái mới vì sợ ảnh hưởng tiến độ, chỉ làm theo cách đang có.",
+            "C": "Cho rằng kỹ năng số chỉ cần học một lần là đủ.",
+            "D": "Chờ cơ quan tổ chức tập huấn rồi mới học, không cần tự tìm hiểu."
+          },
+          "explanation": "Công nghệ đổi thay nhanh; tự học suốt đời nay còn là yêu cầu thường xuyên đối với cán bộ, công chức.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Phòng của Anh/Chị cần một công cụ theo dõi tiến độ công việc nhóm. Cách làm thể hiện đúng phương pháp đã học là gì?",
+          "options": {
+            "A": "Chọn ngay phần mềm mà một đồng nghiệp tình cờ nhắc tới, dùng luôn cho cả phòng.",
+            "B": "Viết rõ nhu cầu, tìm vài công cụ, so theo năm tiêu chí, dùng thử ở nhóm nhỏ rồi mới nhân rộng.",
+            "C": "Dùng phần mềm nào có giao diện đẹp nhất cho chuyên nghiệp.",
+            "D": "Chờ đến khi cấp trên chỉ định công cụ cụ thể mới làm."
+          },
+          "explanation": "Đây chính là quy trình bốn bước - gọi tên nhu cầu, tìm lựa chọn, đánh giá theo tiêu chí, thử nhỏ trước khi nhân rộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi cân nhắc một ứng dụng miễn phí mới để xử lý văn bản công việc, điều nào Anh/Chị phải đặc biệt lưu ý?",
+          "options": {
+            "A": "Cứ chọn vì miễn phí, càng tiết kiệm càng tốt.",
+            "B": "Chọn vì có nhiều hiệu ứng, giao diện bắt mắt.",
+            "C": "Ưu tiên công cụ có nguồn gốc rõ ràng, uy tín; tuyệt đối không nhập dữ liệu nội bộ hay thông tin cá nhân công dân vào ứng dụng chưa được kiểm chứng.",
+            "D": "Tải về dùng thử với chính hồ sơ thật của công dân cho sát thực tế."
+          },
+          "explanation": "An toàn, bảo mật là tiêu chí không thể xem nhẹ; dữ liệu nội bộ và dữ liệu cá nhân công dân không được đưa lên công cụ chưa kiểm chứng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Ứng dụng sáng tạo công nghệ số trong công tác truyền thông",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Trong truyền thông chính sách trên nền tảng số, việc đầu tiên cần xác định là gì?",
+          "options": {
+            "A": "Chọn ngay phần mềm thiết kế đẹp nhất để làm sản phẩm.",
+            "B": "Xác định đúng đối tượng và điều họ quan tâm nhất để chọn cách truyền tải trúng.",
+            "C": "Đăng càng nhiều bài càng tốt để phủ thông tin.",
+            "D": "Dùng càng nhiều hiệu ứng, nhạc nền càng thu hút."
+          },
+          "explanation": "“Đúng đối tượng” là chữ “đúng” đầu tiên; hiểu người nghe thì mới chọn được thông điệp và cách nói phù hợp.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nên trình bày một thông tin chính sách bằng hình ảnh tóm tắt, đồ họa hoặc video ngắn thay vì chỉ một đoạn văn bản dài?",
+          "options": {
+            "A": "Vì hình thức sinh động làm người dân khó nắm thông tin hơn.",
+            "B": "Vì hình thức trực quan giúp người dân dễ đọc, dễ nhớ và dễ chia sẻ hơn.",
+            "C": "Vì văn bản dài luôn bị cấm đăng trên nền tảng số.",
+            "D": "Vì chỉ giới trẻ mới đọc được thông tin hành chính."
+          },
+          "explanation": "Đúng định dạng giúp nội dung quan trọng được tiếp nhận dễ dàng và lan tỏa rộng hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Phương châm “nhanh nhưng phải đúng” trong truyền thông số có nghĩa là gì?",
+          "options": {
+            "A": "Cứ đăng thật nhanh, sai thì sửa sau cũng được.",
+            "B": "Tận dụng công nghệ để nhanh và sinh động hơn, nhưng nội dung luôn phải chính xác, đúng quy định và được phê duyệt.",
+            "C": "Chỉ cần nhanh là đủ, không cần kiểm tra lại.",
+            "D": "Đúng là quan trọng nhất nên không cần quan tâm tốc độ."
+          },
+          "explanation": "Tốc độ phải đi cùng độ chính xác; mọi nội dung cần kiểm chứng và đúng thẩm quyền trước khi công bố.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đơn vị Anh/Chị cần thông báo cho người dân về một thủ tục hành chính mới. Cách làm thể hiện đúng tư duy đã học là gì?",
+          "options": {
+            "A": "Đăng nguyên văn bản đầy đủ các điều khoản lên trang của đơn vị cho chính xác tuyệt đối.",
+            "B": "Tóm tắt rõ người dân cần làm gì, ở đâu, thời hạn nào bằng một đồ họa dễ hiểu, đăng đúng kênh và đúng thời điểm, rà soát kỹ trước khi đăng.",
+            "C": "Chờ người dân tự tìm đọc văn bản trên công báo.",
+            "D": "Chỉ thông báo miệng tại bộ phận một cửa cho nhanh."
+          },
+          "explanation": "Đây chính là vận dụng “ba đúng, một kiểm chứng”: đúng đối tượng, đúng định dạng, đúng thời điểm và kiểm chứng trước khi công bố.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị muốn dùng một công cụ AI công cộng để viết lại một thông cáo cho dễ hiểu hơn. Cách xử lý đúng đắn nhất là gì?",
+          "options": {
+            "A": "Dán toàn bộ dự thảo nội bộ chưa công bố vào AI để nó viết hoàn chỉnh rồi đăng luôn.",
+            "B": "Tin tưởng tuyệt đối bản AI viết, đăng ngay cho kịp thời.",
+            "C": "Chỉ dùng AI gợi ý cách diễn đạt với thông tin đã được phép công bố; sau đó con người kiểm chứng, biên tập, phê duyệt, và không nhập dữ liệu nội bộ hay thông tin cá nhân công dân.",
+            "D": "Nhờ AI bịa thêm số liệu cho thông cáo thêm thuyết phục."
+          },
+          "explanation": "AI chỉ hỗ trợ gợi ý; nội dung phải được kiểm chứng và phê duyệt, tuyệt đối không đưa dữ liệu mật, nội bộ, cá nhân lên công cụ công cộng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Ứng dụng sáng tạo công nghệ số trong quản lý và điều hành công việc hành chính",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Theo bài học, sáng tạo trong quản lý, điều hành nên bắt đầu từ đâu?",
+          "options": {
+            "A": "Từ việc mua sắm ngay một phần mềm quản lý hiện đại nhất.",
+            "B": "Từ việc nhìn ra điểm nghẽn - khâu đang chậm, đang lặp, đang gây khó trong quy trình.",
+            "C": "Từ việc yêu cầu mọi người làm nhanh hơn cách cũ.",
+            "D": "Từ việc sao chép nguyên quy trình của một cơ quan khác."
+          },
+          "explanation": "Sáng tạo điều hành khởi đầu bằng quan sát quy trình để tìm điểm nghẽn, rồi mới chọn công nghệ phù hợp để gỡ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu KHÔNG phải là một trong ba hướng thiết kế lại quy trình điều hành đã nêu?",
+          "options": {
+            "A": "Số hóa luồng việc, đưa trình - duyệt - luân chuyển lên môi trường điện tử.",
+            "B": "Để công cụ tự động làm những việc lặp đi lặp lại.",
+            "C": "Điều hành dựa trên một nguồn dữ liệu chung, cập nhật thời gian thực.",
+            "D": "Giữ nguyên mọi khâu trên giấy để bảo đảm an toàn tuyệt đối."
+          },
+          "explanation": "Ba hướng là số hóa luồng việc, để máy làm việc lặp, và điều hành dựa trên dữ liệu chung; giữ nguyên thủ công không phải là cải tiến.",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nên để các công cụ tự động đảm nhận những tác vụ lặp đi lặp lại trong điều hành?",
+          "options": {
+            "A": "Vì máy móc không bao giờ cần kiểm tra lại kết quả.",
+            "B": "Vì giải phóng thời gian để con người tập trung cho việc cần suy nghĩ và ra quyết định.",
+            "C": "Vì như vậy cơ quan sẽ không cần đến cán bộ nữa.",
+            "D": "Vì công cụ tự động luôn rẻ hơn mọi cách làm khác."
+          },
+          "explanation": "Tự động hóa việc lặp giúp giảm sai sót thủ công và dành nguồn lực con người cho phần việc có giá trị cao hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận thấy việc tổng hợp báo cáo tuần của phòng đang rất mất thời gian vì mỗi người gửi một file riêng. Cách xử lý thể hiện đúng tư duy đã học là gì?",
+          "options": {
+            "A": "Yêu cầu mọi người gửi file sớm hơn để mình có thời gian gộp tay.",
+            "B": "Đề xuất cả phòng cùng nhập liệu trên một bảng dữ liệu chung, cập nhật thời gian thực, thử ở phòng trước rồi nhân rộng.",
+            "C": "Chấp nhận đây là việc đương nhiên mất thời gian, không thay đổi.",
+            "D": "Tự mình làm hết để khỏi phải hướng dẫn người khác."
+          },
+          "explanation": "Đây là vận dụng hướng “điều hành dựa trên dữ liệu chung”, lại bắt đầu từ phạm vi nhỏ rồi mới nhân rộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Khi triển khai một sáng kiến số hóa quy trình có liên quan đến hồ sơ công việc, điều nào Anh/Chị phải đặc biệt tuân thủ?",
+          "options": {
+            "A": "Cứ chọn nền tảng nào tiện nhất để làm nhanh, kể cả công cụ cá nhân chưa được duyệt.",
+            "B": "Đưa luôn hồ sơ mật lên công cụ trực tuyến để mọi người dễ truy cập.",
+            "C": "Bảo đảm đúng thẩm quyền, đúng quy định lưu trữ; tuyệt đối không đưa hồ sơ mật, dữ liệu nội bộ hay thông tin cá nhân công dân lên nền tảng chưa được cơ quan cho phép.",
+            "D": "Tự ý bỏ qua bước phê duyệt cho nhanh gọn."
+          },
+          "explanation": "Sáng tạo phải trong khuôn khổ: đúng thẩm quyền, đúng quy định và an toàn dữ liệu là ranh giới không được vượt qua.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Các công cụ số hỗ trợ sáng tạo và xây dựng văn hóa đổi mới",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Trợ lý AI (thuộc “nhóm hỗ trợ tư duy”) hỗ trợ hiệu quả nhất ở công việc nào sau đây?",
+          "options": {
+            "A": "Tự động phê duyệt các quyết định tài chính thay cho lãnh đạo.",
+            "B": "Gợi ý ý tưởng, viết nháp văn bản, tóm tắt tài liệu dài cho người dùng tham khảo.",
+            "C": "Bảo đảm 100% mọi số liệu trong báo cáo đều chính xác mà không cần kiểm tra lại.",
+            "D": "Tự quyết định thay con người trong các việc quan trọng."
+          },
+          "explanation": "AI hỗ trợ phần khởi đầu của công việc trí óc; kết quả vẫn cần con người kiểm chứng và quyết định.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Theo cách phân loại trong bài, ba nhóm công cụ số hỗ trợ sáng tạo là gì?",
+          "options": {
+            "A": "Nhóm miễn phí, nhóm trả phí, và nhóm dùng thử.",
+            "B": "Nhóm hỗ trợ tư duy (AI), nhóm hỗ trợ sản xuất nội dung (thiết kế, đa phương tiện), nhóm hỗ trợ kết nối cộng tác.",
+            "C": "Nhóm cho lãnh đạo, nhóm cho chuyên viên, nhóm cho văn thư.",
+            "D": "Nhóm trên máy tính, nhóm trên điện thoại, nhóm trên máy in."
+          },
+          "explanation": "Phân loại theo mục đích - tư duy, sản xuất nội dung, kết nối - giúp ta chọn đúng công cụ cho đúng việc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Phát biểu nào sau đây đúng về việc sử dụng các công cụ số hỗ trợ sáng tạo?",
+          "options": {
+            "A": "Phải biết hết mọi công cụ mới sáng tạo được, càng dùng nhiều phần mềm cùng lúc càng tốt.",
+            "B": "Chỉ người trẻ am hiểu công nghệ mới có thể ứng dụng sáng tạo công cụ số.",
+            "C": "Không nhất thiết phải dùng mọi công cụ; quan trọng là hiểu nhóm nào phù hợp với việc và sẵn sàng học cái mới khi cần.",
+            "D": "Công cụ càng phức tạp thì kết quả sáng tạo càng cao."
+          },
+          "explanation": "Giá trị nằm ở việc chọn đúng công cụ theo mục đích và tinh thần ham học, không phải ở số lượng phần mềm.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Trong cơ quan, một đồng nghiệp đề xuất một cách làm mới nhưng khi thử thì chưa đạt kết quả như mong đợi. Là người xây dựng văn hóa đổi mới, Anh/Chị nên ứng xử thế nào?",
+          "options": {
+            "A": "Phê bình để lần sau không ai dám đề xuất những việc có rủi ro.",
+            "B": "Xem đó là một bài học để cùng rút kinh nghiệm và cải tiến, khích lệ tinh thần dám thử của đồng nghiệp.",
+            "C": "Yêu cầu quay lại hoàn toàn cách cũ và không thử gì thêm.",
+            "D": "Bỏ qua, coi như không liên quan đến mình."
+          },
+          "explanation": "Không qui kết trách nhiệm với thiếu sót nhỏ, biến mỗi lần thử thành cơ hội cải tiến - đó là cốt lõi của văn hóa đổi mới.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Cơ quan muốn dùng một trợ lý AI công cộng để hỗ trợ soạn thảo và tổng hợp tài liệu. Để vừa sáng tạo vừa an toàn, nguyên tắc nào phải được tuân thủ?",
+          "options": {
+            "A": "Cứ đưa mọi tài liệu, kể cả tài liệu mật, lên AI để xử lý cho nhanh và đầy đủ.",
+            "B": "Tin tưởng tuyệt đối kết quả AI tạo ra, dùng luôn không cần kiểm tra.",
+            "C": "Tuyệt đối không nhập thông tin nội bộ, tài liệu mật, dữ liệu cá nhân công dân vào công cụ công cộng; mọi sản phẩm AI tạo ra đều phải được con người kiểm chứng trước khi dùng.",
+            "D": "Để AI tự quyết định nội dung cuối cùng cho khách quan."
+          },
+          "explanation": "An toàn thông tin là nền tảng; AI chỉ hỗ trợ, con người vẫn phải kiểm chứng và chịu trách nhiệm về kết quả.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

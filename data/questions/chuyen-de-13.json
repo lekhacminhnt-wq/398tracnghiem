@@ -1,0 +1,410 @@
+{
+  "topicId": 13,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Sử dụng hiệu quả thiết bị số, phần mềm và xử lý sự cố kỹ thuật",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Lợi ích chính của việc chuyển từ xử lý hồ sơ giấy sang phần mềm quản lý văn bản là gì?",
+          "options": {
+            "A": "Đảm bảo tuyệt đối không bao giờ rò rỉ thông tin.",
+            "B": "Tránh được mọi sai sót do con người gây ra.",
+            "C": "Tiết kiệm thời gian, nâng cao hiệu suất, theo dõi công việc minh bạch và dễ tìm kiếm hơn.",
+            "D": "Không cần tuân thủ quy định nào về lưu trữ tài liệu."
+          },
+          "explanation": "Phần mềm quản lý văn bản giúp tiết kiệm thời gian, minh bạch và dễ tra cứu; nhưng không loại bỏ hoàn toàn rủi ro hay sai sót, và vẫn phải tuân thủ quy định lưu trữ.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Để chuyển việc liền mạch giữa máy tính cơ quan, điện thoại và máy tính bảng, cách làm phù hợp nhất là gì?",
+          "options": {
+            "A": "Đồng bộ tài liệu qua nền tảng đám mây được cơ quan cho phép để truy cập an toàn trên nhiều thiết bị.",
+            "B": "Gửi toàn bộ tài liệu công việc vào email cá nhân để lưu và lấy ra khi cần.",
+            "C": "Chép tất cả tài liệu vào một USB và mang theo người mọi lúc.",
+            "D": "Đăng tài liệu lên một nhóm mạng xã hội công cộng cho tiện chia sẻ."
+          },
+          "explanation": "Đám mây được cơ quan cho phép vừa tiện lợi vừa an toàn, luôn cho bản mới nhất ở mọi thiết bị; email cá nhân, USB trôi nổi hay mạng xã hội công cộng đều tiềm ẩn rủi ro lộ lọt dữ liệu cơ quan.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Việc nào nên làm trước một buổi họp trực tuyến quan trọng để hạn chế sự cố?",
+          "options": {
+            "A": "Đợi đến đúng giờ họp mới bật máy và mở phần mềm cho tiết kiệm thời gian.",
+            "B": "Kiểm tra trước đường truyền mạng, thử micro - loa - camera và mở sẵn đúng tài liệu.",
+            "C": "Tắt hết thông báo rồi để máy tự kết nối, không cần kiểm tra gì thêm.",
+            "D": "Cài thêm vài phần mềm họp mới để phòng khi phần mềm chính không chạy."
+          },
+          "explanation": "Một danh mục kiểm tra nhanh (mạng, micro - loa - camera, tài liệu, nguồn điện) giúp phòng ngừa phần lớn sự cố; cài thêm phần mềm lạ không cần thiết còn tiềm ẩn rủi ro an toàn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đang trình bày trong cuộc họp trực tuyến với nhiều đơn vị, máy tính của chị Lan bỗng treo cứng, không phản hồi. Chị nên xử lý thế nào trước tiên?",
+          "options": {
+            "A": "Im lặng loay hoay sửa máy, để cả phòng họp chờ mà không rõ chuyện gì.",
+            "B": "Tải vội một phần mềm họp lạ trên mạng về cài cho kịp vào lại.",
+            "C": "Bình tĩnh báo nhóm một câu xin chờ, chuyển sang điện thoại đã cài sẵn phần mềm họp để vào lại; nếu chưa được thì nhờ đồng nghiệp tiếp nối tạm.",
+            "D": "Tắt máy bỏ ra ngoài, xem như sự cố ngoài ý muốn nên không cần báo ai."
+          },
+          "explanation": "Phương án bình tĩnh báo nhóm - dùng thiết bị dự phòng - nhờ tiếp nối tạm giúp buổi họp chung không đứt quãng; cài phần mềm lạ tiềm ẩn rủi ro an toàn thông tin, còn im lặng khiến cả nhóm phấp phỏng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh Minh thường làm việc trên máy cơ quan, nhưng hay phải xem và sửa tiếp tài liệu khi đi công tác. Cách tổ chức công cụ hợp lý và an toàn nhất là gì?",
+          "options": {
+            "A": "Mỗi lần cần thì tự gửi file vào email cá nhân để mở trên điện thoại cho nhanh.",
+            "B": "Lưu tài liệu công việc trên nền tảng đám mây được cơ quan cho phép để đồng bộ và truy cập an toàn trên các thiết bị.",
+            "C": "Sao chép toàn bộ tài liệu vào USB cá nhân và cắm vào bất kỳ máy nào đang rảnh.",
+            "D": "Nhờ đồng nghiệp chụp màn hình tài liệu rồi gửi qua nhóm chat cá nhân."
+          },
+          "explanation": "Dùng nền tảng đám mây của cơ quan giúp tài liệu luôn là bản mới nhất ở mọi thiết bị và vẫn trong tầm quản lý, bảo mật; email cá nhân, USB hay nhóm chat cá nhân đều vi phạm nguyên tắc dùng kênh công vụ và dễ lộ lọt dữ liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Khai thác thông tin và phân tích dữ liệu số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Để so sánh mức độ trễ hẹn giữa các phòng có số lượng hồ sơ rất khác nhau cho công bằng, nên dùng chỉ số nào?",
+          "options": {
+            "A": "Số hồ sơ trễ tuyệt đối của mỗi phòng.",
+            "B": "Tỷ lệ phần trăm hồ sơ trễ trên tổng số hồ sơ của từng phòng.",
+            "C": "Tổng số hồ sơ mỗi phòng tiếp nhận.",
+            "D": "Số ngày làm việc trong tháng của mỗi phòng."
+          },
+          "explanation": "Khi quy mô khác nhau, tỷ lệ phần trăm mới phản ánh đúng mức độ trễ; chỉ nhìn số tuyệt đối dễ khiến phòng nhiều hồ sơ bị đánh giá oan.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Muốn thể hiện xu hướng số hồ sơ thay đổi qua mười hai tháng, loại biểu đồ nào phù hợp nhất?",
+          "options": {
+            "A": "Biểu đồ tròn.",
+            "B": "Biểu đồ đường (hoặc cột) theo thời gian.",
+            "C": "Một bảng số liệu đầy đủ, không cần biểu đồ.",
+            "D": "Biểu đồ tròn chia thành mười hai phần."
+          },
+          "explanation": "Biểu đồ đường (hoặc cột) theo thời gian giúp nhìn ngay xu hướng tăng, giảm, đột biến; biểu đồ tròn chỉ hợp để xem cơ cấu, tỷ trọng tại một thời điểm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi đọc một biểu đồ trong báo cáo, vì sao cần xem kỹ trục, đơn vị tính và chú giải?",
+          "options": {
+            "A": "Vì đó là yêu cầu bắt buộc về hình thức trình bày.",
+            "B": "Vì nếu bỏ qua, một biểu đồ trông đẹp vẫn có thể dẫn tới kết luận sai.",
+            "C": "Vì để biết ai là người vẽ biểu đồ đó.",
+            "D": "Vì biểu đồ luôn chính xác nên chỉ cần xem cho đủ thủ tục."
+          },
+          "explanation": "Trục bắt đầu từ đâu, đơn vị là số lượng hay phần trăm, mỗi màu nghĩa là gì - bỏ qua các chi tiết này rất dễ hiểu lệch ý nghĩa của số liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Phòng của anh A thấy hồ sơ trễ hẹn tăng đột biến. Lãnh đạo hỏi nguyên nhân. Cách tham mưu thể hiện đúng kỹ năng phân tích dữ liệu là gì?",
+          "options": {
+            "A": "Trả lời ngay theo cảm nhận: “Chắc do anh em tiếp nhận làm chậm.”",
+            "B": "Dùng bảng tính thống kê số hồ sơ trễ theo từng khâu, phát hiện phần lớn dừng ở khâu thẩm định, rồi đề xuất giải pháp kèm số liệu chứng minh.",
+            "C": "Đề xuất nhắc nhở toàn bộ nhân viên cho có động thái.",
+            "D": "Chờ tháng sau xem tình hình thế nào rồi mới báo cáo."
+          },
+          "explanation": "Thống kê và phân tích theo từng khâu giúp tìm đúng nguyên nhân và đề xuất giải pháp trúng vấn đề, thay vì phỏng đoán cảm tính.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B được giao phân tích một bảng dữ liệu có chứa thông tin cá nhân của công dân. Chị nên ứng xử thế nào cho đúng quy định?",
+          "options": {
+            "A": "Sao chép dữ liệu về máy cá nhân để tiện làm thêm ở nhà.",
+            "B": "Tải bảng dữ liệu lên một công cụ phân tích trực tuyến miễn phí cho nhanh.",
+            "C": "Chỉ sử dụng trong phạm vi, đúng mục đích và thẩm quyền được giao; không tùy tiện sao chép, chia sẻ hay đưa ra ngoài.",
+            "D": "Chia sẻ một phần lên nhóm chat chung để đồng nghiệp cùng xem cho nhanh."
+          },
+          "explanation": "Dữ liệu chứa thông tin cá nhân phải được dùng đúng phạm vi, mục đích và thẩm quyền; sao chép ra máy cá nhân, đưa lên công cụ công cộng hay chia sẻ tùy tiện đều vi phạm quy định bảo vệ dữ liệu.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Giao tiếp số văn minh, hợp tác hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Để gửi một thông báo chính thức kèm tài liệu tới nhiều người và cần lưu vết, nên dùng kênh nào?",
+          "options": {
+            "A": "Nhắn tin nhanh vào một nhóm chat trên ứng dụng công cộng.",
+            "B": "Gửi email từ địa chỉ công vụ kèm tệp tài liệu.",
+            "C": "Gọi điện cho từng người để đọc nội dung.",
+            "D": "Đăng lên trang mạng xã hội cá nhân và gắn thẻ mọi người."
+          },
+          "explanation": "Email công vụ phù hợp cho thông báo chính thức, gửi nhiều người, kèm tài liệu và lưu vết; nhắn tin hay mạng xã hội cá nhân không bảo đảm tính chính thức và an toàn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Một tin nhắn giao việc rõ ràng, hành động được ngay thường nêu đủ những ý nào?",
+          "options": {
+            "A": "Chỉ cần nêu nội dung công việc là đủ.",
+            "B": "Ai làm - làm gì - hạn nào - cần phản hồi gì.",
+            "C": "Càng dài, càng nhiều chi tiết càng tốt.",
+            "D": "Chỉ cần ghi chữ “gấp” để người nhận tự hiểu."
+          },
+          "explanation": "Nêu rõ ai làm, làm gì, hạn chót và cần phản hồi gì giúp người nhận hiểu ngay, không phải hỏi lại; chữ “gấp” chung chung không thay được hạn cụ thể.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là cách chọn kênh giao tiếp hợp lý trong công việc?",
+          "options": {
+            "A": "Mọi việc đều tổ chức họp trực tuyến cho chắc chắn.",
+            "B": "Mọi việc đều nhắn tin cho nhanh, kể cả việc phức tạp.",
+            "C": "Việc trao đổi ngắn thì nhắn tin; việc cần lưu vết, kèm tài liệu thì email; việc cần bàn bạc nhiều ý kiến thì họp.",
+            "D": "Việc nào cũng gửi văn bản hành chính cho trang trọng."
+          },
+          "explanation": "Mỗi kênh hợp với một loại việc; chọn đúng kênh ngay từ đầu giúp tiết kiệm thời gian, tránh họp thừa hoặc bàn việc phức tạp chỉ bằng nhắn tin.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Trong nhóm chat công việc, chị Hoa cần đúng anh Tuấn kiểm tra lại một số liệu, nhưng lại nhắn trống không “nhờ xem lại giúp với”. Kết quả không ai phản hồi vì tưởng là việc của người khác. Lần sau chị nên làm gì?",
+          "options": {
+            "A": "Nhắn lại “sao không ai trả lời vậy” cho cả nhóm.",
+            "B": "Gắn thẻ hoặc nhắc đích danh anh Tuấn, nêu rõ cần kiểm tra số liệu nào và hạn phản hồi.",
+            "C": "Gọi điện lần lượt cho tất cả thành viên trong nhóm.",
+            "D": "Chờ vài ngày xem có ai để ý không rồi tính tiếp."
+          },
+          "explanation": "Nhắc đích danh đúng người cùng yêu cầu cụ thể và hạn phản hồi giúp việc được xử lý ngay, tránh tình trạng “tưởng là việc của người khác” nên không ai làm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Tổ công tác cần trao đổi một nội dung thuộc tài liệu nội bộ chưa được công bố. Cách làm đúng quy định là gì?",
+          "options": {
+            "A": "Lập một nhóm chat trên ứng dụng công cộng và gửi tài liệu vào đó cho nhanh.",
+            "B": "Chụp màn hình tài liệu gửi vào nhóm chung của cơ quan.",
+            "C": "Trao đổi qua email và hệ thống công vụ; chỉ thêm đúng người có trách nhiệm vào kênh làm việc.",
+            "D": "Chuyển tiếp tài liệu cho nhiều người để ai cũng nắm cho chắc."
+          },
+          "explanation": "Nội dung nội bộ nhạy cảm phải đi qua email và hệ thống công vụ, giới hạn đúng người có trách nhiệm; đưa lên nhóm chat công cộng hay chia sẻ tràn lan đều vi phạm quy định an toàn thông tin.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Sáng tạo nội dung số phục vụ công việc",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao việc sáng tạo nội dung số đang trở thành xu hướng trong các cơ quan nhà nước?",
+          "options": {
+            "A": "Vì văn bản hành chính sắp bị thay thế hoàn toàn bằng video.",
+            "B": "Vì cách thể hiện sinh động, trực quan giúp thông điệp chính sách đến với người dân nhanh và dễ hiểu hơn.",
+            "C": "Vì cán bộ không cần soạn văn bản theo thể thức nữa.",
+            "D": "Vì đây chỉ là phong trào nhất thời, làm cho có."
+          },
+          "explanation": "Đổi mới cách truyền thông giúp thông điệp đến đúng đối tượng và dễ tiếp nhận hơn; văn bản hành chính theo thể thức vẫn giữ nguyên vai trò của nó.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là một lợi ích của việc sáng tạo nội dung số trong tuyên truyền chính sách?",
+          "options": {
+            "A": "Giúp cán bộ không phải chịu trách nhiệm về độ chính xác của thông tin.",
+            "B": "Giúp người dân nắm bắt nhanh, giảm hiểu lầm và bớt những câu hỏi phải giải thích lặp lại.",
+            "C": "Cho phép bỏ qua khâu duyệt nội dung để đăng cho nhanh.",
+            "D": "Thay thế hoàn toàn vai trò của cán bộ trong tiếp dân."
+          },
+          "explanation": "Nội dung trực quan, dễ hiểu giúp truyền thông hiệu quả hơn và giảm tải cho cán bộ; nhưng không miễn trừ trách nhiệm về tính chính xác hay khâu duyệt nội dung.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi xây dựng nội dung tuyên truyền cho các nhóm đối tượng khác nhau, nguyên tắc đúng là gì?",
+          "options": {
+            "A": "Dùng chung một cách thể hiện cho mọi đối tượng cho thống nhất.",
+            "B": "Chọn cách thể hiện phù hợp với từng nhóm - người lớn tuổi cần rõ ràng, người trẻ cần ngắn gọn, trực quan, cuốn hút.",
+            "C": "Chỉ cần tập trung vào nhóm người trẻ vì họ dùng mạng nhiều.",
+            "D": "Nội dung càng nhiều chữ, càng trang trọng thì càng hiệu quả với mọi người."
+          },
+          "explanation": "Hiểu đúng người xem là ai để chọn cách thể hiện phù hợp chính là tinh thần cốt lõi của truyền thông số trong khu vực công.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị Lan muốn làm một video ngắn tuyên truyền cho một chính sách mới và định lấy một bản nhạc nền đang thịnh hành trên mạng. Cách làm đúng đắn là gì?",
+          "options": {
+            "A": "Cứ dùng bản nhạc đó vì trên mạng ai cũng dùng.",
+            "B": "Ưu tiên dùng nhạc, hình ảnh được phép sử dụng (miễn phí bản quyền) hoặc tự tạo, tránh dùng tư liệu có bản quyền tùy tiện.",
+            "C": "Dùng tạm rồi ghi chú “nguồn từ Internet” là đủ.",
+            "D": "Cắt bớt một đoạn nhạc để khỏi bị coi là vi phạm."
+          },
+          "explanation": "Cán bộ phải tôn trọng bản quyền, chỉ dùng tư liệu được phép; việc ghi chú “nguồn Internet” hay cắt ngắn không làm cho việc dùng trái phép trở nên hợp lệ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh Minh dùng một công cụ AI trực tuyến để dựng nội dung tuyên truyền, và định đưa cả một số liệu nội bộ chưa công bố vào để AI viết cho sinh động. Anh nên ứng xử thế nào?",
+          "options": {
+            "A": "Cứ đưa hết số liệu vào để AI tạo nội dung đầy đủ, hấp dẫn nhất.",
+            "B": "Đưa số liệu vào nhưng nhắc AI giữ bí mật giúp.",
+            "C": "Không đưa số liệu nội bộ chưa công bố lên công cụ AI công cộng; chỉ dùng thông tin đã được phép, và duyệt kỹ nội dung trước khi đăng.",
+            "D": "Đưa một nửa số liệu vào cho an toàn."
+          },
+          "explanation": "Tuyệt đối không nhập tài liệu, số liệu nội bộ chưa công bố lên công cụ AI công cộng; nội dung do AI tạo cũng phải được con người duyệt lại và đăng đúng quy trình, thẩm quyền.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "An toàn thông tin và bảo mật trong môi trường số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nói an toàn thông tin là trách nhiệm của mỗi cán bộ, chứ không chỉ của bộ phận kỹ thuật?",
+          "options": {
+            "A": "Vì bộ phận kỹ thuật không đủ người để làm.",
+            "B": "Vì phần lớn sự cố lộ lọt thông tin bắt nguồn từ yếu tố con người - thói quen, sơ suất của người dùng.",
+            "C": "Vì cán bộ phải tự cài đặt mọi phần mềm bảo mật.",
+            "D": "Vì công nghệ hiện đại đã loại bỏ hoàn toàn nguy cơ kỹ thuật."
+          },
+          "explanation": "Công nghệ dù hiện đại cũng khó cứu được nếu người dùng vô tình mở cửa cho nguy cơ; vì vậy an toàn thông tin trước hết là thói quen và trách nhiệm của từng người.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là ví dụ về nhóm “nguy cơ từ con người và thủ đoạn lừa đảo”?",
+          "options": {
+            "A": "Máy tính lâu ngày không cập nhật phần mềm.",
+            "B": "Thiết bị lưu trữ lạ bị bỏ quên trong phòng họp.",
+            "C": "Thư điện tử giả danh lãnh đạo, dụ bấm vào liên kết hoặc cung cấp mã xác minh.",
+            "D": "Tài liệu được sao chép ra USB cá nhân."
+          },
+          "explanation": "Giả mạo qua thư điện tử, tin nhắn, cuộc gọi để moi thông tin là thủ đoạn đánh vào yếu tố con người; các phương án còn lại thuộc nhóm nguy cơ từ thiết bị hoặc cách xử lý dữ liệu.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc “chậm lại một nhịp để xác minh” có ý nghĩa gì trong an toàn thông tin?",
+          "options": {
+            "A": "Làm mọi việc thật chậm để tránh sai sót.",
+            "B": "Với liên kết, tệp đính kèm hay yêu cầu bất thường, hãy dừng lại kiểm tra và xác minh qua kênh khác trước khi làm theo.",
+            "C": "Chờ bộ phận kỹ thuật xử lý mọi thư điện tử trước khi mở.",
+            "D": "Không bao giờ mở thư điện tử để cho an toàn."
+          },
+          "explanation": "Một giây chần chừ đúng lúc - kiểm tra người gửi, xác minh qua kênh khác - có thể giúp tránh được một sự cố lớn; đây là phản xạ quan trọng nhất trước các nguy cơ lừa đảo.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh Hùng nhận được cuộc gọi từ một người tự xưng là “cán bộ kỹ thuật của cơ quan”, đề nghị anh đọc mã xác minh (OTP) vừa nhận được để “nâng cấp hệ thống”. Anh nên làm gì?",
+          "options": {
+            "A": "Đọc mã ngay vì người gọi nói là cán bộ kỹ thuật.",
+            "B": "Đọc một phần mã cho an toàn rồi hỏi thêm.",
+            "C": "Tuyệt đối không cung cấp mã OTP; chủ động liên hệ trực tiếp bộ phận công nghệ thông tin để xác minh yêu cầu.",
+            "D": "Tắt máy và bỏ qua, không cần báo cho ai."
+          },
+          "explanation": "Không bao giờ cung cấp mật khẩu hay mã OTP cho bất kỳ ai, kể cả người tự xưng là kỹ thuật hay lãnh đạo; cần xác minh qua kênh chính thức và báo bộ phận công nghệ thông tin.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị Mai vô tình nhận ra mình vừa bấm vào một liên kết lạ trong thư điện tử và đăng nhập tài khoản công vụ trên đó. Chị nên ưu tiên làm gì đầu tiên?",
+          "options": {
+            "A": "Coi như không có chuyện gì vì có thể chưa sao.",
+            "B": "Chờ vài hôm xem tài khoản có bất thường không rồi tính.",
+            "C": "Báo ngay cho bộ phận công nghệ thông tin của cơ quan và đổi mật khẩu càng sớm càng tốt.",
+            "D": "Tự gỡ phần mềm trên máy rồi giữ kín để khỏi liên lụy."
+          },
+          "explanation": "Khi nghi đã trở thành nạn nhân, báo ngay cho bộ phận công nghệ thông tin và đổi mật khẩu sớm giúp giảm thiểu thiệt hại; giấu sự cố hoặc chần chừ chỉ khiến nguy cơ lan rộng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

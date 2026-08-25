@@ -1,0 +1,425 @@
+{
+  "topicId": 16,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Poster xấu hóa đẹp trong 5 phút: bí quyết Canva",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Điều gì làm nên sức mạnh giúp Canva dễ dùng cho người không biết thiết kế?",
+          "options": {
+            "A": "Bắt buộc người dùng phải tự vẽ mọi thứ từ trang trắng.",
+            "B": "Kho mẫu có sẵn với bố cục, màu sắc, phông chữ được thiết kế chuyên nghiệp; người dùng chỉ cần thay nội dung.",
+            "C": "Chỉ cho phép tạo văn bản, không có hình ảnh.",
+            "D": "Phải cài đặt phần mềm phức tạp lên máy mới dùng được."
+          },
+          "explanation": "Canva mạnh ở kho mẫu có sẵn; người dùng chỉ thay nội dung của mình vào khung đã được thiết kế chuyên nghiệp, không cần kỹ năng mỹ thuật.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là trình tự hợp lý để tạo một poster bằng Canva?",
+          "options": {
+            "A": "Tải về - thay nội dung - chọn mẫu - tinh chỉnh.",
+            "B": "Chọn mẫu - thay nội dung - tinh chỉnh (màu, logo) - tải về và chia sẻ.",
+            "C": "Tinh chỉnh - tải về - chọn mẫu - thay nội dung.",
+            "D": "Thay nội dung - tải về - chọn mẫu - tinh chỉnh."
+          },
+          "explanation": "Quy trình hợp lý là chọn mẫu trước, thay nội dung, tinh chỉnh cho đúng nhận diện cơ quan, rồi mới tải về và chia sẻ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi tải sản phẩm từ Canva để in poster, nên chọn định dạng nào là phù hợp?",
+          "options": {
+            "A": "Định dạng âm thanh MP3.",
+            "B": "Định dạng PDF (để in) hoặc PNG/JPG (cho ảnh).",
+            "C": "Định dạng bảng tính Excel.",
+            "D": "Định dạng nén ZIP."
+          },
+          "explanation": "PDF phù hợp cho in ấn; PNG, JPG phù hợp cho ảnh hiển thị, chia sẻ trực tuyến.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị A cần làm một banner tuyên truyền và muốn dùng một hình ảnh đẹp trong Canva, nhưng hình đó có biểu tượng cho thấy thuộc gói trả phí mà cơ quan chưa mua. Chị nên:",
+          "options": {
+            "A": "Chọn một hình miễn phí hoặc đã có bản quyền hợp lệ để thay thế, bảo đảm sản phẩm của cơ quan không vi phạm bản quyền.",
+            "B": "Cứ dùng hình trả phí đó, vì chỉ làm cho việc cơ quan nên không sao.",
+            "C": "Chụp màn hình hình đó rồi chèn vào để khỏi trả phí.",
+            "D": "Tải hình về từ một trang khác để tránh biểu tượng bản quyền."
+          },
+          "explanation": "Phải tôn trọng bản quyền: ưu tiên yếu tố miễn phí hoặc đã có phép; không lách bằng cách chụp màn hình hay tải lậu hình thuộc gói trả phí.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh B định làm một poster nội bộ, trong đó có một bảng số liệu chưa được phép công khai. Theo tinh thần “dữ liệu nào, công cụ đó”, anh nên:",
+          "options": {
+            "A": "Đưa thẳng bảng số liệu mật lên Canva cho tiện trình bày.",
+            "B": "Không đưa số liệu mật, nội bộ nhạy cảm lên Canva (công cụ trực tuyến) nếu sản phẩm sẽ chia sẻ rộng; chỉ dùng dữ liệu đã được phép công khai.",
+            "C": "Đưa lên Canva nhưng để chế độ riêng tư là đủ an toàn tuyệt đối.",
+            "D": "Đưa lên rồi xóa đi sau khi tải về là không còn rủi ro gì."
+          },
+          "explanation": "Canva là công cụ trực tuyến; không đưa dữ liệu mật, nội bộ nhạy cảm lên, nhất là khi sản phẩm sẽ chia sẻ rộng - đúng tinh thần “dữ liệu nào, công cụ đó”.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Slides khô khan? Để PowerPoint lo!",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc thiết kế slide nào sau đây là đúng?",
+          "options": {
+            "A": "Dồn càng nhiều chữ vào một slide càng tốt để khỏi phải làm nhiều trang.",
+            "B": "Mỗi slide chỉ nên truyền tải một ý chính, ít chữ, ưu tiên hình ảnh và biểu đồ.",
+            "C": "Mỗi slide nên dùng một phông chữ và màu sắc khác nhau cho phong phú.",
+            "D": "Nên đọc nguyên văn nội dung trên slide khi trình bày."
+          },
+          "explanation": "Slide tốt theo nguyên tắc mỗi slide một ý, ít chữ nhiều hình; phông chữ và màu sắc cần nhất quán, và slide chỉ để hỗ trợ chứ không để đọc lại.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Công cụ AI nào phù hợp nhất khi muốn tạo slide bám sát một tài liệu (báo cáo, PDF) có sẵn?",
+          "options": {
+            "A": "Gamma, bằng cách gõ một câu mô tả chủ đề bất kỳ.",
+            "B": "NotebookLM, bằng cách tải tài liệu lên để AI dựng slide trung thành với nội dung nguồn.",
+            "C": "Máy tính cầm tay (Calculator).",
+            "D": "Trình duyệt web thông thường."
+          },
+          "explanation": "NotebookLM tạo slide bám sát tài liệu người dùng tải lên, ít “bịa” nội dung; phù hợp khi đã có sẵn báo cáo, tài liệu nguồn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Phát biểu nào đúng về vai trò của AI khi tạo slide thuyết trình?",
+          "options": {
+            "A": "AI tạo ra ngay một bài trình bày chính thức hoàn chỉnh, không cần con người chỉnh sửa.",
+            "B": "AI giúp dựng nhanh bản nháp; con người vẫn phải rà soát, kiểm chứng và hoàn thiện trước khi dùng.",
+            "C": "AI chỉ dùng để chèn nhạc nền vào slide.",
+            "D": "AI thay thế hoàn toàn vai trò của người trình bày."
+          },
+          "explanation": "Công cụ AI tăng tốc phần dàn ý, bố cục và bản nháp; con người là người kiểm chứng, hoàn thiện và chịu trách nhiệm cuối cùng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị A có một báo cáo nội bộ chứa số liệu chưa được phép công khai và muốn dùng công cụ AI tạo nhanh slide. Cách xử lý đúng là:",
+          "options": {
+            "A": "Tải thẳng báo cáo nội bộ lên công cụ AI trực tuyến cho nhanh.",
+            "B": "Không tải tài liệu mật, nội bộ lên công cụ AI trực tuyến; chỉ dùng AI với nội dung đã được phép công khai, đúng tinh thần “dữ liệu nào, công cụ đó”.",
+            "C": "Tải lên nhưng xóa tên cơ quan đi là đủ an toàn.",
+            "D": "Tải lên rồi đặt chế độ riêng tư là chắc chắn không rủi ro."
+          },
+          "explanation": "Công cụ AI tạo slide chạy trực tuyến; tuyệt đối không đưa tài liệu mật, nội bộ lên, chỉ dùng với nội dung đã công khai - đúng tinh thần “dữ liệu nào, công cụ đó”.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh B dùng Gamma tạo nhanh một bộ slide cho buổi tập huấn nội bộ. Sau khi AI dựng xong, anh nên làm gì trước khi trình bày?",
+          "options": {
+            "A": "Dùng luôn bản AI tạo ra, không cần xem lại vì AI đã làm hết.",
+            "B": "Đọc lại toàn bộ, kiểm chứng số liệu, chỉnh văn phong và rà phông chữ, bố cục tiếng Việt cho ngay ngắn rồi mới dùng.",
+            "C": "Chỉ cần đổi màu nền cho đẹp là đủ.",
+            "D": "Gửi ngay cho lãnh đạo duyệt mà không xem lại."
+          },
+          "explanation": "AI chỉ tạo bản nháp; cần đọc lại, kiểm chứng số liệu, chỉnh văn phong công vụ và rà lại phông chữ, bố cục (nhất là tiếng Việt) trước khi sử dụng chính thức.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Chưa biết viết gì? Hỏi ngay ChatGPT!",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Cách hiểu nào đúng về vai trò của ChatGPT trong việc viết nội dung công vụ?",
+          "options": {
+            "A": "ChatGPT viết ra sản phẩm hoàn chỉnh, có thể dùng ngay mà không cần chỉnh sửa.",
+            "B": "ChatGPT là trợ lý giúp tạo bản nháp nhanh; con người phải biên tập, kiểm chứng và chịu trách nhiệm cuối cùng.",
+            "C": "ChatGPT thay thế hoàn toàn cán bộ trong việc soạn thảo văn bản.",
+            "D": "ChatGPT chỉ dùng để chơi, không hỗ trợ được công việc."
+          },
+          "explanation": "Đúng tinh thần “AI làm nhanh, người làm chuẩn”: AI tạo nháp, con người biên tập, kiểm chứng và quyết định.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Một câu lệnh (prompt) tốt để nhờ ChatGPT soạn văn bản thường gồm những phần nào?",
+          "options": {
+            "A": "Chỉ cần một từ khóa duy nhất là đủ.",
+            "B": "Vai trò và bối cảnh, nhiệm vụ cụ thể, và yêu cầu về hình thức (độ dài, văn phong, bố cục).",
+            "C": "Càng mơ hồ càng tốt để AI tự do sáng tạo.",
+            "D": "Phải viết bằng tiếng nước ngoài thì AI mới hiểu."
+          },
+          "explanation": "Câu lệnh tốt nêu rõ vai trò - bối cảnh, nhiệm vụ và yêu cầu hình thức; giao việc đầy đủ như giao cho một trợ lý thật.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao phải kiểm chứng lại thông tin do ChatGPT cung cấp?",
+          "options": {
+            "A": "Vì ChatGPT luôn từ chối trả lời các câu hỏi khó.",
+            "B": "Vì ChatGPT đôi khi “bịa” ra số liệu, trích dẫn hoặc căn cứ pháp lý nghe thuyết phục nhưng không có thật.",
+            "C": "Vì ChatGPT chỉ trả lời được bằng hình ảnh.",
+            "D": "Vì ChatGPT không thể viết văn bản tiếng Việt."
+          },
+          "explanation": "AI có thể tạo thông tin sai mà nghe rất hợp lý; mọi số liệu, tên văn bản, điều khoản phải đối chiếu nguồn chính thống trước khi dùng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A nhờ ChatGPT soạn một báo cáo và AI đưa ra một số liệu kèm trích dẫn một nghị định nghe rất thuyết phục. Anh nên làm gì?",
+          "options": {
+            "A": "Tin tưởng và đưa thẳng số liệu, trích dẫn đó vào báo cáo cho nhanh.",
+            "B": "Đối chiếu lại số liệu và nghị định đó với nguồn chính thống; chỉ sử dụng khi đã xác minh là chính xác và còn hiệu lực.",
+            "C": "Bỏ hẳn báo cáo vì không thể tin AI.",
+            "D": "Nhờ AI tự kiểm chứng lại chính nó là đủ."
+          },
+          "explanation": "Số liệu và căn cứ pháp lý do AI đưa ra phải được kiểm chứng từ nguồn chính thống và kiểm tra hiệu lực trước khi sử dụng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B muốn nhờ ChatGPT tóm tắt một tài liệu nội bộ chưa được phép công khai, trong đó có tên và thông tin của một số công dân. Cách xử lý đúng là:",
+          "options": {
+            "A": "Dán toàn bộ tài liệu, gồm cả tên công dân, vào ChatGPT cho nhanh.",
+            "B": "Không dán nội dung nội bộ và thông tin cá nhân lên ChatGPT; nếu cần ví dụ thì ẩn danh, thay tên thật bằng “Ông A”, “Bà B”, đúng tinh thần “dữ liệu nào, công cụ đó”.",
+            "C": "Chỉ cần xóa tên cơ quan là có thể dán phần còn lại lên.",
+            "D": "Dán lên rồi xóa lịch sử trò chuyện là an toàn tuyệt đối."
+          },
+          "explanation": "Tài liệu nội bộ và thông tin cá nhân tuyệt đối không đưa lên công cụ AI công cộng; khi cần ví dụ phải ẩn danh, đúng tinh thần bảo vệ dữ liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Không biết vẽ? Đã có AI hình ảnh!",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Yếu tố nào quyết định nhiều nhất đến việc ảnh do AI tạo ra có đúng ý hay không?",
+          "options": {
+            "A": "Tốc độ đường truyền internet.",
+            "B": "Lời mô tả (prompt) càng rõ ràng, chi tiết thì ảnh tạo ra càng sát ý muốn.",
+            "C": "Màu sắc của màn hình máy tính.",
+            "D": "Số lượng ảnh đã tạo trước đó."
+          },
+          "explanation": "AI tạo ảnh dựa vào lời mô tả; tả càng chi tiết về chủ thể, bối cảnh, phong cách thì kết quả càng đúng ý.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Một lời mô tả tốt để tạo ảnh thường gồm những yếu tố nào?",
+          "options": {
+            "A": "Chỉ cần một từ duy nhất, ví dụ “ảnh đẹp”.",
+            "B": "Chủ thể, bối cảnh và hành động, phong cách, và các chi tiết bổ sung (ánh sáng, màu sắc).",
+            "C": "Tên của người dùng và ngày tháng.",
+            "D": "Địa chỉ email và số điện thoại."
+          },
+          "explanation": "Lời mô tả tốt nêu rõ chủ thể, bối cảnh - hành động, phong cách và chi tiết bổ sung; ghép lại thành một câu đầy đủ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi dùng AI tạo hình cho một infographic có số liệu, cần lưu ý điều gì?",
+          "options": {
+            "A": "Tin tưởng hoàn toàn vào chữ và số mà AI tạo trên hình.",
+            "B": "Tự kiểm soát phần chữ và số liệu, vì AI tạo hình tốt nhưng đôi khi viết chữ, số chưa chính xác.",
+            "C": "Không cần kiểm tra gì vì AI luôn đúng.",
+            "D": "Để AI tự quyết định toàn bộ số liệu cho nhanh."
+          },
+          "explanation": "AI tạo hình minh họa rất tốt nhưng có thể viết chữ, số sai; với infographic có số liệu phải tự kiểm soát phần chữ và số.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "KNOWLEDGE",
+          "text": "Khi sử dụng một hình ảnh do AI tạo ra trong tài liệu hoặc slide, bắt buộc phải làm gì?",
+          "options": {
+            "A": "Xóa mọi dấu vết cho thấy ảnh do AI tạo để trông thật hơn.",
+            "B": "Ghi chú rõ ràng “Hình ảnh minh họa được tạo bởi AI” để bảo đảm minh bạch.",
+            "C": "Phóng to ảnh hết cỡ cho nổi bật.",
+            "D": "Đổi tên tệp ảnh thành tên một nhiếp ảnh gia."
+          },
+          "explanation": "Ảnh do AI tạo khi sử dụng phải kèm chú thích minh bạch về nguồn gốc; không được che giấu việc ảnh do AI tạo.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh A định dùng AI tạo một bức ảnh ghép hình một lãnh đạo đang phát biểu tại một sự kiện (thực tế không diễn ra) để minh họa cho bài viết. Việc này:",
+          "options": {
+            "A": "Không được phép, vì tạo hình ảnh giả mạo người thật và sự kiện không có thật, có thể gây tin giả và vi phạm pháp luật.",
+            "B": "Được phép, miễn là ảnh trông đẹp và chuyên nghiệp.",
+            "C": "Được phép, vì AI tạo ra nên không ai chịu trách nhiệm.",
+            "D": "Được phép, chỉ cần không ghi chú gì thêm."
+          },
+          "explanation": "Tuyệt đối không dùng AI tạo ảnh giả mạo người thật hay sự kiện không có thật; đây là hành vi tạo tin giả, có thể vi phạm pháp luật và gây hậu quả nghiêm trọng.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 6,
+          "type": "SITUATION",
+          "text": "Chị B cần một ảnh hiện trường thật để đưa vào báo cáo, nhưng không có ảnh chụp. Chị định dùng AI tạo một ảnh “giống hiện trường” để thay thế. Cách hiểu đúng là:",
+          "options": {
+            "A": "Cứ dùng ảnh AI tạo, vì nhìn cũng giống thật là được.",
+            "B": "Không dùng ảnh AI thay cho ảnh hiện trường thật; ảnh AI chỉ để minh họa khái niệm, không phải bằng chứng, và có thể sai chi tiết.",
+            "C": "Dùng ảnh AI rồi chú thích là ảnh chụp thật cho thuyết phục.",
+            "D": "Dùng ảnh AI và khẳng định đó là hiện trường để báo cáo nhanh hơn."
+          },
+          "explanation": "Ảnh AI chỉ để minh họa, không có giá trị làm bằng chứng và có thể sai chi tiết; tuyệt đối không dùng thay ảnh hiện trường thật, càng không được chú thích sai sự thật.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Làm video không cần quay - AI lo tất!",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Công cụ AI tạo video có thể làm được những việc nào từ một kịch bản bằng chữ?",
+          "options": {
+            "A": "Chỉ in kịch bản ra giấy.",
+            "B": "Tự tạo hình ảnh/cảnh minh họa, chuyển chữ thành giọng đọc, và tạo người dẫn ảo trình bày.",
+            "C": "Chỉ gửi kịch bản qua email.",
+            "D": "Chỉ kiểm tra lỗi chính tả trong kịch bản."
+          },
+          "explanation": "Từ kịch bản chữ, AI có thể sinh hình ảnh, chuyển văn bản thành giọng đọc và tạo người dẫn ảo, giúp làm video mà không cần quay.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nối công cụ với thế mạnh chính của nó cho đúng:",
+          "options": {
+            "A": "HeyGen chuyên cắt ghép, thêm phụ đề; CapCut chuyên tạo người dẫn ảo.",
+            "B": "Google Veo mạnh về sinh cảnh quay từ lời mô tả; HeyGen mạnh về người dẫn ảo đa ngôn ngữ; CapCut mạnh ở chỉnh sửa, phụ đề.",
+            "C": "NotebookLM chuyên quay phim thực tế ngoài hiện trường.",
+            "D": "Canva chỉ dùng để gửi email."
+          },
+          "explanation": "Mỗi công cụ một thế mạnh: Veo sinh cảnh quay từ mô tả, HeyGen tạo người dẫn ảo đa ngôn ngữ, CapCut chỉnh sửa và làm phụ đề, NotebookLM dựng video tóm tắt từ tài liệu, Canva tạo video từ mẫu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Trong ba bước tạo video bằng AI, vì sao bước viết kịch bản lại quan trọng nhất?",
+          "options": {
+            "A": "Vì đó là bước AI làm thay hoàn toàn con người.",
+            "B": "Vì đây là phần con người giữ vai trò chủ đạo, quyết định thông điệp và chất lượng video; kịch bản tốt thì video mới tốt.",
+            "C": "Vì kịch bản càng dài thì video càng hay.",
+            "D": "Vì viết kịch bản giúp bỏ qua bước duyệt sau này."
+          },
+          "explanation": "Kịch bản là nền tảng do con người làm chủ; thông điệp rõ ràng, lời gọn gàng thì video tạo ra mới mạch lạc và hiệu quả.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A muốn làm video tuyên truyền và định dùng AI tạo một người dẫn ảo mang gương mặt của một lãnh đạo cơ quan để đọc lời dẫn. Việc này:",
+          "options": {
+            "A": "Không được phép, vì tạo người dẫn ảo mang gương mặt người thật khi chưa được phép là giả mạo, có thể gây hậu quả nghiêm trọng và vi phạm pháp luật.",
+            "B": "Được phép, vì như vậy video sẽ uy tín hơn.",
+            "C": "Được phép, miễn là video đẹp.",
+            "D": "Được phép, chỉ cần không nói cho ai biết."
+          },
+          "explanation": "Tuyệt đối không tạo người dẫn ảo mang gương mặt người thật hay giả mạo phát ngôn của lãnh đạo; đây là hành vi giả mạo nguy hiểm, vi phạm pháp luật.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B dùng AI tạo một video có người dẫn ảo và giọng đọc AI để hướng dẫn người dân làm thủ tục. Trước khi đăng lên cổng thông tin của cơ quan, chị nên:",
+          "options": {
+            "A": "Đăng ngay, không cần ghi chú gì.",
+            "B": "Kiểm chứng lại nội dung hướng dẫn cho chính xác và ghi chú rõ video có sử dụng hình ảnh, giọng đọc do AI tạo, và trình cấp có thẩm quyền duyệt theo quy trình của cơ quan trước khi đăng tải.",
+            "C": "Khẳng định đó là người thật quay để tăng độ tin cậy.",
+            "D": "Đăng kèm thông tin nội bộ chưa công khai cho đầy đủ."
+          },
+          "explanation": "Cần kiểm chứng nội dung và minh bạch ghi chú video có yếu tố do AI tạo; không giả mạo là người thật, không đưa thông tin nội bộ chưa được phép, nội dung phát hành nhân danh cơ quan phải được cấp có thẩm quyền duyệt trước khi đăng tải chính thức.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

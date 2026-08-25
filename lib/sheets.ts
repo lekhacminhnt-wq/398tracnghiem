@@ -1,6 +1,7 @@
 import { google, sheets_v4 } from "googleapis";
 import { prisma } from "./db";
 import { getTopicsWithStatus, getUserExamProgress } from "./progress";
+import { EXAM_SET_ID } from "./exam";
 
 const REGISTRATION_SHEET = "Đăng ký";
 const SUMMARY_SHEET = "Tổng hợp";
@@ -96,7 +97,7 @@ export async function syncFullSummary() {
       const allLessons = topics.flatMap((t) => t.lessons);
       const passedLessons = allLessons.filter((l) => l.passed).length;
       const readyLessons = allLessons.filter((l) => l.status === "READY");
-      const exam = await getUserExamProgress(u.id, "demo");
+      const exam = await getUserExamProgress(u.id, EXAM_SET_ID);
       const fullyComplete =
         readyLessons.length > 0 &&
         readyLessons.every((l) => l.passed) &&

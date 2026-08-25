@@ -1,0 +1,410 @@
+{
+  "topicId": 10,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Sử dụng thiết bị số an toàn và hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Biện pháp ưu tiên để bảo vệ dữ liệu trên thiết bị công vụ là gì?",
+          "options": {
+            "A": "Tắt máy mỗi giờ một lần.",
+            "B": "Đặt PIN/mật khẩu mạnh và bật tự động khóa màn hình.",
+            "C": "Tăng độ sáng màn hình lên tối đa.",
+            "D": "Dán nhãn tên lên thiết bị."
+          },
+          "explanation": "Mật khẩu/PIN mạnh kết hợp tự động khóa màn hình là lớp bảo vệ cơ bản, ngăn người khác truy cập tài liệu khi Anh/Chị rời chỗ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi bắt buộc phải dùng Wi-Fi công cộng, lựa chọn an toàn hơn là gì?",
+          "options": {
+            "A": "Truy cập và tải toàn bộ hồ sơ công việc cho xong.",
+            "B": "Chỉ duyệt thông tin không nhạy cảm, tránh mở hoặc tải tài liệu công vụ.",
+            "C": "Tắt khóa màn hình cho tiện thao tác.",
+            "D": "Kết nối vào điểm phát (hotspot) của người lạ."
+          },
+          "explanation": "Mạng công cộng không kiểm soát được mức an toàn; hạn chế truy cập dữ liệu công việc giúp giảm nguy cơ lộ lọt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Ứng dụng nào dưới đây không nên cài đặt vào thiết bị?",
+          "options": {
+            "A": "Ứng dụng từ kho chính thức (CH Play/App Store).",
+            "B": "Ứng dụng từ trang chủ chính thức của nhà cung cấp.",
+            "C": "File cài đặt nhận qua email từ một địa chỉ lạ.",
+            "D": "Ứng dụng đã được cơ quan khuyến nghị sử dụng."
+          },
+          "explanation": "File cài đặt từ nguồn lạ là con đường phổ biến phát tán mã độc; chỉ nên cài từ nguồn chính thức.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị đang xử lý dở một tờ trình trên máy tính công vụ thì được gọi sang phòng họp gấp khoảng 15 phút. Việc nên làm trước khi rời chỗ là gì?",
+          "options": {
+            "A": "Cứ để máy mở như vậy, đi cho nhanh.",
+            "B": "Khóa màn hình (tổ hợp khóa máy) rồi mới rời đi.",
+            "C": "Tắt nóng máy bằng nút nguồn cho “an toàn”.",
+            "D": "Nhờ đồng nghiệp bàn bên trông máy giúp."
+          },
+          "explanation": "Khóa màn hình bảo vệ tài liệu đang mở mà không gây mất dữ liệu như tắt nóng; trách nhiệm bảo mật thuộc về người dùng, không nên giao cho người khác.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp đưa Anh/Chị một chiếc USB chưa rõ nguồn gốc và nói “có tài liệu tham khảo, cắm vào xem thử”. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Cắm ngay vào máy công vụ để mở xem.",
+            "B": "Không cắm vào máy công vụ; nếu cần, kiểm tra bằng phần mềm diệt virus trên thiết bị an toàn trước.",
+            "C": "Cắm vào nhưng tắt mạng cho chắc.",
+            "D": "Chép toàn bộ sang máy rồi mới quét virus."
+          },
+          "explanation": "USB lạ có thể chứa mã độc; nguyên tắc là không cắm thiết bị lạ vào máy công vụ, và chỉ mở sau khi đã kiểm tra an toàn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Phần mềm ứng dụng thiết yếu cho công việc",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Nơi cài đặt ứng dụng đáng tin cậy nhất là ở đâu?",
+          "options": {
+            "A": "Liên kết tải nhận được qua tin nhắn/chat.",
+            "B": "Cửa hàng ứng dụng chính thức hoặc trang chủ nhà cung cấp.",
+            "C": "Diễn đàn chia sẻ phần mềm miễn phí.",
+            "D": "Một ổ USB bất kỳ ai đưa."
+          },
+          "explanation": "Chỉ cài từ kho chính thức hoặc trang chủ nhà cung cấp; các nguồn còn lại tiềm ẩn nguy cơ mã độc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Trước khi vào một cuộc họp trực tuyến, việc nên làm là gì?",
+          "options": {
+            "A": "Cứ để mọi thiết lập mặc định.",
+            "B": "Tắt hết các bản cập nhật.",
+            "C": "Kiểm tra micro/camera và quyền chia sẻ màn hình.",
+            "D": "Xóa bộ nhớ đệm của trình duyệt."
+          },
+          "explanation": "Kiểm tra mic, camera, quyền chia sẻ màn hình (và tên hiển thị) giúp cuộc họp diễn ra trôi chảy, chuyên nghiệp.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi thiết bị sắp đầy dung lượng, nên làm gì trước tiên?",
+          "options": {
+            "A": "Xóa ngẫu nhiên vài ứng dụng cho nhẹ máy.",
+            "B": "Gỡ ứng dụng không dùng và dọn file tạm/tải về.",
+            "C": "Khởi động lại máy nhiều lần.",
+            "D": "Bật tất cả thông báo để theo dõi."
+          },
+          "explanation": "Gỡ ứng dụng không dùng và dọn file tạm/tải về là cách giải phóng dung lượng an toàn, có chọn lọc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần lấy ý kiến của nhiều đồng nghiệp vào một bản dự thảo và muốn biết rõ ai đã sửa nội dung gì. Cách làm phù hợp nhất là gì?",
+          "options": {
+            "A": "Mỗi người sửa trực tiếp rồi gửi lại, tự đối chiếu bằng mắt.",
+            "B": "Bật chế độ Theo dõi thay đổi (Track Changes) khi gửi file để mọi chỉnh sửa được ghi nhận rõ ràng.",
+            "C": "Yêu cầu mọi người chỉ nhận xét bằng lời qua điện thoại.",
+            "D": "Gộp tất cả bản sửa thành một mà không đánh dấu."
+          },
+          "explanation": "Track Changes hiển thị rõ ai sửa chỗ nào, giúp quá trình góp ý minh bạch, tránh bỏ sót ý kiến; khi phát hành thì xuất bản sạch sang PDF.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần gửi gấp một văn bản nội bộ chưa công khai cho nhóm công tác. Cách an toàn nhất là gì?",
+          "options": {
+            "A": "Gửi qua một nhóm chat trên ứng dụng nhắn tin công cộng cho nhanh.",
+            "B": "Gửi qua nền tảng/hệ thống do cơ quan quản lý, không đưa lên ứng dụng nhắn tin bên ngoài.",
+            "C": "Đăng tạm lên một thư mục đám mây công cộng rồi gửi link.",
+            "D": "Chụp màn hình từng trang gửi qua tin nhắn cá nhân."
+          },
+          "explanation": "Tài liệu nội bộ chỉ nên truyền trên nền tảng do cơ quan quản lý; không đưa thông tin nội bộ lên kênh công cộng để tránh lộ lọt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Tìm kiếm và sàng lọc thông tin hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi danh sách kết quả hiện ra, việc nên làm trước tiên để sàng lọc nhanh là gì?",
+          "options": {
+            "A": "Mở tất cả các kết quả ở trang đầu rồi đọc lần lượt.",
+            "B": "Quét nhanh tiêu đề, mô tả và tên miền; ưu tiên nguồn chính thống, bỏ qua trang giật tít/quảng cáo.",
+            "C": "Chọn ngay kết quả đầu tiên cho nhanh.",
+            "D": "Chia sẻ kết quả cho đồng nghiệp đọc giúp."
+          },
+          "explanation": "Quét tiêu đề - mô tả - tên miền và ưu tiên nguồn chính thống giúp loại bỏ thông tin nhiễu chỉ trong vài giây.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi tra một văn bản quy phạm pháp luật để dùng trong công việc, điều đặc biệt cần kiểm tra là gì?",
+          "options": {
+            "A": "Trang có giao diện đẹp hay không.",
+            "B": "Tình trạng hiệu lực của văn bản (còn hiệu lực, đã sửa đổi hay đã bị thay thế).",
+            "C": "Số lượt xem của bài đăng.",
+            "D": "Có nhiều bình luận đồng tình hay không."
+          },
+          "explanation": "Văn bản có thể đã được sửa đổi hoặc thay thế; phải kiểm tra tình trạng hiệu lực trước khi trích dẫn vào hồ sơ, báo cáo.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Để trích dẫn một số liệu thống kê chính xác vào báo cáo, nên làm gì?",
+          "options": {
+            "A": "Lấy con số từ một bài viết trên mạng xã hội cho nhanh.",
+            "B": "Lấy từ cổng/niên giám thống kê chính thức và ghi rõ kỳ/năm của số liệu (ưu tiên tải file gốc).",
+            "C": "Dùng số liệu nhớ áng chừng từ năm ngoái.",
+            "D": "Trích con số xuất hiện nhiều nhất trên các trang tìm thấy."
+          },
+          "explanation": "Số liệu phải lấy từ nguồn thống kê chính thức và ghi rõ kỳ/năm; tải file gốc giúp trích xuất chính xác.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị cần tìm một đoạn nội dung trong bản đề án dài hàng trăm trang để phục vụ cuộc họp chiều nay. Cách nhanh và an toàn nhất là gì?",
+          "options": {
+            "A": "Đọc tuần tự từ trang đầu cho đến khi gặp đoạn cần.",
+            "B": "Mở mục lục, dùng chức năng tìm trong tệp (Ctrl+F) theo từ khóa; nếu nhờ AI tóm tắt thì đối chiếu lại bản gốc và không tải tài liệu nội bộ lên công cụ công cộng.",
+            "C": "Nhờ AI công cộng tóm tắt rồi dùng luôn kết quả mà không kiểm tra.",
+            "D": "Tải cả tài liệu nội bộ lên một công cụ AI miễn phí để hỏi cho nhanh."
+          },
+          "explanation": "Mục lục và Ctrl+F giúp nhảy đúng đoạn cần; AI chỉ hỗ trợ tóm tắt và phải đối chiếu bản gốc, tuyệt đối không đưa tài liệu nội bộ/mật lên công cụ công cộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Trước khi đưa một thông tin tìm được trên mạng vào tờ trình, việc cần làm là gì?",
+          "options": {
+            "A": "Sao chép thẳng vào tờ trình cho kịp thời gian.",
+            "B": "Ghi lại nguồn (trích yếu, đường dẫn, ngày cập nhật) và đối chiếu với nguồn chính thống trước khi sử dụng.",
+            "C": "Chỉ cần ghi “nguồn: Internet” là đủ.",
+            "D": "Dùng thông tin đó vì nó xuất hiện trên nhiều trang."
+          },
+          "explanation": "Ghi rõ nguồn giúp trích dẫn minh bạch và dễ rà soát; việc đối chiếu, kiểm chứng độ tin cậy sẽ được hướng dẫn kỹ ở Bài 4.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Kiểm chứng thông tin trước khi đưa vào hồ sơ, báo cáo",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi gặp một thông tin “gây sốc” mà Anh/Chị định dùng cho báo cáo, việc đầu tiên nên làm là gì?",
+          "options": {
+            "A": "Đưa ngay vào báo cáo cho kịp thời gian.",
+            "B": "Tạm dừng, truy về nguồn gốc và đối chiếu với nguồn chính thống trước khi tin và sử dụng.",
+            "C": "Chia sẻ cho đồng nghiệp để cùng bàn tán.",
+            "D": "Bỏ qua hoàn toàn vì chắc chắn là tin giả."
+          },
+          "explanation": "Thông tin gây sốc cần được tạm dừng, kiểm nguồn và đối chiếu với nguồn chính thống; chưa vội tin cũng chưa vội đưa vào báo cáo.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu không phải là dấu hiệu cần cảnh giác về một thông tin?",
+          "options": {
+            "A": "Nguồn mơ hồ, không rõ ai công bố.",
+            "B": "Tiêu đề giật gân, gây sốc.",
+            "C": "Số liệu đưa ra nhưng không ghi nguồn.",
+            "D": "Thông tin được công bố trên cổng thông tin chính thức của cơ quan nhà nước."
+          },
+          "explanation": "Nguồn mơ hồ, tiêu đề giật gân, số liệu không nguồn là các dấu hiệu đáng ngờ; thông tin từ cổng chính thức của cơ quan nhà nước thì đáng tin hơn.",
+          "correctLabel": "D",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Phát biểu nào đúng về vai trò của AI khi kiểm chứng thông tin?",
+          "options": {
+            "A": "AI luôn đúng nên có thể tin và trích dẫn tuyệt đối.",
+            "B": "AI chỉ hỗ trợ gợi ý; thông tin AI đưa ra có thể sai hoặc bịa nên phải xác minh lại từ nguồn gốc.",
+            "C": "AI thay thế hoàn toàn việc đối chiếu nguồn.",
+            "D": "Không bao giờ nên dùng AI trong công việc."
+          },
+          "explanation": "AI có thể “bịa” số liệu/trích dẫn nghe rất thật; nó chỉ đóng vai trò gợi ý, mọi thông tin đều phải xác minh lại từ nguồn gốc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị định trích một số liệu nhìn thấy trên mạng để đưa vào báo cáo trình cấp trên. Cách làm đúng nhất là gì?",
+          "options": {
+            "A": "Trích luôn con số đó vì nó xuất hiện trên nhiều trang.",
+            "B": "Truy về nguồn thống kê chính thức, kiểm tra kỳ/năm của số liệu và đối chiếu, chỉ đưa vào khi đã chắc chắn.",
+            "C": "Dùng con số mình nhớ áng chừng cho nhanh.",
+            "D": "Hỏi AI một câu rồi dùng ngay kết quả."
+          },
+          "explanation": "Số liệu phải truy về nguồn thống kê chính thức, kiểm tra kỳ/năm và đối chiếu; chỉ đưa vào báo cáo khi đã chắc chắn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh/Chị nhận được một văn bản dạng tệp qua tin nhắn, đã được chuyển tiếp qua nhiều người, và định dùng để xử lý hồ sơ. Nên làm gì?",
+          "options": {
+            "A": "Dùng luôn vì tệp trông giống văn bản thật.",
+            "B": "Lấy bản gốc từ cổng của cơ quan ban hành (hoặc xác minh với đơn vị phát hành) và kiểm tra tình trạng hiệu lực trước khi dùng.",
+            "C": "Chỉnh sửa lại cho đúng ý rồi đưa vào hồ sơ.",
+            "D": "Chuyển tiếp tiếp cho người khác để họ kiểm tra giúp."
+          },
+          "explanation": "Tệp chuyển tiếp nhiều lần có thể đã bị thay đổi; cần lấy bản gốc từ cổng cơ quan ban hành hoặc xác minh với đơn vị phát hành, đồng thời kiểm tra hiệu lực trước khi dùng cho hồ sơ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Quản lý dữ liệu số khoa học và hiệu quả",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Tên tệp nào được đặt phù hợp nhất để dễ tra cứu và sắp xếp?",
+          "options": {
+            "A": "Document1.docx",
+            "B": "Bản cuối cùng.docx",
+            "C": "2026-06-12_PhongTCHC_BaoCaoThang_v1.docx",
+            "D": "baocao-final-final2.docx"
+          },
+          "explanation": "Tên nên gồm thời gian (năm-tháng-ngày) - đơn vị/chủ đề - nội dung - phiên bản, dùng gạch dưới; nhờ đó tệp tự sắp theo thời gian và nhìn là hiểu nội dung.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Khi một dự thảo được sửa nhiều lần, cách quản lý phiên bản tốt là gì?",
+          "options": {
+            "A": "Lưu mỗi lần sửa thành một bản “final” mới.",
+            "B": "Giữ một bản chính, đánh số v1, v2... theo thứ tự và ghi rõ đâu là bản mới nhất.",
+            "C": "Ghi đè liên tục, không giữ dấu vết thay đổi.",
+            "D": "Đặt tên ngẫu nhiên cho từng bản để khỏi nhầm."
+          },
+          "explanation": "Giữ một bản chính, đánh số phiên bản rõ ràng và đánh dấu bản mới nhất giúp tránh lẫn lộn nhiều bản “final”.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Cách lưu giữ dữ liệu công việc an toàn hơn là gì?",
+          "options": {
+            "A": "Chỉ để duy nhất trên ổ cứng máy cá nhân.",
+            "B": "Lưu lên kho dữ liệu/ổ mạng của cơ quan theo quy định và không để dữ liệu chỉ nằm trên một thiết bị.",
+            "C": "Để rải rác trên nhiều USB mang theo người.",
+            "D": "Lưu hết lên một đám mây công cộng miễn phí."
+          },
+          "explanation": "Không để “tất cả trứng trong một giỏ”; lưu trên kho/ổ mạng cơ quan theo quy định giúp dữ liệu không mất khi máy gặp sự cố.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị sắp nghỉ phép dài ngày và cần để đồng nghiệp tiếp tục công việc. Cách giúp bàn giao nhanh nhất là gì?",
+          "options": {
+            "A": "Để nguyên các tệp trên máy cá nhân rồi dặn miệng.",
+            "B": "Gom tài liệu vào thư mục theo đầu việc, đặt tên file nhất quán, ghi rõ bản mới nhất và lưu ở nơi dùng chung theo quy định.",
+            "C": "Gửi toàn bộ tệp lẫn lộn qua tin nhắn cá nhân.",
+            "D": "Xóa bớt cho gọn rồi bàn giao phần còn lại."
+          },
+          "explanation": "Thư mục theo đầu việc, tên tệp nhất quán và đánh dấu bản mới nhất, đặt ở nơi dùng chung, giúp người tiếp nhận tìm được ngay - bàn giao nhẹ nhàng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Với một tài liệu nội bộ chưa công khai, nên lưu giữ và chia sẻ thế nào?",
+          "options": {
+            "A": "Lưu trên máy cá nhân và gửi qua ứng dụng nhắn tin cá nhân cho nhanh.",
+            "B": "Lưu đúng nơi cơ quan quy định và chia sẻ qua kênh chính thống; không đưa lên đám mây công cộng.",
+            "C": "Đăng tạm lên một thư mục đám mây công cộng rồi gửi đường link.",
+            "D": "Sao ra nhiều USB đưa cho nhiều người giữ."
+          },
+          "explanation": "Tài liệu nội bộ phải lưu đúng nơi quy định và chia sẻ qua kênh chính thống; không để trên thiết bị cá nhân hay đám mây công cộng để tránh lộ lọt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

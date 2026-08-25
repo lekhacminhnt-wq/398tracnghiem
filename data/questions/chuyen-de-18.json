@@ -1,0 +1,410 @@
+{
+  "topicId": 18,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Hiểu về lập trình trong công việc của cơ quan nhà nước",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Lập trình được hiểu một cách đơn giản nhất là gì?",
+          "options": {
+            "A": "Việc sửa chữa máy tính khi bị hỏng.",
+            "B": "Việc viết ra những chỉ dẫn để máy tính tự động thực hiện một nhiệm vụ.",
+            "C": "Việc sử dụng thành thạo các phần mềm văn phòng.",
+            "D": "Việc kết nối máy tính vào mạng Internet."
+          },
+          "explanation": "Lập trình là viết các chỉ dẫn để máy tính thực hiện nhiệm vụ thay con người, nhất là các việc lặp lại.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là những lợi ích thiết thực của lập trình trong công việc công sở?",
+          "options": {
+            "A": "Làm cho công việc thủ công trở nên phức tạp hơn.",
+            "B": "Tự động hóa thao tác lặp lại, phân tích dữ liệu nhanh, và tạo ra các công cụ hỗ trợ công việc.",
+            "C": "Thay thế hoàn toàn vai trò của con người.",
+            "D": "Chỉ phục vụ cho mục đích giải trí."
+          },
+          "explanation": "Lập trình giúp tự động hóa việc lặp lại, phân tích dữ liệu nhanh và tạo công cụ hỗ trợ - đều rất thiết thực cho công vụ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao có thể nói “lập trình ngày nay không còn là đặc quyền riêng của dân kỹ thuật”?",
+          "options": {
+            "A": "Vì lập trình đã bị cấm đối với người không chuyên.",
+            "B": "Vì với sự hỗ trợ của AI, người dùng có thể mô tả điều mình muốn bằng ngôn ngữ thông thường để tạo ra chương trình, không cần học thuộc câu lệnh phức tạp.",
+            "C": "Vì máy tính ngày nay tự lập trình hoàn toàn, không cần con người.",
+            "D": "Vì không ai cần đến lập trình nữa."
+          },
+          "explanation": "Sự phát triển của AI cho phép người không chuyên mô tả yêu cầu bằng ngôn ngữ tự nhiên để tạo chương trình, giúp lập trình đến gần mọi người hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị A hằng tháng phải tổng hợp số liệu từ rất nhiều bảng tính, cộng và sao chép thủ công, mất nhiều giờ và hay nhầm. Theo tinh thần bài học, hướng giải quyết phù hợp là:",
+          "options": {
+            "A": "Chấp nhận làm tay mãi vì đây là việc bắt buộc.",
+            "B": "Nghĩ đến việc tự động hóa công việc lặp lại này bằng một công cụ, để tiết kiệm thời gian và giảm sai sót.",
+            "C": "Chỉ giải quyết được nếu mua máy tính mới.",
+            "D": "Giao hết cho người khác làm."
+          },
+          "explanation": "Những việc lặp lại, mất thời gian như vậy chính là nơi lập trình và tự động hóa phát huy hiệu quả.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh B nghe đến “lập trình” thì e ngại vì nghĩ rằng phải giỏi công nghệ mới học được. Suy nghĩ phù hợp hơn là:",
+          "options": {
+            "A": "Đúng, lập trình chỉ dành cho kỹ sư công nghệ thông tin.",
+            "B": "Lập trình ở mức cơ bản ngày nay rất dễ tiếp cận; nhất là khi có sự hỗ trợ của AI, người không chuyên cũng có thể bắt đầu từ những việc đơn giản.",
+            "C": "Đúng, nếu không giỏi công nghệ thì không nên thử.",
+            "D": "Chỉ người trẻ tuổi mới học được lập trình."
+          },
+          "explanation": "Lập trình cơ bản nay rất dễ tiếp cận, đặc biệt với sự hỗ trợ của AI; ai cũng có thể bắt đầu từ những việc đơn giản, thiết thực.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Tư duy lập trình - Cách hướng dẫn máy tính giải quyết công việc",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Tư duy lập trình” (tư duy máy tính) được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Là khả năng viết được nhiều dòng mã phức tạp.",
+            "B": "Là cách tiếp cận và giải quyết vấn đề một cách có hệ thống, theo từng bước rõ ràng mà cả người và máy đều hiểu được.",
+            "C": "Là khả năng sửa chữa máy tính.",
+            "D": "Là việc ghi nhớ thật nhiều câu lệnh."
+          },
+          "explanation": "Tư duy lập trình là kỹ năng giải quyết vấn đề có hệ thống, không đồng nghĩa với việc biết viết mã; hữu ích cho mọi người, mọi công việc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là ví dụ của cách nghĩ “chia nhỏ công việc”?",
+          "options": {
+            "A": "Làm tất cả mọi việc cùng một lúc cho nhanh.",
+            "B": "Chia việc tổ chức hội nghị thành các phần: lập danh sách khách mời, chuẩn bị tài liệu, bố trí hội trường, gửi giấy mời.",
+            "C": "Bỏ qua không làm việc khó.",
+            "D": "Giao toàn bộ công việc cho người khác."
+          },
+          "explanation": "Chia nhỏ là tách một nhiệm vụ lớn thành các phần nhỏ dễ xử lý, làm xong từng phần rồi ghép lại.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Tư duy điều kiện “nếu... thì...” trong công việc có nghĩa là gì?",
+          "options": {
+            "A": "Luôn làm một việc giống hệt nhau bất kể tình huống.",
+            "B": "Đưa ra hành động khác nhau tùy theo từng trường hợp (ví dụ: nếu hồ sơ đủ thì tiếp nhận; nếu chưa đủ thì hướng dẫn bổ sung).",
+            "C": "Không bao giờ ra quyết định.",
+            "D": "Chỉ làm việc khi có người nhắc."
+          },
+          "explanation": "Tư duy điều kiện là chọn hành động phù hợp theo từng tình huống; đây là logic cốt lõi mà máy tính dùng để phân loại, xử lý công việc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A muốn nhờ công cụ AI tạo giúp một công cụ phân loại hồ sơ tự động. Tư duy lập trình giúp anh điều gì khi làm việc này?",
+          "options": {
+            "A": "Không giúp gì, vì đã có AI lo hết.",
+            "B": "Giúp anh mô tả yêu cầu rõ ràng theo các bước và điều kiện cụ thể, nhờ đó AI tạo ra kết quả sát ý hơn.",
+            "C": "Giúp anh không cần suy nghĩ gì cả.",
+            "D": "Buộc anh phải tự viết mã thay cho AI."
+          },
+          "explanation": "Tư duy lập trình giúp “ra đề” cho AI rõ ràng, mạch lạc theo bước và điều kiện, nhờ đó nhận lại kết quả chính xác, sát mong muốn hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B thấy mỗi tháng đều phải lập một báo cáo theo cùng một mẫu cố định. Theo tư duy lập trình, chị nên nhận ra điều gì?",
+          "options": {
+            "A": "Đây là việc ngẫu nhiên, không có gì đáng chú ý.",
+            "B": "Đây là một công việc lặp lại theo quy luật - loại việc rất thích hợp để tự động hóa, giúp tiết kiệm thời gian.",
+            "C": "Phải làm thủ công mãi mãi, không thể thay đổi.",
+            "D": "Nên bỏ qua không làm báo cáo nữa."
+          },
+          "explanation": "Nhận ra quy luật (việc lặp lại theo mẫu) giúp ta xác định những việc nên giao cho máy làm tự động, nâng cao hiệu suất.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Trí tuệ nhân tạo và xu hướng lập trình cùng AI",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "“Vibe Coding” (lập trình thuận theo ý tưởng) được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Một ngôn ngữ lập trình mới rất khó học.",
+            "B": "Cách lập trình trong đó người dùng mô tả điều mình muốn bằng ngôn ngữ thông thường, và công cụ AI tạo ra chương trình tương ứng.",
+            "C": "Một loại máy tính chuyên dụng cho lập trình.",
+            "D": "Việc tự gõ thật nhanh các dòng mã."
+          },
+          "explanation": "Vibe Coding là mô tả yêu cầu bằng ngôn ngữ tự nhiên để AI sinh ra mã, thay vì con người tự viết từng dòng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao xu hướng lập trình cùng AI được xem là một thay đổi lớn?",
+          "options": {
+            "A": "Vì nó làm cho lập trình trở nên khó hơn.",
+            "B": "Vì nó hạ thấp rào cản, giúp cả người không chuyên cũng có thể tạo ra ứng dụng đơn giản bằng cách mô tả nhu cầu.",
+            "C": "Vì nó chỉ dành riêng cho các chuyên gia công nghệ.",
+            "D": "Vì nó khiến máy tính ngừng cần đến con người."
+          },
+          "explanation": "Xu hướng này hạ rào cản gia nhập của lập trình xuống mức thấp chưa từng có, đưa khả năng tạo phần mềm đến gần mọi người.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Theo bài học, khi dùng AI để tạo ra sản phẩm, điều quan trọng cần lưu ý là gì?",
+          "options": {
+            "A": "Tin tưởng tuyệt đối, dùng ngay mọi sản phẩm AI tạo ra.",
+            "B": "Sản phẩm do AI tạo ra, nhất là với việc quan trọng, vẫn phải được kiểm tra, rà soát kỹ vì có thể có lỗi hoặc rủi ro bảo mật.",
+            "C": "Không bao giờ nên dùng AI để lập trình.",
+            "D": "Chỉ dùng AI khi đã là chuyên gia."
+          },
+          "explanation": "AI tạo mã nhanh nhưng không phải lúc nào cũng chính xác, an toàn; cần kiểm tra kỹ, đặc biệt với phần mềm quan trọng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A, một cán bộ không có chuyên môn công nghệ, muốn tạo một công cụ nhỏ hỗ trợ công việc. Theo tinh thần bài học, anh nên nghĩ thế nào?",
+          "options": {
+            "A": "Đành chịu, vì không học lập trình thì không thể làm được.",
+            "B": "Hoàn toàn có thể thử, vì ngày nay có thể mô tả nhu cầu bằng lời để công cụ AI hỗ trợ tạo ra ứng dụng đơn giản.",
+            "C": "Phải đi học một khóa lập trình nhiều năm rồi mới làm.",
+            "D": "Chỉ chuyên gia mới được phép tạo công cụ."
+          },
+          "explanation": "Xu hướng lập trình cùng AI cho phép người không chuyên mô tả nhu cầu bằng ngôn ngữ thường để tạo ra công cụ đơn giản hỗ trợ công việc.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B dùng một công cụ AI tạo giúp một ứng dụng tính toán sẽ dùng cho công việc chính thức. Cách làm phù hợp nhất là:",
+          "options": {
+            "A": "Đưa vào sử dụng ngay mà không cần thử lại, vì AI hiếm khi sai.",
+            "B": "Kiểm tra, chạy thử kỹ lưỡng để chắc chắn kết quả chính xác trước khi đưa vào sử dụng chính thức.",
+            "C": "Tin tưởng hoàn toàn và bỏ qua việc rà soát.",
+            "D": "Công bố rộng rãi ngay để mọi người cùng dùng."
+          },
+          "explanation": "Sản phẩm AI tạo ra cần được kiểm tra, chạy thử kỹ trước khi dùng cho công việc thật, để bảo đảm chính xác và an toàn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "Tự tạo công cụ số hỗ trợ công việc với sự trợ giúp của AI",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Khi nhờ một công cụ AI tạo giúp công cụ số, yếu tố nào quyết định kết quả có đúng ý hay không?",
+          "options": {
+            "A": "Phải dùng thật nhiều thuật ngữ kỹ thuật khó.",
+            "B": "Mô tả yêu cầu càng rõ ràng, cụ thể (công cụ để làm gì, nhập vào gì, cho ra kết quả gì) thì sản phẩm càng đúng ý.",
+            "C": "Phải là người giỏi lập trình mới làm được.",
+            "D": "Chỉ cần nói càng ngắn gọn càng tốt."
+          },
+          "explanation": "Chất lượng sản phẩm phụ thuộc vào việc mô tả rõ ràng, cụ thể điều mình muốn; mô tả càng chi tiết, kết quả càng sát mong muốn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nếu công cụ AI tạo ra chưa thật đúng ý, người dùng nên làm gì?",
+          "options": {
+            "A": "Bỏ cuộc ngay vì không thể sửa được.",
+            "B": "Nói rõ điều mình muốn thay đổi để AI điều chỉnh, trò chuyện qua lại cho đến khi vừa ý.",
+            "C": "Chấp nhận dùng sản phẩm sai.",
+            "D": "Phải tự học lập trình để sửa bằng tay."
+          },
+          "explanation": "Có thể trò chuyện, mô tả thêm điều muốn thay đổi để AI điều chỉnh dần sản phẩm cho đến khi đạt yêu cầu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là những ví dụ về công cụ số đơn giản mà cán bộ, công chức có thể tự tạo?",
+          "options": {
+            "A": "Một hệ thống quản lý dữ liệu cấp quốc gia.",
+            "B": "Bảng theo dõi công việc, biểu mẫu thu thập thông tin, công cụ tính toán nhỏ, danh sách kiểm tra theo quy trình.",
+            "C": "Một mạng xã hội cho hàng triệu người dùng.",
+            "D": "Một phần mềm điều khiển hệ thống lớn của ngành."
+          },
+          "explanation": "Các công cụ cá nhân nhỏ gọn, rõ ràng, lặp lại là nơi phù hợp nhất để tự tạo với sự trợ giúp của AI.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh A muốn bắt đầu tự tạo một công cụ hỗ trợ công việc nhưng chưa biết khởi đầu thế nào. Lời khuyên phù hợp với bài học là:",
+          "options": {
+            "A": "Hãy làm ngay một phần mềm thật lớn cho cả cơ quan.",
+            "B": "Hãy chọn một việc nhỏ, lặp lại, mất thời gian nhất; viết rõ điều mình muốn rồi đưa cho AI, dùng thử và chỉnh sửa dần.",
+            "C": "Chờ học xong một khóa lập trình dài hạn rồi mới bắt đầu.",
+            "D": "Không nên thử vì chắc chắn sẽ thất bại."
+          },
+          "explanation": "Nên bắt đầu từ một việc nhỏ, mô tả rõ ràng, rồi thử nghiệm và điều chỉnh dần - cách tiếp cận nhẹ nhàng giúp tự tin hơn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Chị B vừa nhờ AI tạo một công cụ tính thời hạn xử lý hồ sơ. Trước khi dùng cho công việc thật, chị nên làm gì?",
+          "options": {
+            "A": "Dùng ngay lập tức vì AI hiếm khi sai.",
+            "B": "Thử công cụ với vài trường hợp đã biết trước kết quả để đối chiếu, chắc chắn nó tính đúng rồi mới sử dụng.",
+            "C": "Công bố cho cả cơ quan dùng ngay mà không kiểm tra.",
+            "D": "Tin tưởng tuyệt đối và bỏ qua việc thử lại."
+          },
+          "explanation": "Cần kiểm tra, chạy thử công cụ với các trường hợp đã biết kết quả để bảo đảm chính xác trước khi đưa vào sử dụng thật.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Lập trình an toàn, trách nhiệm và lộ trình phát triển kỹ năng số",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là ba nguyên tắc an toàn cốt lõi khi tự tạo và dùng công cụ với sự trợ giúp của AI?",
+          "options": {
+            "A": "Làm thật nhanh, dùng ngay, và không cần kiểm tra.",
+            "B": "Luôn kiểm tra kỹ sản phẩm; không đưa dữ liệu mật/cá nhân lên công cụ công cộng; con người chịu trách nhiệm cuối cùng.",
+            "C": "Tin tưởng tuyệt đối vào AI trong mọi trường hợp.",
+            "D": "Chỉ cần làm cho xong, không quan tâm dữ liệu."
+          },
+          "explanation": "Ba nguyên tắc: kiểm tra kỹ trước khi dùng; bảo vệ dữ liệu (không đưa thông tin mật/cá nhân lên công cụ công cộng); con người quyết định và chịu trách nhiệm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Theo Luật Trí tuệ nhân tạo, nguyên tắc cốt lõi trong hoạt động AI là gì?",
+          "options": {
+            "A": "AI có toàn quyền quyết định thay con người.",
+            "B": "Lấy con người làm trung tâm; AI phục vụ con người, không thay thế thẩm quyền và trách nhiệm của con người.",
+            "C": "AI được tự do hoạt động không cần giám sát.",
+            "D": "Con người không chịu trách nhiệm về kết quả của AI."
+          },
+          "explanation": "Luật Trí tuệ nhân tạo (số 134/2025/QH15) xác lập nguyên tắc lấy con người làm trung tâm; AI phục vụ, không thay thế thẩm quyền và trách nhiệm của con người.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Khi nào thì việc tự tạo công cụ nên chuyển sang phối hợp với bộ phận công nghệ thông tin hoặc chuyên gia?",
+          "options": {
+            "A": "Khi chỉ làm một công cụ nhỏ cho cá nhân.",
+            "B": "Khi cần xây dựng hệ thống dùng chung cho cả cơ quan, lưu trữ dữ liệu quan trọng, hoặc kết nối với phần mềm nghiệp vụ chính thức.",
+            "C": "Không bao giờ cần phối hợp với ai.",
+            "D": "Chỉ khi máy tính bị hỏng."
+          },
+          "explanation": "Công cụ cá nhân nhỏ thì tự làm; hệ thống lớn, dùng chung, dữ liệu quan trọng cần phối hợp với người có chuyên môn để bảo đảm an toàn, tin cậy.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Chị A cần dùng AI hỗ trợ xử lý một danh sách có chứa thông tin cá nhân của công dân. Cách làm đúng nguyên tắc an toàn là:",
+          "options": {
+            "A": "Nhập toàn bộ thông tin thật của công dân lên công cụ AI công cộng cho nhanh.",
+            "B": "Không đưa thông tin cá nhân thật lên công cụ công cộng; dùng dữ liệu giả định để thử, và tuân thủ quy định bảo vệ dữ liệu cá nhân.",
+            "C": "Gửi kèm cả số căn cước để AI xử lý chính xác hơn.",
+            "D": "Công khai dữ liệu đó để mọi người cùng xử lý."
+          },
+          "explanation": "Tuyệt đối không đưa thông tin cá nhân, dữ liệu nhạy cảm thật lên công cụ công cộng; dùng dữ liệu giả định và tuân thủ Luật Bảo vệ dữ liệu cá nhân.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Anh B muốn tiếp tục nâng cao kỹ năng số sau chuyên đề này. Hướng đi phù hợp nhất là:",
+          "options": {
+            "A": "Dừng lại, vì đã học xong là đủ.",
+            "B": "Thực hành thường xuyên với việc nhỏ, vừa làm vừa học thêm qua các nguồn chính thống, và giữ thói quen cập nhật công nghệ mới.",
+            "C": "Chỉ học một lần rồi không cần cập nhật nữa.",
+            "D": "Chờ người khác làm hộ mọi việc."
+          },
+          "explanation": "Lộ trình phát triển bền vững: thực hành với việc nhỏ, vừa làm vừa học qua nguồn tin cậy, và thường xuyên cập nhật vì công nghệ thay đổi nhanh.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

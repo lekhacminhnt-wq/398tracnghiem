@@ -99,7 +99,12 @@ export default async function LessonPage({
 
       <form action={submitWithId} className="space-y-6">
         {questions.map((q, idx) => (
-          <fieldset key={q.id} className="rounded-xl border border-brand-border bg-brand-surface p-4 shadow-sm">
+          <fieldset
+            key={q.id}
+            className={`rounded-xl border border-brand-border p-4 shadow-sm ${
+              idx % 2 === 0 ? "bg-brand-stripe-light" : "bg-brand-stripe-dark"
+            }`}
+          >
             <legend className="mb-2 px-1 text-sm font-semibold text-brand-text">
               Câu {idx + 1}.{" "}
               <span className="font-normal text-brand-text-muted">

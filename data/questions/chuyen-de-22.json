@@ -1,0 +1,406 @@
+{
+  "topicId": 22,
+  "lessons": [
+    {
+      "lessonOrder": 1,
+      "lessonTitle": "Chuyển đổi số xanh: Xu hướng tất yếu trong phát triển bền vững",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Thuật ngữ “chuyển đổi số xanh” được hiểu đúng nhất là gì?",
+          "options": {
+            "A": "Ứng dụng công nghệ số trong mọi hoạt động quản lý, không liên quan đến yếu tố môi trường.",
+            "B": "Áp dụng công nghệ số để thúc đẩy phát triển bền vững, đồng thời tiết kiệm năng lượng và giảm thiểu tác động tiêu cực tới môi trường.",
+            "C": "Chuyển sang dùng năng lượng tái tạo trong các dự án công nghệ thông tin, hoàn toàn tách rời với chuyển đổi số."
+          },
+          "explanation": "Chuyển đổi số xanh là sự kết hợp hai vế: dùng công nghệ số (“số”) theo cách tiết kiệm, có trách nhiệm với môi trường (“xanh”), hướng tới phát triển bền vững.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao “số hóa” đơn thuần chưa chắc đã thân thiện với môi trường?",
+          "options": {
+            "A": "Vì tài liệu điện tử khó đọc hơn tài liệu giấy.",
+            "B": "Vì chuyển sang máy tính luôn tốn nhiều giấy hơn trước.",
+            "C": "Vì email, dữ liệu trên đám mây, họp trực tuyến đều cần điện năng để vận hành các trung tâm dữ liệu; nếu không kiểm soát sẽ phát sinh tiêu thụ điện, rác thải điện tử và “rác dữ liệu”.",
+            "D": "Vì công nghệ số không thể áp dụng trong cơ quan nhà nước."
+          },
+          "explanation": "Hoạt động số nào cũng tiêu thụ điện và có thể phát sinh rác điện tử, rác dữ liệu; do đó “số hóa” cần đi kèm “xanh hóa”.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Đâu là một trong ba hướng hành động giúp cơ quan thực hiện chuyển đổi số xanh?",
+          "options": {
+            "A": "Mua thêm thật nhiều máy in để xử lý hồ sơ nhanh hơn.",
+            "B": "Lưu giữ toàn bộ email và tệp tin cũ, không xóa bất cứ thứ gì.",
+            "C": "Thiết kế xanh ngay từ đầu: ưu tiên văn phòng không giấy, dùng chữ ký số và khai thác kho dữ liệu dùng chung.",
+            "D": "Luôn bật video trong mọi cuộc họp trực tuyến để tăng tính trang trọng."
+          },
+          "explanation": "Đưa tiêu chí xanh vào ngay khâu thiết kế (không giấy, ký số, kho dữ liệu chung) là hướng hành động nền tảng, tránh tình trạng làm xong mới sửa.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Cơ quan của Anh/Chị chuẩn bị xây dựng kế hoạch ứng dụng một phần mềm quản lý công việc mới. Theo tinh thần chuyển đổi số xanh, nên làm gì ngay từ đầu?",
+          "options": {
+            "A": "Triển khai phần mềm trước, khi nào phát sinh lãng phí thì tính sau.",
+            "B": "Đưa tiêu chí xanh vào ngay từ khâu lập kế hoạch: hướng tới xử lý không giấy, ký số, dùng kho dữ liệu chung và đặt mục tiêu giảm in ấn.",
+            "C": "Yêu cầu mỗi phòng tự in thêm tài liệu dự phòng cho an tâm.",
+            "D": "Chọn giải pháp tiêu tốn nhiều tài nguyên nhất vì cho rằng “đắt thì tốt”."
+          },
+          "explanation": "Đặt tiêu chí xanh từ khâu thiết kế giúp tiết kiệm chi phí, hạn chế trùng lặp và tránh phải khắc phục về sau.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Để công việc vừa hiệu quả vừa “xanh”, Anh/Chị nhờ một trợ lý AI công cộng tóm tắt nhanh nội dung một tập tài liệu phục vụ cuộc họp. Cách xử lý đúng đắn nhất là gì?",
+          "options": {
+            "A": "Dán toàn bộ tài liệu, kể cả phần nội bộ, lên công cụ AI để có bản tóm tắt đầy đủ nhất.",
+            "B": "Gửi cả hồ sơ có thông tin cá nhân của công dân lên AI cho nhanh.",
+            "C": "Chỉ đưa phần thông tin không nhạy cảm, tuyệt đối không nhập tài liệu mật, dữ liệu nội bộ hay thông tin cá nhân công dân lên công cụ AI công cộng; kết quả AI chỉ là gợi ý, cần kiểm chứng lại trước khi dùng.",
+            "D": "Tin tưởng hoàn toàn bản tóm tắt của AI và đưa thẳng vào báo cáo."
+          },
+          "explanation": "Tận dụng AI để tiết kiệm thời gian là tốt, nhưng phải đặt an toàn - bảo mật lên hàng đầu: không đưa thông tin mật/nội bộ/cá nhân lên nền tảng công cộng, và luôn kiểm chứng kết quả.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 2,
+      "lessonTitle": "Mặt trái của công nghệ số: Tác động tiêu cực tới môi trường",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Đâu không phải là thách thức môi trường do công nghệ số gây ra?",
+          "options": {
+            "A": "Hạ tầng công nghệ thông tin tiêu thụ lượng lớn điện năng và thải ra nhiều khí nhà kính.",
+            "B": "Thiết bị điện tử lỗi thời tích tụ thành rác thải độc hại cho môi trường.",
+            "C": "Các thuật toán AI tự động giảm phát thải khí nhà kính của ngành công nghệ về 0."
+          },
+          "explanation": "Công nghệ số gây ra hai tác động lớn là tiêu thụ điện năng/phát thải và rác thải điện tử; AI không tự động đưa phát thải về 0 - trái lại, huấn luyện mô hình AI còn để lại dấu chân carbon lớn.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao nói tác động môi trường của công nghệ số trải dài “suốt vòng đời thiết bị”?",
+          "options": {
+            "A": "Vì thiết bị chỉ gây tác động đúng vào lúc bị vứt bỏ.",
+            "B": "Vì từ khai thác khoáng sản, sản xuất, vận chuyển, sử dụng cho đến khi thải bỏ - mỗi công đoạn đều tiêu tốn tài nguyên và để lại dấu vết môi trường.",
+            "C": "Vì thiết bị càng dùng lâu thì càng gây ô nhiễm nặng hơn lúc mới mua.",
+            "D": "Vì chỉ khâu sản xuất mới ảnh hưởng tới môi trường, các khâu khác thì không."
+          },
+          "explanation": "Tác động xuất hiện ở mọi khâu của vòng đời thiết bị, nên thay máy quá nhanh là lãng phí toàn bộ tài nguyên đã bỏ ra để tạo nên nó.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Nhận định nào ĐÚNG về thực trạng rác thải điện tử toàn cầu hiện nay?",
+          "options": {
+            "A": "Lượng rác điện tử đang giảm dần và gần như được tái chế hoàn toàn.",
+            "B": "Rác điện tử ổn định nhiều năm qua, không còn là vấn đề đáng lo.",
+            "C": "Rác điện tử là dòng chất thải tăng nhanh, trong khi tỷ lệ được thu gom, tái chế đúng cách còn rất thấp.",
+            "D": "Toàn bộ rác điện tử đều được xử lý an toàn nên không gây ô nhiễm."
+          },
+          "explanation": "Rác điện tử là dòng chất thải tăng nhanh nhất thế giới, tỷ lệ thu gom - tái chế đúng cách còn rất thấp, tạo nguy cơ ô nhiễm lớn - vì vậy cần ưu tiên dùng thiết bị bền, sửa chữa và tái chế đúng cách.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Phòng của Anh/Chị có một số máy tính tuy cũ nhưng vẫn chạy ổn. Có ý kiến đề xuất thay mới toàn bộ cho “đồng bộ và hiện đại”. Theo tinh thần giảm tác động môi trường, cách ứng xử hợp lý nhất là gì?",
+          "options": {
+            "A": "Thay mới toàn bộ ngay, máy cũ bỏ ra bãi rác chung cho gọn.",
+            "B": "Cân nhắc nhu cầu thực tế: máy nào còn dùng tốt thì bảo dưỡng, nâng cấp để dùng tiếp; chỉ thay khi thật sự cần, và máy thải bỏ phải chuyển tới điểm thu gom rác điện tử phù hợp.",
+            "C": "Thay mới một nửa, một nửa để trong kho không dùng đến.",
+            "D": "Giữ nguyên tất cả mãi mãi dù máy đã hỏng và không sửa được."
+          },
+          "explanation": "Kéo dài tuổi thọ thiết bị còn tốt giúp giảm rác điện tử và tiết kiệm tài nguyên; khi buộc phải thải bỏ thì xử lý đúng cách thay vì vứt lẫn rác sinh hoạt.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Một đồng nghiệp định mang vài chiếc điện thoại và pin hỏng bỏ chung vào thùng rác sinh hoạt của cơ quan. Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Coi như bình thường, vì đó chỉ là vài thiết bị nhỏ.",
+            "B": "Khuyên đồng nghiệp đốt bỏ cho nhanh gọn.",
+            "C": "Nhắc đồng nghiệp rằng pin và thiết bị điện tử chứa chất độc hại, không được bỏ lẫn rác sinh hoạt, mà nên gom lại và chuyển tới điểm thu gom, tái chế rác điện tử.",
+            "D": "Mang về nhà cất đi để đó, không cần xử lý gì thêm."
+          },
+          "explanation": "Pin và linh kiện điện tử chứa kim loại nặng độc hại; thu gom và chuyển tới nơi tái chế đúng cách là cách bảo vệ môi trường và sức khỏe cộng đồng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 3,
+      "lessonTitle": "Thực hành “sống số xanh”: Biện pháp giảm thiểu tác động",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Hành vi nào dưới đây không phù hợp với lối “sống số xanh” khi sử dụng công nghệ?",
+          "options": {
+            "A": "Tắt màn hình và các thiết bị điện tử khi rời khỏi văn phòng.",
+            "B": "Để độ sáng màn hình ở mức tối đa mọi lúc cho dễ nhìn, không quan tâm việc hao tốn năng lượng.",
+            "C": "Thu gom pin, máy tính hỏng để bàn giao cho đơn vị tái chế chuyên trách."
+          },
+          "explanation": "“Sống số xanh” hướng tới tiết kiệm năng lượng; để màn hình sáng tối đa mọi lúc gây hao điện không cần thiết, đi ngược tinh thần này.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Nguyên tắc 3R trong quản lý vòng đời thiết bị số gồm những thành phần nào?",
+          "options": {
+            "A": "Mua mới - Dùng nhanh - Vứt bỏ.",
+            "B": "Reduce (Giảm thiểu) - Reuse (Tái sử dụng) - Recycle (Tái chế).",
+            "C": "Sửa chữa - Sao chép - Lưu trữ.",
+            "D": "Tải về - Chia sẻ - Xóa bỏ."
+          },
+          "explanation": "3R là Giảm thiểu (chỉ mua khi cần, kéo dài tuổi thọ) - Tái sử dụng (điều chuyển, trao tặng máy còn tốt) - Tái chế (chuyển thiết bị hỏng tới nơi tái chế đúng cách).",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao việc dọn dẹp “dữ liệu rác” (email cũ, file trùng lặp) lại góp phần bảo vệ môi trường?",
+          "options": {
+            "A": "Vì xóa dữ liệu giúp máy tính chạy nhanh hơn, không liên quan đến môi trường.",
+            "B": "Vì dữ liệu rác làm hỏng thiết bị nên phải xóa thường xuyên.",
+            "C": "Vì dữ liệu được lưu trên các máy chủ chạy điện liên tục; giảm dữ liệu vô ích giúp hệ thống lưu trữ tốn ít năng lượng hơn, qua đó giảm phát thải.",
+            "D": "Vì dữ liệu rác chứa chất độc hại như pin và linh kiện điện tử."
+          },
+          "explanation": "Mỗi tệp tin lưu trữ đều nằm trên máy chủ tiêu thụ điện; dọn rác dữ liệu là cách tiết kiệm điện gián tiếp nhưng hiệu quả.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Cuối giờ làm việc, Anh/Chị chuẩn bị ra về. Theo tinh thần “sống số xanh”, việc nên làm là gì?",
+          "options": {
+            "A": "Để nguyên máy tính, màn hình, máy in ở chế độ chờ cho tiện sáng mai bật nhanh.",
+            "B": "Dành một phút kiểm tra nhanh màn hình - máy tính - máy in - đèn - điều hòa, thiết bị nào không dùng thì tắt hẳn.",
+            "C": "Chỉ tắt đèn, còn các thiết bị điện tử cứ để bật suốt đêm.",
+            "D": "Tăng độ sáng màn hình tối đa rồi mới rời đi."
+          },
+          "explanation": "Một phút kiểm tra và tắt hẳn thiết bị không dùng vào cuối ngày giúp tiết kiệm điện rõ rệt; nếu cả cơ quan cùng làm, hiệu quả cộng lại rất lớn.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Cơ quan triển khai hệ thống văn bản điện tử và chữ ký số, nhưng một đồng nghiệp vẫn quen in mọi tài liệu ra giấy để đọc và trình ký. Anh/Chị nên góp ý thế nào cho phù hợp?",
+          "options": {
+            "A": "Không cần góp ý, ai quen làm sao thì cứ làm vậy.",
+            "B": "Khuyên đồng nghiệp in nhiều bản hơn nữa cho chắc chắn.",
+            "C": "Gợi ý đồng nghiệp ưu tiên đọc và xử lý tài liệu trên hệ thống điện tử, dùng chữ ký số khi có thể, chỉ in khi thật sự cần - vừa tiết kiệm giấy, vừa nhanh và thuận tiện hơn.",
+            "D": "Đề nghị bỏ hẳn hệ thống điện tử vì đã quen dùng giấy."
+          },
+          "explanation": "Ưu tiên tài liệu điện tử và chữ ký số, chỉ in khi cần, là cách làm việc vừa “xanh” vừa hiệu quả; góp ý nhẹ nhàng giúp lan tỏa thói quen tốt mà không gây căng thẳng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 4,
+      "lessonTitle": "IoT và dữ liệu lớn trong quản lý môi trường",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Lợi ích nào dưới đây không phải do IoT mang lại trong quan trắc môi trường?",
+          "options": {
+            "A": "Giám sát liên tục 24/7 các chỉ số môi trường với dữ liệu cập nhật theo thời gian thực.",
+            "B": "Tự động ghi nhận và hỗ trợ cảnh báo sớm khi có dấu hiệu ô nhiễm bất thường.",
+            "C": "Loại bỏ hoàn toàn nhu cầu con người trong việc kiểm tra hiện trường và ra quyết định quản lý."
+          },
+          "explanation": "IoT giúp thu thập dữ liệu liên tục và phát hiện sớm bất thường, nhưng không thay thế con người - cán bộ vẫn phải kiểm tra thực địa và ra quyết định cuối cùng.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Trong quản lý môi trường, vai trò chính của dữ liệu lớn (Big Data) là gì?",
+          "options": {
+            "A": "Trực tiếp đo các chỉ số môi trường ngoài hiện trường thay cho cảm biến.",
+            "B": "Tổng hợp dữ liệu từ nhiều nguồn vào một kho chung rồi phân tích để phát hiện xu hướng, dự báo và hỗ trợ ra quyết định.",
+            "C": "Thay thế hoàn toàn vai trò của cán bộ quản lý môi trường.",
+            "D": "Lưu trữ dữ liệu nhưng không thể phân tích hay dự báo gì."
+          },
+          "explanation": "Nếu IoT là “giác quan” thu thập dữ liệu, thì Big Data là “bộ não” tổng hợp và phân tích, giúp chuyển từ bị động sang chủ động cảnh báo, dự báo.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao việc bảo đảm dữ liệu quan trắc môi trường “đúng và đáng tin” lại quan trọng?",
+          "options": {
+            "A": "Vì dữ liệu sai cũng không ảnh hưởng gì đến quyết định quản lý.",
+            "B": "Vì quyết định và chính sách dựa trên dữ liệu; nếu số liệu bị can thiệp, chỉnh sửa thì quyết định sẽ sai lệch, nên cần các giải pháp bảo đảm minh bạch dữ liệu.",
+            "C": "Vì chỉ cần dữ liệu nhiều là đủ, không cần quan tâm có chính xác hay không.",
+            "D": "Vì dữ liệu môi trường không bao giờ bị can thiệp."
+          },
+          "explanation": "Dữ liệu là căn cứ ra quyết định; muốn quyết định đúng thì dữ liệu phải minh bạch, không bị bóp méo - đó là lý do cần các công nghệ bảo đảm tính toàn vẹn của dữ liệu.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Đơn vị của Anh/Chị nhận được dữ liệu quan trắc môi trường từ hệ thống cảm biến tự động, cho thấy một chỉ số bất thường. Cách xử lý phù hợp nhất là gì?",
+          "options": {
+            "A": "Bỏ qua, vì cứ chờ đợt kiểm tra thủ công định kỳ rồi tính.",
+            "B": "Ghi nhận cảnh báo, đối chiếu, kiểm chứng và cử người kiểm tra thực địa để xác minh, rồi mới đề xuất hướng xử lý.",
+            "C": "Công bố ngay kết luận vi phạm dựa hoàn toàn vào con số cảm biến, không cần xác minh.",
+            "D": "Xóa cảnh báo cho đỡ phiền vì có thể là báo nhầm."
+          },
+          "explanation": "Dữ liệu cảm biến giúp phát hiện sớm, nhưng con người phải kiểm chứng và xác minh thực địa trước khi kết luận; công nghệ hỗ trợ chứ không thay thế trách nhiệm của cán bộ.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Cơ quan dự định công khai một phần dữ liệu môi trường để người dân cùng theo dõi. Theo tinh thần vừa minh bạch vừa an toàn, Anh/Chị nên lưu ý điều gì?",
+          "options": {
+            "A": "Đưa toàn bộ dữ liệu, kể cả dữ liệu nội bộ chưa được phép công bố, lên mạng cho đầy đủ.",
+            "B": "Không công khai gì cả vì sợ rắc rối.",
+            "C": "Công khai dữ liệu theo đúng quy định cho phép, bảo đảm số liệu chính xác, đồng thời không đưa dữ liệu nội bộ chưa được phép công bố ra bên ngoài.",
+            "D": "Tự ý chỉnh sửa số liệu cho “đẹp” trước khi công khai."
+          },
+          "explanation": "Công khai dữ liệu môi trường giúp tăng minh bạch và huy động cộng đồng giám sát, nhưng phải đúng quy định, trung thực và bảo vệ dữ liệu nội bộ chưa được phép công bố.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    },
+    {
+      "lessonOrder": 5,
+      "lessonTitle": "Trí tuệ nhân tạo và dữ liệu mở trong bảo vệ môi trường",
+      "questions": [
+        {
+          "order": 1,
+          "type": "KNOWLEDGE",
+          "text": "Trí tuệ nhân tạo (AI) có thể hỗ trợ công tác bảo vệ môi trường ở việc nào sau đây?",
+          "options": {
+            "A": "Thay con người chịu hoàn toàn trách nhiệm pháp lý về các quyết định môi trường.",
+            "B": "Tóm tắt báo cáo, phát hiện bất thường trong số liệu, phân tích hình ảnh giám sát và dự báo kịch bản môi trường.",
+            "C": "Tự ý ban hành quyết định xử phạt vi phạm môi trường mà không cần con người.",
+            "D": "Bảo đảm dữ liệu luôn đúng kể cả khi cảm biến đầu vào bị hỏng."
+          },
+          "explanation": "AI mạnh ở xử lý nhanh khối lượng lớn thông tin: tóm tắt, phát hiện bất thường, phân tích hình ảnh, dự báo; còn trách nhiệm và quyết định vẫn thuộc về con người.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 2,
+          "type": "KNOWLEDGE",
+          "text": "Vì sao khi ứng dụng AI trong quản lý môi trường vẫn cần con người giữ vai trò quyết định?",
+          "options": {
+            "A": "Vì AI quá chậm nên con người phải làm thay tất cả.",
+            "B": "Vì AI chỉ làm theo dữ liệu và lập trình sẵn, có thể sai số hoặc thiên lệch; con người cần kiểm chứng, có trực giác, đạo đức và chịu trách nhiệm pháp lý.",
+            "C": "Vì AI không bao giờ đưa ra được kết quả hữu ích nào.",
+            "D": "Vì pháp luật cấm hoàn toàn việc dùng AI trong lĩnh vực môi trường."
+          },
+          "explanation": "AI có thể mắc lỗi khi dữ liệu đầu vào sai và thiếu trách nhiệm pháp lý; do đó con người phải kiểm chứng, ra quyết định cuối cùng và chịu trách nhiệm.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 3,
+          "type": "KNOWLEDGE",
+          "text": "Việc công khai dữ liệu môi trường (dữ liệu mở) và khuyến khích người dân tham gia giám sát đem lại lợi ích gì?",
+          "options": {
+            "A": "Nâng cao minh bạch, huy động giám sát rộng rãi, giúp phát hiện và xử lý vi phạm môi trường kịp thời hơn.",
+            "B": "Khiến người dân lo lắng thái quá và gây thêm khó khăn cho cơ quan quản lý.",
+            "C": "Chỉ có tác dụng tạo hình ảnh truyền thông, không ảnh hưởng đến hiệu quả bảo vệ môi trường.",
+            "D": "Làm lộ toàn bộ bí mật nhà nước nên cần tránh tuyệt đối."
+          },
+          "explanation": "Dữ liệu mở giúp cộng đồng cùng giám sát, tăng minh bạch và phát hiện vi phạm sớm; tất nhiên việc công khai phải đúng quy định và bảo vệ dữ liệu nội bộ chưa được phép công bố.",
+          "correctLabel": "A",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 4,
+          "type": "SITUATION",
+          "text": "Anh/Chị dùng một công cụ AI để tóm tắt nhanh một báo cáo môi trường dài phục vụ cuộc họp. Cách làm đúng đắn nhất là gì?",
+          "options": {
+            "A": "Tin tưởng hoàn toàn bản tóm tắt của AI và đưa thẳng vào báo cáo trình lãnh đạo.",
+            "B": "Coi bản tóm tắt của AI là gợi ý ban đầu, đối chiếu lại với tài liệu gốc và kiểm chứng các số liệu, nội dung quan trọng trước khi sử dụng.",
+            "C": "Dán toàn bộ báo cáo, kể cả phần nội bộ chưa công bố, lên công cụ AI công cộng cho nhanh.",
+            "D": "Bỏ qua việc đọc tài liệu gốc vì đã có AI làm thay."
+          },
+          "explanation": "AI giúp tiết kiệm thời gian nhưng có thể sai sót; phải kiểm chứng lại từ tài liệu gốc, và không đưa nội dung nội bộ chưa công bố lên công cụ AI công cộng.",
+          "correctLabel": "B",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        },
+        {
+          "order": 5,
+          "type": "SITUATION",
+          "text": "Hệ thống AI cảnh báo một khu vực có chỉ số ô nhiễm bất thường, nhưng dữ liệu có thể đến từ cảm biến lỗi. Trước khi báo cáo kết luận, Anh/Chị nên làm gì?",
+          "options": {
+            "A": "Công bố ngay kết luận vi phạm dựa hoàn toàn vào cảnh báo của AI.",
+            "B": "Bỏ qua cảnh báo vì cho rằng AI hay báo nhầm.",
+            "C": "Kiểm tra lại tình trạng cảm biến, đối chiếu với nguồn dữ liệu khác và cử người xác minh thực địa trước khi đưa ra kết luận.",
+            "D": "Tự chỉnh sửa số liệu cho khớp với dự đoán của mình."
+          },
+          "explanation": "AI có thể kết luận sai khi đầu vào lỗi; kiểm chứng đa nguồn và xác minh thực địa là chốt chặn quan trọng để tránh quyết định sai lầm.",
+          "correctLabel": "C",
+          "isTrueFalse": false,
+          "source": "bold-verified"
+        }
+      ]
+    }
+  ]
+}

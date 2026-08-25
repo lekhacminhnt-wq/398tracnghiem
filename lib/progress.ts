@@ -1,4 +1,5 @@
 import { prisma } from "./db";
+import { EXAM_SET_ID } from "./exam";
 
 export async function getUserLessonProgress(userId: string) {
   const attempts = await prisma.lessonAttempt.findMany({ where: { userId } });
@@ -93,7 +94,7 @@ export async function computeProgramCompletion(userId: string) {
     .filter((l) => l.status === "READY")
     .every((l) => l.passed);
   const allLessonsExist = allLessons.every((l) => l.status === "READY");
-  const exam = await getUserExamProgress(userId, "demo");
+  const exam = await getUserExamProgress(userId, EXAM_SET_ID);
   const examPassed = exam?.passed ?? false;
 
   return {
