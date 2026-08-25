@@ -1,7 +1,7 @@
 import { redirect } from "next/navigation";
 import { prisma } from "@/lib/db";
 import { getSession } from "@/lib/session";
-import { getUserExamProgress } from "@/lib/progress";
+import { getUserExamProgress, getTopicsWithStatus, isExamUnlocked } from "@/lib/progress";
 import { shuffle } from "@/lib/scoring";
 import { EXAM_SET_ID, EXAM_DURATION_MINUTES, examDeadline } from "@/lib/exam";
 
@@ -10,6 +10,9 @@ async function startExam() {
 
   const session = await getSession();
   if (!session) redirect("/dang-ky?next=/de-sat-hach");
+
+  const topics = await getTopicsWithStatus(session.id);
+  if (!isExamUnlocked(topics)) redirect("/de-sat-hach");
 
   const questions = await prisma.question.findMany({
     where: { examSetId: EXAM_SET_ID },
@@ -39,7 +42,13 @@ export default async function DeSatHachPage() {
   const result = session ? await getUserExamProgress(session.id, EXAM_SET_ID) : null;
 
   let inProgress: { id: string } | null = null;
+  let unlocked = false;
+  let finalTopic: Awaited<ReturnType<typeof getTopicsWithStatus>>[number] | undefined;
   if (session) {
+    const topics = await getTopicsWithStatus(session.id);
+    unlocked = isExamUnlocked(topics);
+    finalTopic = topics[topics.length - 1];
+
     const now = new Date();
     const candidate = await prisma.examAttempt.findFirst({
       where: { userId: session.id, examSetId: EXAM_SET_ID, submittedAt: null },
@@ -82,7 +91,7 @@ export default async function DeSatHachPage() {
         >
           Tiếp tục bài đang làm dở →
         </a>
-      ) : (
+      ) : unlocked ? (
         <form action={startExam}>
           <button
             type="submit"
@@ -91,6 +100,20 @@ export default async function DeSatHachPage() {
             Bắt đầu làm bài
           </button>
         </form>
+      ) : (
+        <div className="rounded-xl border border-dashed border-brand-border bg-brand-bg p-4 text-sm text-brand-text-muted">
+          🔒 Chưa mở — hoàn thành toàn bộ Chuyên đề {finalTopic?.id ?? 26} để mở đề sát hạch
+          {finalTopic ? ` (hiện đã đạt ${finalTopic.passedCount}/${finalTopic.lessonCount} bài)` : ""}.
+          {!session && (
+            <>
+              {" "}
+              <a href="/dang-ky?next=/de-sat-hach" className="font-semibold text-brand-primary">
+                Đăng ký / đăng nhập
+              </a>{" "}
+              để xem tiến trình của bạn.
+            </>
+          )}
+        </div>
       )}
     </div>
   );

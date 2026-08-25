@@ -3,8 +3,8 @@
 /* ---- Theme tokens: 2 bảng màu, chuyển đổi bằng [data-theme] trên <html> ---- */
 :root,
 [data-theme="do-vang"] {
-  --brand-primary: #c8102e;
-  --brand-primary-dark: #94081f;
+  --brand-primary: #da251d;
+  --brand-primary-dark: #a21c16;
   --brand-primary-soft: #fdecef;
   --brand-secondary: #ffcd00;
   --brand-secondary-dark: #caa100;

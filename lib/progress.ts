@@ -74,6 +74,16 @@ export async function getTopicsWithStatus(userId?: string) {
   return result;
 }
 
+// Đề sát hạch chỉ mở khi chuyên đề cuối cùng (hiện là Chuyên đề 26) đã hoàn thành toàn bộ bài học.
+export function isExamUnlocked(topics: Awaited<ReturnType<typeof getTopicsWithStatus>>) {
+  const finalTopic = topics[topics.length - 1];
+  return Boolean(
+    finalTopic &&
+      finalTopic.lessons.length > 0 &&
+      finalTopic.lessons.every((l) => l.status === "READY" && l.passed)
+  );
+}
+
 export async function computeProgramCompletion(userId: string) {
   const topics = await getTopicsWithStatus(userId);
   const allLessons = topics.flatMap((t) => t.lessons);

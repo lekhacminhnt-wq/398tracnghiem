@@ -47,19 +47,10 @@ export default async function RootLayout({ children }: LayoutProps<"/">) {
               </span>
             </Link>
             <nav className="flex flex-wrap items-center gap-1 text-sm">
-              <Link href="/chuyen-de" className="rounded-md px-3 py-1.5 hover:bg-brand-primary-soft">
-                Chuyên đề
-              </Link>
-              <Link href="/de-sat-hach" className="rounded-md px-3 py-1.5 hover:bg-brand-primary-soft">
-                Đề sát hạch
-              </Link>
-              <Link href="/tien-do" className="rounded-md px-3 py-1.5 hover:bg-brand-primary-soft">
-                Tiến độ
-              </Link>
               {session ? (
                 <>
                   <Link href="/tien-do" className="rounded-md px-3 py-1.5 hover:bg-brand-primary-soft">
-                    {session.fullName}
+                    {session.fullName || session.email}
                   </Link>
                   <a
                     href="/dang-xuat"

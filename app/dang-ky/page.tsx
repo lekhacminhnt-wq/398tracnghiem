@@ -13,18 +13,25 @@ async function register(formData: FormData) {
     .toLowerCase();
   const agency = String(formData.get("agency") || "").trim();
   const phone = String(formData.get("phone") || "").trim();
-  const next = String(formData.get("next") || "/chuyen-de");
+  const next = String(formData.get("next") || "/");
 
-  if (!fullName || !email || !agency || !phone) {
+  if (!email) {
     redirect(`/dang-ky?error=missing&next=${encodeURIComponent(next)}`);
   }
   if (!/^\S+@\S+\.\S+$/.test(email)) {
     redirect(`/dang-ky?error=email&next=${encodeURIComponent(next)}`);
   }
 
+  // Chỉ ghi đè các trường được điền ở lượt này — tránh xoá mất họ tên/cơ quan/SĐT đã lưu
+  // trước đó khi người dùng quay lại chỉ nhập email để tiếp tục tiến trình.
+  const update: { fullName?: string; agency?: string; phone?: string } = {};
+  if (fullName) update.fullName = fullName;
+  if (agency) update.agency = agency;
+  if (phone) update.phone = phone;
+
   const user = await prisma.user.upsert({
     where: { email },
-    update: { fullName, agency, phone },
+    update,
     create: { fullName, email, agency, phone },
   });
 
@@ -41,7 +48,7 @@ export default async function DangKyPage({
 }) {
   const session = await getSession();
   const { error, next } = await searchParams;
-  const nextPath = next || "/chuyen-de";
+  const nextPath = next || "/";
 
   if (session) {
     redirect(nextPath);
@@ -51,23 +58,23 @@ export default async function DangKyPage({
     <div className="mx-auto max-w-md">
       <h1 className="mb-1 text-2xl font-bold text-brand-primary">Đăng ký / Vào thi</h1>
       <p className="mb-6 text-sm text-brand-text-muted">
-        Nhập thông tin để bắt đầu học và làm bài trắc nghiệm. Nếu bạn đã đăng ký trước đó, chỉ
-        cần nhập lại đúng <strong>email</strong> đã dùng để tiếp tục đúng tiến trình đã lưu — hệ
-        thống không dùng mật khẩu.
+        Chỉ <strong>email</strong> là bắt buộc — dùng làm định danh duy nhất để lưu và tiếp tục
+        đúng tiến trình học của bạn giữa các lượt truy cập, không cần mật khẩu. Các thông tin còn
+        lại không bắt buộc.
       </p>
 
       {error && (
         <div className="mb-4 rounded-md border border-red-300 bg-red-50 px-3 py-2 text-sm text-red-700">
           {error === "email"
             ? "Email chưa đúng định dạng, vui lòng kiểm tra lại."
-            : "Vui lòng điền đầy đủ các trường bên dưới."}
+            : "Vui lòng nhập email để tiếp tục."}
         </div>
       )}
 
       <form action={register} className="space-y-4">
         <input type="hidden" name="next" value={nextPath} />
+        <Field label="Email" name="email" type="email" placeholder="ten@coquan.gov.vn" required />
         <Field label="Họ và tên" name="fullName" placeholder="Nguyễn Văn A" />
-        <Field label="Email" name="email" type="email" placeholder="ten@coquan.gov.vn" />
         <Field label="Cơ quan / đơn vị" name="agency" placeholder="Sở ..., Phòng ..." />
         <Field label="Số điện thoại" name="phone" type="tel" placeholder="09xxxxxxxx" />
 
@@ -87,17 +94,26 @@ function Field({
   name,
   type = "text",
   placeholder,
+  required = false,
 }: {
   label: string;
   name: string;
   type?: string;
   placeholder?: string;
+  required?: boolean;
 }) {
   return (
     <label className="block">
-      <span className="mb-1 block text-sm font-medium text-brand-text">{label}</span>
+      <span className="mb-1 block text-sm font-medium text-brand-text">
+        {label}
+        {required ? (
+          <span className="text-brand-primary"> *</span>
+        ) : (
+          <span className="text-brand-text-muted"> (tuỳ chọn)</span>
+        )}
+      </span>
       <input
-        required
+        required={required}
         name={name}
         type={type}
         placeholder={placeholder}

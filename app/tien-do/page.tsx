@@ -20,7 +20,7 @@ export default async function TienDoPage() {
     <div>
       <h1 className="mb-1 text-2xl font-bold text-brand-primary">Tiến trình học tập</h1>
       <p className="mb-6 text-sm text-brand-text-muted">
-        {session.fullName} · {session.agency} · {session.email}
+        {[session.fullName, session.agency, session.email].filter(Boolean).join(" · ")}
       </p>
 
       {completion.fullyComplete && (

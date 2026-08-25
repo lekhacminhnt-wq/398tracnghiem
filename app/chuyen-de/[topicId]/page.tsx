@@ -18,7 +18,7 @@ export default async function TopicDetailPage({
 
   return (
     <div>
-      <Link href="/chuyen-de" className="mb-4 inline-block text-sm text-brand-primary">
+      <Link href="/" className="mb-4 inline-block text-sm text-brand-primary">
         ← Danh sách chuyên đề
       </Link>
       <h1 className="mb-1 text-2xl font-bold text-brand-primary">
